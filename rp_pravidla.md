@@ -167,11 +167,9 @@
 - Je zakázáno erpit potenciální GPS lokátory, výbuchy a střelbu, pokud ji fyzicky nevykonáte - herní mechanika vám to sice povoluje, ale může to být považováno za zneužívání.
 - Pravidlo CPZ - je povoleno držet hráče v CPZ maximálně 24 hodin reálného času - po tuto dobu by mělo LSPD/LSSD dotyčného hráče vyřešit.
 - Vypálení podniků musí být schváleno skrze ticket, přičemž maximální doba omezení podniku je stanovena na 4 dny reálného času.
-- Na serveru se **Safezóny** nenechází.
 - Deadscreen - Hráč nesmí pasivně erpit místní EMS, dokud nemá povolený příkaz /respawn - jiný hráč z okolí může zraněnému hráči místní EMS zaerpit.
 - Korupce - Pro možnost hraní korupční postavy je třeba mít schválený ticket a-týmem.
-- Maximální počet pro nelegální frakce je **40 členů + 10 v brigádě**.
-- Státní složky, vedení  všech frakcí a členové nelegálních frakcí musí mít whitelist. (Vedení frakce si musí ohlídat aby členové měli whitelist. V případě nedodržení tohoto pravidla může být frakce odebraná)
+- Na serveru je zakázáno používání programů třetích stran a herních modifikací sloužících ke zvýhodnění se nad ostatními hráči (NoProp, NoBush, Cheaty apod.).
 
 
 ## Cayo Perico
@@ -221,14 +219,6 @@
 - Započetí vykrádání je zakázáno 30 minut před i po plánovaném restartu.
 - Maximální požadovaná částka za jednoho rukojmího je $15000.
 - Je zakázáno využívat NPC jako rukojmí.
-
-
-## Gangy
-
-- Gangster je charakteristická postava, která se musí chovat a komunikovat dle svého lore.
-- Je zakázáno využívat hoody pro utíkání před policií a schováváním se.
-- Při využívaní zbraní je třeba myslet na postavení svojí postavy a lore.
-- V hoodech a jejich okolí je N-Word povolen, ale pouze v případě, že mezi hráči proběhla patřičná interakce (pullup, drive by, beef). V případě zneužívání může být hráč potrestán.
 
 
 ## Gross
@@ -366,7 +356,6 @@ Pravidla vztahující se výhradně na členy nelegálních frakcí.
 
 ## Obecná pravidla
 - nelze udělit CK na nelegálních lokacích, pouze pokud si to někdo sám schválí a nebo prostřednictvím ticketu
-- každý člen nelegální frakce musí mít whitelist (nese za to odpovědnost boss každé frakce)
 - mezi nelegálními frakcemi a skupinami platí iGross (automatické schválení Grossu)
 - nelze být ve 2 nelegálních frakcích najednou jak za jednu postavu, tak za 2 různé
 - na frakčním DC musí být minimálně jeden Supervisor Admin nebo Vedení serveru na kterého bude převedeno vlastnictví daného DC
