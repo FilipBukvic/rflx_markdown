@@ -178,7 +178,7 @@
 - Legální část - chrání ho Sand, platí zde pravidlo Passive.
 - Nelegální část - kdokoliv Vám může, jakkoliv ublížit nebo Vás unést. Neplatí zde pravidlo Passive
 
-![Mapa popisující rozdělení legálních a nelegálních zón na Cayo Perico ostrově](https://cdn.discordapp.com/attachments/944279104956559420/944279396028657704/cayo.webp)
+![Mapa popisující rozdělení legálních a nelegálních zón na Cayo Perico ostrově](https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/944279104956559420/944279396028657704/cayo.webp)
 
 ## Letový provoz
 
@@ -188,7 +188,7 @@
 - Mimo dosah radaru lze používat helikoptéru na nízké přelety, každopádně je čistě na hráčích, zda Vás někdo chytí. (Air Unit/SAND)
 - Platí přísný zákaz narušení vzdušného prostoru letadlových lodí, základen a státních budov s heliporty.
 
-![Mapa popisující dosah radarů na serveru](https://cdn.discordapp.com/attachments/944279104956559420/944279396318076928/letec.webp)
+![Mapa popisující dosah radarů na serveru](https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/944279104956559420/944279396318076928/letec.webp)
 
 ## Obecné CK
 
