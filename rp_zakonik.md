@@ -1,279 +1,555 @@
+
 # Law-Book of San Andreas
 
-The only valid San Andreas state code valid from 8/14/2022.
+#### The only valid San Andreas state code valid from 8/14/2022.
 
 ## Department of Justice
 
-Department Of Justice je federální výkonný útvar vlády Spojených států pověřený prosazováním federálního práva a výkonem spravedlnosti ve Spojených státech. Je ekvivalentní ministerstvu spravedlnosti nebo vnitra jiných zemí. Je tedy nejvyšším orgánem soudní moci v rámci federálního soudnictví v USA.
+Department Of Justice je federální výkonný útvar vlády Spojených států pověřený prosazováním federálního práva a výkonem spravedlnosti ve Spojených státech. Je ekvivalentní ministerstvu spravedlnosti nebo vnitra jiných zemí.
+Je tedy nejvyšším orgánem soudní moci v rámci federálního soudnictví v USA .
+V čele úřadu stojí americký generální prokurátor (Attorney General), který je přímo podřízen prezidentovi Spojených států a je členem prezidentského kabinetu. Současným generálním prokurátorem je Leon Baxter, který složil přísahu dne 27.6.2023. Department Of Justice bylo založeno za účelem prosazování práva a obrany zájmů USA a zajištění spravedlivého a nestranného systému spravedlnosti pro všechny Američany. Po reformaci soudní komory v Los Santos ze dne 1.11.2022 převzala Department od Justice veškerou soudní moc na tomto území pod svou správu. V momentální chvíli, působí na území Los Santos obvodní soud Los Santos který je zastoupený předsedou a místopředsedou. Obvodní soud Los Santos je přímo podřízený Department Of Justice.
 
-V čele úřadu stojí americký generální prokurátor (Attorney General), který je přímo podřízen prezidentovi Spojených států a je členem prezidentského kabinetu. Současným generálním prokurátorem je Leon Baxter, který složil přísahu dne 27.6.2023.
+Generální prokurátor ( Attorney General ) - Leon Baxter, J.D., Ph.D.
+Zástupce generálního prokurátora ( Deputy Attorney General ) - Philip Nixon, J.D.
+Pracovník kanceláře generálního prokurátora ( Associate Attorney General ) - 
 
-Department Of Justice bylo založeno za účelem prosazování práva a obrany zájmů USA a zajištění spravedlivého a nestranného systému spravedlnosti pro všechny Američany. Po reformaci soudní komory v Los Santos ze dne 1.11.2022 převzala Department od Justice veškerou soudní moc na tomto území pod svou správu. V momentální chvíli, působí na území Los Santos obvodní soud Los Santos, který je zastoupený předsedou a místopředsedou. Obvodní soud Los Santos je přímo podřízený Department Of Justice.
 
-- Generální prokurátor (Attorney General): Leon Baxter, J.D., Ph.D.
-- Zástupce generálního prokurátora (Deputy Attorney General): Philip Nixon, J.D.
-- Pracovník kanceláře generálního prokurátora (Associate Attorney General): 
+Předseda Obvodního soudu - Liam O’Reilly, J.D.
+Místopředseda Obvodního soudu - 
 
-- Předseda Obvodního soudu: Liam O’Reilly, J.D.
-- Místopředseda Obvodního soudu: 
+
+## Seznam členů
+### DEPARTMENT OF JUSTICE
+#### Office of the Attorney General
+
+Attorney General
+Leon BAXTER, J.D., Ph.D.
+
+tel.: NEVEŘEJNÉ
+s-mail: l.baxter@lsmail.com
+s-mail2: departmentofjustice@doj.gov
+
+Kancelář
+
+Los Santos, Carcer Way, Postal Code 640 ( Department of Justice )
+- Mayor Office, pravé křídlo budovy, 1. patro
+- Office IV., pravé křídlo budovy, 1. patro
+- Judge's Office, levé křídlo budovy, přízemí
+
+Dodatečné informace
+
+
+
+#### Office of the Deputy Attorney General
+
+Deputy Attorney General
+Philip NIXON, J.D.
+
+tel.: NEVEŘEJNÉ
+s-mail: p.nixon@lsmail.com
+s-mail2: departmentofjustice@doj.gov
+
+Kancelář
+
+Los Santos, Carcer Way, Postal Code 640 ( Department of Justice )
+- Mayor Office, pravé křídlo budovy, 1. patro
+- Office IV., pravé křídlo budovy, 1. patro
+
+Dodatečné informace
+
+
+#### Office of the Associate Attorney General
+
+Associate Attorney General
+
 
 ## Vyhlášky
 
-### Vyhláška č. 5.972023
+
+
+### Vyhláška č.5.972023
 
 Dnem 9.7.2023 je jmenován do funkce Soudce na Obvodním soudě San Andreas p. Conrad Sorlie, J.D.
+Conrad Sorlie, J.D.
+nar. 1968-12-06
 
-- **Jméno:** Conrad Sorlie, J.D.
-- **Datum narození:** 1968-12-06
+Dnem 10. 9. 2023 je jmenován do funkce Soudce na Obvodním soudě San Andreas p. Liam O’Reilly, J.D.
+Liam O’Reilly, J.D.
+nar. 1975-04-01
+
+### Vyhláška č.6.1392023
+Dnem 13.9.2023 jsou jmenováni do funkce Admiral of San Andreas Naval Defense a Vice Admiral of San Andreas Naval Defense
+- Oliver Morningstar do funkce O-10 Admiral of San Andreas Naval Defense
+- Maxim Scot do funkce O-9 Vice Admiral of San Andreas Naval Defense
+
+### Vyhláška č.7.1492023
+Dne 14. 9. 2023 John White, nar. 31. 3. 1985 rezignoval z pozice Chief of Police ( Staff-1 ).
+Dnem 14. 9. 2023 je jmenován do funkce Chief of Police ( Staff-1 ),
+Tristan O‘Connor, LL.M., M.P.A.
+nar. 19. 10. 1979
+
+### Vyhláška č.8.21102023
+Dne 21. 10. 2023 je jmenován Liam O’Reilly, J.D. nar. 1. 4. 1975 do pozice Předsedy obvodního soudu.
+Dne 21. 10. 2023 je jmenován Conrad Sorlie, J.D. nar. 6. 12. 1968 do pozice Místopředsedy obvodního soudu.
+
+### Vyhláška č.9.23102023
+
+Dne 23. 10. 2023 vstupuje v platnost vyhláška která definuje patrolovací činnost v městské části M5 ( Downtown ). Tato vyhláška omezuje základní patrolovací činnost v městské části M5 státním ozbrojeným složkám. Do této městské části má povolený vjezd pouze:
+
+     Los Santos Police Department
+
+Gang & Narcotics Division
+
+
+    Los Santos Sheriff Department
+
+Gang & Narcotics Division
+
+
+
+V případě nedostupnosti Gang & Narcotics Division do městské části M5 smí reagovat metropolitní hlídky v označených policejních vozidlech. 
+V případě nedostupnosti metropolitních hlídek smí reagovat do městské části M5 specializované zásahové týmy pouze s povolením vedení LSPD anebo LSSD.
+Výjimka zvláštního reagování platí v případě, že na místě vznikne prioritní dispatch výzva "Officer v ohrožení".
+Reagování do městské části M5 se týká všech výzev od dispatchingu.
 
 ## Vláda
 
 ### Sekce č. 01/2022GOV Vláda
 
-#### Zákon o ustanovení vlády a pravomoci ministrů
+Zákon o ustanovení vlády a pravomoci ministrů
 
-#### Část 1.) Zřízení vlády
+Část 1.)
 
-##### §1 Zastupitelství státu San Andreas
+Zřízení vlády
+#### §1 Zastupitelství státu San Andreas
 
 Stát San Andreas disponuje těmito státními orgány a správami:
 
-- Government State of San Andreas
-- Department of Commerce
-- Department of Labor
-- Department of Justice
-- Department of Finance
+    Government State of San Andreas
 
-##### §2 Government of State of San Andreas (GSoSA)
+    Department of Commerce
 
-- Zastupuje a reprezentuje stát San Andreas;
-- Jmenuje a odvolává do pozice soudců
-- Jmenuje a odvolává do pozice státních ozbrojených složek
-- Má pravomoc udělit milost
-- Má pravomoc prosadit a schválit zákony
-- Řídí výběrová řízení do vládních pozic
-- Má pravomoc udělit státní vyznamenání
-- V případě špatného vedení jednoho z Departmentů, má pravomoc tento Department změnit či zastupovat
-- Guvernéra státu San Andreas lze trestně stíhat jen v případě držení speciálního příkazu od Attorney General.
+    Department of Labor
 
-##### §3 Department of Commerce & Department of Labor (DoC & DoL)
+    Department of Justice
 
-- Má oprávnění k prodeji / aukčnosti státně zabaveného majetku
-- Má oprávnění k zabavení majetku, který se dopustil či spadl do trestního řízení
-- Má oprávnění k zabavení majetku, který prokazuje neaktivitu
-- Má oprávnění k zastupování Government of San Andreas v trestněprávním řízení
+    Department of Finance
 
-##### §4 Department of Justice (DoJ)
+#### §2 Government of State of San Andreas
 
-DOJ plní organizační úkoly v oblasti správního řízení, správního trestání
-DOJ plní koordinační úlohu v oblasti organizace veřejné správy.
-DOJ plní koordinační úlohu v oblasti služebního poměru příslušníků bezpečnostních sborů a státních služeb
+GSoSA
+
+    Zastupuje a reprezentuje stát San Andreas;
+
+    Jmenuje a odvolává do pozice soudců
+
+    Jmenuje a odvolává do pozice státních ozbrojených složek
+
+    Má pravomoc udělit milost
+
+    Má pravomoc prosadit a schválit zákony
+
+    Řídí výběrová řízení do vládních pozic
+
+    Má pravomoc udělit státní vyznamenání
+
+    V případě špatného vedení jednoho z Departmentů, má pravomoc tento Department změnit či zastupovat
+
+Guvernéra státu San Andreas lze trestně stíhat jen v případě držení speciálního příkazu od Attorney General.
+#### §3 Department of Commerce & Department of Labor
+
+DoC & DoL
+
+    Má oprávnění k prodeji / aukčnosti státně zabaveného majetku
+
+    Má oprávnění k zabavení majetku, který se dopustil či spadl do trestního řízení
+
+    Má oprávnění k zabavení majetku, který prokazuje neaktivitu
+
+    Má oprávnění k zastupování Government of San Andreas v trestněprávním řízení
+
+#### §4 Department of Justice
+
+DoJ
+
+    DOJ plní organizační úkoly v oblasti správního řízení, správního trestání
+
+    DOJ plní koordinační úlohu v oblasti organizace veřejné správy.
+
+    DOJ plní koordinační úlohu v oblasti služebního poměru příslušníků bezpečnostních sborů a státních služeb
+
 
 Department of Justice zajišťuje následující:
 
-- Zbraně a střelivo
-- Law Enforcement Agencies
-- Soudy
-- Státní zastupitelství
-- Civilní nouzové plánování
-- Krizové řízení
-- Ochranu obyvatelstva
-- Zřizování právnické komory
+    Zbraně a střelivo
 
-##### §5 Department of Finance (DoF)
+    Law Enforcement Agencies
 
-DOF připravuje a následně přidkláda vládě návrhy zákonných úprav v oblasti měny a peněžního oběhu.
-DOF připravuje návrhy na změny řízení národních bank, organizací a působnosti.
-DOF zajišťuje společně s Department of Commerce & Department of Labor prodej státního majetku, který byl uvolněn na základě schválení od Department of Justice nebo Government State of San Andreas
-DOF zajišťuje účetní záznamy a spotřeby státu San Andreas
+    Soudy
+
+    Státní zastupitelství
+
+    Civilní nouzové plánování
+
+    Krizové řízení
+
+    Ochranu obyvatelstva
+
+    Zřizování právnické komory
+
+#### §5 Department of Finance
+
+DoF
+
+    DOF připravuje a následně přidkláda vládě návrhy zákonných úprav v oblasti měny a peněžního oběhu.
+
+    DOF připravuje návrhy na změny řízení národních bank, organizací a působnosti.
+
+    DOF zajišťuje společně s Department of Commerce & Department of Labor prodej státního majetku, který byl uvolněn na základě schválení od Department of Justice nebo Government State of San Andreas
+
+    DOF zajišťuje účetní záznamy a spotřeby státu San Andreas
+
 
 ## Dodatky
 
+
 ### Sekce č. 18/2023GOV Dodatky
 
-#### Ustanovené dodatky spojených států amerických
+Ustanovené dodatky spojených států amerických
 
-#### Část 1.) Dodatky Ústavy USA
+Část 1.)
 
-##### První dodatek:
+Dodatky Ústavy USA
 
+**První dodatek:**
 První dodatek ústavy Spojených států amerických zaručuje ochranu svobody náboženského vyznání, svobody projevu, svobody tisku, svobody shromažďování a práva na podávání petice proti vládě.
 
-##### Druhý dodatek:
-
+**Druhý dodatek:**
 Druhý dodatek ústavy Spojených států amerických chrání právo jednotlivců držet a nosit zbraně.
 
-##### Třetí dodatek:
-
+**Třetí dodatek:**
 Třetí dodatek zakazuje jakoukoli formu otroctví a nucené práce s výjimkou trestů za zločin, ke kterým je někdo odsouzen.
 
-##### Čtvrtý dodatek:
-
+**Čtvrtý dodatek:**
 Čtvrtý dodatek ústavy Spojených států amerických zakazuje neoprávněné prohlídky a zabavení věcí a stanoví, že pro prohlídky je vyžadován rozkaz na základě pravděpodobné příčiny.
 
-##### Pátý dodatek:
-
+**Pátý dodatek:**
 Pátý dodatek ústavy Spojených států amerických stanovuje pravidla pro obžalobu před velkou porotou, garantuje právo na spravedlivý proces a zakazuje sebeobvinění a dvojí stíhání.
 
-##### Šestý dodatek:
-
+**Šestý dodatek:**
 Šestý dodatek ústavy Spojených států amerických chrání právo na rychlý veřejný proces před porotou, právo být informován o obvinění, právo konfrontovat svědky, právo na předvolání svědků a právo na obhájce.
 
-##### Sedmý dodatek:
-
+**Sedmý dodatek:**
 Sedmý dodatek ústavy Spojených států amerických zaručuje právo na soudní proces v občanských soudních sporech.
 
-##### Osmý dodatek:
-
+**Osmý dodatek:**
 Osmý dodatek ústavy Spojených států amerických zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje používání krutých a neobvyklých trestů.
 
-##### Devátý dodatek:
+**Devátý dodatek:**
+Devátý dodatek ústavy Spojených států amerických stanoví, že existence určitých práv nevyjmenovaných v ústavě neporušuje práva lidí. Platnost ústavy
 
-Devátý dodatek ústavy Spojených států amerických stanoví, že existence určitých práv nevyjmenovaných v ústavě neporušuje práva lidí.
 
-Platnost ústavy Spojených států amerických se vztahuje na celé území státu San Andreas.
+Spojených států amerických se vztahuje na celé území státu San Andreas.
 Všechny právní předpisy platné v tomto státě se řídí ústavou Spojených států amerických.
 
-## Lidská práva
+## Lidské Práva
 
-### Sekce č. 10/2022GOV Lidská práva
 
-#### Část 1.) Zákon zahrnující ustanovení na Cayo Perico
+### Sekce č. 10/2022GOV Lidské práva
 
-#### §1 Rozdělení článků
 
-##### Článek 1
-Všichni lidé se rodí svobodní a sobě rovní, v jejich důstojnosti a právech. Jsou obdařeni rozumem a svědomím a mají navzájem jednat v duchu bratrstva.
+Část 1.)
 
-##### Článek 2
-Každý má všechna práva a všechny svobody, vyhlášené v této deklaraci, bez ohledu na rasu, barvu, pohlaví, jazyk, náboženství, politické nebo jiné smýšlení, národnostní nebo sociální původ, majetek, rod nebo jiné postavení. Žádný rozdíl nebude činěn na základě politického, právního nebo mezinárodního postavení země nebo území, ke kterému osoba patří, zda je to země nebo území nezávislé, poručnické, nesamosprávné nebo podrobené jakémukoliv jinému omezení suverenity.
+Zákon zahrnující ustanovení na Cayo Perico
 
-##### Článek 3
+### §1 Rozdělení článků
+
+Článek 1
+
+Všichni lidé se rodí svobodní a sobě rovní, v jejich důstojnosti a právech. Jsou obdařeni rozumem
+
+a svědomím a mají navzájem jednat v duchu bratrstva.
+
+Článek 2
+
+Každý má všechna práva a všechny svobody, vyhlášené v této deklaraci, bez ohledu na rasu,
+
+barvu, pohlaví, jazyk, náboženství, politické nebo jiné smýšlení, národnostní nebo sociální
+
+původ, majetek, rod nebo jiné postavení.
+
+Žádný rozdíl nebude činěn na základě politického, právního nebo mezinárodního
+
+postavení země nebo území, ke kterému osoba patří, zda je to země nebo území
+
+nezávislé, poručnické, nesamosprávné nebo podrobené jakémukoliv jinému omezení
+
+suverenity.
+
+Článek 3
+
 Každý má právo na život, svobodu a osobní bezpečnost.
 
-##### Článek 4
-Nikdo nesmí být držen v otroctví nebo v nevolnictví, všechny formy otroctví a obchodu s otroky jsou zakázány.
+Článek 4
 
-##### Článek 5
-Nikdo nesmí být mučen nebo podroben krutému, nelidskému nebo ponižujícímu zacházení nebo trestu.
+Nikdo nesmí být držen v otroctví nebo v nevolnictví, všechny formy otroctví a obchodu s
 
-##### Článek 6
+otroky jsou zakázány.
+
+Článek 5
+
+Nikdo nesmí být mučen nebo podroben krutému, nelidskému nebo ponižujícímu
+
+zacházení nebo trestu.
+
+Článek 6
+
 Každý má právo, aby bol všade uznávaný jeho právny status.
 
-##### Článek 7
-Všichni jsou si před zákonem rovni a mají právo na stejnou zákonnou ochranu bez jakékoliv diskriminace. Všichni mají právo na stejnou ochranu proti jakékoli diskriminaci, která porušuje tuto deklaraci, a proti jakémukoli podněcování k takové diskriminaci.
+Článek 7
 
-##### Článek 8
+Všichni jsou si před zákonem rovni a mají právo na stejnou zákonnou ochranu bez jakékoliv
+
+diskriminace. Všichni mají právo na stejnou ochranu proti jakékoli diskriminaci, která
+
+porušuje tuto deklaraci, a proti jakémukoli podněcování k takové diskriminaci.
+
+Článek 8
+
 Každý má právo na účinnou ochranu příslušnými vnitrostátními soudy proti činům porušujícím základní práva, která mu přiznává ústava nebo zákon.
 
-##### Článek 9
+Článek 9
+
 Nikdo nesmí být svévolně zatčen, zadržen nebo vyhoštěn.
 
-##### Článek 10
-Každý má stejné právo, aby byl spravedlivě a veřejně vyslechnut nezávislým a nestranným soudem, který rozhoduje o jeho právech a povinnostech a o jakémkoli trestním obvinění, vzneseném proti němu.
+Článek 10
 
-##### Článek 11
-1. Každý, kdo je obviněn z trestného činu, má právo, aby byl považován za nevinného, dokud není zákonným postupem prokázána jeho vina ve veřejném procesu, při kterém měl všechny záruky nezbytné pro jeho obhajobu.
-2. Nikdo nesmí být shledán vinným ze spáchání jakéhokoli trestného činu spočívajícího v řízení nebo opomenutí, které v době, kdy bylo spácháno, nebylo trestným činem podle vnitrostátního nebo mezinárodního práva. Rovněž nesmí být uložen těžší trest než trest, který mohl být uložen v době, kdy byl trestný čin spáchán.
+Každý má stejné právo, aby byl spravedlivě a veřejně vyslechnut nezávislým a nestranným
 
-##### Článek 12
+soudem, který rozhoduje o jeho právech a povinnostech a o jakémkoli trestním obvinění,
+
+vzneseném proti němu.
+
+Článek 11
+
+(1) Každý, kdo je obviněn z trestného činu, má právo, aby byl považován za nevinného, dokud
+
+není zákonným postupem prokázána jeho vina ve veřejném procesu, při kterém měl všechny
+
+záruky nezbytné pro jeho obhajobu.
+
+(2) Nikdo nesmí být shledán vinným ze spáchání jakéhokoli trestného činu spočívajícího
+
+v řízení nebo opomenutí, které v době, kdy bylo spácháno, nebylo trestným činem podle
+
+vnitrostátního nebo mezinárodního práva. Rovněž nesmí být uložen těžší trest než trest,
+
+který mohl být uložen v době, kdy byl trestný čin spáchán.
+
+Článek 12
+
 Nikdo nesmí být vystaven svévolnému zasahování do soukromého života, rodiny, domova nebo korespondence, ani útokům na svou čest a pověst. Každý má právo na zákonnou ochranu proti takovým zásahům nebo útokům.
 
-##### Článek 13
-1. Každý má právo svobodně se pohybovat a svobodně si zvolit bydliště v každém státě.
-2. Každý má právo opustit kteroukoli zemi, i svou vlastní, a vrátit se do své země.
+Článek 13
 
-##### Článek 14
-1. Každý má právo vyhledat a získat v jiných zemích azyl před pronásledováním.
-2. Toto právo nelze uplatňovat v případě stíhání zahájeného na základě nepolitických trestných činů nebo na základě činů, které jsou v rozporu s cíli a zásadami Organizace spojených národů.
+(1) Každý má právo svobodně se pohybovat a svobodně si zvolit bydliště v každém státě.
 
-##### Článek 15.
-1. Každý má právo na státní příslušnost.
-2. Nikdo nesmí být svévolně zproštěn své státní příslušnosti, ani práva svou státní příslušnost změnit.
+(2) Každý má právo opustit kteroukoli zemi, i svou vlastní, a vrátit se do své země.
 
-##### Článek 16.
-1. Muži a ženy, kteří dosáhli zletilosti, mají právo bez omezení z důvodů rasové, národnostní nebo náboženské příslušnosti, uzavřít manželství a založit rodinu. Mají nárok na stejná práva na uzavření manželství, stejná práva během manželství i při jeho zrušení.
-2. Manželství může být uzavřeno jen se svobodným a řádným souhlasem nastávajících
+Článek 14
+
+(1) Každý má právo vyhledat a získat v jiných zemích azyl před pronásledováním.
+
+(2) Toto právo nelze uplatňovat v případě stíhání zahájeného na základě nepolitických
+
+trestných činů nebo na základě činů, které jsou v rozporu s cíli a zásadami Organizace
+
+Spojených národů.
+
+Článek 15
+
+(1) Každý má právo na státní příslušnost.
+
+(2) Nikdo nesmí být svévolně zproštěn své státní příslušnosti, ani práva svou státní
+
+příslušnost změnit.
+
+Článek 16
+
+(1) Muži a ženy, kteří dosáhli zletilosti, mají právo bez omezení z důvodů rasové,
+
+národnostní nebo náboženské příslušnosti, uzavřít manželství a založit rodinu. Mají nárok
+
+na stejná práva na uzavření manželství, stejná práva během manželství i při jeho zrušení.
+
+(2) Manželství může být uzavřeno jen se svobodným a řádným souhlasem nastávajících
+
 manželů.
-3. Rodina je přirozenou a základní jednotkou společnosti a má nárok na ochranu tak ze strany společnosti, jakož i státu.
 
-##### Článek 17.
-1. Každý má právo vlastnit majetek sám, stejně jako spolu s jinými.
-2. Nikdo nesmí být svévolně zproštěn svého majetku.
+(3) Rodina je přirozenou a základní jednotkou společnosti a má nárok na ochranu tak ze
 
-##### Článek 18.
-Každý má právo na svobodu myšlení, svědomí a náboženství; toto právo zahrnuje i svobodu změnit své náboženství nebo víru, jakož i svobodu projevovat své náboženství soukromě, vyučováním, prováděním náboženských úkonů, bohoslužbou a zachováváním obřadů.
+strany společnosti, jakož i státu.
 
-##### Článek 19.
-Každý má právo na svobodu přesvědčení a projevu, toto právo nepřipouští, aby někdo trpěl újmu pro své přesvědčení a zahrnuje právo vyhledávat, přijímat a rozšiřovat informace a myšlenky všemi prostředky a bez ohledu na hranice.
+Článek 17
 
-##### Článek 20.
-1. Každému je zaručena svoboda pokojného shromažďování a sdružování se.
+(1) Každý má právo vlastnit majetek sám, stejně jako spolu s jinými.
 
-##### Článek 21.
-1. Každý má právo, aby se zúčastnil správy své země, buď přímo nebo prostřednictvím svobodně volených zástupců.
-2. Každý má právo vstoupit za stejných podmínek do veřejných služeb své země.
-3. Základem vládní moci je vůle lidu, tato vůle má být vyjádřena v pravidelných a řádných volbách, na základě všeobecného a rovného hlasovacího práva tajným hlasováním nebo jiným rovnocenným postupem zajišťujícím svobodu hlasování.
+(2) Nikdo nesmí být svévolně zproštěn svého majetku.
 
-##### Článek 22.
-Každý člověk má jako člen společnosti právo na sociální zabezpečení a nárok na to, aby mu byly národním úsilím i mezinárodní součinností a v souladu s organizací a prostředky příslušného státu zaručena hospodářská, sociální a kulturní práva, nezbytná pro jeho důstojnost a svobodný rozvoj jeho osobnosti.
+Článek 18
 
-##### Článek 23.
-1. Každý má právo na práci, na svobodnou volbu zaměstnání, na spravedlivé a uspokojivé pracovní podmínky ak ochraně před nezaměstnaností.
-2. Každý má bez jakékoli diskriminace nárok na stejný plat za stejnou práci.
-3. Každý pracující má právo na spravedlivou a přiměřenou odměnu, která zajišťuje jemu samému a jeho rodině živobytí odpovídající lidské důstojnosti, a doplněna, v případě potřeby, jinými prostředky sociálního zabezpečení.
-4. Každý má právo na ochranu svých zájmů zakládat odborové organizace a přistupovat k nim.
+Každý má právo na svobodu myšlení, svědomí a náboženství; toto právo zahrnuje i svobodu
 
-##### Článek 24.
-Každý má právo na odpočinek a zotavení, na rozumné vymezení pracovních hodin a pravidelné placené dovolené.
+změnit své náboženství nebo víru, jakož i svobodu projevovat své náboženství soukromě,
 
-##### Článek 25.
-1. Každý má právo na takovou životní úroveň, která může zajistit jemu i jeho rodině zdraví a blahobyt, včetně stravy, ošacení, bydlení, lékařské péče, jakož i potřebných sociálních služeb, má právo na zajištění v nezaměstnanosti, v nemoci, při pracovní nezpůsobilosti, při ovdovění, ve stáří nebo v jiných případech ztráty ztráty výdělečných možností, které nastaly za okolností nezávislých na jeho vůli.
+vyučováním, prováděním náboženských úkonů, bohoslužbou a zachováváním obřadů.
 
-##### Článek 26.
-1. Každý má právo na vzdělání. Vzdělání je bezplatné, alespoň v počátečních a základních stupních. Základní vzdělání je povinné. Technické a odborné vzdělání je obecně
+Článek 19
+
+Každý má právo na svobodu přesvědčení a projevu, toto právo nepřipouští, aby někdo trpěl
+
+újmu pro své přesvědčení a zahrnuje právo vyhledávat, přijímat a rozšiřovat informace a
+
+myšlenky všemi prostředky a bez ohledu na hranice.
+
+Článek 20
+
+(1) Každému je zaručena svoboda pokojného shromažďování a sdružování se.
+
+Článek 21
+
+(1) Každý má právo, aby se zúčastnil správy své země, buď přímo nebo
+
+prostřednictvím svobodně volených zástupců.
+
+(2) Každý má právo vstoupit za stejných podmínek do veřejných služeb své země.
+
+(3) Základem vládní moci je vůle lidu, tato vůle má být vyjádřena v pravidelných a řádných
+
+volbách, na základě všeobecného a rovného hlasovacího práva tajným hlasováním nebo jiným
+
+rovnocenným postupem zajišťujícím svobodu hlasování.
+
+Článek 22
+
+Každý člověk má jako člen společnosti právo na sociální zabezpečení a nárok na to, aby mu
+
+byly národním úsilím i mezinárodní součinností a v souladu s organizací a prostředky
+
+příslušného státu zaručena hospodářská, sociální a kulturní práva, nezbytná pro jeho
+
+důstojnost a svobodný rozvoj jeho osobnosti.
+
+Článek 23
+
+(1) Každý má právo na práci, na svobodnou volbu zaměstnání, na spravedlivé a uspokojivé
+
+pracovní podmínky ak ochraně před nezaměstnaností.
+
+(2) Každý má bez jakékoli diskriminace nárok na stejný plat za stejnou práci.
+
+(3) Každý pracující má právo na spravedlivou a přiměřenou odměnu, která zajišťuje jemu
+
+samému a jeho rodině živobytí odpovídající lidské důstojnosti, a doplněna, v případě
+
+potřeby, jinými prostředky sociálního zabezpečení.
+
+(4) Každý má právo na ochranu svých zájmů zakládat odborové organizace a přistupovat
+
+k nim.
+
+Článek 24
+
+Každý má právo na odpočinek a zotavení, na rozumné vymezení pracovních hodin a
+
+pravidelné placené dovolené.
+
+Článek 25
+
+(1) Každý má právo na takovou životní úroveň, která může zajistit jemu i jeho rodině zdraví
+
+a blahobyt, včetně stravy, ošacení, bydlení, lékařské péče, jakož i potřebných
+
+sociálních služeb, má právo na zajištění v nezaměstnanosti, v nemoci, při pracovní
+
+nezpůsobilosti, při ovdovění, ve stáří nebo v jiných případech ztráty výdělečných možností,
+
+které nastaly za okolností nezávislých na jeho vůli.
+
+Článek 26
+
+(1) Každý má právo na vzdělání. Vzdělání je bezplatné, alespoň v počátečních a základních
+
+stupních. Základní vzdělání je povinné. Technické a odborné vzdělání je obecně
+
 přístupné a vyšší vzdělání má být rovněž přístupné každému podle jeho schopností.
-2. Vzdělání má směřovat k plnému rozvoji lidské osobnosti ak posílení úcty k lidským
-právům a základním svobodám. Má napomáhat ke vzájemnému porozumění, snášenlivosti a
-přátelství mezi všemi národy a všemi rasovými i náboženskými skupinami, jakož i
-rozvoji činnosti Organizace spojených národů na zachování míru.
-3. Rodiče mají přednostní právo vybrat druh vzdělání, který bude poskytnut jejich dětem.
 
-##### Článek 27.
-1. Každý má právo svobodně se účastnit kulturního života společnosti, mít potěšení
+(2) Vzdělání má směřovat k plnému rozvoji lidské osobnosti ak posílení úcty k lidským
+
+právům a základním svobodám. Má napomáhat ke vzájemnému porozumění, snášenlivosti a
+
+přátelství mezi všemi národy a všemi rasovými i náboženskými skupinami, jakož i
+
+rozvoji činnosti Organizace spojených národů na zachování míru.
+
+(3) Rodiče mají přednostní právo vybrat druh vzdělání, který bude poskytnut jejich dětem.
+
+Článek 27
+
+(1) Každý má právo svobodně se účastnit kulturního života společnosti, mít potěšení
+
 z umění a účastnit se vědeckého pokroku a jeho výdobytků.
-2. Každý má právo na ochranu morálních a materiálních zájmů, které vyplývají z jeho
+
+(2) Každý má právo na ochranu morálních a materiálních zájmů, které vyplývají z jeho
+
 vědecké, literární nebo umělecké tvorby.
 
-##### Článek 28.
+Článek 28
+
 Každý má právo na to, aby vládl takový sociální a mezinárodní řád, ve kterém by se práva
+
 a svobody vyhlášené v této deklaraci uskutečňovaly v plném rozsahu.
 
-##### Článek 29.
-1. Každý má povinnosti vůči společnosti, pouze v ní může svobodně a plně rozvinout svou
+Článek 29
+
+(1) Každý má povinnosti vůči společnosti, pouze v ní může svobodně a plně rozvinout svou
+
 osobnost.
-2. Ve výkonu svých práv a svobod je každý podroben pouze takovým omezením, která stanoví
+
+(2) Ve výkonu svých práv a svobod je každý podroben pouze takovým omezením, která stanoví
+
 zákon a které slouží výhradně k zajištění náležitého uznávání a zachování práv a
+
 svobod jiných, jakož ik uspokojení spravedlivých požadavků morálky, veřejného pořádku a
+
 obecného blaha v demokratické společnosti.
-3. Výkon těchto práv a svobod nesmí být v žádném případě v rozporu s cíli a zásadami
+
+(3) Výkon těchto práv a svobod nesmí být v žádném případě v rozporu s cíli a zásadami
+
 Organizace spojených národů.
 
-##### Článek 30.
+Článek 30
+
 V této deklaraci se nesmí nic vykládat tak, aby to opravňovalo jakýkoli stát, skupinu nebo
+
 osobu vyvíjet činnost nebo dopouštět se činů, které by směřovaly k potlačení některého z
+
 práv nebo svobod v této deklaraci vyhlášených.
+
+
 
 ## Povinnosti Občana
 
-**Sekce č. 11/2022GOV Povinnosti občana**
-*Obecné povinnosti občana státu San Andreas*
+### Sekce č. 11/2022GOV Povinnosti občana
 
-#### Část 1.)
+Obecné povinnosti občana státu San Andreas
 
-**Všechny povinnosti občanů**
+Část 1.)
 
-##### §1 Povinnosti
+Všechny povinnosti občanů
+
+### §1 Povinnosti
+
 Následující body jsou základní povinnosti osob s občanstvím na území státu San Andreas, které mají platnost ve všech situacích:
 
 a) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
@@ -292,35 +568,39 @@ g) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna 
 
 h) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
 
-Tato ustanovení mají za cíl zabezpečit právní spravedlnost a veřejný pořádek v rámci státu San Andreas. Každý občan nebo osoba s pobytem na území státu San Andreas je povinna se řídit těmito povinnostmi a podřizovat se jim za účelem zachování harmonie a bezpečnosti ve společnosti.
+Tato ustanovení mají za cíl zabezpečit právní spravedlnost a veřejný pořádek v rámci státu San Andreas. Každý občan nebo osoba s pobytem na území státu San Andreas je povinna se řídit těmito povinnostmi a podřizovat se jim za účelem zachování harmonie a bezpečnosti ve společnosti. 
 
 ## Obecné Ustanovení
+### Sekce č. 08/2022GOV Obecné ustanovení zákonů
 
-**Sekce č. 08/2022GOV Obecné ustanovení zákonů**
+Obecné ustanovení zákonů
 
-*Obecné ustanovení zákonů*
+Část 1.)
 
-#### Část 1.)
+Zákon zahrňujúci obecné ustanovenia
 
-**Zákon zahrňující obecná ustanovení**
-
-#### §1 Rioting Laws
+### §1 Rioting Laws
 
 Trestní zákoník §1 P.C. je zákon v San Andreas, který stanoví trestní odpovědnost za výtržnictví a účast na nepokojích nebo demonstracích.
 
+
 Podle §1 P.C. se výtržnictvím rozumí jakékoli použití síly nebo násilí, které narušuje veřejný mír nebo ohrožuje jinou osobu pomocí síly nebo násilí. K výtržnictví dochází tehdy, jsou-li přítomny dvě nebo více osob, které jednají společně a bez oprávnění. Pojem "narušení veřejného míru" zahrnuje jakékoli místo uvěznění, jako jsou státní věznice, okresní věznice, průmyslové farmy, silniční tábory, městské věznice, haly pro mladistvé, tábory pro mladistvé, ranče pro mladistvé nebo lesnické tábory pro mladistvé.
 
-*Příklady:*
 
-- Skupina deseti studentů univerzity přebírá kontrolu nad kanceláří předsedy své vysoké školy. Svazují prezidenta a slibují, že ho neuvolní, - dokud nebudou splněny jejich požadavky.
-  
-- Po incidentu s policií se několik set lidí shromáždí v obchodní čtvrti města, rozbije okna, demoluje veřejný majetek a auta.
+Příklady:
 
-*Pokuty:*
+
+Skupina deseti studentů univerzity přebírá kontrolu nad kanceláří předsedy své vysoké školy. Svazují prezidenta a slibují, že ho neuvolní, - dokud nebudou splněny jejich požadavky.
+
+
+Po incidentu s policií se několik set lidí shromáždí v obchodní čtvrti města, rozbije okna, demoluje veřejný majetek a auta.
+
+
+Pokuty:
+
 
 Účast na nepokojích je přestupkem. Možné pokuty zahrnují až jeden (1) rok odnětí svobody v krajském vězení a/nebo pokutu až do výše jednoho tisíce dolarů ($1,000).
-
-#### §2 Nezaplacení pokut
+### §2 Nezaplacení pokut
 
 Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 3 dnů od rozhodnutí představuje porušení. 
 
@@ -332,7 +612,7 @@ c) Nezaplacení pokuty ve výši 200 001 $ a více se považuje za trestný čin
 
 Body výše zmíněné rovněž podléhají úrokům a dalším krokům dle sekce zákona č. 05/2022GOV, P.C., §65 (1), (2) a)-d), (3) a),1); b),1); c),1); d),1)
 
-#### §3 Terorismus
+### §3 Terorismus
 
 a) Pojem "terorismus" zahrnuje soubor protilidských metod hrubého zastrašování, které se vyznačují hrozbou síly a užitím různých forem násilí.
 
@@ -340,78 +620,111 @@ b) Trestným činem terorismu je úmyslné usmrcení jiné osoby s cílem poško
 
 c) Trestným činem teroristického útoku je úmyslné poškození ústavního zřízení nebo obranyschopnosti státu, narušení nebo zničení základní politické, hospodářské nebo společenské struktury státu nebo mezinárodní organizace, závažným způsobem zastrašení obyvatelstva nebo donucení vlády státu, jiného orgánu veřejné moci nebo mezinárodní organizace k jednání, opomenutí nebo strpění něčeho.
 
+
 Trestním činem terorismu je páchání činu, který se trestá odnětím svobody od 5 let až doživotí na základě závažnosti činu.
 
 Trestním činem teroristického útoku je páchání činu, který bude potrestán odnětím svobody na 15 až 25 let a pokutou ve výši 1 500 $.
 
 Trestním činem teroristického útoku je páchání činu, který bude potrestán odnětím svobody na 5 až 15 let a pokutou ve výši 500 $.
 
-#### §4 Organizovaný zločin
+
+### §4 Organizovaný zločin
 
 Organizovaný zločin zahrnuje specifickou skupinu trestných činů, které byly spáchány členy zločineckých skupin nebo jsou jimi spáchány.
 
+
 Taktéž se sem řadí páchání zločinu, opakované páchání více úmyslných trestných činů po delší či neurčitou dobu. Toto jednání je charakterizováno snahou dosáhnout co největšího nelegálního zisku nebo je spojeno s motivací faktického získání.
+
 
 Z pohledu trestního zákona se jedná o činnost zločinecké skupiny, která působí dlouhodobě, má určitou strukturu, charakterizuje ji dělba úkolů mezi členy a používání násilí nebo jiných prostředků vhodných k zastrašování nebo ovlivňování ekonomiky, politiky, médií, státní a veřejné správy.
 
 Kdo se dopustí dlouhodobé jmenované trestné činnosti v takové organizaci či skupině, bude potrestán odnětím svobody až na doživotí.
 
-#### §5 Red Flag Law
+### §5 Red Flag Law
 
 V rámci Spojených států je Zákon o červené vlajce zákonem o kontrole zbraní, který umožňuje policii požádat soud o dočasné odstranění střelných zbraní od osoby, u které existuje podezření, že může představovat nebezpečí pro ostatní nebo pro sebe. Soudce rozhoduje o vydání příkazu na základě prohlášení a řízení příslušného držitele zbraně. Odmítnutí splnit rozkaz se trestá jako trestný čin. Po uplynutí stanovené doby jsou zbraně vráceny osobě, která byla od nich zbavena, pokud další soudní řízení neprodlouží dobu odebrání.
 
-Příkazy vydávané na základě zákonů o "červené vlajce", které jsou také známy jako zákony o odstraňování zbraní na základě rizika, mají v různých státech různá jména, včetně příkazů na ochranu před extrémními riziky (ERPO) (v Oregonu, Washingtonu, Marylandu, Vermontu a Coloradu); Příkazů na ochranu střelných zbraní před extrémním rizikem (ERFPO) (v Novém Mexiku); Příkazů na ochranu před rizikem (na Floridě); omezujících příkazů o střelných zbraních (GVRO) (v Kalifornii); rizikových záruk (v Connecticutu); a řízení o zajištění a zadržení střelné zbraně (v Indianě). Od roku 2021 je v 19 státech a v okrese Columbia zavedena nějaká forma zákona o červené vlajce. Specifika těchto zákonů a jejich uplatňování se mohou v jednotlivých státech lišit.
 
-#### §6 Advokátní prax bez licence
+Příkazy vydávané na základě zákonů o "červené vlajce", které jsou také známy jako zákony o odstraňování zbraní na základě rizika, mají v různých státech různá jména, včetně příkazů na ochranu před extrémními riziky (ERPO) (v Oregonu, Washingtonu, Marylandu, Vermontu a Coloradu); Příkazů na ochranu střelných zbraní před extrémním rizikem (ERFPO) (v Novém Mexiku); Příkazů na ochranu před rizikem (na Floridě); omezujících příkazů o střelných zbraních (GVRO) (v Kalifornii); rizikových záruk (v Connecticutu); a řízení o zajištění a zadržení střelné zbraně (v Indianě). Od roku 2021 je v 19 státech a v okrese Columbia zavedena nějaká forma zákona o červené vlajce. Specifika těchto zákonů a jejich uplatňování se mohou v jednotlivých státech lišit
+
+### §6 Advokátní prax bez licence
 
 Je zakázáno vykonávat právní činnost v San Andreas osobou, která není aktivním držitelem licence udělené státní advokátní komorou.
 
-Porušení tohoto ustanovení se trestá odnětím svobody po dobu nejvýše 5 let. Alternativně je možné uložit pokutu ve výši maximálně 15 000 $.
+
+Porušení tohoto ustanovení se trestá odnětím svobody po dobu nejvýše 5 let.
+
+Alternativně je možné uložit pokutu ve výši maximálně 15 000 $.
+
 
 (U požadavku na vymazání trestního rejstříku není možné žádat o udělení advokátní licence pokud soud v rozsudku neudá jinak)
 
-#### §7 Výše kauce
+### §7 Výše kauce
 
 a) Kauce se sčítá za každý spáchaný trestný čin.
+
 b) Platba kauce nemá vliv na záznam v trestním rejstříku.
+
 c) Kdokoli může zaplatit kauci.
+
 d) Kauce musí být okamžitě uhrazena.
 
+
 Pro trestní čin platí kauce ve výši 50 000 $.
+
 Pro závažný trestní čin platí kauce ve výši 75 000 $.
 
 
-‎‎**Příklad:**
-- Grand Theft PEN = 50 000 $
-- Trespassing PEN = 50 000 $
-- Robbery PEN = 80 000 $
-- Celková kauce = 180 000 $
+Příklad:
 
-#### §8 Nákup zbraně
+Grand Theft PEN = 50 000 $
+
+Trespassing PEN = 50 000 $
+
+Robbery PEN = 80 000 $
+
+Celková kauce = 180 000 $
+
+### §8 Nákup zbraně
 
 Žadatel o zbrojní průkaz musí splňovat podmínky právní způsobilosti a být starší 21 let. Kromě toho je nezbytná také zdravotní způsobilost.
 
+
 Postup při nákupu zbraně:
+
+
 a) Předložení platného psychologického posudku (psychologických testů).
+
 b) Mít platný zbrojní průkaz.
+
 c) Nákup zbraně v prodejně Ammunition Shop.
+
 d) Po nákupu zbraně se s potvrzením a účtenkou dostavíte na policejní stanici. Za registraci zbraně je stanoven poplatek ve výši 5000 $.
 
-#### §9 Tuning vozidla
+### §9 Tuning vozidla
 
-Tuning silničního vozidla se rozumí jakákoli změna nebo úprava důležitých částí mechanismu nebo konstrukce provozovaného silničního vozidla. Typově schválenou výbavu vozidla schvaluje Policie.
+Tuning silničního vozidla se rozumí jakákoli změna nebo úprava důležitých částí mechanismu nebo konstrukce provozovaného silničního vozidla.
+
+Typově schválenou výbavu vozidla schvaluje Policie.
 
 Jako změna důležitých částí mechanismu nebo konstrukce vozidla se považují:
+
+
 a) Změna karoserie vozidla.
+
 b) Úprava odpružení vozidla.
+
 c) Tónování skel vozidla.
+
 d) Instalace nebo modifikace osvětlení vozidla.
+
 
 Po provedení úprav, montáži nebo změn na vozidle je nutné se s vozidlem dostavit na stanici Los Santos Police Department (LSPD) nebo Los Santos Sheriff Department (LSSD).
 
+
 Za účelem registrace úprav na vozidle je třeba zaplatit poplatek ve výši 1000 $ za každou provedenou úpravu. Registraci provádí příslušný úředník na stanici, který provede zápis úprav do Technického průkazu vozidla a potvrdí jejich legálnost.
 
-#### §10 Přepis vozidla
+### §10 Přepis vozidla
 
 Při prodeji vozidla v souladu se zákonem o bezpečnosti a plynulosti silničního provozu je nutné uzavřít kupní smlouvu.
 
@@ -419,17 +732,20 @@ Oba účastníci, kupující a prodávající, musí sepsat kupní smlouvu a pod
 
 Po podání žádosti o přepis se provede přepis vozidla ze starého majitele na majitele nového.
 
-#### §11 Postup při hlášení krádeže vozidla
+### §11 Postup při hlášení krádeže vozidla
 
 Majitel vozidla, kterému bylo odcizeno, je povinen neprodleně oznámit tuto krádež pomocí SMS zprávy na číslo LSPD/LSSD. V SMS zprávě je třeba uvést základní informace o vozidle, jako je značka, typ, SPZ (státní poznávací značka) a barva vozidla.
 
 Dále je majitel povinen se dostavit na nejbližší stanici LSPD/LSSD, kde bude tato událost zaznamenána do systému státního orgánu.
 
+
 V případě, že majitel získá zpět přístup ke svému vozidlu, je povinen tuto skutečnost neprodleně nahlásit pomocí SMS zprávy na LSPD/LSSD a následně se dostavit na nejbližší stanici LSPD/LSSD.
+
 
 Pokud bude kradené vozidlo zastaveno členy LSPD/LSSD a jeho majitel bude vozidlo řídit, jedná se o "zneužití tísňové linky" podle zákona a může být potrestáno pokutou dle § 34 zákona o zneužití tísňové linky.
 
-#### §12 Zákon o požární ochraně
+
+### §12 Zákon o požární ochraně
 
 a) Los Santos Fire Department (dále jen LSFD) je státní institucí působící na celém území státu San Andreas. Má za úkol provádět záchranné práce při mimořádných událostech a vykonávat státní požární dozor (dále jen SPD).
 
@@ -447,7 +763,8 @@ g) V případě, že je ohrožen život, hrozí újma na zdraví nebo poškozen�
 
 h) Pokud hrozí újma na zdraví nebo poškození majetku a jednotka LSFD narazí na překážku, může použít hrubé síly k jejímu překonání.
 
-#### §13 Povinnosti fyzických a právnických osob k prevenci požárů
+
+### §13 Povinnosti fyzických a právnických osob k prevenci požárů
 
 a) Fyzické i právnické osoby jsou povinné zajistit v objektech a prostorách provádění preventivních protipožárních prohlídek.
 
@@ -473,7 +790,7 @@ k) Fyzické i právnické osoby jsou povinné zajistit plnění stanovených pov
 
 l) Fyzické i právnické osoby mají povinnost vytvářet podmínky pro hašení požárů a provádění záchranných prací, zejména udržovat volné přístupové komunikace a plochy pro požární techniku, únikové cesty a volný přístup k nouzovým východům, k rozvodným zařízením elektrické energie, uzávěrům vody, plynu a topení.
 
-#### §14 Požární kontrola
+### §14 Požární kontrola
 
 a) Všechny budovy a prostory spojené s výdělečnou činností, s výskytem většího počtu osob nebo s speciální funkcí, musí projít požární kontrolou prováděnou SPD a musí mít vyhotovený protokol o požární kontrole, který vystaví pověřený pracovník LSFD.
 
@@ -484,8 +801,7 @@ c) Pokud prostory spojené s výdělečnou činností projdou rekonstrukcí, zm�
 d) Požární kontrola se týká oblasti požární ochrany, elektroinstalací, vzduchotechniky, nouzového zásobování vodou pro hašení, funkčnosti centrálního pultu ochrany, bezpečnosti osob v budově a v jejím okolí, skladování hořlavých, výbušných nebo jinak nebezpečných materiálů a zajištění dostatečného množství únikových a východních cest.
 
 e) Požární kontrolu provádí pověřený zaměstnanec LSFD, který pečlivě prozkoumá interiér a exteriér daného objektu a vytvoří protokol o požární ochraně na základě této kontroly.
-
-#### §15 Inspekce objektu
+### §15 Inspekce objektu
 
 a) Inspekce objektu je prováděna pověřenou osobou LSFD za účelem zjištění nedostatků v oblasti požární ochrany budov spojených s výdělečnou činností.
 
@@ -505,7 +821,7 @@ h) Při stanovení výše pokuty se zohledňuje zejména závažnost a délka tr
 
 i) Udělení pokuty nezbavuje osobu povinnosti odstranit nedostatky v stanovené lhůtě.
 
-#### §16 Trestní odpovědnost
+### §16 Trestní odpovědnost
 
 a) Trestní odpovědností je považována každá osoba starší 18 let, která se nachází na území státu San Andreas, je v době spáchání trestného činu příčetná a nejedná v extrémní nouzi nebo v nutné obraně. Osoba ve věku 15 až 18 let je považována za trestně odpovědnou, ale je zastupována zákonným zástupcem nebo členem odboru sociální péče o děti. Osoba v této věkové skupině bude potrestána polovičním trestem.
 
@@ -521,204 +837,231 @@ f) Zločinem se rozumí úmyslný trestný čin, pro který trestní zákon stan
 
 g) Zvláště závažným zločinem se rozumí zločin, pro který tento zákon stanoví trest odnětí svobody s minimální sazbou nejméně deset let.
 
-#### §17 Wobbler
+### §17 Wobbler
 
 Wobbler, známý také jako "alternativní trestný čin/přestupek", je trestný čin, který může být v San Andreas obviněn a potrestán buď jako trestný čin, nebo jako přestupek. Rozhodnutí, zda bude wobbler obviněn jako trestný čin nebo přestupek, obvykle náleží státnímu zástupci.
 
-#### §18 Sčítání záznamů z vězení v trestním rejstříku
+### §18 Sčítání záznamů z vězení v trestním rejstříku
 
 Osoba, která je ve výkonu trestu skrze trestní činy pravomocně odsouzena a vše je zaznamenané v trestním rejstříku, po překročení hranice 90 let strávené ve vězení, osobě náleží trest odnětí svobody na doživotí z důvodu nenapravitelné recidivy.
 
 V případě, že osoba v době zjištění nebude řešena Los Santos Police Department nebo Los Santos Sheriff Department ale Department of Justice bude na osobu vydán zatykač a následně bude řešena podle Zákona sekce č. 08/2022GOV §19.
+### §19 Vybírání odpadků
 
-#### §19 Vybírání odpadků
-
-Osoba, která se účastní vybírání odpadků z popelnic nebo kontejnerů aj., dále také ze sběrných dvorů a skládek, páchá přestupek. Vybírání odpadků se vztahuje jak na komunální odpad tak na nebezpečný aj. druhy odpadů.
+Osoba, která se účastní vybírání odpadků z popelnic nebo kontejnerů aj., dále také ze sběrných dvorů a skládek, páchá přestupek. 
+Vybírání odpadků se vztahuje jak na komunální odpad tak na nebezpečný aj. druhy odpadů.
 
 Osoba, která se účastní na vybírání odpadků se dopouští přestupku který se trestá pokutou ve výši $1.500
 
+##  Law Enforcement
 ### Sekce č. 02/2022GOV LEO
-#### Zákon o ustanovení státních složek
 
-##### Část 2.) Zřízení státních složek
+Zákon o ustanovení státních složek
 
-#### §1 Law Enforcement Agencies
+Část 2.)
+
+Zřízení státních složek
+### §1 Law Enforcement Agencies
 
 Stát San Andreas disponuje těmito státními složkami:
 
-- Los Santos Police Department (LSPD)
-- Los Santos Sheriff Department (LSSD)
-- Federal Investigation Bureau (FIB)
-- San Andreas Naval Defense (SAND)
-- Emergency Medical Services / (EMS/LSFD)
-- Federal Aviation Administration
-- United States Marshals Service (USMS)
-- Drug Enforcement Administration (DEA)
+1) Los Santos Police Department (LSPD)
 
-#### §2 Los Santos Police Department
-**LSPD**
+2) Los Santos Sheriff Department (LSSD)
 
-Los Santos Police Department je jednotná státní ozbrojená složka.
+3) Federal Investigation Bureau (FIB)
 
-Los Santos Police Department s působností na celém území San Andreas, mimo ostrov Cayo Perico.
+4) San Andreas Naval Defense (SAND)
 
-Los Santos Police Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
+5) Emergency Medical Services / (EMS/LSFD)
 
-Role Los Santos Police Department provádějí police officers.
+6) Federal Aviation Administration
 
-Za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+7) United States Marshals Service (USMS)
 
-Vedení LSPD jmenuje a odvolává vždy jen GSoSA a DoJ.
+8) Drug Enforcement Administration (DEA)
 
-#### §3 Los Santos Sheriff Department
-**LSSD**
+### §2 Los Santos Police Department
 
-Los Santos Sheriff Department je jednotná státní ozbrojená složka.
+LSPD
 
-Los Santos Sheriff Department působí na celém území San Andreas, mimo ostrov Cayo Perico.
+1) Los Santos Police Department je jednotná státní ozbrojená složka.
 
-Los Santos Sheriff Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
+2) Los Santos Police Department s působností na celém území San Andreas, mimo ostrov Cayo Perico
 
-Úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
+3) Los Santos Police Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
 
-Za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department.
+4) Role Los Santos Police Department provádějí police officers.
 
-Vedení LSSD jmenuje a odvolává vždy jen GSoSA a DoJ.
+5) Za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
 
-#### §4 Federal Investigation Bureau
-**FIB**
+6) Vedení LSPD jmenuje a odvolává vždy jen GSoSA a DoJ .
 
-Federal Investigation Bureau je jednotná federální státní ozbrojená složka.
 
-Federal Investigation Bureau působí na celém území státu San Andreas a Spojených Států Amerických.
+### §3 Los Santos Sheriff Department
 
-Federal Investigation Bureau slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
+LSSD
 
-Úkoly Federal Investigation Bureau vykonávají agents.
+1) Los Santos Sheriff Department je jednotná státní ozbrojená složka.
 
-Za Federal Investigation Bureau nese odpovědnost Director of Federal Investigation Bureau.
+2) Los Santos Sheriff Department působí na celém území San Andreas, mimo ostrov Cayo Perico
 
-Vedení FIB jmenuje a odvolává vždy jen GSoSA a DoJ.
+3) Los Santos Sheriff Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
 
-#### §4.1 Působnost FIB na území státu San Andreas
-**FIB**
+4) Úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
 
-Federal Investigation Bureau může vyšetřovat jakoukoliv korupci a zneužití pravomocí mezi úředními osobami.
+5) Za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
 
-Jedná se o organizovaný zločin.
+6) Vedení LSSD jmenuje a odvolává vždy jen GSoSA a DoJ .
 
-Organizovaný zločin je skupinová trestní činnost pěti nebo více osob, dlouhodobá nepřetržitá činnost orientovaná na zisk nebo nepřetržité páchání koordinované závažné trestné činnosti či se jedná o terorismus/násilný zločin.
+### §4 Federal Investigation Bureau
 
-Federal Investigation Bureau může vznést žádost na jednotku řešící případ o převzetí případu.
+FIB
 
-Federální přečiny v oblastním letectví nespadají pod pravomoc Federal Investigation Bureau.
+1) Federal Investigation Bureau je jednotná federální státní ozbrojená složka.
 
-#### §5 United States of Marshals Service
-**USMS**
+2) Federal Investigation Bureau působí na celém území státu San Andreas a Spojených Států Amerických.
 
-United States Marshals Service je jednotná federální státní ozbrojená složka.
+3) Federal Investigation Bureau slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
 
-United States Marshals Service má působnost na celém území státu San Andreas a mimo něj.
+4) Úkoly Federal Investigation Bureau vykonávají agents.
 
-United States Marshals Service slouží veřejnosti, jejím úkolem je zajistit ochranu soudu a jeho zástupců, ochranu svědků a správu a prodej propadlého majetku.
+5) Za Federal Investigation Bureau nese odpovědnost Director of Federal Investigation Bureau
 
-Úkoly United States Marshals Service vykonávají marshals.
+6) Vedení FIB jmenuje a odvolává vždy jen GSoSA a DoJ . 
 
-Za United States Marshals Service nese odpovědnost Executive Staff.
+§4.1 Působnost FIB na území státu San Andreas
 
-Vedení USMS jmenuje a odvolává vždy jen GSoSA a DoJ.
+FIB
 
-#### §6 Federal Aviation Administration
-**FAA**
+1) Federal Investigation Bureau může vyšetřovat jakoukoliv korupce a zneužití pravomocí mezi úředními osobami.
 
-Federal Aviation Administration je jednotná státní složka.
+2) Jedná se o organizovaný zločin
 
-Federal Aviation Administration působí na celém území státu San Andreas a Spojených Států Amerických.
+3) Organizovaný zločin je skupinová trestní činnost pěti nebo více osob, dlouhodobá nepřetržitá činnost orientovaná na zisk nebo nepřetržité páchání koordinované závažné trestné činnosti či se jedná o terorismus/násilný zločin.
 
-Federal Aviation Administration slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů, bezpečnost letového provozu.
+4) Federal Investigation Bureau může vznést žádost na jednotku řešící případ o převzetí případu
 
-Úkoly Federal Aviation Administration vykonávají senior professionals.
+5) Federální přečiny v oblastním letectví nespadají pod pravomoc Federal Investigation Bureau
 
-Za Federal Aviation Administration nese odpovědnost Director of Federal Aviation Agency.
+### §5 United States of Marshals Service
 
-Vedení FAA jmenuje a odvolává vždy jen GSoSA a DoJ.
+USMS
 
-#### §7 San Andreas Naval Defense
-**SAND**
+1) United States Marshals Service je jednotná federální státní ozbrojená složka.
 
-San Andreas Naval Defense je jednotná ozbrojená síla.
+2) United States Marshals Service má působnost na celém území státu San Andreas a mimo něj.
 
-San Andreas Naval Defense působí na přilehlých ostrovech, vodních plochách státu San Andreas a ostrově Cayo Perico.
+3) United States Marshals Service slouží veřejnosti, jejím úkolem je zajistit ochranu soudu a jeho zástupců, ochranu svědků a správu a prodej propadlého majetku.
 
-San Andreas Naval Defense slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
+4) Úkoly United States Marshals Service provádějí marshals.
 
-Úkoly San Andreas Naval Defense vykonávají soldiers.
+5) Za United States Marshals Service nese odpovědnost Executive Staff.
 
-Za San Andreas Naval Defense nese odpovědnost Admirál of San Andreas Naval Defense a Commissioned Officers.
+6) Vedení USMS jmenuje a odvolává vždy jen GSoSA a DoJ . 
 
-Vedení San Andreas Naval Defense jmenuje a odvolává vždy jen GSoSA a DoD.
+### §6 Federal Aviation Administration
 
-#### §8 Emergency Medical Services / Los Santos Fire Department
-**EMS/LSFD**
+FAA
 
-Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) je jednotná státní složka.
+1) Federal Aviation Administration je jednotná státní složka.
 
-Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) působí na celém území San Andreas, mimo ostrov Cayo Perico.
+2) Federal Aviation Administration působí na celém území státu San Andreas a Spojených Států Amerických.
 
-Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) slouží veřejnosti, jejímž úkolem je zajistit ochranu majetku a zdraví občanů.
+3) Federal Aviation Administration slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů, bezpečnost letového provozu.
 
-Úlohy Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) vykonávají členi EMS/LSFD.
+4) Úkoly Federal Aviation Administration vykonávají senior professionals.
 
-Za Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) nese odpovědnost Director of Emergency Medical Services.
+5) Za Federal Aviation Administration nese odpovědnost Director of Federal Aviation Agency
 
-Director of Emergency Medical Services a zbylé vedení EMS je nadřazeno Chief of Los Santos Fire Department.
+6) Vedení USMS jmenuje a odvolává vždy jen GSoSA a DoJ . 
 
-Chief of Los Santos Fire Department je na stejné úrovni jako Director of Emergency Medical Services a zbylé vedení EMS v případě, že sám je vedením EMS.
+### §7 San Andreas Naval Defense
 
-Vedení EMS/LSFD jmenuje a odvolává vždy jen GSoSA a DoJ.
+SAND
 
-#### §9 Department of Homeland Security
-**Ministerstvo vnitřní bezpečnosti Spojených Států Amerických**
+1) San Andreas Naval Defense je jednotná ozbrojená síla.
 
-Department of Homeland Security je jednotná federální státní ozbrojená složka.
+2) San Andreas Naval Defense působí na přilehlých ostrovech, vodních plochách státu San Andreas a ostrově Cayo Perico.
 
-Department of Homeland Security působí na celém území státu San Andreas a Spojených Států Amerických, mimo ostrov Cayo Perico.
+3) San Andreas Naval Defense slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů. Úkoly San Andreas Naval Defense vykonávají soldiers.
 
-Department of Homeland Security slouží veřejnosti, jejím úkolem je zajistit ochranu významných činitelů, řešit investigativní záležitosti.
+4) Za San Andreas Naval Defense nese odpovědnost Admirál of San Andreas Naval Defense a Commissioned Officers .
 
-Úkoly Department of Homeland Security provádějí agenti.
+5) Vedení San Andreas Naval Defense jmenuje a odvolává vždy jen GSoSA a DoD.
 
-Za Department of Homeland Security nese odpovědnost Director of Department of Homeland Security.
+### §8 Emergency Medical Services / Los Santos Fire Department
 
-Vedení Department of Homeland Security jmenuje a odvolává vždy jen GSoSA a DoJ.
+EMS/LSFD
 
-#### §10 Drug Enforcement Administration
-**DEA**
+1) Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) je jednotná státní složka.
 
-Drug Enforcement Administration je jednotná federální státní ozbrojená složka.
+2) Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) působí na celém území San Andreas, mimo ostrov Cayo Perico
 
-Drug Enforcement Administration působí na celém území, přilehlých ostrovech a vodních plochách státu San Andreas a na celém území ostrova Cayo Perico.
+3) Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) slouží veřejnosti, jejímž úkolem je zajistit ochranu majetku a zdraví občanů.
 
-Drug Enforcement Administration slouží veřejnosti, jejím úkolem je zredukovat a zastavit drogovou kriminální činnost.
+4) Úlohy Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) vykonávají členi EMS/LSFD
 
-Úkoly Drug Enforcement Administration vykonávají agents.
+5) Za Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) nese odpovědnost Director of Emergency Medical Services.
 
-Za Drug Enforcement Administration nese odpovědnost Principal Deputy Administrator.
+6) Director of Emergency Medical Services a zbylé vedení EMS je nadřazeno Chief of Los Santos Fire Department.
 
-Drug Enforcement Administration má pravomoc převzít případ, který je klasifikován jako 1. stupeň ohrožení v drogové oblasti.
+7) Chief of Los Santos Fire Department je na stejné úrovni jako Director of Emergency Medical Services a zbylé vedení EMS v případě, že sám je vedením EMS.
 
-Drug Enforcement Administration má pravomoc také na území ostrova Cayo Perico.
+8) Vedení EMS/LSFD jmenuje a odvolává vždy jen GSoSA a DoJ . 
 
-Vedení DEA jmenuje a odvolává vždy jen GSoSA a DoJ.
 
+### §9 Department of Homeland Security
+
+Ministerstvo vnitřní bezpečnosti Spojených Států Amerických
+
+1) Department of Homeland Security je jednotná federální státní ozbrojená složka.
+
+2) Department of Homeland Security působí na celém území státu San Andreas a Spojených Států Amerických, mimo ostrov Cayo Perico
+
+3) Department of Homeland Security  slouží veřejnosti, jejím úkolem je zajistit ochranu významných činitelů, řešit investigativní záležitosti,..
+
+4) Úkoly Department of Homeland Security provádějí agenti.
+
+5) Za Department of Homeland Security nese odpovědnost Director of Department of Homeland Security
+
+6) Vedení Department of Homeland Security jmenuje a odvolává vždy jen GSoSA a DoJ . 
+
+
+### §10 Drug Enforcement Administration
+
+DEA
+
+1) Drug Enforcement Administration je jednotná federální státní ozbrojená složka.
+
+2) Drug Enforcement Administration působí na celém území, přilehlých ostrovech a vodních plochách státu státu San Andreas a na celém území ostrova Cayo Perico
+
+3) Drug Enforcement Administration  slouží veřejnosti, jejím úkolem je zredukovat a zastavit drogovou kriminální činnost.
+
+4) Úkoly Drug Enforcement Administration vykonávají agents.
+
+5) Za Drug Enforcement Administration nese odpovědnost Principal Deputy Administrator.
+
+6) Drug Enforcement Administration má pravomoc převzít případ, který je klasifikován jako 1. stupeň ohrožení v drogové oblasti.
+
+7) Drug Enforcement Administration má pravomoc také na území ostrova Cayo Perico.
+
+8) Vedení DEA jmenuje a odvolává vždy jen GSoSA a DoJ .
+
+## LEO Práva a povinnosti
 ### Sekce č. 03/2023GOV LEO Práva
 
-##### Část 1: Pravomoci státních složek
+Zákon o ustanovení pravomocí a povinností státních složek
 
-#### §1 Zdvořilost
+Část 1: Pravomoci státních složek
+
+### §1 Zdvořilost
+
 Zaměstnanec státní složky má povinnost dodržovat při plnění svých úkolů kodex a slib, který složil státu San Andreas, a pravidla slušného chování. Dále má dbát na čest, vážnost a důstojnost všech osob, včetně své vlastní.
 
-#### §2 Povinnosti mimo službu
+
+### §2 Povinnosti mimo službu
+
 Zaměstnanec státní ozbrojené složky má povinnost:
 
 a) V době mimo službu zasáhnout, pokud je svědkem protiprávního jednání.
@@ -729,10 +1072,14 @@ c) Chovat se tak, aby byl občanům příkladem.
 
 d) Dodržovat všechny zákony stanovené státem San Andreas.
 
-#### §3 Přiměřenost výkonu služby
+
+### §3 Přiměřenost výkonu služby
+
 Zaměstnanec státní ozbrojené složky má povinnost dbát o to, aby v důsledku svého výkonu služby žádná osoba nějakým zbytečným způsobem neutrpěla na svém majetku nebo zdraví.
 
-#### §4 Prokazování příslušnosti
+
+### §4 Prokazování příslušnosti
+
 Zaměstnanec státní ozbrojené složky má povinnost před prováděním úkonu prokázat svou příslušnost ke státní ozbrojené složce:
 
 a) Stejnokrojem
@@ -741,14 +1088,18 @@ b) Odznakem
 
 c) Ústním zvoláním
 
-#### §5 Poučení o právech (Právo miranda)
+
+### §5 Poučení o právech (Právo miranda)
+
 Zaměstnanec státní ozbrojené složky má povinnost poučit zadrženou osobu o jejích právech následovně:
 
-Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo". Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
+Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
 
 Státní ozbrojená složka musí zadrženou osobu dvakrát zeptat, zda porozuměla svým právům. Pokud osoba nerozumí svým právům, státní ozbrojená složka není povinna tato práva opakovat a osoba se tímto vzdává svých práv.
 
-#### §6 Omezení na osobní svobodě
+
+### §6 Omezení na osobní svobodě
+
 Zaměstnanec státní ozbrojené složky má pravomoc omezit osobní svobodu osoby v následujících situacích:
 
 a) Osoba klade fyzický odpor.
@@ -765,7 +1116,8 @@ f) Osoba neuposlechne výzvu státní ozbrojené složky.
 
 K omezení osobní svobody lze použít pouze služební pouta.
 
-#### §7 Polehčující okolnost
+### §7 Polehčující okolnost
+
 Law Enforcement přihlédnou k polehčujícím okolnostem, pokud osoba splňuje některou z následujících podmínek:
 
 a) Spáchala čin poprvé a pod vlivem okolností na něm nezávislých.
@@ -788,7 +1140,9 @@ i) Přispěla svou spoluprací k objasnění trestné činnosti páchané členy
 
 j) Upřímně litovala svého činu.
 
-#### §8 Přitěžující okolnost
+
+### §8 Přitěžující okolnost
+
 Státní ozbrojené složky, státní zastupitelství a soudy mohou přihlédnout k přitěžujícím okolnostem zejména v případech, kdy osoba:
 
 a) Spáchala čin surovým nebo trýznivým způsobem, záludně, se zvláštní lstí nebo jiným obdobným způsobem.
@@ -807,14 +1161,17 @@ g) Spáchala čin jako organizátor, člen organizované skupiny nebo člen usku
 
 h) Byla již pro daný čin odsouzena nebo se dopustila recidivy.
 
-#### §9 Cely státních ozbrojených složek (CPZ)
+
+### §9 Cely státních ozbrojených složek (CPZ)
+
 Zaměstnanec státní ozbrojené složky může do cely státní ozbrojené složky umístit pouze osobu, která je zadržená nebo zatčená.
 
 Před umístěním osoby do cely státní ozbrojené složky je zaměstnanec státní ozbrojené složky povinen se ujistit, že osoba nenese žádný předmět, který by mohl sloužit k ohrožení života, poškození majetku nebo k narušení výkonu práva a spravedlnosti.
 
 Do cel státních ozbrojených složek jsou umisťovány osoby odděleně podle pohlaví, zda jsou zadržené nebo zatčené, a podle toho, zda lze předpokládat agresivní chování, zda osoba je pod vlivem drog nebo alkoholu.
 
-#### §10 Zajištění věcí
+### §10 Zajištění věcí
+
 Zaměstnanec státní ozbrojené složky má pravomoc zajistit věc, pokud je důležitá pro řešení přestupku nebo trestného činu, nebo pokud se cítí ohrožen při řešení přestupku nebo trestného činu.
 
 Zajištěná věc musí být občanovi ihned vrácena po vyřešení přestupku nebo trestného činu.
@@ -823,7 +1180,9 @@ Věc zajištěná v souvislosti s trestnou činností automaticky propadá stát
 
 Zajištěné nebo odtažené vozidlo v souvislosti s trestnou činností nepropadá státu a musí být vráceno původnímu majiteli.
 
-#### §11 Odebrání zbraně
+
+### §11 Odebrání zbraně
+
 Zaměstnanec státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
 
 a) Pokud zbraň není registrována.
@@ -838,14 +1197,18 @@ e) Pokud byl soudem vydán rozkaz na odebrání zbraně.
 
 Zaměstnanec státní ozbrojené složky má povinnost vrátit zbraň majiteli do 24 hodin od jejího odebrání, pokud soud zruší rozkaz k jejímu odebrání.
 
-#### §12 Výzva
+
+### §12 Výzva
+
 Zaměstnanec státní ozbrojené složky má právo v rámci své služby použít institut výzvy v následujících případech:
 
 a) Pokud osoba svým jednáním omezuje jednání zaměstnance státní ozbrojené složky.
 
 b) Pokud zaměstnanec státní ozbrojené složky vykonává výzvu ústně, písemně s upozorněním o postihu, výstražným zvukovým a rozhlasovým zařízením s výrazným světlem modré nebo červené barvy nebo jejich kombinací, varovným výstřelem nebo gestem.
 
-#### §13 Vstup do obydlí nebo na pozemek
+
+### §13 Vstup do obydlí nebo na pozemek
+
 Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí nebo na pozemek v následujících situacích:
 
 a) Pokud má důvodné podezření o trestné činnosti v obydlí nebo na pozemku.
@@ -858,7 +1221,8 @@ d) Pokud má důvodné podezření o výskytu zraněné osoby vyžadující oše
 
 Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí nebo na pozemek v uvedených situacích.
 
-#### §14 Prohledání vozidla
+### §14 Prohledání vozidla
+
 Zaměstnanec státní ozbrojené složky má pravomoc zastavit vozidlo a uskutečnit jeho prohlídku v následujících situacích:
 
 a) Pokud pronásleduje pachatele trestného činu.
@@ -877,129 +1241,155 @@ d) Pokud má důvodné podezření na přítomnost nelegálních předmětů ve 
 
 Zaměstnanec státní ozbrojené složky má povinnost zajistit, aby následkem prohledání vozidla nedošlo k újmě na zdraví nezúčastněných osob.
 
-#### §15 Prohledání osoby
+
+### §15 Prohledání osoby
+
 Zaměstnanec státní ozbrojené složky má pravomoc prohledat osobu v následujících situacích:
 
 a) Pokud má důvodné podezření, že by u sebe osoba mohla mít nelegální předměty nebo předměty spojené s trestnou činností.
 
 b) Pokud je osoba omezena na osobní svobodě.
 
-#### §16 Vykázání
+
+### §16 Vykázání
+
 Zaměstnanec státní ozbrojené složky má pravomoc vykázat z místa osobu, která svým jednáním ohrožuje provedení práce zaměstnanců státních ozbrojených složek.
 
 Zaměstnanec státní ozbrojené složky oznámí vykázání ústně.
 
 Pokud vykázaná osoba neuposlechne zákonné výzvy, může se postupovat podle ustanovení §12.
 
-#### §17 Světelné a zvukové zařízení
+
+### §17 Světelné a zvukové zařízení
+
 Zaměstnanec státní ozbrojené složky má pravomoc použít světelné a zvukové zařízení, pokud k tomu má dostatečný důvod.
 
 Zaměstnanec státní ozbrojené složky nesmí zneužít světelného a zvukového zařízení ke svému vlastnímu zvýhodnění nad ostatními účastníky provozu bez dostatečného důvodu.
 
 Zaměstnanec státní ozbrojené složky je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem.
 
-#### §18 Donucovací prostředky
+
+### §18 Donucovací prostředky
+
 Donucovacími prostředky se rozumí:
 
 a) Hmaty, chvaty, údery a kopy.
+
 b) Obušek, nebo jiný úderný prostředek.
+
 c) Elektrický nebo jiný dočasně zneschopňující prostředek.
+
 d) Zastavovací pás.
+
 e) Služební pes.
+
 f) Vodní stříkač.
+
 g) Úder střelnou zbraní.
+
 h) Varovný výstřel.
+
 i) Hrozba střelnou zbraní.
+
 j) Pouta.
+
 k) Vytlačování vozidlem.
+
 l) Ohrazení cesty vozidlem.
 
-#### §19 Použití donucovacích prostředků
+### §19 Použití donucovacích prostředků
+
 Zaměstnanec státní ozbrojené složky má oprávnění použít donucovací prostředky k zajištění vlastní bezpečnosti i bezpečnosti jiných osob.
 
-Zaměstnanec státní ozbrojené složky je povinen před použitím donucovacích prostředků vyzvat osobu k ukončení protizákonného jednání. Je-li zaměstnanec státní ozbrojené složky nebo jiná osoba v přímém ohrožení života nebo zdraví, může upustit od výzvy k ukončení protizákonného jednání. Zaměstnanec státní ozbrojené složky je povinen zajistit, aby následkem použití donucovacích prostředků nedošlo k újmě na zdraví nezúčastněných osob.
+Zaměstnanec státní ozbrojené složky je povinen před použitím donucovacích prostředků vyzvat osobu k ukončení protizákonného jednání.
 
-#### §20 Použití donucovacích prostředků na zamezení pohybu vozidla
+Je-li zaměstnanec státní ozbrojené složky nebo jiná osoba v přímém ohrožení života nebo zdraví, může upustit od výzvy k ukončení protizákonného jednání.
+
+Zaměstnanec státní ozbrojené složky je povinen zajistit, aby následkem použití donucovacích prostředků nedošlo k újmě na zdraví nezúčastněných osob.
+
+
+### §20 Použití donucovacích prostředků na zamezení pohybu vozidla
+
 Zaměstnanec státní ozbrojené složky má oprávnění použít donucovací prostředky na vozidlo, pokud:
 
 a) Řidič neuposlechne výzvu zaměstnance státní ozbrojené složky.
+
 b) Řidič páchá s vozidlem trestnou činnost.
+
 c) Řidič by mohl využít vozidlo k úniku před příslušníky státních ozbrojených složek.
 
 Zaměstnanec státní ozbrojené složky má povinnost před použitím donucovacích prostředků k zamezení pohybu vozidla zajistit, aby následkem použití těchto prostředků nedošlo k újmě na zdraví nezúčastněných osob.
 
-#### §21 Použití zbraně
+
+### §21 Použití zbraně
+
 Zaměstnanec státní ozbrojené složky má oprávnění použít střelnou zbraň v následujících situacích:
 
 a) Pokud je přímo ohrožen na životě on nebo jiná osoba.
+
 b) Pokud pachatel nereaguje na jeho výzvy k opuštění úkrytu.
+
 c) Pokud pachatel je ozbrojený a nereaguje na výzvu k zahození zbraně.
+
 d) Pokud vozidlo nelze zastavit jiným způsobem.
 
 Zaměstnanec státní ozbrojené složky má povinnost před použitím zbraně vyzvat osobu k ukončení protizákonného jednání. Je-li zaměstnanec státní ozbrojené složky nebo jiná osoba v přímém ohrožení života nebo zdraví, může upustit od výzvy k ukončení protizákonného jednání. Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob.
 
 ## Soudní Proces
-
 ### Sekce č. 04/2023GOV Soudní proces
-### Zákon o ustanovení pravomocí a povinností státních složek
 
-#### Část 1: Pravidla zajišťující rovný a spravedlivý soudní proces
+Zákon o ustanovení pravomocí a povinností státních složek
 
-#### §1 Definice
+Část 1: Pravidla zajišťující rovný a spravedlivý soudní proces
+### §1 Definice
+
 V této části zákona se rozumí následující výrazy:
 
-a) "Státní ozbrojené složky" zahrnují všechny státní orgány odpovědné za výkon moci veřejné
-a zachování právního řádu.
+a) "Státní ozbrojené složky" zahrnují všechny státní orgány odpovědné za výkon moci veřejné a zachování právního řádu.
 
-b) "Prokurátor" je osoba vykonávající zákonem stanovené funkce státního zastupitelství a
-hájící veřejný zájem.
+b) "Prokurátor" je osoba vykonávající zákonem stanovené funkce státního zastupitelství a hájící veřejný zájem.
 
-c) "Soudce" je nezávislý a nestranný právník pověřený výkonem soudní moci a rozhodováním
-o sporu v souladu se zákonem.
+c) "Soudce" je nezávislý a nestranný právník pověřený výkonem soudní moci a rozhodováním o sporu v souladu se zákonem.
 
 d) "Členové justiční komise" jsou osoby odpovědné za řízení a dohled nad soudními procesy.
 
-Všechna ustanovení této části zákona jsou povinná dodržovat veškeré strany a účastníci
-soudního procesu, včetně státních ozbrojených složek, prokurátora, soudce a členů
-justiční komise. Každý z nich má povinnost jednat v souladu s platným právem státu San Andreas
-a v souladu s principy rovnosti a spravedlnosti. Státní ozbrojené složky, prokurátor,
-soudce a členové justiční komise jsou povinni jednat v plném souladu s jejich nejlepším vědomím
-a svědomím, a to v souladu s ustanoveními tohoto zákona. Jejich postupy a rozhodnutí
-musí být opřeny o zákon a principy zaručující rovný a spravedlivý soudní proces pro všechny strany.
+Všechna ustanovení této části zákona jsou povinná dodržovat veškeré strany a účastníci soudního procesu, včetně státních ozbrojených složek, prokurátora, soudce a členů justiční komise. Každý z nich má povinnost jednat v souladu s platným právem státu San Andreas a v souladu s principy rovnosti a spravedlnosti. Státní ozbrojené složky, prokurátor, soudce a členové justiční komise jsou povinni jednat v plném souladu s jejich nejlepším vědomím a svědomím, a to v souladu s ustanoveními tohoto zákona. Jejich postupy a rozhodnutí musí být opřeny o zákon a principy zaručující rovný a spravedlivý soudní proces pro všechny strany.
 
-#### §2 Průběh soudního líčení
+### §2 Průběh soudního líčení
 
-**Zahájení procesu:**
+Zahájení procesu:
 
 Soudkyně/soudce zahájí soudní řízení a přivítá všechny přítomné.
 
 Obžaloba a obhajoba jsou představeny a identifikovány.
 
-**Představení obvinění:**
+Představení obvinění:
 
 Obžaloba představí obvinění proti obžalovaným a vysvětlí klíčové body jejich případu.
 
-**Představení obrany:**
+Představení obrany:
 
 Obhajoba představí svou obranu a klíčové argumenty pro odůvodnění neviny obžalovaných.
 
-**Vyšetřování důkazů:**
+Vyšetřování důkazů:
 
 Obžaloba a obhajoba představí své důkazy, včetně svědeckých výpovědí, fyzických důkazů, dokumentů a dalších relevantních materiálů.
 
 Obhajoba má možnost zkoumat a zpochybňovat důkazy představené obžalobou.
 
-**Křížový výslech svědků:**
+Křížový výslech svědků:
 
 Obžaloba a obhajoba mohou provádět křížový výslech svědků, aby získali další informace nebo objasnili jejich výpovědi.
 
-**Argumenty a závěrečné projevy:**
+
+Argumenty a závěrečné projevy:
 
 Obžaloba a obhajoba představí své argumenty a závěrečné projevy, v nichž shrnou důležité body svých případů.
 
 Soudce poučí porotu o pravidlech a následně otevře dobu hlasování.
 
-**Rozhodnutí poroty:**
+
+Rozhodnutí poroty:
 
 Porota bude jednat a hlasovat o vině nebo nevině obžalovaných.
 
@@ -1007,31 +1397,33 @@ Pokud porota dospěje k jednomyslnému rozhodnutí, soudce oznámí verdikt.
 
 V případě nemožnosti dosáhnout jednomyslnosti může soudce nařídit nové soudní řízení s jinou porotou.
 
-**Vynesení rozsudku:**
+Vynesení rozsudku:
 
 Pokud je obžalovaný uznán vinným, soudce určí trest.
 
 V případě osvobození bude obžalovaný propuštěn a případ bude uzavřen.
 
-**Odvolání:**
+Odvolání:
 
 Po vynesení rozsudku mají obě strany právo podat odvolání, pokud se domnívají, že byl proces nespravedlivý nebo došlo k nějaké chybě.
 
-**Ukončení soudního procesu:**
+Ukončení soudního procesu:
 
 Po vyřešení všech aspektů případu, odvolání (pokud bylo podáno) a případných odvolání, bude soudní proces oficiálně ukončen.
 
-#### §3 Trestný čin a přestupek
+
+### §3 Trestný čin a přestupek
 
 Trestným činem se rozumí čin, který je společensky nebezpečný a je uveden jako trestný čin nebo zločin v trestním zákoníku státu SAN ANDREAS nebo v jiných zákonech.
 
 Přestupkem se rozumí čin, který je společensky nebezpečný a je uveden jako přestupek v trestním zákoníku státu SAN ANDREAS nebo v jiných zákonech.
 
-#### §4 Vazba
+### §4 Vazba
 
 Vazbou se rozumí dočasné omezení osobní svobody obviněné osoby. O uvalení vazby rozhoduje příslušný soud na žádost prokurátora nebo státní ozbrojené složky, avšak musí být splněn alespoň jeden ze tří důvodů pro vazbu.
 
 Důvody pro uvalení vazby jsou následující:
+
 
 a) Existuje důvodné podezření, že obviněný se bude snažit ovlivnit svědky nebo oběť činu.
 
@@ -1041,19 +1433,22 @@ c) Existuje důvodné podezření, že obviněný se pokusí spáchat další č
 
 Vazba nesmí trvat déle než 24 HODIN, pokud soud nestanoví prodloužení. Nejpozději do ukončení vazby musí být osoba postavena před soudem. Jestliže k tomu nedojde, musí být osoba propuštěna na svobodu bez trestního stíhání.
 
-#### §5 Kauce (definice)
+
+### §5 Kauce (definice)
 
 a) V případě hrozby uvalení vazby je možné vést trestní stíhání osoby na svobodě za předpokladu, že soud rozhodne o složení kauce. Tato kauce musí být složena právním zástupcem obviněného státní ozbrojené složce.
 
 b) Žádost o udělení kauce podává právní zástupce obviněného.
 
-#### §6 Obvinění
+
+### §6 Obvinění
 
 Pokud státní ozbrojená složka nabude přesvědčení, že osoba spáchala trestný čin podle §3 tohoto zákona, a toto tvrzení bude podloženo dostatečnými důkazy, je třeba tuto skutečnost oznámit osobě jako obvinění.
 
 Obviněním se osoba informuje o zahájení trestního stíhání. Státní ozbrojená složka uvede jméno, příjmení, datum narození a trvalé bydliště osoby, podrobný popis trestného činu a návrh činu podle §3 tohoto zákona, který se osobě připisuje. Po oznámení obvinění se osoba označuje jako obviněný/obviněná. Obvinění může být oznámeno i ústně a následně zaneseno do evidence trestního řízení státní ozbrojenou složkou.
 
-#### §7 Obžaloba
+
+### §7 Obžaloba
 
 Po oznámení obvinění státní ozbrojená složka informuje prokurátora nebo soudce o této skutečnosti. Prokurátor nebo soudce následně rozhodne buď o žádosti o umístění obviněné osoby do vazby nebo o možnosti pokračovat v trestním stíhání na svobodě.
 
@@ -1061,21 +1456,24 @@ Po shromáždění dostatečného množství důkazů v trestním řízení sep�
 
 Prokurátor zašle kopii obžaloby k seznámení soudci a obviněné osobě, která se po doručení obžaloby stává obžalovaným. Toto ustanovení se nepoužije, je-li proti osobě vedeno zkrácené řízení podle §4 tohoto zákona.
 
-#### §8 Soudní pojednávání
+
+### §8 Soudní pojednávání
 
 Hlavní líčení lze nařídit pouze proti osobě, které byla oznámena obžaloba.
 
 Hlavní líčení musí být nařízeno bez zbytečného odkladu, aby bylo dosaženo rychlého a efektivního soudního procesu.
 
-#### §9 Odvolání
+### §9 Odvolání
 
 V případě, že strana obžalovaného či prokurátor nesouhlasí s rozsudkem vyneseným při hlavním líčení u soudu státu San Andreas, má právo se odvolat k soudu vyšší instance, tj. Department of Justice. Rozhodnutí soudu vyšší instituce je konečné a musí být akceptováno všemi stranami.
 
-#### §10 Dohoda o vině a trestu (DOVAT)
+
+### §10 Dohoda o vině a trestu (DOVAT)
 
 Dohoda o vině a trestu mezi obviněným a prokuraturou je možná pouze v případě, že obviněnému nehrozí za jeho činnost trest výjimečný nebo doživotní odnětí svobody. Tato dohoda umožňuje rychlejší řešení a odsouzený může být odkázán na alternativní sankce.
 
-#### §11 Zastavení trestního řízení
+
+### §11 Zastavení trestního řízení
 
 Jestliže státní zástupce zjistí, že státní ozbrojená složka pochybila při vyšetřování a skutečnosti uvedené v obvinění osoby nejsou opodstatněné, má možnost zastavit trestní stíhání osoby.
 
@@ -1083,17 +1481,20 @@ Pokud soudce zjistí, že skutečnosti uvedené v žalobě nejsou opodstatněné
 
 Trestní stíhání osoby se rovněž zastaví v případě, že osoba byla pravomocně odsouzena v jiné věci k trestu odnětí svobody na doživotí nebo pokud zemřela.
 
-#### §12 Rozsudek
+
+### §12 Rozsudek
 
 Po provedení všech důkazů, výpovědí svědků a posudků znalců a po přednesení závěrečných řečí obou stran se soudce nebo soudci odeberou na poradu. Poté je soudem vynesen rozsudek, který obsahuje odůvodnění a uložený trest či osvobození. Rozsudek má pravomocnou platnost a je závazný pro všechny účastníky řízení.
 
-#### §13 Účastníci řízení při soudním líčení
+
+### §13 Účastníci řízení při soudním líčení
 
 Při soudním líčení musí být přítomni členové soudu, strana obžalovaného a prokurátor, aby byla zajištěna nestrannost a transparentnost soudního procesu.
 
 Dalšími případnými účastníky mohou být svědci a znalci, popřípadě další osoby, které soud označí za důležité pro řízení. Strany, tj. soud, obhajoba a prokuratura, mají právo navrhovat účast dalších svědků a znalců.
 
-#### §14 Vykonání důkazů
+
+### §14 Vykonání důkazů
 
 Před soudem mohou být předloženy pouze důkazy, které byly získány v souladu se zákony státu San Andreas a které jsou relevantní pro řešení sporu.
 
@@ -1101,11 +1502,12 @@ Soud bere v úvahu jak důkazy přímé, tak i nepřímé při hodnocení viny �
 
 Strana obžalovaného má právo provádět důkazy, které slouží k prokázání neviny, a rovněž má možnost navrhovat vyřazení důkazů, pokud jsou závadné či neprůkazné.
 
-#### §15 Neveřejné konání
+
+### §15 Neveřejné konání
 
 V případě, že soud usoudí, že přítomnost veřejnosti na soudním řízení není vhodná, může nařídit neveřejné konání. Stejně tak může být konání změněno na neveřejné i během průběhu soudního řízení, pokud to bude vyžadováno okolnostmi.
 
-#### §16 Formy trestu
+### §16 Formy trestu
 
 a) Alternativní trest
 
@@ -1119,7 +1521,8 @@ c) Předstižní trest
 
 V případech recidivy může prokurátor požádat soudce o uvalení předstižního trestu na osobu pachatele. Předstižní trest znamená, že v případě dalšího odsouzení bude odsouzený umístěn do výkonu trestu odnětí svobody na doživotí. Tento trest může být ukládán souběžně s jakoukoli jinou formou potrestání.
 
-#### §17 Zkrácené řízení
+
+### §17 Zkrácené řízení
 
 a) V případě, že nejvyšší možný trest odnětí svobody nepřesahuje 20 let, může být použito zkrácené řízení. V tomto případě není nutné podrobně informovat státního zástupce ani soudce o postupech státní ozbrojené složky, pokud je navrhovaný trest v souladu se zákony.
 
@@ -1131,55 +1534,59 @@ d) V případě, že obviněný neakceptuje navrhovaný trest prokurátora, má 
 
 e) Jestliže soudce odmítne návrh na hlavní líčení, aplikuje se trest stanovený prokurátorem nebo stanovený soudcem, pokud tak soudce rozhodne. Během čekání na rozhodnutí prokurátora a soudce je osoba omezena na osobní svobodě, pokud není rozhodnuto jinak.
 
-#### §18 Domovní prohlídka
+### §18 Domovní prohlídka
 
-1) **Úkony v rámci šetření trestné činnosti bez nutnosti žádosti o soudní povolení k domovní prohlídce.**
+1) Úkony v rámci šetření trestné činnosti bez nutnosti žádosti o soudní povolení k domovní prohlídce.
 
-   a) Prohlídkou osoby se rozumí prohledání všech věcí osoby, které má u sebe, nebo v odůvodněných případech i tělesných dutin osoby. Osobní prohlídku tělesných dutin osoby musí vždy provést osoba stejného pohlaví, pokud osoba nedovolí jinak.
+a) Prohlídkou osoby se rozumí prohledání všech věcí osoby, které má u sebe, nebo v odůvodněných případech i tělesných dutin osoby. Osobní prohlídku tělesných dutin osoby musí vždy provést osoba stejného pohlaví, pokud osoba nedovolí jinak.
 
-   b) Prohlídku osoby může člen státní ozbrojené složky provést mimo domovní a jiné prostory při důvodném podezření, že má osoba u sebe věci pocházející z trestné činnosti nebo sloužící k trestné činnosti, popřípadě důkazy pro obojí.
+b) Prohlídku osoby může člen státní ozbrojené složky provést mimo domovní a jiné prostory při důvodném podezření, že má osoba u sebe věci pocházející z trestné činnosti nebo sloužící k trestné činnosti, popřípadě důkazy pro obojí.
 
-   c) Prohlídku vozidel mimo domovní a jiné prostory lze provést za účelem zajištění věcí pocházejících z trestné činnosti nebo sloužících k trestné činnosti, popřípadě důkazů pro obojí.
+c) Prohlídku vozidel mimo domovní a jiné prostory lze provést za účelem zajištění věcí pocházejících z trestné činnosti nebo sloužících k trestné činnosti, popřípadě důkazů pro obojí.
 
-   d) Prohlídka bytu nebo jiného prostoru sloužícího k bydlení, nebytových prostor nebo v prostorách k nim náležejících (obydlí) může být uskutečněna, pokud jsou prokázány důkazní materiály, že se v nich nachází unesená osoba.
+d) Prohlídka bytu nebo jiného prostoru sloužícího k bydlení, nebytových prostor nebo v prostorách k nim náležejících (obydlí) může být uskutečněna, pokud jsou prokázány důkazní materiály, že se v nich nachází unesená osoba.
 
-   e) Pokud člen státní ozbrojené složky pronásleduje pachatele trestného činu či přestupku a pachatel vstoupí do obydlí, může vstoupit do těchto prostorů za účelem pronásledování, ale nesmí zde zajistit žádné důkazy související s jinou trestnou činností, než za kterou byla osoba pronásledována.
+e) Pokud člen státní ozbrojené složky pronásleduje pachatele trestného činu či přestupku a pachatel vstoupí do obydlí, může vstoupit do těchto prostorů za účelem pronásledování, ale nesmí zde zajistit žádné důkazy související s jinou trestnou činností, než za kterou byla osoba pronásledována.
 
-   f) Pokud je osoba omezena na svobodě, může člen státní ozbrojené složky provést prohlídku vozidla za účelem zajištění věcí pocházejících z trestné činnosti nebo sloužících k trestné činnosti, popřípadě důkazů pro obojí.
+f) Pokud je osoba omezena na svobodě, může člen státní ozbrojené složky provést prohlídku vozidla za účelem zajištění věcí pocházejících z trestné činnosti nebo sloužících k trestné činnosti, popřípadě důkazů pro obojí.
 
-   g) Člen státní ozbrojené složky je oprávněn jakoukoliv věc zajistit pro účely trestního řízení.
+g) Člen státní ozbrojené složky je oprávněn jakoukoliv věc zajistit pro účely trestního řízení.
 
-2) **Úkony v rámci šetření trestné činnosti s nutností žádosti o soudní povolení k domovní prohlídce.**
+2) Úkony v rámci šetření trestné činnosti s nutností žádosti o soudní povolení k domovní prohlídce.
 
-   a) Pro udělení soudního povolení k domovní prohlídce osoby (bytu nebo jiného prostoru sloužícího k bydlení, nebytových prostor nebo v prostorách k nim náležejících obydlí) musí státní ozbrojená složka zažádat o vydání tohoto povolení u Department Of Justice a tuto žádost musí řádně odůvodnit. Předmětem domovní prohlídky a jiných prostor musí být pátrání po osobách a věcech spojených s trestnou činností. Domovní prohlídka může být provedena pouze po získání soudního povolení.
+a) Pro udělení soudního povolení k domovní prohlídce osoby (bytu nebo jiného prostoru sloužícího k bydlení, nebytových prostor nebo v prostorách k nim náležejících obydlí) musí státní ozbrojená složka zažádat o vydání tohoto povolení u Department Of Justice a tuto žádost musí řádně odůvodnit. Předmětem domovní prohlídky a jiných prostor musí být pátrání po osobách a věcech spojených s trestnou činností. Domovní prohlídka může být provedena pouze po získání soudního povolení.
 
-   b) Člen státní ozbrojené složky je po udělení povolení oprávněn zajistit jakoukoliv věc pro účely trestního řízení.
+b) Člen státní ozbrojené složky je po udělení povolení oprávněn zajistit jakoukoliv věc pro účely trestního řízení.
 
-   c) Pokud vyšetřování zločinu vyžaduje zajištění důkazů ve věcech sloužících k trestné činnosti nebo pocházejících z trestné činnosti v jiných prostorách, vyžádá si souhlas člen státní ozbrojené složky u Department Of Justice a žádost musí řádně odůvodnit.
+c) Pokud vyšetřování zločinu vyžaduje zajištění důkazů ve věcech sloužících k trestné činnosti nebo pocházejících z trestné činnosti v jiných prostorách, vyžádá si souhlas člen státní ozbrojené složky u Department Of Justice a žádost musí řádně odůvodnit.
 
-#### §19 Trest odnětí svobody
+### §19 Trest odnětí svobody
 
 Trest odnětí svobody představuje omezení osobní svobody odsouzeného v zařízeních určených státem. Délka trestu odnětí svobody je omezena trestním zákoníkem státu San Andreas. Tresty odnětí svobody se nesčítají, a je určen nejvyšší trest za nejzávažnější čin podle trestního zákona.
 
-#### §20 Předvedení
+
+### §20 Předvedení
 
 Pokud státní ozbrojená složka požaduje, aby osoba vykonala určité úkony, může na ni uložit povinnost dostavit se v daný termín na místo stanovené státní ozbrojenou složkou. Tento příkaz musí být předáván dokumentovatelným způsobem, například e-mailem nebo telefonicky. Pokud je osoba ústně vyzvána, musí se o této výzvě sepisovat záznam, který podepíše osoba, která byla vyzvána, nebo se záznam zaznamená na záznamové zařízení. Pokud se osoba nedostaví k úkonům po řádném předvolání nebo není možné osobu předem vyzvat, může státní ozbrojená složka osobu předvést, což znamená dočasné omezení její osobní svobody k provedení úkonů. Osoba je povinna toto strpět. V případě, že je osoba zadržena, není třeba osobu předem předvolávat.
 
-#### §21 Zadržení
+
+### §21 Zadržení
 
 Pokud má policejní orgán důvodné podezření, že osoba spáchala trestný čin, může osobu zadržet.
 
 Zadržení je dočasné omezení osobní svobody osoby vedoucí k úspěšnému objasnění věci a urychlení trestního řízení. Zadržená osoba musí být poučena o svých právech a povinnostech. Do 24 hodin od zadržení musí být osobě oznámeno obvinění nebo musí být osoba umístěna do vazby; jinak musí být propuštěna na svobodu a dále vyšetřována na svobodě. Doba čekání na právního zástupce zadržené osoby se do této lhůty nezapočítává. Zadržení lze provést pouze bezprostředně před, během nebo po spáchání trestného činu, nikoliv s velkým časovým odstupem.
 
-#### §22 Souhlas se zadržením
+### §22 Souhlas se zadržením
 
 Pokud je dáno důvodné podezření, že osoba spáchala trestný čin, může státní ozbrojená složka žádat o souhlas se zadržením od prokurátora nebo soudce, což umožňuje omezit osobní svobodu osoby pro účely trestního řízení.
 
-#### §23 Zatčení
+
+### §23 Zatčení
 
 Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
 
-#### §24 Operativní pátrací prostředky
+
+### §24 Operativní pátrací prostředky
 
 Jestliže vyšetřování zločinu vyžaduje zajištění důkazů, může si státní ozbrojená složka vyžádat u prokurátora nebo soudce povolení:
 
@@ -1191,99 +1598,140 @@ c) Pro vydání elektronické komunikace (e-mail, SMS, výpisy hovorů apod.).
 
 d) K použití agenta, který zastírá svou příslušnost k policejnímu orgánu.
 
-### Penal Code
+## Penal Code
 
-**Sekce č. 05/2022GOV Penal Code**  
-**Zákon o trestných činech**
+### Sekce č. 05/2022GOV Penal Code
 
----
+Zákon o trestných činech
 
-**Část 1.)**  
-**Zákon zahrnující činy proti zdraví a všechny trestné činy**
+Část 1.)
 
-#### §1 Ublížení na zdraví
+Zákon zahrnující činy proti zdraví a všechny trestné činy
 
-Za ublížení na zdraví lze považovat takový stav (onemocnění, poranění), který porušením normálních tělesných nebo duševních funkcí ztěžuje výkon obvyklé činnosti nebo má jiný vliv na obvyklý způsob života poškozeného, a který vyžaduje lékařské ošetření i když nezanechává trvalé následky.
+### §1 Ublížení na zdraví
 
-- Bez použití zbraně, ublížení na zdraví napadením je přestupek, který se trestá pokutou ve výši do 2500 $, nebo odnětím svobody od 1 roka do 2 roků.
+Za ublížení na zdraví lze považovat takový stav (onemocnění, poranění), který porušením normálních tělesných nebo duševních funkcí ztěžuje výkon obvyklé činnosti nebo má jiný vliv na obvyklý způsob života poškozeného, ​​a který vyžaduje lékařské ošetření i když nezanechává trvalé následky.
 
-- Neúmyslně (z nedbalosti) je trestný čin, který se trestá pokutou ve výši do 1500 $ a odnětím svobody od 1 roku do 5 let.
+    bez použití zbraně, ublížení na zdraví napadením je přestupek, který se trestá pokutou ve výši do 2500 $, nebo odnětím svobody od 1 roka do 2 rokov.
 
-- Úmyslně se zbraní jinou než střelnou je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let.
+    neúmyslně(z nedbalosti), je trestný čin, který se trestá pokutou ve výši do 1500 $ který se trestá s odnětím svobody od 1 roku do 5 let.
 
-- Úmyslně se střelnou zbraní je trestný čin, který se trestá odnětím svobody od 5 let do 10 let.
+    úmyslně se zbraní jinou než střelnou, je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let.
 
-- Úmyslně se zbraní proti úřední osobě je trestný čin, který se trestá odnětím svobody od 5 let do 15 let.
+    úmyslně se střelnou zbraní, je trestný čin, který se trestá odnětím svobody od 5 let do 10 let.
 
-#### §2 Vražda I. stupeň
+    úmyslně se zbraní proti úřední osobě, je trestný čin, který se trestá odnětím svobody od 5 let do 15 let.
 
-Vražda je nezákonné usmrcení člověka nebo "plodu" ze špatného úmyslu. Vražda se rozděluje na Vraždu I. stupně a Vraždu II. stupně.
+### §2 Vražda I. stupeň
+
+Vražda je nezákonné usmrcení člověka nebo "plodu" ze špatného úmyslu.
+
+Vražda se rozděluje na Vraždu I. stupně a Vraždu II. stupně.
+
+Vražda I. stupně
 
 5 bodů při kterých se jedná o vraždu I. stupně:
 
-1. Použitím ničivého zařízení nebo výbušniny, zbraně hromadného ničení, munice, která proniká kovem nebo krunýřem, nebo využití jedu.
-2. Čekáním na možnost usmrcení.
-3. V případě vraždy mučením.
-4. Úmyslným, záměrným a předem promyšleným způsobem.
-5. Přímé usmrcení osoby při páchání určitých trestných činů.
+Použitím ničivého zařízení nebo výbušniny, zbraně hromadného ničení, munice, která proniká kovem nebo krunýřem, nebo využití jedu.
 
-**Sankce:**
+Čekáním na možnost usmrcení.
+
+V případě vraždy mučením.
+
+Úmyslným, záměrným a předem promyšleným způsobem.
+
+Přímé usmrcení osoby při páchání určitých trestných činů.
+
+Sankce:
+
 25 let až doživotí ve státní věznici.
+### §3 Vražda II. stupeň
 
-#### §3 Vražda II. stupeň
+Vražda II.stupně
 
-Vražda II. stupně je jakýkoli jiný způsob vraždy, který není uveden v I. stupni. Jedná se de facto o neplánovanou vraždu, která nebyla provedena za speciálních okolností stanovených u I. stupně.
+Jakýkoli jiný způsob který není uveden v I. stupni. De facto neplánovaná vražda která nebyla provedena za speciálních okolností ktere se stanovují při I stupni.
 
-**Sankce:**
+Sankce:
+
 15 let až doživotí.
 
-V případě, že oběť byla Peace Officerem, platí sankce 25 let až doživotí.
+V případě že oběť byla Peace Officera tak 25 let až doživotí.
 
-*Capital Murder* je vražda I. stupně, která se trestá doživotím bez možnosti odvolání nebo trestem smrti. Některé situace, které spadají pod *Capital Murder*:
+Capital Murder je vražda I. stupně která se trestá doživotím bez možnosti odvolání nebo trestem smrti.
 
-- Zabíjení pro finanční zisk.
-- Zabití policisty, hasiče, prokurátora, soudce, porotce nebo voleného úředníka.
-- Zabití svědka s cílem zabránit mu ve výpovědi.
-- Vražda následkem *Drive-By Shootingu*.
+Některé situace které spadají pod Capital Murder:
 
-#### §4 Pokus o vraždu
+Zabíjení pro finanční zisk.
+
+Zabití policisty, hasiče, prokurátora, soudce, porotce nebo voleného úředníka. Zabití svědka s cílem zabránit mu ve výpovědi. oběti.
+
+Vražda následkem Drive-By Shootingu.
+### §4 Pokus o vraždu
 
 Pokus o vraždu je, když pachatel má úmysl zabít oběť a učiní přímý krok k usmrcení osoby, ale oběť nezemře.
 
-**Přímý krok:**
-Je to uvedení plánu do pohybu. Znamená to, že k vraždě by došlo, kdyby do ní nezasáhl vnější faktor. Tímto přímým jednáním může být téměř cokoli, například:
-- bodnutí nožem do hrudi
-- střelba z pistole na někoho
-- zaplacení osoby, aby danou vraždu provedla
+Přímý krok
 
-Přímý krok nemusí zahrnovat jakýkoliv fyzický dotek. Osoba může být usvědčena z pokusu o vraždu jednoduše tím, že uskuteční plán na vraždu, i když nedojde k fyzickému kontaktu.
+Je to uvedení plánu do pohybu. Znamená to, že k vraždě by došlo, kdyby do ní nezasáhl vnější faktor
 
-**Úmysl zabít:**
-Musí být dokázán úmysl zabít. Úmysl způsobit zranění nestačí, pokud chybí úmysl zabít. Důležité je místo poranění, zranění horní části těla více poukazují na úmysl vraždy, protože se tam nacházejí životně důležité orgány. V mnoha případech nedochází k žádným zraněním, a proto se prokurátoři při prokazování úmyslu spoléhají na celkové okolnosti.
+Tímto přímým jednáním může být téměř cokoli. Mezi příklady patří např.:
 
-Pokus o vraždu se dále dělí na:
-- **I. stupeň:** promyšlený a záměrný, pokus někoho usmrtit, ale oběť přežije, objednání vraždy, bodnutí nožem do hrudníku s úmyslem zabít, ale oběť přežije, škrcení s úmyslem zabít, ale oběť přežije.
-- **II. stupeň:** všechny ostatní druhy a způsoby.
+bodnutí nožem do hrudi
 
-**Sankce:**
-- *I. stupeň:* 12 let až doživotí. V případě, že oběť byla Peace Officerem nebo Hasičem, minimální trest je 15 let.
-- *II. stupeň:* 5, 7 nebo 9 let ve státní věznici.
+střelba z pistole na někoho
 
-Pokus o vraždu nese také pokutu ve výši až 20000$ a odškodnění oběti.
+zaplacení osoby aby danou vraždu udělala
 
-#### §5 Útok na Peace Officera
+Přímý krok nemusí zahrnovat jakýkoliv fyzický dotek. Osoba může být usvědčena z pokusu o vraždu jednoduše tím, že uskuteční plán porážky, i když nedojde k fyzickému kontaktu.
 
-Útok na osobu mírového důstojníka, hasiče, pohotovostního zdravotního technika, mobilního záchranáře intenzivní péče, plavčíka, procesního serveru, dopravního důstojníka, důstojníka vymáhání zákonů, důstojníka kontroly zvířat nebo člena pátrací a záchranné služby zapojeného výkonem svých povinností nebo lékaře nebo zdravotní sestry zabývající se poskytováním neodkladné lékařské péče mimo nemocnici, kliniku nebo jiné zdravotnické zařízení a osoba, která se dopustila trestného činu, ví nebo by měla přiměřeně vědět, že obětí je mírový důstojník, hasič, pohotovostní lékařský technik, mobilní zdravotník na jednotce intenzivní péče, plavčík, procesní server, dopravní důstojník, pracovník pro vymáhání zákonů, pracovník pro kontrolu zvířat nebo pátrací a záchranný člen podílející se na plnění jeho povinností, nebo lékař nebo zdravotná sestra zapojená do poskytování neodkladné lékařské péče, je považován za útok.
+Úmysl zabít
 
-**Sankce:**
-- 5 let odnětí svobody a pokuta ve výši 3000 $
+Musí být dokázán úmysl zabít. Úmysl způsobit zranění nestačí, pokud chybí úmysl zabít.
 
-**Příklady:**
+Důležité je místo poranění. Zranění horní části těla více poukazují na úmysl vraždy. Z důvodu, že se tam nacházejí životně důležité orgány.
+
+V mnoha případech nedochází k žádným zraněním. Prokurátoři se proto při prokazování úmyslu spoléhají na celkové okolnosti.
+
+Pokus o vraždu se také rozděluje na Pokus o vraždu I. stupně a II. stupně.
+
+I. stupeň je promyšlený a záměrný.
+
+Pokus někoho usmrtit, ale oběť přežije.
+
+Objednání vraždy.
+
+Bodnutí nožem do hrudníku s úmyslem zabít, ale oběť přežije.
+
+Škrtit někoho s úmyslem ho zabít, ale oběť přežije.
+
+II. stupeň jsou všechny ostatní druhy a způsoby.
+
+Sankce:
+
+I. stupeň- 12 let až doživotí.
+
+V případě, že oběť byla Peace Officer, Hasič tak minimální trest je 15 let.
+
+II. stupeň - 5, 7 nebo 9 let v státní věznici.
+
+Pokus o vraždu taktéž nese pokutu ve výši až 20000$ a odškodnění oběti.
+### §5 Útok na Peace Officera
+
+§5 uvádí, že "je-li spáchán útok na osobu mírového důstojníka, hasiče, pohotovostního zdravotního technika, mobilního záchranáře intenzivní péče, plavčíka, procesního serveru, dopravního důstojníka, důstojníka vymáhání zákonů, důstojníka kontroly zvířat nebo člena pátrací a záchranné služby zapojeného výkon svých povinností nebo lékař nebo zdravotní sestra zabývající se poskytováním neodkladné lékařské péče mimo nemocnici, kliniku nebo jiné zdravotnické zařízení a osoba, která se dopustila trestného činu, ví nebo by měla přiměřeně vědět, že obětí je mírový důstojník, hasič, pohotovostní lékařský technik, mobilní zdravotník na jednotce intenzivní péče, plavčík, procesní server, dopravní důstojník, pracovník pro vymáhání zákonů, pracovník pro kontrolu zvířat nebo pátrací a záchranný člen podílející se na plnění jeho povinností, nebo lékař nebo zdravotná sestra zapojená do poskytování neodkladné lékařské péče, je útok.
+
+Sankce:
+
+5let a 3000$
+
+Příklady
+
 - Házet kámen po policistovi.
-- Fyzicky skočit na policejního důstojníka, aby se znehybnil a složil k zemi.
-- Plivnout do tváře veřejnému činiteli.
 
-#### §6 Nelegální držení zbraně
+- Fyzicky skočit na officera, aby se znehybnil a složil k zemi.
+
+- Plivat do tváře veřejnému činiteli.
+
+### §6 Nelegální držení zbraně
 
 (a) Osoba nesmí provádět žádné z těchto akcí se střelnou zbraní:
 
@@ -1293,33 +1741,31 @@ Pokus o vraždu nese také pokutu ve výši až 20000$ a odškodnění oběti.
 
 (c) "Ustanovení tohoto oddílu jsou kumulativní a nelze je vykládat tak, že omezují použití jakéhokoliv jiného zákona. Čin nebo opomenutí, které lze různými způsoby postihovat různými ustanoveními tohoto kódexu, však nebude potrestáno podle více než jednoho ustanovení."
 
-**Sankce:**
-- Zbraně typu LEG nespadající pod GUR: Odnětí svobody až na 10 let.
-- Zbraně typu GUR (neregistrované/bez licence): Odnětí svobody až na 5 let.
+Sankce:
+Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 10 let
+Zbraně typu GUR (neregistrované/bez licence) - odnětí svobody až na 5 let
+### §7 Nelegální přídavky na zbraň
 
-#### §7 Nelegální přídavky na zbraň
-
-**Tlumič:**
+Tlumič:
 
 Trestní zákoník dle §7. říká, že tlumič či jiná tlumící zařízení na střelné zbrani proti odhlučnění střelného rázu je nelegální, a nesmí jí vlastnit žádná osoba na její střelné zbrani. Tento zákon se nevztahuje na státní zásahové jednotky okresního Departmentu.
 
 "Každá osoba, firma nebo korporace, která má v tomto státě tlumič, je vinna z trestného činu a na základě jeho přesvědčení bude potrestána odnětím svobody po dobu maximálně až 24 měsíců, nebo pokutou nepřesahující 15 000$, nebo oběma pokutami a odnětí svobody."
 
-Na závažnosti porušení tohoto zákona se také přihlíží k tomu, na jaké zbrani se tlumič nacházel.
+Na závažnosti porušení tohoto zákonu se také přihlíží k tomu, na jaké zbrani se tlumič nacházel
 
 Seznam nelegální přídavků na zbraně ve státu San Andreas:
 
 Tlumič
-
-#### §9 Únos
+### §9 Únos
 
 San Andreaský trestní zákoník 9 P. C. definuje únos jako přesun jiné osoby na značnou vzdálenost bez jejího souhlasu silou nebo strachem.
 
-Jednoduchý únos je zločin, za který hrozí trest ve vězení až 8 let. Trestem může být doživotí, je-li obětí dítě, je-li oběť zraněna nebo zabita, je-li požadováno výkupné nebo je-li únos součástí únosu automobilu.
+Jednoduchý únos je zločin, za který hrozí trest ve vězení až 8 let. Trestem může být doživotí, je-li obětí dítě , je-li oběť zraněna nebo zabita, je-li požadováno výkupné nebo je-li únos součástí únosu automobilu.
 
-9 (a) P. C. uvádí, že "každá osoba, která násilím nebo jakýmkoli jiným způsobem vyvolá psychickou újmu, ukradne, vezme, zadržuje, nebo zatýká jakoukoli osobu v tomto státě a přepravuje ji do jiné země, státu nebo do jiné části stejného okresu, je vinen z únosu."
+9 (a) P. C. uvádí, že "každá osoba, která násilím nebo jakýmkoli jiným způsobem vyvolá psychickou újmu, ukradne, vezme, zadržuje, nebo zatýká jakoukoli osobu v tomto státě a přepravuje ji do jiné země, státu nebo nebo do jiné části stejného okresu, je vinen z únosu. "
 
-#### §10 Zhoršený Únos
+### §10 Zhoršený Únos
 
 - Únos dítěte nebo osoby mladší než 14 let
 
@@ -1334,35 +1780,42 @@ Jednoduchý únos je zločin, za který hrozí trest ve vězení až 8 let. Tres
 Pokud-li si nejedná o zhoršený únos, obžalovaný může být trestán až pokutou $10 000.
 
 Pokud-li se jedná o zhoršený únos, obžalovaný může být trestán odnětím svobody po dobu 8 let v okresní věznici
+### §11 Drive by Shooting
 
-#### §11 Drive by Shooting
 "je zákon, který definuje trestný čin střelby z auta. Existují dva způsoby, jak tuto část porušit: úmyslným a zlomyslným vystřelením střelné zbraně z vašeho vozidla nebo tím, že dovolíte jiné osobě vnést do vašeho vozidla zbraň."
 
-§11. uvádí, že "Je přestupkem řidiče jakéhokoli motorového vozidla nebo vlastníka jakéhokoli motorového vozidla, umožnit jakékoli jiné osobě, vnést do vozidla střelnou zbraň. Jakýkoli řidič nebo vlastník jakéhokoli vozidla, který vědomě připouští jakékoli jiná osoba, která by mohla z vozidla vystřelit jakoukoli střelnou zbraň, se trestá odnětím svobody v krajském vězení na nejvýše jeden rok nebo ve státním vězení na 12 měsíců, dva nebo tři roky. Každý, kdo úmyslně a zlomyslně namíří střelnou zbraň z motorového vozidla na jinou osobu, než je cestující v motorovém vozidle, je vinen z trestného činu s trestem odnětí svobody ve státním vězení na tři, pět nebo sedm let."
+§11. uvádí, že "Je přestupkem řidiče jakéhokoli motorového vozidla nebo vlastníka jakéhokoli motorového vozidla, umožnit jakékoli jiné osobě, vnést do vozidla střelnou zbraň. Jakýkoli řidič nebo vlastník jakéhokoli vozidla, který vědomě připouští jakékoli jiná osoba, která by mohla z vozidla vystřelit jakoukoli střelnou zbraň, se trestá odnětím svobody v krajském vězení na nejvýše jeden rok nebo ve státním vězení na 12 měsíců, dva nebo tři roky. Každý, kdo úmyslně a zlomyslně namíří střelnou zbraň z motorového vozidla na jinou osobu, než je cestující v motorovém vozidle, je vinen z trestného činu s trestem odnětí svobody ve státním vězení na tři, pět nebo sedm let. "
+### §12 Vandalizmus
 
-#### §12 Vandalizmus
-Trestní zákoník 12 je zákon v štátě San Andreas, který definuje vandalismus jako zlomyslně poškozující, ničící nebo poškozující majetek jiné osoby. Trestá se pokutou ne vyšší jak 1500$
+Trestní zákoník 12 je zákon v štáte San Andreas, který definuje vandalismus jako zlomyslně poškozující, ničící nebo poškozující majetek jiné osoby. Trestá se pokutou ne vyšší jak 1500$
 
 Příklady vandalství mohou být:
 
 - Nepovolená malba na cizí plochu či pozemek ne/smytelnými typy barev a následné znehodnocení hodnoty majetku.
+
 - Destrukce majetku což může být: Elektronika v domě, nádobí, textil atp.
+
 - Poškození majetku: Pachatel se pokusí šperhákem dostat do zámku osobního vozidla, poničí vnitřní systém a mechaniku cizí věci
 
-#### §13 Trespassing
+### §13 Trespassing
 §13 je zákon v státě San Andreas, který definuje trespassing (neoprávněný vstup) jako vstup nebo setrvání na cizím pozemek bez povolení a pozemek je ohrazen plotem nebo má vyvěšené cedule "zákaz vstupu (no trespassing)".
 
 Trest:
 Trestá se odnětím svobody ne vyšší než 2 roky a pokutou 2 500$
+
 V případě pozemku státních institucí a státních složek se trestá odnětím svobody ne vyšší než 5 let a pokutou 2 500$
 
-#### §14 Loupež
+
+### §14 Loupež
+
 San Andreaský trestní zákoník §9 P.C. definuje zločin loupeže jako "zločinné převzetí osobního majetku v držení jiného, ​​od jeho osoby nebo bezprostřední přítomnosti, a proti jeho vůli, provedeného silou nebo strachem.
 
 Příklady loupeže
 
 - Vniknutí do domu, když jsou obyvatelé uvnitř, a poté jim hrozí krádeží části jejich osobního majetku
+
 - Omráčit někoho a poté ukrást jeho majetek, když je v bezvědomí a nemůže se proti loupeži bránit.
+
 - Poté, co byl přistižen při činu krádeže, vyhrožoval majiteli nemovitosti fyzickou újmou, aby unikl.
 
 Pokuty/tresty
@@ -1370,147 +1823,278 @@ Pokuty/tresty
 Odsouzení za loupež nese trestné činy. Přesné důsledky přesvědčení o loupeži závisí na tom, zda spácháte loupež prvního nebo druhého stupně.
 
 Loupež I. stupně zahrnuje:
+
 - Jakýkoli řidič nebo cestující v autobuse, taxíku, tramvaji, metru atp.
+
 - Loupež, která se odehrává v nemovitosti, loupež obchodu nebo klenotnictví
+
 - Každá osoba, která právě použila bankomat a je stále v blízkosti bankomatu
 
 Loupež prvního stupně vede k trestu odnětí svobody v San Andreas na až 9 let.
+
 A trest za loupež druhého stupně je až 5 let ve státním vězení.
+### §15 Neuposlechnutí výzvy
 
-#### §15 Neuposlechnutí výzvy
-Policisté v Los Santos mají pravomoc vydávat zákonné rozkazy obyvatelstvu jako celku k udržení veřejného pořádku. Neuposlechnutí těchto příkazů je trestným činem podle san andreaského zákoníku o vozidlech. K prokázání viny za neuposlechnutí policisty musí státní zástupce prokázat, že osoba úmyslně odmítla nebo nesplnila zákonný rozkaz mírového důstojníka, který byl v uniformě a plnil svou povinnost.
+Policisté v Los Santos jsou jedineční v tom, že mají pravomoc vydávat zákonné rozkazy obyvatelstvu jako celku. Tyto příkazy mohou být nezbytné k zachování veřejné bezpečnosti nebo udržení pořádku během mimořádné situace. Pokud by veřejnosti bylo umožněno svobodně ignorovat zákonné příkazy, neměly by tyto orgány činné v trestním řízení žádný smysluplný způsob, jak plnit své povinnosti. Výsledkem je, že neuposlechnutí mírového důstojníka je trestným činem podle san andreaského zákoníku o vozidlech.
 
-Trest/sankce:
-- Pokud osoba neuposlechne důstojníkovy výzvy po dobu tří pokusů a bude nucena být zajištěna donucovacími prostředky, může čelit trestu odnětí svobody až jeden rok a/nebo pokutě nepřevyšující 3 000$.
+K prokázání, že obžalovaný je vinen z neuposlechnutí policisty, musí být státní zástupce schopen prokázat následující skutečnosti:
 
-#### §16 Bránění ve výkonu
-San Andreaský trestní zákoník 16 PC definuje vzdorování zatčení jako úmyslné vzdorování, zdržování nebo maření policistů při výkonu jejich úředních povinností. K přestupku dochází, když osoba úmyslně vzdoruje, zdržuje nebo brání veřejnému činiteli, mírovému důstojníkovi nebo záchrannému lékaři při výkonu jejich povinností.
+- Osoba úmyslně odmítla nebo nesplnila zákonný rozkaz, signál nebo pokyny kteréhokoli mírového důstojníka.
+
+- Důstojník byl uniformě a plnil svou povinnost.
+
+Trest/sankce
+
+- Pokud-li osoba neuposlechne důstojníkových výzev po dobu tří pokusů, a bude nucena být zajištěna donucovacími prostředky, může čelit trestu odnětí svobody až jeden rok a/nebo pokutě nepřevyšující sankci 3 000$
+
+### §16 Bránění ve výkonu
+
+San Andreaský trestní zákoník 16 PC obecně definuje vzdorování zatčení jako úmyslné vzdorování, zdržování nebo maření policistů při výkonu jejich úředních povinností.
+
+16 P.C. uvádí, že "každá osoba, která úmyslně vzdoruje, zdržuje nebo brání jakémukoli veřejnému činiteli, mírovému důstojníkovi nebo záchrannému lékaři, při propuštění nebo pokusu o splnění jakékoli povinnosti svého úřadu nebo zaměstnání.
+
+Příklady
+
+- Osoba fyzicky a použití silou vzdoruje výkonu policejního důstojníka.
+
+- Posmívání se příslušníkovy lékařské pomoci při výkonu zachraňujícím život zraněné osobě.
+
+- Uvedení falešného jména úřadům během výslechu.
+
+Sankce/tresty
+
+Porušení §16 P.C. je v San Andreas bráno jako přestupek, osoba čelí trestům následujícím:
+
+Odnětí svobody osoby na max. jednoho léta v okresní věznici a/nebo pokuta nepřevyšující 10 000$
+### §17 Křivá výpověď
+
+je zákon v San Andreas, díky němuž je nezákonné podávat falešné policejní zprávy o trestném činu. Zpráva by mohla být přestupkem nebo trestným činem. Falešné hlášení je trestným činem, pouze pokud osoba, která hlášení podává, ví, že je nepravdivé.
+
+17 P.C definuje že "každá osoba, která se ohlásí kterémukoli mírovému důstojníkovi, generálnímu prokurátorovi nebo náměstkovi generálního prokurátora nebo okresnímu právníkovi nebo zástupci okresního právníka, že byl spáchán zločin nebo přestupek, protože ví, že hlášení je nepravdivé, je vinen z přestupku. "
+
+Tresty/sankce
+
+Porušení tohoto zákona je přestupkem podle zákona státu San Andreas.
+
+Trestný čin se trestá:
+
+Vazba v okresním vězení až na 1 rok a Nepřevyšující pokuta 5 000$
+### §18 Vyhrožování
+
+Je vyhrožování případné hrozby, smrtí či poškození trestný čin. Konkrétně hrozby ve formě trestu, smrti nebo velkého ublížení na zdraví kdy je na osobu vyvinutý psychický nátlak s vyvolání strachu o svůj život.
+
+18 PC uvádí, že každá osoba, která úmyslně vyhrožuje spácháním trestného činu, který bude mít za následek smrt nebo velkou újmu na zdraví jiné osoby, se zvláštním úmyslem, aby prohlášení učiněné ústně, písemně nebo prostřednictvím elektronického komunikačního zařízení bylo být brána jako hrozba, i když neexistuje žádný záměr ve skutečnosti ji uskutečnit, což je na první pohled a za okolností, za kterých je vyrobeno, tak jednoznačné, bezpodmínečné, okamžité a konkrétní, sdělit ohrožené osobě závažnost účelu a okamžitá vyhlídka na provedení hrozby, a tím způsobí, že se tato osoba bude důvodně obávat o vlastní bezpečnost nebo o bezpečnost své nejbližší rodiny.
 
 Příklady:
-- Fyzický odpor vůči policejnímu důstojníkovi.
-- Posmívání se příslušníkovy lékařské pomoci při zachraňování života zraněné osoby.
-- Poskytování falešného jména úřadům během výslechu.
 
-Sankce/tresty:
-Porušení §16 PC je považováno za přestupek a může být potrestáno odnětím svobody na maximálně jeden rok v okresní věznici a/nebo pokutou nepřesahující 10 000$.
+- Hrozba osobám přítomným zastřelením jiné osoby, zatímco držíte zbraň
 
-#### §17 Křivá výpověď
-Podání falešné policejní zprávy o trestném činu je nezákonné v San Andreas. Za tento přestupek může být potrestána každá osoba, která vědomě podá falešné hlášení. Porušení tohoto zákona je přestupkem a může být potrestáno vazbou v okresním vězení až na 1 rok a/nebo pokutou do výše 5 000$.
+- Policista zabaví osobě nelegální množství marihuany, a tam mu následně začne vyhrožovat že si jej a jeho rodinu najde
 
-#### §18 Vyhrožování
-Vyhrožování představuje trestný čin, kdy osoba úmyslně hrozí spácháním trestného činu s cílem vyvolat strach o život nebo bezpečnost jiné osoby. Trest za tento přestupek může být odnětí svobody na maximálně jeden rok v okresní věznici a/nebo pokuta až 6 000$.
+- Muž píše své bývalé přítelkyni, která jej vyhodila z bytu, že jí zničí její majetek
 
-#### §19 "Velká" Krádež vozidla
-Krádež vozidla je trestný čin, který může být potrestán až devíti lety vězení v San Andreas. Trest může být ještě vyšší, pokud dojde k zranění oběti, použití střelné zbraně, páchatel je členem gangu nebo pachatel unese oběť. Sankce mohou zahrnovat i další trestní činy, pokud byla při krádeži použita zbraň.
+Tresty/sankce:
 
-#### §20 Nelicencovaný prodej zbraní
-Prodej, pronájem nebo převod střelných zbraní bez platné licence je přestupek v San Andreas. Trest za porušení tohoto zákona může být odnětí svobody na maximálně 1 rok a/nebo pokuta do výše 1 000$.
+Odnětí svobody na maximální dobu odnětí svobody po dobu jednoho roku v okresní věznici a /nebo pokuta až 6 000$
+### §19 "Velká" Krádež vozidla
 
-#### §21 Stalking
-Stalking je trestný čin, který spočívá v opakovaném sledování a obtěžování jiné osoby s úmyslem vyvolat strach o její bezpečí a zdraví, stejně jako o bezpečnost její rodiny. Za tento zločin může být pachatel potrestán trestem odnětí svobody nepřesahujícím 5 let.
+Dle trestního zákona 19 PC San Andreaské právo definuje zločin krádeže auta jako převzetí motorového vozidla jiné osobě silou nebo strachem.
 
-#### §22 Open Carry
-Podle San Andreaského trestního zákoníku je otevřená přeprava nenaložené zbraně na veřejném prostranství nezákonná. Tento zákon zakazuje:
-- otevřené nošení zbraně,
-- držení odhalené a nabité zbraně,
-- nošení zbraně na osobě nebo uvnitř vozidla,
-- nošení zbraně na veřejném místě nebo na ulici.
-Porušení tohoto zákona může být trestáno pobytem ve věznici až na 1 rok a/nebo pokutou ve výši 5 000$.
+Zločin krádeže auta je trestný čin, za který Vám hrozí až devět let vězení v San Andreas, a další, pokud
 
-#### §23 Spolupachatelství
-Tento zákon definuje pomoc při spáchání trestného činu jako nezákonnou. Všichni zúčastnění, ať už přímo spácháním činu nebo jeho napomáháním, jsou považováni za hlavní osoby v trestném činu. Osoba, která poskytne pomoc nebo navádí ke spáchání trestného činu, může čelit stejnému trestu jako pachatel činu.
+1. Bude oběť při krádeži zraněna
 
-#### §24 Zahalování
-Nošení masky nebo přestrojení za účelem uniknutí po obvinění, zatčení nebo odsouzení za trestný čin je považováno za zločin. Osoba, která se dopustí tohoto činu, může být potrestána až ročním vězením a/nebo pokutou do výše 1000$.
+2. Bude při krádeži použita střelná zbraň
 
-#### §25 Nedbalé použití střelné zbraně
-Tento zákon stanovuje, že použití střelné zbraně s nedbalostí, které způsobí zranění nebo ohrožení života, je trestným činem. Pokud se jedná o přečin, hrozí trest odnětí svobody až na 1 rok ve státní věznici a pokuta až do výše 1 000$. Pokud se jedná o zločin, trest může být až 3 roky odnětí svobody ve státní věznici a pokuta až do výše 5 000$.
+3. Bude pachatel páchat přestupek ve prospěch gangu
 
-#### §26 Křivá přísaha
-a) Tento zákon stanovuje, že každá osoba, která poskytne falešné prohlášení pod přísahou před tribunálem, úředníkem nebo jinou osobou, a uvádí jako pravdivé věci, které jsou ve skutečnosti nepravdivé, je považována za křivě přísahající. Trestem za toto provinění je odnětí svobody ne více než 2 roky a/nebo pokuta ne vyšší než 2 000$.
+4. Pachatel unese při krádeži oběť
 
-b) Osoba nemůže být odsouzena za křivou přísahu pouze na základě protichůdného svědectví jediné osoby, kromě obžalovaného. Důkaz o nepravdivosti může být přímý nebo nepřímý.
+Sankce:
 
-#### §28 Nosení balistické vesty
-b) Pokud osoba nosí balistickou vestu při spáchání nebo pokusu o spáchání násilného trestného činu, může být po odsouzení za tento čin nebo pokus o něj trestána dodatečným trestem na jeden, dva nebo pět let, kromě trestu za původní zločin nebo pokus o něj. Rozsudek stanoví soud na základě přitěžujících nebo zmírňujících okolností.
+Za tento přestupek lze uložit trest odnětí svobody až na 9 let ve státní věznici a další trestný čin, pokud bude při spáchání zločinu použita zbraň.
+### §20 Nelicencovaný prodej zbraní
 
-c) Termín "balistická vesta" zahrnuje jakýkoli neprůstřelný materiál poskytující ochranu proti balistickým a traumatickým účinkům.
+San Andreaské právo činí přestupek při prodeji, pronájmu nebo převodu střelných zbraní či doplňků na střelné zbraně (patenty na zbraně, zásobníky,..) bez platné licence nebo povolení.
 
-Trest:
-- Přidání k původnímu trestu ne více než 5 let.
+Dále uvádí, že:
 
-#### §29 Ovlivňování svědků
+a) Žádná osoba nesmí prodávat, pronajímat nebo převádět střelné zbraně, pokud jí nebyla vydána licence.
 
-1. Vědomě a zlomyslně brání nebo odrazuje jakéhokoli svědka nebo oběti, aby se zúčastnili nebo poskytli svědectví na jakémkoli soudním řízení, řízení nebo vyšetřování povoleném zákonem.
+b) Každá osoba, která se dopouští protiprávního jedná dle §20 sekce PC se dopouští přestupku.
 
-2. Vědomě a zlomyslně se pokouší zabránit nebo odradit jakéhokoli svědka nebo oběť, aby se zúčastnili nebo poskytli svědectví jakéhokoli procesu, řízení nebo vyšetřování povoleném zákonem.
+Sankce:
 
-c. Každá osoba, která vědomě a zlomyslně jedná některý z činů popsaných v pododdíle a nebo b za jedné nebo více z následujících okolností, je vinna ze zločinu za kterékoli z těchto okolností:
+Trest nepřesahující 1 roku a / nebo pokuta nepřesahující $1,000.
+### §21 Stalking
 
-1. Je-li čin doprovázen silou nebo výslovnou nebo implicitní hrozbou síly nebo násilí, vůči svědkovi nebo oběti nebo jakékoli třetí osobě nebo majetku kterékoli oběti, svědka nebo jakékoli třetí osoby.
+Je zákon, který definuje pronásledování a obtěžování jako zločin.
 
-2. Je-li čin na podporu spiknutí.
+Dále uvádí, že každá osoba, která úmyslně a opakovaně sleduje jinou a činí důvěryhodnou hrozbu v úmyslu vybudit strach o bezpečí a zdraví osoby druhé a její rodiny, je vinen ze zločinu stalkingu.
 
-d. Každá osoba, která se pokusí spáchat jakýkoli čin uvedený v pododdílech a nebo b a c, je vinna z pokusu o trestný čin bez ohledu na úspěch nebo neúspěch tohoto pokusu. Skutečnost, že žádná osoba nebyla fyzicky zraněna nebo ve skutečnosti zastrašena, není obranou proti jakémukoli trestnímu stíhání podle tohoto oddílu.
+Sankce:
 
-e. Nic v tomto oddíle nevylučuje uložení zvýšení za velké tělesné zranění, je-li způsobená újma významná nebo podstatná.
+Trest nepřesahující 5 let.
+### §22 Open Carry
 
-f. Použití síly při spáchání jakéhokoli trestného činu popsaného v části c se považuje za přitěžující okolnost trestného činu při ukládání trestu odnětí svobody podle části b
+Jedná se o zákon, který znemožňuje otevřenou přepravu nenaložené zbraně na veřejném prostranství
 
-**Trest:** Odnětí svobody ne více než 5 let a/nebo pokuta ne vyšší než 4,000$
+Podle San Andreaského trestního zákoníku §22 je nezákonné:
 
-#### §30 Pohrdání soudem
+a) otevřeně nosit zbraň
 
-1. Neřízené, pohrdavé nebo drzé chování spáchané během zasedání soudu v bezprostředním zorném poli a v přítomnosti soudu, které má přímou tendenci přerušit jeho jednání nebo narušit respekt vůči jeho autoritě.
+b) mít zbraň odhalenou a nabitou
 
-2. Chování uvedené v odstavci 1, které je spácháno v přítomnosti poroty, během skutečného jednání nebo jednání, na základě příkazu soudu nebo v přítomnosti poroty během skutečného zasedání při jednání z důvodu nebo na základě vyšetřování nebo jiného jednání povoleného zákonem.
+c) mít zbraň na vaší osobě nebo uvnitř vozidla
 
-3. Narušení klidu, hluk nebo jiné rušení přímo směřující k přerušení řízení soudu.
+d) nosit zbraň na veřejném místě nebo na ulici
 
-4. Úmyslné neuposlechnutí napsaných podmínek procesu nebo soudního příkazu nebo příkazu mimo státní soud, zákonně vydaného soudem, včetně příkazů čekajících na soudní proces.
+Sankce:
 
-5. Úmyslně kladený odpor osoby zákonnému příkazu nebo postupu soudu.
+Pobyt ve věznici 1 rok a/nebo pokuta $5,000
+### §23 Spolupachatelství
 
-6. Kontumační a nezákonné odmítnutí osoby složit přísahu jako svědek nebo, je-li to přísaha, podobné odmítnutí odpovědět na podstatnou otázku.
+Je zákon, který definuje pomoc při trestném činu. Je nezákonné navádět, usnadňovat nebo pomáhat při spáchání trestného činu.
 
-7. Zveřejnění nepravdivé nebo hrubě nepřesné zprávy o řízení soudu.
+Tento zákon uvádí, že všechny osoby zúčastněné pří páchání trestného činu, ať už jde o trestný čin nebo přestupek, a zda se přímo dopustí skutku zakládajícího trestný čin, nebo napomáhají a dopouštějí se jeho spáchání, jsou hlavními osobami v jakémkoli takto spáchaném zločinu.
 
-9. Úmyslné neuposlechnutí podmínek soudního příkazu, který omezuje činnost pouličního zločineckého gangu nebo kteréhokoli z jeho členů, zákonně vydaného soudem, včetně soudního příkazu.
+Osobě, které se dopustí trestného činu napomáhání a navádění, hrozí stejný trest jako tomu, kdo trestný čin spáchal.
+### §24 Zahalování
 
-**Trest:** Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 10,000$
+Zákon také činí trestným činem, když osoba nosí masku, aby unikla poté, co byla obviněna, zatčena nebo odsouzena za trestný čin.
 
-#### §31 Civilní zatčení
+24 P.C. uvádí, že "pro jakoukoli osobu bude nezákonné nosit jakoukoli masku, falešné vousy nebo jakýkoli osobní převlek (ať už úplný nebo částečný) za účelem buď, vyhýbat se při spáchání jakéhokoli veřejného trestného činu, nebo utajení či útěk. Nadále pokud je obviněn, zatčen nebo odsouzen za jakýkoliv veřejný trestný čin."
+
+Příklad:
+
+Osoba vykradla obchod, následně utekla a změnila si vizáž např. lepícími vousy či parukou
+
+Hledaná osoba si na sebe oblékne masku či nákrčník za účelem skrytí identity
+
+Osoba si poté co odejde pryč ze soukromého pozemku nasadí černé sluneční brýle
+
+San Andreaský trestní zákoník považuje nošení masky nebo přestrojení za zločin, aby se člověk po spáchání trestného činu vyhnul policii.
+
+Sankce:
+Přestupek, za který lze uložit až 1 let vězení a pokutu až do výše 1000$
+### §25 Nedbalé použití střelné zbraně
+
+Trestní zákoník 25 P.C. uvádí:
+
+"že se osoba dopouští trestného činu nedbalé použití střelné zbraně když při užití střelné zbraně způsobí někomu zranění život ohrožující či dokonce smrt"
+
+Příklady:
+
+• Poté, co jeho oblíbený baseballový tým vyhraje Světovou sérii, muž během oslavy v parku vystřelí ze své zbraně do vzduchu.
+
+Sankce:
+
+Pokud se jedná o přečin, lze trestat odnětím svobody až na 1 rok ve státní věznici a pokutou nepřesahující 1 000$.
+
+Pokud se jedná o zločin (trestný čin), lze trestat odnětím svobody až na 3 roky ve státní věznici a pokutou nepřesahující 5 000$.
+### §26 Křivá přísaha
+
+a) Každá osoba, která po složení přísahy, že bude svědčit, prohlašovat, odvolávat nebo pravdivě osvědčit před jakýmkoli příslušným tribunálem, úředníkem nebo osobou, v kterémkoli z případů, ve kterých může být přísaha podle zákona státu San Andreas být spravován, úmyslně a v rozporu s přísahou, uvádí jako pravdivou jakoukoli materiální záležitost, o které ví, že je nepravdivá, a každou osobu, která svědčí, prohlašuje, odvolává nebo osvědčuje pod hrozbou trestu za křivou přísahu v kterémkoli z případů, ve kterých svědectví, prohlášení, výpovědi nebo osvědčení jsou povoleno zákonem státu San Andreas pod hrozbou trestu za křivou přísahu a úmyslně uvádí jako pravdivou jakoukoli podstatnou věc, o které ví, že je nepravdivá, je vinna z křivé výpovědi.
+
+Toto rozdělení je použitelné bez ohledu na to, zda je prohlášení nebo svědectví, prohlášení, výpověď nebo osvědčení učiněné nebo upsané ve státě San Andreas nebo mimo něj.
+
+b) Nikdo nebude odsouzen za křivou přísahu, jestliže důkaz o nepravdivosti spočívá výlučně na protiřečení svědectví jediné osoby jiné než obžalovaného. Důkaz o nepravdivosti může být prokázán přímým nebo nepřímým důkazem.
+
+Trest
+
+Odnětí svobody ne více než 2 roky a/nebo pokuta ne vyšší než 2,000$
+### §28 Nosení balistické vesty
+
+b) Každá osoba, která si nasadí body armor při spáchání nebo při pokusu o spáchání násilného trestného činu, jak je definován v § 28, je po odsouzení za tento zločin nebo pokus o trestný čin povinen kromě a následně po trestu předepsaném pro zločin nebo pokus zločinu, za který byl odsouzen, potrestán dodatečným trestem na jeden, dva nebo pět let. Soud nařídí střední lhůtu, dokud nenastanou přitěžující nebo zmírňující okolnosti. Důvody pro svůj výběr zesílení uvede soud v záznamu při vynesení rozsudku.
+
+c) Jak se používá v této části, "body armor" znamená jakýkoli neprůstřelný materiál určený k poskytnutí balistické a traumatické ochrany pro nositele.
+
+Trest
+
+Přidání ne více než 5 let k původnímu trestu
+
+### §29 Ovlivňování svědků
+
+(1) Vědomě a zlomyslně brání nebo odrazuje jakéhokoli svědka nebo oběti, aby se zúčastnili nebo poskytli svědectví na jakémkoli soudním řízení, řízení nebo vyšetřování povoleném zákonem.
+
+(2) Vědomě a zlomyslně se pokouší zabránit nebo odradit jakéhokoli svědka nebo oběť, aby se zúčastnili nebo poskytli svědectví jakéhokoli procesu, řízení nebo vyšetřování povoleném zákonem.
+
+(c) Každá osoba, která vědomě a zlomyslně jedná některý z činů popsaných v pododdíle (a) nebo (b) za jedné nebo více z následujících okolností, je vinna ze zločinu za kterékoli z těchto okolností:
+
+(1) Je-li čin doprovázen silou nebo výslovnou nebo implicitní hrozbou síly nebo násilí, vůči svědkovi nebo oběti nebo jakékoli třetí osobě nebo majetku kterékoli oběti, svědka nebo jakékoli třetí osoby.
+
+(2) Je-li čin na podporu spiknutí.
+
+(d) Každá osoba, která se pokusí spáchat jakýkoli čin uvedený v pododdílech (a), (b) a (c), je vinna z pokusu o trestný čin bez ohledu na úspěch nebo neúspěch tohoto pokusu. Skutečnost, že žádná osoba nebyla fyzicky zraněna nebo ve skutečnosti zastrašena, není obranou proti jakémukoli trestnímu stíhání podle tohoto oddílu.
+
+(e) Nic v tomto oddíle nevylučuje uložení zvýšení za velké tělesné zranění, je-li způsobená újma významná nebo podstatná.
+
+(f) Použití síly při spáchání jakéhokoli trestného činu popsaného v části (c) se považuje za přitěžující okolnost trestného činu při ukládání trestu odnětí svobody podle části (b)
+
+Trest
+
+Odnětí svobody ne více než 5 let a/nebo pokuta ne vyšší než 4,000$
+### §30 Pohrdání soudem
+
+(1) Neřízené, pohrdavé nebo drzé chování spáchané během zasedání soudu v bezprostředním zorném poli a v přítomnosti soudu, které má přímou tendenci přerušit jeho jednání nebo narušit respekt vůči jeho autoritě.
+
+(2) Chování uvedené v odstavci 1, které je spácháno v přítomnosti poroty, během skutečného jednání nebo jednání, na základě příkazu soudu nebo v přítomnosti poroty během skutečného zasedání při jednání z důvodu nebo na základě vyšetřování nebo jiného jednání povoleného zákonem.
+
+(3) Narušení klidu, hluk nebo jiné rušení přímo směřující k přerušení řízení soudu.
+
+(4) Úmyslné neuposlechnutí napsaných podmínek procesu nebo soudního příkazu nebo příkazu mimo státní soud, zákonně vydaného soudem, včetně příkazů čekajících na soudní proces.
+
+(5) Úmyslně kladený odpor osoby zákonnému příkazu nebo postupu soudu.
+
+(6) Kontumační a nezákonné odmítnutí osoby složit přísahu jako svědek nebo, je-li to přísaha, podobné odmítnutí odpovědět na podstatnou otázku.
+
+(7) Zveřejnění nepravdivé nebo hrubě nepřesné zprávy o řízení soudu.
+
+(9) Úmyslné neuposlechnutí podmínek soudního příkazu, který omezuje činnost pouličního zločineckého gangu nebo kteréhokoli z jeho členů, zákonně vydaného soudem, včetně soudního příkazu.
+
+Trest
+
+Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 10,000$
+### §31 Civilní zatčení
+
 Soukromá osoba může zatknout druhou:
 
 1. Za veřejný přestupek spáchaný nebo pokus o něj v jeho přítomnosti.
-   
+
 2. Když zatčená osoba spáchala trestný čin, byť ne v její přítomnosti.
-   
+
 3. Když byl trestný čin skutečně spáchán a má přiměřený důvod se domnívat, že byl spáchán zatčenou osobou.
 
-#### §32 Úplatkářství a korupce
+### §32 Úplatkářství a korupce
+
 Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi, porotci nebo jakékoli osobě, která může být zákonem oprávněna vyslechnout nebo rozhodnout o jakékoli otázce nebo polemice s úmyslem ovlivnit jeho hlas, vyjádření nebo rozhodnutí o jakékoli věci nebo otázce, která mu je nebo může být předložena k rozhodnutí.
 
-**Trest:** Odnětí svobody ne více než 4 roky
+Trest
 
-#### §33 Úplatkářství a korupce státních složek
+Odnětí svobody ne více než 4 roky
+### §33 Úplatkářství a korupce státních složek
+
 Každá osoba, která poskytne nebo nabídne jakýkoli úplatek jakémukoli výkonnému úředníkovi v tomto státě s úmyslem ovlivnit jej v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, názorem nebo jiným jednáním jako takový úředník.
 
-**Trest:**
-1. Civilista: Odnětí svobody ne více než 4 roky
-2. Státní složka:
-    a) zbavení a zákaz funkce jako veřejný úředník
-    b) Odnětí svobody na 10 let - až doživotí.
-    c) Odnětí svobody na 10 let - až doživotí. Pokuta 100,000$ - 10 000,000$
+Trest
 
-#### §34 Zneužití tísňové linky
+(1) Civilista: Odnětí svobody ne více než 4 roky
+
+(2) Státní složka: a) zbavení a zákaz funkce jako veřejný úředník
+                            b) Odnětí svobody na 10 let - až doživotí.
+                            c) Odnětí svobody na 10 let - až doživotí. Pokuta 100,000$ - 10 000,000$
+                       
+### §34 Zneužití tísňové linky
+
 a) Osoba, která vědomě povolí použití nebo která použije tísňový systém 911 z jakéhokoli jiného důvodu než z důvodu nouze, se dopustí přestupku, který se trestá takto:
 
-**Trest:**
-- Odnětí svobody ne více než 1 rok (třikrát a více)
-- Pokuta ne vyšší než 5,000$ (poprvé a podruhé)
+Trest
 
-#### §35 Narušení klidu
+Odnětí svobody ne více než 1 rok (třikrát a více)
+
+Pokuta ne vyšší než 5,000$ (poprvé a podruhé)
+### §35 Narušení klidu
+
 Osoba která se dopustí jedněch z následujících je vinna z narušení klidu.
 
 (1) Každý, kdo se protiprávně bije na veřejném místě nebo vyzývá jinou osobu na veřejném prostranství k boji.
@@ -1519,15 +2103,2822 @@ Osoba která se dopustí jedněch z následujících je vinna z narušení klidu
 
 (3) Každá osoba, která na veřejném místě použije urážlivá slova, která ve své podstatě mohou vyvolat okamžitou násilnou reakci.
 
-**Trest:**
-- Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 800$
+Trest
 
-#### §36 Nedostavení se na předvolání
+Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 800$
+### §36 Nedostavení se na předvolání
+
 (a) Z přestupku je vinna každá osoba, která je obviněna nebo odsouzena za spáchání přestupku, která je propuštěna ze zadržení na vlastní pěst a která se ve snaze vyhnout se soudnímu řízení úmyslně nedostaví podle potřeby. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 4 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
 
 (b) Každá osoba, která je obviněna nebo odsouzena za spáchání trestného činu, která je propuštěna z vazby na vlastní pěst a která se s cílem vyhnout se soudnímu procesu úmyslně nedostaví podle potřeby, je vinna z trestného činu. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 2 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
 
-**Trest:**
-- Odnětí svobody ne více než 2 roky a/nebo pokuta ne vyšší než 5,000$
+Trest
+
+Odnětí svobody ne více než 2 roky a/nebo pokuta ne vyšší než 5,000$
+### §37 Neposkytnutí identifikace
+
+a) Nestanoví-li zákon jinak, v každém případě, kdy je osoba zatčena za trestný čin či zadržena za přestupek, bude police officer vyžadovat od zadrženého pouze předložení řidičského průkazu nebo jiného průkazu způsobilosti jako důkaz o své totožnosti k přezkoumání. Pokud zadržený nemá řidičský průkaz nebo jiný uspokojivý důkaz totožnosti, může policista od zadrženého vyžadovat jinou formu identifikace (VI, WI, FR, FPR). Zadržená osoba může být vzata do vazby pouze tehdy, pokud osoba odmítne podepsat písemný slib, nemá uspokojivou identifikaci nebo odmítne poskytnout jinou formu identifikace.
+
+Trest
+
+Odnětí svobody ne více než 1 roky a/nebo pokuta ne vyšší než 1,000$
+### §38 Vydírání
+
+- Pachatel tohoto trestného činu jiného neoprávněně nutí, aby něco jednal, opomenul nebo trpěl, a to jednáními typickými pro trestné činy patřící do této hlavy, tedy násilím, hrozbou násilí nebo jiné těžké újmy. Trestný čin je dokonán použitím násilí, jeho hrozbou nebo hrozbou jiné těžké újmy.
+
+- Kdo jiného násilím, hrozbou násilí nebo hrozbou jiné těžké újmy nutí, aby něco jednal, opomenul nebo trpěl, bude potrestán odnětím svobody až na 6 let, a pokutou 8000$
+
+### §39 Zneužití pravomocí
+
+- Ujednání či poskytnutí výhody nebo ústupku, překročení pravomocí, nevykonání své zákonné povinnosti, napomáhání v nebo k protiprávní činnosti, nebo nátlak na druhého, a to v rámci zneužití svého postavení nebo funkce vůči státu.
 
 
+- Tohoto trestného činu se mohou dopustit pouze úřední osoby.
+
+§39 je trestný čin, který se trestá odnětím svobody od 3 let do 10 let, peněžitou pokutou ve výši 15.000$ a ukončením pracovního poměru s okamžitou platností.
+### §40 Zpronevěra
+
+Přisvojení si cizího majetku, svěřených do péče nebo správy.
+
+se trestá finanční pokutou ve výši až 3000$
+### §42 Vloupáni
+§42 je zákon v státě San Andreas, který definuje vloupání jako vniknutí do budovy nebo uzamčeného vozidla s úmyslem spáchat velkou krádež, drobnou krádež nebo jakýkoli trestný čin, jakmile je uvnitř. Můžete být obviněn z vloupání, i když nedojde k násilnému vstupu.
+
+Zločin vloupání je dokonán, jakmile osoba vstoupí do struktury se zločinným úmyslem, a to i v případě, že zamýšlený trestný čin není ve skutečnosti nikdy splněn.
+Vloupání se dělí na "první stupeň" a "druhý stupeň". Prvního stupně je vloupání do obytné budovy (vloupání do domu). Druhý stupeň je vloupání do jakéhokoli jiného typu struktury (včetně obchodů, podniků, státních institucí a budov státních složek).
+
+Trest:
+I. stupeň se trestá odnětím svobody ne vyšší než 5 let a pokutou 1 500$
+II. stupeň se trestá odnětím svobody ne vyšší než 10 let a pokutou 1 500$
+### §43 Falešná identita
+
+(a) Jakákoli osoba, která se nepravdivě zastupuje nebo identifikuje jako jinou osobu nebo jako fiktivní osobu jakémukoli police officerovi po zákonném zadržení nebo zatčení osoby, buď vyhýbat se procesu soudu se řádné identifikaci osoby vyšetřovatelem, je vinna z přestupku.
+
+Trest
+
+Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 7,000$
+### §44 Útěk
+
+- Unikání před příslušníky státních či federálních ozbrojených složek přes výzvu na zastavení je
+
+a) přestupek, který se trestá pokutou ve výši až 5000$
+
+b) trestný čin, který se trestá odnětím svobody až na 5 let, pokud se ho osoba dopustí v přímém souběhu s dalšími trestnými činy.
+### §45 Znásilnění
+
+- Pohlavní styk, jiná obdobná sexuální aktivita či sexuální nátlak proti vůli jiné osoby. Jako i přípava a pokus o znásilnění.
+
+a) je trestný čin, který se trestá odnětím svobody od 1 do 10 let, a pokutou ve výši 5000$
+### §46 Mučení
+
+A) Mučení znamená úmyslné způsobení velké tělesné nebo duševní bolesti nebo utrpení vězněné osobě nebo osobě, nad kterou měl kontrolu.
+
+B) Hanobení lidských pozůstatků.
+
+C) Hanobení národa, rasy a etnické nebo jiné skupiny osob
+
+D) Genocidium
+
+E) Útok proti lidskosti
+
+A) Kruté nebo jiné zacházení působící jinému tělesné nebo duševní utrpení je trestný čin, který se trestá odnětím svobody od 1 roku do 15 let, a pokutou 750$
+
+B) je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let, a pokutou 13000$
+
+C) je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let, a pokutou 13000$
+
+D) je trestný čin, který se trestá odnětím svobody od 12 roku do 20 let, a pokutou 13000$
+
+E) je trestný čin, který se trestá odnětím svobody od 12 roku do 20 let, a pokutou 13000$
+### §47 Pomluva
+
+- Záměrné a vědomé šíření nepravdy o jiné osobě či společnosti.
+
+a) v úmyslu způsobit majetkovou škodu nebo společenské znevážení je přestupek, který se trestá pokutou ve výši do 1000$.
+
+b) v úmyslu způsobit trestní stíhání nebo přestupkové řízení je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let.
+### §48 Podvod
+
+- Kdo ke škodě cizího majetku sebe nebo jiného obohatí tím, že uvede někoho v omyl nebo využije něčího omylu, a způsobí tak na cizím majetku škodu.
+
+- je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a/nebo pokutou ve výši 500$
+
+### §49 Smluvní podvod
+
+- Uvedení nepravdivých nebo hrubě zkreslených údajů nebo zamlčení podstatných údajů při sjednání smlouvy.
+
+- je trestný čin, který se trestá odnětím svobody od 2 roku do 6 let, a pokutou ve výši 750$
+
+### §50 Vyhýbaní se spravedlnosti
+
+- Úmyslné vyhýbání se trestu.
+
+- je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let, a pokutou ve výši 8000$
+
+### §51 Sexuální nátlak
+
+- Nucení k obnažování, sexu nebo jinému srovnatelnému chování.
+
+- je trestný čin, který se trestá odnětím svobody od 2 do 3 let, a pokutou ve výši 2000$
+
+### §52 Žhářství
+
+- Úmyslné založení požáru je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let, a pokutou ve výši 1000$
+
+### §53 Neposkytnutí první pomoci
+
+- Neposkytnutí první pomoci nebo nepřivolání pomoci, útěk od místa nehody je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let, a pokutou ve výši 1500$
+
+### §54 Nelegální distribuce a prodej želv
+
+- Přechovávání a prodej mořských želv
+
+- je trestný čin, který se trestá odnětím svobody od 3 do 5 let, a pokutou ve výši 25000$
+
+### §55 Nelegální distribuce a prodej žraločího masa
+
+- Přechovávání a prodej žraločího masa -
+
+- je trestný čin, který se trestá odnětím svobody od 4 do 6 let, a pokutou ve výši 18000$
+
+### §56 Nelegální lov
+
+A) Lov mimo vyhrazené lovecké oblasti
+
+B) Lov bez licence a bez registrace zbraně určené k lovu - Lupara
+
+C) Lov zvěře se zbraní, která není určena k lovu
+
+A) je přestupek, který se trestá pokutou 20000$, pokud se to stane více než 2 krát odebráním lovecké licence
+
+B) je trestný čin, který se trestá odnětím svobody od 4 let do 6 let, v případě opakovaného porušení zákona je sazba vyšší a to od 6 do 8 let.
+
+C) je přestupek, který se trestá pokutou ve výši 20000
+#### §57 Nelegální rybolov
+
+Lov ryb bez licence je trestný čin, který se trestá odnětím svobody od 3 do 5 let, pokutou ve výši 12000$, zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 5 do 7 let.
+### §58 Nedovolený vstup do národních parků
+
+Vstup do národních parků s motorovým vozidle je zakázáno (viz. foto)
+Výjimka: Státní složky při výkonu služby
+
+Sankce: Vykázání a/nebo pokuta ve výši až 1000$
+
+
+### §59 Neoprávněný vstup do budovy
+
+§61 je zákon v státě San Andreas, který definuje neoprávněný vstup do budovy jako neoprávněné vniknutí do uzavřeného prostoru, budovy, či nemovitosti.
+
+Trest:
+Trestá se odnětím svobody ne vyšší než 2 roky a pokutou 2 500$
+
+
+V případě budov státních institucí a státních složek se trestá odnětím svobody ne vyšší než 5 let a pokutou 2 500$
+
+
+### §60 Sexuální napadení
+
+Je zákon, který specifikuje sexuální napadení. Osoba spáchá tento trestný čin dotykem intimních částí jiné osoby proti její vůli za účelem sexuálního uspokojení, vzrušení nebo zneužití.
+
+Uvádí, že "každá osoba, která se dotýká intimní části jiné osoby, zatímco je tato osoba nezákonně omezována obviněným nebo spolupachatelem, a pokud je dotek proti vůli dotyčné osoby a je za účelem sexuálního vzrušení, sexuální uspokojení nebo sexuální zneužívání je vinen sexuálním napadením nebo-li sexual battery. "
+
+Sexuální napadení se lze brát jako přestupek nebo trestný čin. Mohou být uloženy pokuty, pokud údajná oběť:
+
+- Nevěděla o povaze činu, protože byl podvodně přesvědčen, že dotyky byly pro profesionální účely (například pro lékařské nebo terapeutické účely)
+
+- Byla nucena masturbovat nebo se dotknout jedné z vašich intimních partií, nebo intimní část jiné osoby, za jakékoli z výše uvedených okolností
+
+Příklady přestupku:
+
+- Položte ruce na zadek někoho jiného, aniž byste k tomu nejprve získali souhlas.
+
+Tresty/sankce:
+
+- Pokud se však osoba při sexuálním napadení dopustila ublížení na zdraví či psychické újmě poškozeného, čelí trestům dvou, třem až čtyřem letům odnětí svobody v okresní věznici nebo pokutě nepřesahující 10 000$
+
+### §61 "Peeping Tom" laws
+
+§63 je zákon v státě San Andreas, který považuje za trestný čin špehování nebo fotografování někoho na soukromém místě bez souhlasu této osoby.
+Neplatí v případě, že:
+- Údajná oběť neměla přiměřené očekávání soukromí;
+- Údajná oběť souhlasila s fotografováním nebo nahráváním;
+- Obžalovaný neměl v úmyslu narušit ničí soukromí a/nebo obžalovaný se neměl v úmyslu sexuálně vzrušit nebo uspokojit.
+- Obžalovaný měl zákonný důvod k tomu, aby se na pozemku nacházel, a/nebo budova, do které obžalovaný nahlížel, nebyla obydlená.
+- Státní ozbrojená složka má při výkonu služby pádný důvod pro toto konání.
+
+Trest:
+Trestá se odnětím svobody na 1 rok
+### §62 Bodné a sečné zbraně
+§64 je zákon v státě San Andreas, který považuje za trestný čin nošení, držení na veřejnosti, prodej nebo rozdávání vystřelovací čepele (nože switchblade).
+
+Taktéž definuje, že držení mačety na veřejnosti je trestným činem.
+
+Trest:
+Trestá se odnětím svobody na 1 rok a/nebo pokutou 1 200$
+
+
+### §63 Nezaplacené faktury a pohledávky
+
+(1) §65 je zákon v státě San Andreas, který je považován za trestný čin. Vzniká v případě, kdy dlužník neplatí své závazky vůči státním organizacím. V takovém případě dlužníkovi vyměří Department of Justice s asistencí Department of Finance výši úroku z prodlení od dne vzniku prvého úroku. Úroková sazba je 10% denně ze základní a později navyšující se částky. V případě, kdy dlužník dosáhne hranicí svého dluhu na 100 000 USD, neplatí své pohledávky včas a dosáhne prodlení s placením déle jako tři dny, vzniká u něj zákonná pravomoc ve věci trestního stíhání pro §65. 
+
+(2) V souladu s §65 se do případné exekuce zahrnuje i s postupy následující 
+
+ a) Vozidla - zabavení s kontrolou vozidla a jeho stav - zahrnuta amortizace 50% v kupní ceně bez započteného vylepšení vozidla ( motorizace aj. )
+ b) Nemovitosti - zabavení s kontrolou a spoluprací DoC&DoL
+ c) Cennosti s vyšší hodnotou - zabavení s kontrolou hodnoty
+ d) Vlastněné účty - pozastavení plateb, zmrazení účtu a odebrání částky k proplacení faktur a úroků z prodlení s kontrolou a spoluprací DoF 
+
+(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura 50 000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §65: 
+
+ a) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 100 000 USD do 500 000 USD:
+ 1) zabavení majetku - vozidla / stroje a trest, exekuční řízení (2) a),b),c),d) a odnětí svobody v délce 5 let
+
+ b) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 500 000 USD do 1 000 000 USD:
+1) zabavení majetku - vozidla / stroje, zabavení majetku - budova, pozemek, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 10 let
+
+
+ c) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 1 000 000 USD do 1 999 999 USD:
+ 1) zabavení majetku - vozidla / stroje, zabavení majetku budova, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody od 20 let
+
+
+ d) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 2 000 000 USD:
+ 1) zabavení majetku - vozidla / stroje, zabavení nemovitosti, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody od 20 let až doživotí.
+
+
+
+### §64 Nelegální rozebírání vozidla
+
+ §66 nelegální rozebírání vozidla je zákon v státě San Andreas,
+který je považován za trestný čin.
+
+Vzniká v případě, kdy dojde k nelegálnímu rozebírání - autovraků / osobních a nákladních automobilů / motocyklů / a dalších dopravních prostředků - které osoba rozebere na nelegálních autovrakovištích ( neschválená zařízení ) bez příslušného povolení.
+
+Při zadržení bude osoba obžalována z §66:
+
+a) 1. jedná se o nelegální rozebírání vlastního vozidla:
+trest odnětí svobody v délce 2 roky a pokutou 2 500$
+
+a) 2. jedná se o nelegální rozebírání vlastního vozidla, při rozebírání byla použita střelná zbraň:
+trest odnětí svobody v délce 8 až 10 let a pokutou 10 000$
+
+
+b) 1. jedná se o nelegální rozebírání kradeného vozidla:
+trest odnětí svobody v délce 10 let a pokutou 15 000$ až 35 000$
+
+b) 2. jedná se o nelegální rozebírání kradeného vozidla, při rozebírání byla použita střelná zbraň:
+trest odnětí svobody v délce 10 až 12 let a pokutou 15 000$ až 35 000$
+
+b) 3. jedná se o nelegální rozebírání kradeného vozidla organizovanou skupinou (dvě a více spolupracujících osob, zajištěných při trestné činnosti nelegálního rozebírání vozidel ).
+trest odnětí svobody v délce 12 až 15 let a pokutou 20 000$ až 45 000$
+
+
+
+### §65 Útok s použitím žíravých nebo hořlavých látek
+  §67 PC je zákon v státě San Andreas,
+který je považován za trestný čin. Definicí tohoto zákona je "útok žíravými chemikáliemi". V této části je trestným činem házení nebo pokládání žíravých nebo hořlavých látek na někoho s úmyslem tuto osobu zranit, zabít nebo zohavit. Tento zákon výslovně zakazuje používat, manipulovat, skladovat, držet, přechovávat či jakkoliv nakládat s vysoce toxickými chemickými látkami, žíravými látkami a hořlavými látkami.
+
+
+Jakákoli osoba, která úmyslně a se zlým úmyslem umístí nebo hodí nebo způsobí umístění nebo vržení na jinou osobu jakoukoli nebezpečnou chemickou látku, žíravou kyselinu, hořlavou látku nebo žíravou chemikálii jakékoli povahy s úmyslem zranit, usmrtit nebo znetvoření těla jiné osoby, se trestá:
+
+a) 1. V případě zranění osoby:
+trest odnětí svobody v délce 2 roky a pokutou 2 500$
+
+a) 2. V případě usmrcení osoby:
+trest odnětí svobody v délce 5 až 12 let a pokutou 15 000$ až 35 000$
+
+a) 3. V případě usmrcení dvou a více osob:
+trest odnětí svobody v délce 25 let až doživotí a pokutou 25 000$ až 55 000$
+
+
+
+### §66 Nelegální držení / přechovávání improvizovaných hořlavých látek "molotov"
+
+§68 PC je zákon v státě San Andreas, který je považován za trestný čin.
+Tento zákon výslovně zakazuje všem osobám vyrábět ,používat, manipulovat, skladovat, držet, přechovávat či jakkoliv nakládat s improvizovanými hořlavými látkami ( MOLOTOV )
+
+Porušení tohoto zákona se trestá:
+
+a) 1. V případě výroby, držení, manipulace či přechovávání:
+trest odnětí svobody v délce 2 roky a pokutou 2 500$
+
+a) 2. V případě použití proti jiné osobě - ublížení na zdraví:
+trest odnětí svobody v délce 5 let a pokutou 10 000$ až 15 000$
+
+a) 3. V případě použití proti jiné osobě -  usmrcení jiné osoby:
+trest odnětí svobody v délce  5 až 10 let a pokutou 15 000$ až 25 000$
+
+a) 4. V případě použití proti skupině osob - usmrcení dvou a více osob:
+trest odnětí svobody v délce 25 let až doživotí a pokutou 25 000$ až 55 000$
+
+
+
+### §67 Trestní odpovědnost nezletilých a mladistvých osob
+
+V San Andreas je hranice trestní odpovědnosti určena věkem 15 let dosaženého věku.
+U federálních zločinů je hranice trestní odpovědnosti určena věkem 11 let dosaženého věku.
+Pro trestní odpovědnost nezletilých a mladistvých osob se vztahuje i trest odnětí svobody na doživotí v rámci trestního zákoníku San Andreas.
+V případě trestní odpovědnost nezletilých a mladistvých osob, nejsou při jejich provinění ukládány finanční sankce a pokuty.
+
+a) Trestní sazby odnětí svobody stanovené v trestním zákoníku Los Santos se u mladistvých a nezletilých osob vyměřuje stejnou hranicí trestní sazby jako u dospělé osoby.
+
+b) Nepodmíněné odnětí svobody může soud mladistvému uložit jen tehdy, jestliže byla použitá:
+1. střelná či jiná zbraň
+2. došlo k obecnému ohrožení na životě
+3. došlo k sexuálnímu útoku
+4. osoba byla pod vlivem omamných a psychotropních látek
+5. osoba byla pod vlivem alkoholu
+6. osoba se dopustila držení/přechovávání omamných a psychotropních látek
+
+
+### §68 Obecné ohrožení
+
+
+a) Obecné ohrožení je považováno za spáchané v případě, že se jedná o záměrné chování nebo jednání, které představuje vážnou hrozbu pro veřejný pořádek, bezpečnost nebo mír. To může zahrnovat, ale není omezeno na násilí, jako je použití zbraní, exploziv, nebezpečných látek nebo jiných prostředků, které mají za následek ohrožení života, zdraví nebo majetku ostatních osob. Dále také použití vozidla k neopatrné jízdě a ohrožení života občanů.
+
+b) Kdo způsobí obecné ohrožení veřejného pořádku, bezpečnosti nebo míru prostřednictvím násilí, vyhrožování, neopatrnou jízdou vozidla nebo jiných nebezpečných činů se trestní sazba ustanovuje odnětím svobody na 1 rok ve federální věznici a pokutou ve výši 5000$.
+### §69 Hanobení lidských ostatků a svévolné otevírání hrobu
+
+Osoba, která neoprávněně hrob nebo hrobku anebo urnu s lidskými ostatky otevře, páchá trestní čin. Otevření hrobu, hrobky nebo urny je trestní čin i v případě, že neobsahuje lidské ostatky.
+
+Hanobení lidských ostatků anebo svévolné otevření hrobu nebo hrobky nebo urny je trestní čin který se trestá odnětím svobody na jeden rok s podmínečným odkladem čtyř let.
+
+
+### §70 Neoprávněná manipulace s dopravním značením a světelným zařízením
+
+Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením se dopouští přestupku v případě:
+a) že, při neoprávněné manipulaci nevznikl jiný přestupek či trestní čin
+
+Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením se dopouští trestního činu v případě:
+b) že, při neoprávněné manipulaci vznikl jiný přestupek či trestní čin,
+c) nebo provádí neoprávněnou manipulaci opakovaně a záměrně za účelem narušení dopravního pořádku.
+
+V bodě a) §72 se jedná o přestupek který se trestá pokutou ve výši §2.000
+V bodě b) §72 se jedná o trestní čin který se trestá odnětím svobody po dobu dvou let s možným podmínečným odkladem tří let.
+V bodě c) §72 se jedná o trestní čin který se trestá odnětím svobody po dobu tří let s možným podmínečným odkladem pěti let.
+### §71 Distribuce a prodej medikamentů a léčiv
+
+Osoba, která distribuuje nebo prodává medikamenty nebo léčiva anebo léčivé přípravky bez povolení nebo není členem Emergency Medical Services anebo Los Santos Fire Department se dopouští trestního činu.
+
+a) Zákaz prodeje medikamentů a léčiv se vztahuje výhradně na:
+
+    Ibuprofen 
+    Paralen 
+    Akutol Spray 
+    Gelaspon 
+    Hojivý gel 
+    Zodac   
+    Živočišné uhlí 
+    Samaritan 
+    Kyselina listová 
+    Viagra 
+    Bandage aj.
+
+b) Dále se do medikamentů a léčiv do zákazu prodeje neřadí:
+
+    Autolékárnička
+    Náplasti
+    Škrtidlo
+
+c) Přísný zákaz distribuce a prodeje:
+
+    Medkit
+    Antidepresiva
+    Lékařská marihuana
+    Antibiotika
+    Kodein
+    Vicodin 
+
+
+V bodě a) se jedná o medikamenty a léčiva která se používají pro vlastní potřebu, jejich distribuce nebo prodej je trestná.
+
+V bodě b) se jedná o předměty nebo medikamenty či léčiva která se mohou volně distribuovat nebo prodávat.
+
+V bodě c) se jedná o předměty nebo medikamenty či léčiva která se nesmí svévolně distribuovat nebo prodávat, manipulace s nimi provádí jen a pouze odpovědný pracovník.
+Bod c) se vztahuje i na léčiva či medikamenty které odpovědný pracovník označí jako na "předpis", tyto léky, léčiva či medikamenty jsou určená jen a pouze k osobnímu používání a jejich distribuce či prodej je trestný.
+
+
+V bodě a) §73 se jedná o trestní čin který se trestá odnětím svobody po dobu jednoho roku s možným podmínečným odkladem čtyř let a pokutou až $10.000 za jeden typ položky. 
+
+Př: 1x Antidepresiva, 1x Kodein = $20.000,-
+Př: 5x Vicodin, 5x Antibiotika = $20.000,-
+
+V bodě c) §73 se jedná o trestní čin který se trestá odnětím svobody po dobu dvou let.
+
+## Vehicle Code
+### Sekce č. 06/2022GOV Vehicle Code
+
+Zákon vozidlech a jejich zákonech
+
+Část 1.)
+
+Zákon zahrnující činy proti / s vozidly
+
+### §1 Speeding
+
+je základním zákonem o rychlosti San Andreas. V této části je nezákonné, aby motorista řídil rychleji, než je za daných jízdních podmínek a okolností bezpečné.
+
+1 V.C. zní, že "žádná osoba nesmí řídit vozidlo po dálnici rychlostí vyšší, než je rozumná nebo obezřetná, s náležitým ohledem na počasí, viditelnost, provoz na dálnici a její povrch a šířku, a v žádném případě rychlost, která ohrožuje bezpečnost osob nebo majetku.
+
+Sankce za překročení rychlosti:
+
+a) Překročení rychlosti o 1-15 Mph = $750
+
+b) Překročení rychlosti o 16-25 MpH = $1000
+
+c) Překročení rychlosti nad 26 MpH = $3000 a odebrání řidičského oprávnění:
+Po odebrání řidičského oprávnění u osoby, která se dopustila §1 c)
+může tato osoba zažádat o přijetí do autoškoly 10 dnů od data zabavení řidičského oprávnění
+
+Povolená rýchlosť
+
+- Maximální povolená rychlost ve městě je 50 mph,
+
+- Maximální povolená rychlost mimo město je 80 mph
+
+- Maximální povolená rychlost na dálnici je 80 mph,
+
+### §2 Reckless Driving
+
+Zákon §2 sekce VC je v zákoně definovaný jako přestupek bezohledné, okolí nebezpečné a nesmyslné jízdy s motorovým vozidlem, které může poškodit jak živé osoby tak jejich majetek či zdraví.
+
+Sankce:
+
+- Maximální sankce za tento přestupek jsou:
+
+1 rok odnětí svobody a/nebo pokuta $5 000.
+### §4 Obyčejná krádež vozidla
+
+Vehicle Code 4 VC je zákon v San Andreas, který činí trestným činem řídit nebo vzít vozidlo někoho jiného bez souhlasu této osoby. Běžně označované jako joyriding.
+
+Pokud-li se osoba dopustí porušení zákonu dle 4 VC, hrozí jí:
+
+Odnětí svobody nejvýše 3 let v okresní věznici a pokuta až $5 000
+### §6 Jízda bez patřičných dokladů
+
+je podle san andreaských zákonů řízení vozidla bez platného řidičského průkazu trestné.
+
+6 V.C. uvádí, že:
+
+Osoba nesmí řídit motorové vozidlo po dálnici, pokud tato osoba není držitelem platného řidičského průkazu vydaného podle tohoto předpisu, s výjimkou osob, které jsou podle tohoto předpisu výslovně osvobozeny."
+
+Kdy lze osobu pokutovat za porušení zákonu?
+
+- Osoba u sebe fyzicky nedržela doklad
+
+- Osobě se nepodařilo obnovit řidičský průkaz (DL)
+
+- Osoba nikdy nezískala/nevlastnila DL
+
+Tresty/sankce:
+
+Pokuta ne vyšší než 2500$
+### §7 Licence Plate - SPZ
+
+Je zákon, který říká:
+
+a) pokud DMV vydá řidiči dvě poznávací značky, musí umístit jednu na přední část vozidla a druhou na zadní
+
+b) pokud DMV vydá motoristovi jen jednu desku. musí být umístěna na zadní část vozu
+
+Pozn.: Neexistuje výjimka pro to, aby nebylo vozidlo na pozemní komunikaci označeno pomocí licence plate (SPZ).
+
+Trest -> okamžité odtažení vozidla, odebrání DL po dobu 1 roku a pokuta 3800$
+
+.
+
+Dodatek
+
+-> Dostanete se do situace, kdy zastavíte motorku BF400 na pozemní komunikace.
+
+-> Motorka BF400 se v našem státě nevyrábí s SPZ, vozidlo bez SPZ nelze pojistit, tudíž postupujte stejně jako viz výše (odtažení, odebrani DL, pokuta).
+### §8 Reckless Evading
+
+Tento zákon definuje vyhýbání se důstojníkovi ve vozidle úmyslným nebo svévolným ignorováním bezpečnosti osob nebo majetku.
+
+Sankce:
+
+Tento čin může být trestán jako přestupek nebo jako trestný čin("wobblerový trest). Záleží vždy na předchozích trestech a kriminální minulosti
+
+Přestupek:
+
+Pokud se jedná o přestupek je maximální trest 1 rok ve krajském vězení a nebo pokuta ve výši $3 000.
+
+Trestný čin:
+
+Sankce za trestný čin je 3 roky.
+### §9 Jízda pod vlivem alkoholu / omamných látek
+
+a) Je nezákonné, aby osoba, která je pod vlivem jakéhokoli alkoholického nápoje, vedla vozidlo.
+
+b) Je nezákonné, aby osoba, která má v krvi 0,08 procenta hmotnosti nebo více alkoholu, vedla vozidlo.
+
+Při každém trestním stíhání podle tohoto oddílu platí vyvratitelná domněnka, že osoba měla v době řízení vozidla 0,08 procenta hmotnosti nebo více alkoholu v krvi, pokud měla 0,08 procenta hmotnosti nebo více, alkoholu v krvi v době provedení chemické zkoušky do tří hodin po řízení vozidla.
+
+(c) Je nezákonné, aby osoba, která je závislá na užívání jakékoliv drogy, vedla vozidlo.
+
+d) Je nezákonné, aby osoba, která má v krvi 0,04 procenta hmotnosti nebo více alkoholu v krvi, vedla užitkové motorové vozidlo podle § 9 předpoklad, že osoba měla v době řízení vozidla 0,04 % hmotnostních a více alkoholu v krvi , pokud měla v době řízení vozidla 0,04 % hmotnostních nebo více alkoholu v krvi. provedení chemické zkoušky do tří hodin po jízdě.
+
+(f) Je nezákonné, aby osoba, která je pod vlivem jakékoliv drogy, vedla vozidlo.
+
+(g) Je nezákonné, aby osoba, která je pod kombinovaným vlivem jakéhokoli alkoholického nápoje a drogy, vedla vozidlo.
+
+Trest
+
+Odnětí svobody ne více než 3 roky
+
+Odebrání a zabavení DL na ne více než 5 let
+### §10 Nerespektování značení / světelného zařízení
+
+a) Řidič, který stojí před stálým kruhovým červeným signálem, musí zastavit na vyznačené hraniční čáře, ale pokud žádná, před vjezdem na přechod pro chodce na blízké straně křižovatky, nebo pokud ne, pak před vjezdem do křižovatky, a musí zůstat zastaven. dokud se nezobrazí indikace pokračovat, s výjimkou případů uvedených v pododdíle (b).
+
+(b) Kromě případů, kdy je na místě značka zakazující odbočení, může řidič po zastavení, jak vyžaduje pododdíl (a), oproti stálému kruhovému červenému signálu odbočit doprava nebo odbočit doleva z stejnosměrné ulice na stejnosměrnou ulici. -silniční ulice. Řidič, který odbočuje, musí dát přednost chodcům v souladu se zákonem na přilehlém průchodu a každému vozu, které se přiblížilo nebo se přibližuje tak blízko, že představuje bezprostřední nebezpečí pro řidiče, a nadále dává přednost. cestu k tomuto vozidlu, dokud řidič nebude moci pokračovat s přiměřenou bezpečností.
+
+c) Řidič stojící před stálou červenou šipkou nesmí vejít do křižovatky, aby provedl pohyb označený šipkou, a pokud nevchází do křižovatky s cílem provést pohyb povolený jiným signálem, musí zastavit na zřetelně vyznačené hraniční čáře, ale pokud žádný, před vstupem na přechod pro chodce na blízké straně křižovatky, nebo pokud žádný, tak před vjezdem do křižovatky, a musí zůstat zastaven, dokud se nezobrazí indikace umožňující pohyb.
+
+(d) Neurčuje-li signál kontroly chodců podle jinak, nesmí chodec, který stojí před stálým kruhovým signálem červené nebo červené šipky, vstoupit na vozovku.
+
+Trest
+
+Pokuta ne vyšší než 900$
+### §11 Nelegální tuning
+
+Červené podsvícení vozidla (i všechny odstíně červené)
+
+Modré podsvícení vozidla (i všechny odstíně modré)
+
+Zatmavení čelního skla (100% propustnost)
+
+Zatmavení předních bočních skel (70% propustnost - Limo)
+
+Zatmavení zadního a zadních bočních skel (bez omezení)
+
+Zabarvení předních světlometů (jiné než Xenon, bílá a teplá bílá)
+
+Jízda se zvednutým hydraulickým podvozkem
+
+Trest
+
+Odtažení vozidla
+
+Pokuta ne vyšší než 5,000$.
+
+Odebrání a zabavení DL až na 2 roky (opakované)
+### §12 Technický stav vozidla
+
+a) Je nezákonné provozovat jakékoli vozidlo nebo jízdní soupravu, které jsou v nebezpečném stavu nebo nejsou bezpečně naloženy a představují bezprostřední bezpečnostní riziko.
+
+b) Je nezákonné provozovat jakékoli vozidlo nebo soupravu vozidel, která nejsou vybavena tak, jak je uvedeno v tomto kodexu.
+
+Žádná osoba nesmí řídit žádné vozidlo nebo jízdní soupravu po upozornění police officerem, jak je definováno v oddíle 830.1 nebo pododdíle (a) oddílu 830.2 trestního zákona, že vozidlo je v nebezpečném stavu nebo není vybaveno tak, jak to vyžaduje tento kód, s výjimkou případu, kdy je třeba vrátit vozidlo nebo jízdní soupravu do bydliště nebo místa podnikání vlastníka nebo řidiče nebo do garáže, dokud vozidlo a jeho vybavení nebudou přizpůsobeny požadavkům tohoto kodexu.
+
+Trest
+
+Odtah vozidla
+
+Odebrání a zabavení DL(opakované)
+
+Pokuta ne vyšší než 4,000$
+
+### §13 Zákaz zastavení / postavení / parkovaní
+
+Osoba nesmí zastavit, zaparkovat ani nechat stát žádné vozidlo bez ohledu na to, zda je obsluhováno nebo bez dozoru, kromě případů, kdy je to nezbytné k zabránění konfliktu s jiným provozem nebo v souladu s pokyny police officera nebo oficiálního dopravního zařízení na kterémkoli z následujících míst:
+
+c) Mezi bezpečnostní zónou a přilehlým pravým obrubníkem nebo v prostoru mezi zónou a obrubníkem, jak může být označeno značkou nebo červenou barvou na obrubníku, kterou značku nebo barvu umístily místní orgány.
+
+(d) Do 15 stop od příjezdové cesty k požární stanici. Toto rozdělení se nevztahuje na žádné vozidlo, které vlastní nebo provozuje hasičský sbor a je zřetelně označeno jako hasičské vozidlo.
+
+(e) (1) Před veřejnou nebo soukromou příjezdovou cestou.
+
+(f) Na části chodníku nebo s karoserií vozidla přesahující část chodníku.
+
+(g) Vedle nebo proti výkopu nebo překážky na ulici nebo silnici by při zastavení, stání nebo parkování které by překáželo provozu.
+
+h) Na straně vozovky od vozidla, které zastavilo, zaparkovalo nebo stálo na krajnici nebo okraji dálnice.
+
+Trest
+
+Pokuta ne vyšší než 500$
+
+
+## Health & Safety Code
+### Sekce č. 07/2022GOV Health & Safety Code
+
+Zákon o zdraví
+
+Část 1.)
+
+Zákon zahrnující činy proti / se zdravím
+
+### §1 Marihuana
+
+Kodex zdraví a bezpečnosti 1 HS je san andreaský zákon, který definuje zločin nezákonného pěstování marihuany. Odsouzení je přestupek, za který lze uložit trest odnětí svobody až na 1 rok.
+
+Podle HS 1 se jedná o přestupek, pokud někdo ve věku 18-20 let pěstuje marihuanu. Trestný čin se trestá maximální pokutou až $10 000.
+
+a) Zákon říká že se jedná o přestupek tehdy kdy:
+
+- Je osoba starší více než 21 let
+
+- Osoba pěstuje více než 6 rostlin
+
+b) Pěstování marihuany se trestá:
+
+- je trestný čin, který se trestá odnětím svobody od 2 do 6 let
+
+- Pokuta až $2 000
+
+c) Legální množství dle zákona je 21g na osobu.
+### §2 Prodej marihuany
+
+Kodex zdraví a bezpečnosti 2 H.S. je zákonem v San Andreas, který z něj činí trestný čin prodávat, rozdávat, dovážet do státu nebo přepravovat na prodej jakékoli množství marihuany nebo koncentrovaného konopí (hašiš) bez státní licence (a jakéhokoli požadovaného místního licence).
+
+Existuje výjimka pro přepravu marihuany san andreaskými uživateli marihuany pro lékařské použití konvice pro jejich osobní potřebu. Poskytovatelé primární péče o tyto pacienty mohou také přepravovat marihuanu a dávat ji svým pacientům v množství přiměřeně souvisejícím s lékařskými potřebami pacienta.
+
+Tresty za trestné činy za nezákonný prodej nebo přepravu marihuany
+
+Ilegální prodej nebo přeprava marihuany je však san andreaským zločinem, pokud platí cokoliv z následujícího:
+
+- Jste již dříve odsouzeni za některý ze seznamu zvlášť závažných násilných zločinů, včetně vražd, sexuálně násilných trestných činů, sexuálních trestných činů na dítěti mladších 14 let nebo hrubého zabití osoby ve vozidle pod vlivem alkoholu.
+
+- Máte dvě (2) nebo více předchozích odsouzení za prodej / přepravu marihuany HS 2
+
+- Vědomě jste prodali, pokusili se prodat nebo jste nabídli prodej nebo vybavení marihuany někomu do 18ti let
+
+- Dovezli jste nebo jste se pokoušeli nebo nabídli dovoz do San Andreas nebo jste přepravili nebo se pokusili / nabídli přepravit z San Andreas na prodej více než 28,5 gramů marihuany nebo více než čtyři gramy koncentrovaného konopí.
+
+Porušení trestného činu 2 H.S. je trestané následovně:
+
+dva, tři nebo čtyři roky ve vězení a/nebo pokuta až do výše 3 000$
+### §4 Omamné a psychotropní látky
+
+Kategorie a rozdělení pro znění tohoto zákona:
+
+1.1 Cannabinoidy
+
+a) marihuana
+
+b) hašiš
+
+1.2 Stimulační drogy
+
+a) LSD
+
+b) Psilocybin (Lysohlávky)
+
+c) Extáze (MDMA)
+
+d) Opium
+
+c) Heroin
+
+d) Morfium
+
+e) Oxikodon (Perkodan)
+
+f) Subutex (Buprenorfin)
+
+g) Psychofarmaka (trankvilizéry)
+
+h) Amfetaminy
+
+i) Kokain a semínka kokainu
+
+j) Pervitin (Metamfetamin)
+
+- Výjimku v §1, §2, §3 kategorie 1.1 a 1.2 mají všechny záchranné složky státu San Andreas které jsou vyškolené, a jednání v rámci služebního úkonu:
+
+A) podávání léků na tlumení a utišení bolesti.
+
+B) uspání pacienta při operacích.
+
+C) které splňují normu a jsou povoleny pro užívání ve zdravotnických zařízeních.
+### §5 Přechovávání omamných a psychotropních látek
+
+Klasifikace drog pro toto znění zákona:
+
+1.1 Cannabinoidy
+
+1.2 Stimulační drogy
+
+A) Přechovávání množství omamných a psychotropních látek od 1 do 21 gramů v případě 1.1
+
+A1) Přechovávání množství semínek marihuany od 1 do 21 kusů v případě 1.1.
+
+B) Přechovávání nedovoleného množství omamných a psychotropních látek 21 a více gramů v případě 1.1.
+
+C) Přechovávání nedovoleného množství omamných a psychotropních látek tzn. 50g a více gramů je bráno, že jde o množství držení drog za účelem šíření, prodeje, distribuce, v případě 1.1.
+
+D) Přechovávání nedovoleného množství semínek marihuany od 22 a výše v případě 1.1.
+
+E) Přechovávání nedovoleného množství omamných a psychotropních látek pod 21 gramů v případě 1.2.
+
+F) Přechovávání nedovoleného množství omamných a psychotropních látek 22 a více gramů v případě 1.2.
+
+G) Přechovávání nedovoleného množství omamných a psychotropních látek tzn. 50g a více gramů je bráno, že jde o množství držení drog za účelem šíření, prodeje, distribuce, v případě 1.2.
+
+H) Přechovávání nedovoleného množství listů koky. Přechovávání listy koky je zakázáno.
+
+CH) Přechovávání nedovoleného množství Sodium Hydroxid. Přechovávání těchto látek je 30 lahviček v případě prokazatelné nutnosti k povaze zaměstnání (např. Wood Company). Je nutné se prokázat platným povolením.
+
+I) Přechovávání nedovoleného množství Chemikálie. Přechovávání těchto látek je omezeno na 30 lahviček v případě prokazatelné nutnosti k povaze zaměstnání. (např. čistič bazénů, čistič oken, zemědělství) Je nutné se prokázat platným povolením.
+
+J) Přechovávání nedovoleného množství Hydrochlorid acid. Přechovávání těchto látek je omezeno 20 lahviček.
+
+K) Přechovávání semínek Kokainu v případě 1.2 je zakázána.
+
+- A) je legální.
+
+-A1) je legální.
+
+- B) je trestný čin, který se trestá odnětím svobody od 8 do 15 let, a pokutou ve výši 15000$
+
+- C) je trestný čin, který se trestá odnětím svobody od 15 do 25 let, a pokutou ve výši 20000$
+
+- D) je trestný čin, který se trestá odnětím svobody od 1 do 4 let, a pokutou ve výši 500$
+
+- E) je trestný čin, který se trestá odnětím svobody od 4 do 6 let, a pokutou ve výši 5000$
+
+- F) je trestný čin, který se trestá odnětím svobody od 10 do 18 let, a pokutou ve výši 15000$
+
+- G) je trestný čin, který se trestá odnětím svobody od 18 do 30 let, a pokutou ve výši 20000$
+
+- H) je trestný čin, který se trestá odnětím svobody od 3 do 6 let, a pokutou ve výši 500$
+
+- CH) je trestný čin, který se trestá odnětím svobody od 3 do 6 let, a pokutou ve výši 500$
+
+- I) je trestný čin, který se trestá odnětím svobody od 2 do 5 let, a pokutou ve výši 500$
+
+- J) je trestný čin, který se trestá odnětím svobody od 4 do 8 let, a pokutou ve výši 500$
+
+- K) je trestný čin, který se trestá odnětím svobody od 1 do 4 let, a pokutou ve výši 500$
+
+### §6 Nedovolené nakládání s omamnými a psychotropními látkami
+
+1) Kdo neoprávněně vyrobí, doveze, vyveze, převeze, nabízí, zprostředkuje, prodá nebo jinak jinému opatří nebo pro jiného přechovává omamnou nebo psychotropní látku, přípravek obsahující omamnou nebo psychotropní látku, prekursor nebo jed.
+
+2a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny, nebo ve větším rozsahu, nebo
+
+2b) spáchá-li takový čin vůči osobě mladší osmnácti let.
+
+3a) získá-li činem uvedeným v odstavci 1 značný prospěch,
+
+3b) spáchá-li takový čin vůči osobě mladší patnácti let, nebo
+
+3c) způsobí-li takovým činem těžkou újmu na zdraví.
+
+4a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví více osob nebo smrt,
+
+4b) získá-li takovým činem prospěch velkého rozsahu, nebo
+
+4c) pokud takový čin spáchá ve spojení s organizovanou skupinou působící ve více státech.
+
+Klasifikace drog pro toto znění zákona:
+
+1.1 Cannabinoidy
+
+1.2 Stimulační drogy
+
+A) Distribuce omamných a psychotropních látek v případě 1.1
+
+B) Distribuce omamných a psychotropních látek v případě 1.2
+
+A) je trestný čin, který se trestá odnětím svobody od 1 do 5 let, a pokutou ve výši 150$
+
+B) je trestný čin, který se trestá odnětím svobody od 4 do 8 let, a pokutou ve výši 150$
+### §7 Šíření omamných a psychotropních látek
+
+1) Kdo neoprávněně vyrobí, doveze, vyveze, převeze, nabízí, zprostředkuje, prodá nebo jinak jinému opatří nebo pro jiného přechovává omamnou nebo psychotropní látku, přípravek obsahující omamnou nebo psychotropní látku, prekursor nebo jed.
+
+2a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny, nebo ve větším rozsahu, nebo
+
+2b) spáchá-li takový čin vůči osobě mladší osmnácti let.
+
+3a) získá-li činem uvedeným v odstavci 1 značný prospěch,
+
+3b) spáchá-li takový čin vůči osobě mladší patnácti let, nebo
+
+3c) způsobí-li takovým činem těžkou újmu na zdraví.
+
+4a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví více osob nebo smrt,
+
+4b) získá-li takovým činem prospěch velkého rozsahu, nebo
+
+4C) pokud takový čin spáchá ve spojení s organizovanou skupinou působící ve více státech.
+
+Klasifikace drog pro toto znění zákona:
+
+1.1 Cannabinoidy
+
+1.2 Stimulační drogy
+
+A) Distribuce omamných a psychotropních látek v případě 1.1
+
+B) Distribuce omamných a psychotropních látek v případě 1.2
+
+A) je trestný čin, který se trestá odnětím svobody od 1 do 5 let, a pokutou ve výši 500$
+
+B) je trestný čin, který se trestá odnětím svobody od 4 do 8 let, a pokutou ve výši 500$
+
+## Cayo Perico
+### Sekce č. 09/2022GOV Cayo Perico
+
+Zákony platné na území ostrava Cayo Perico
+
+Část 1.)
+
+Zákon zahrnující ustanovení na Cayo Perico
+
+### §1 Civilní sektor
+
+1.1 - Každý občan státu San Andreas se musí řídit podle situace která momentálně probíhá v nebezpečné zóně
+
+1.2 - Každý občan státu San Andreas vstupuje do nebezpečné zóny na vlastní odpovědnost
+
+1.3 - Každý občan státu San Andreas který spáchá trestný čin na ostrově Cayo Perico bude souzen podle platných zákonů státu San Andreas
+
+1.4 - Střelba po státních ozbrojených a federálních složkách státu San Andreas v nebezpečné zóně je trestný čin který se trestá  podle platných zákonů státu San Andreas
+
+1.5 - Pokus o vraždu / únos státních ozbrojených a federálních složkách je trestný čin který se trestá podle platných zákonů státu San Andreas
+### §2 Vstup do nelegální části ostrova - nebezpečná zóna
+
+ZA NELEGÁLNÍ "NEBEZPEČNOU" ZÓNU JE POVAŽOVANÁ ZÓNA, ZA BEZPEČNOSTNÍM PÁSMEM OZNAČENÉHO OSTNATÝMI DRÁTY. NEBEZPEČNÁ ZÓNA JE OBLAST V RÁMCI ZÓNY MIMO ZABEZPEČENÉ PÁSMO, KDE STÁTNÍ JEDNOTKY NEMAJÍ PLNOU KONTROLU NAD BEZPEČNOSTÍ V DANÉ OBLASTI, Z DŮVODU VYSOKÉHO NEBEZPEČÍ MÍSTNÍCH ILEGÁLNÍCH SKUPIN. V NEBEZPEČNÉ ZÓNĚ PROBÍHÁ VYSOKÁ KRIMINALITA, ORGANIZOVANÝ ZLOČIN, KUPLÍŘSTVÍ A ČERNÝ TRH. KAŽDÝ OBČAN STÁTU USA VSTUPUJE DO TÉTO ZÓNY NA VLASTNÍ NEBEZPEČÍ.
+
+a) Neoprávněný vstup do nelegální části ostrova Cayo Perico
+
+a1) Vstup do nelegální části ostrova, je na vlastní riziko každého občana a návštěvníka ostrova.
+### §3 Útěk z ostrova
+
+a) Útěk před příslušníky ozbrojených státních a federálních složek přes výzvu k zanechání protiprávního jednání.
+
+a1) je trestný čin, který je posuzován podle z. s. č. 19/2023GOV, SAND
+### §4 Útok a strělba po státních a federálních ozbrojených složkách
+
+a) Útok nebo střelba po státních a federálních ozbrojených složkách v oblasti Cayo Perica
+
+a1) je trestný čin, který je posuzován podle z. s. č. 19/2023GOV, SAND
+### §5 Vstup na Cayo Perico pro státní složky
+
+Je zakázano vstoupit na územi Cayo Perico pro ozbrojené státni složky LSPD, LSSD a pro jednotky IZS - EMS, LSFD, tato oblast je mimo jejich jurisdikci.
+
+### §6 Správa a kontrola ostrova Cayo Perico
+
+Celé území ostrova Cayo Perico a přilehlé vodní plochy jsou pod správou San Andreas Naval Defense ( SAND ).
+Prostory armády USA na ostrově Cayo Perico, jsou vyhrazeny k užívání pro San Andreas Naval Defense ( SAND ).
+Na celém území ostrova platí zákony Los Santos.
+
+
+### §7 Prohledání osoby na území ostrova Cayo Perico
+
+San Andreas Naval Defense má pravomoc prohledat osobu na území ostrova Cayo Perico v případě:
+
+    že má důvodné podezření, že by u sebe osoba mohla mít nelegální předměty nebo předměty spojené s trestnou činností.
+
+    je-li osoba omezena na osobní svobodě.
+
+
+
+### §8 Zadržení osoby
+
+San Andreas Naval Defense má pravomoc zadržet osobu v případě:
+
+    kdy osoba klade fyzický odpor
+
+    kdy osoba ohrožuje život svůj nebo jiných osob
+
+    kdy osoba poškozuje osobní, cizí nebo veřejný majetek
+
+    kdy se osoba pokouší o útěk
+
+    když osoba odmítne nebo nemůže prokázat svou totožnost.
+
+    když je osoba podezřelá z trestné činnosti.
+
+
+### §9 Předání zadržené osoby
+
+V případě, kdy San Andreas Naval Defense zadržel osobu, má za povinnost neprodleně kontaktovat státní ozbrojené složky Los Santos a osobu převézt a předat k vyšetřování na ostrov Los Santos.
+
+
+### §10 Použití zbraně San Andreas Naval Defense
+
+San Andreas Naval Defense  má pravomoc použít střelnou zbraň v případě:
+
+    že je přímo ohrožen na životě on nebo jiná osoba.
+
+    že pachatel opakovaně nereaguje na jeho výzvy.
+
+    že pachatel je ozbrojený a nereaguje na výzvu k zahození zbraně.
+
+    že vozidlo nelze zastavit jiným způsobem.
+
+    že osoba zahájila střelbu.
+    
+    
+##   Katastrální úřad
+### Sekce č. 12/2022GOV Katastrální úřad
+
+Zápis a registrace do katastru
+
+Část 1.)
+
+Zápis a registrace do katastru
+
+### §1 Definice
+
+a) Nemovitost - je souhrnný název pro pozemek nebo stavbu spojenou se zemí pevným základem. Součástí nemovitosti může být i podzemní stavba.
+
+b) Osobní nemovitost - slouží pouze k osobním účelům.
+
+c) Výdělečná nemovitost - slouží pouze pro výdělečnou činnost nebo činnost související s výdělečnou činností.
+
+d) Majitel nemovitosti odpovídá za vše, co se v ní nachází. V případě, že je nemovitost pronajímána, pronajímatel přebírá odpovědnost za nemovitost po podepsání smlouvy.
+### §2 Registrace nemovitosti
+
+a) Department of Commerce & Department of Labor provádí registraci nemovitosti.
+
+b) Registrace nemovitosti probíhá zasláním žádosti o registraci nemovitosti Department of Commerce & Department of Labor, která žádost posoudí a při splnění podmínek zaeviduje nemovitost do registru nemovitostí.
+
+c) Každá nemovitost musí být registrována,
+
+d) V případě dlouhodobého a prokazatelného nevyužívání nemovitosti má Department of Commerce & Department of Labor právo na odebrání nemovitosti kvůli zanedbávání a opečovávání nemovitosti a tím snížení cen pozemků v dané lokalitě.
+
+**Dodatky §2**
+
+2c) Bytové jednotky registrují nájemníky či majitele podle vzájemné dohody o které bude komise Department of Commerce & Department of Labor informována v registraci nemovitostí.
+
+3c) Majitel výdělečné činnosti, která ke svému provozu využívá nemovitost je povinen ji zaregistrovat.
+
+4c) Domy a jiné nemovitosti určené k bydlení, musí vlastník či nájemce tuto nemovitost registrovat podle § 3c.
+
+1d) V případě využití pravomoci podle §2,d) ze strany Department of Commerce & Department of Labor rozhoduje o proplacení částky za nemovitost. Žádost o proplacení částky osobě které byl poskytnut pronájem dané bytové jednotky s aktivní či s již vypršelou pronájemní smlouvou se přenechává přímo do pravomoci Department of Commerce & Department of Labor. V případě vytvoření kupní smlouvy a plnohodnotného přepisu nemovitosti na jméno t.č. nájemníka se taktéž přenechává do přímé pravomoci Department of Commerce & Department of Labor.
+
+2d) Department of Commerce & Department of Labor má plné právo zamítnout žádost o vyplacení částky za nemovitost.
+
+3d) V případě zamítnutí v §2, 1d), §2, 2d) má daná osoba plné právo na odvolání u Department of Justice které může uplatnit založením spisu a další konzultací.
+
+## Letecký Zákon
+### Sekce č. 13/2022GOV Letecký zákon
+
+Všeobecná ustanovení a zákony letectví
+
+Část 1.) Letecký zákon
+
+
+### §1 Bezletová zóna 
+
+Civilní letadla mají předepsanou letovou výšku v centru města, ve městě a okolí banky 100 m nad nejvyšší budovou města, nižší letová hladina je považována za bezletovou zónu.
+Mimo centrum je letová výška 100 m nad nejvyšší budovou nebo objektem ve vašem širším okolí.
+
+Bezletovou zónou se rozumí - prostory a okolí budov:
+a) EMS,
+b) LSPD,
+c) LSSD,
+d) LSFD,
+e) FIB,
+f) Maze Bank,
+g) Budova soudu,
+h) Věznice, dále pak 
+ch) Centrum města pod 100 m nad nejvyšší budovou,
+i) Federální půda,
+j) Nádrže s pitnou vodou.
+
+Federální půda: Federální půdou se rozumí vládní budovy a prostory Armády, Námořnictva a Letectva. Narušením těchto prostor se pilot dopouští federálního zločinu. 
+
+A) Narušením bezletové zóny v případě, že nevzniklo ohrožení letového provozu a osob.
+B) Narušením bezletové zóny v případě, že vzniklo ohrožení letového provozu a osob, nebo nebylo dbáno na výzvy Air-Unit či Armády USA.
+C) Narušením bezletové zóny v případě, kdy dojde k narušení vzdušného prostoru armády nebo letectva spojených státu amerických, se pilot automaticky dopustil federálního zločinu. 
+
+V případě §1 písm. A) se jedná o přestupek který se trestá pokutou ve výši $20.000,-
+V případě §1 písm. B) se jedná o trestní čin, který se trestá pokutou $200.000,- odnětím svobody v délce 1 - 5 let, odebráním pilotního oprávnění i stroje
+V případě §1 písm. C) se jedná o trestný čin, který se trestá pokutou $200.000,- až $500.000,- odnětím svobody v délce 5 - 15 let, odebráním pilotního oprávnění i stroje.
+
+
+### §2 Komunikace s rádiovou věží
+
+Provozovatel letadla anebo helikoptéry, uživatel civilního létajícího zařízení a provozovatel kódovaného zařízení je povinen používat letadlovou adresu v souladu s rozhodnutím o jejím přidělení. Úřad letového provozu Federal Aviation Administration ( dále jen ‚‚FAA‘‘ ) kontroluje používání jím přidělených letadlových adres.
+Letadlovou adresou se rozumí identifikační volačka osoby, kterou pilot obdržel od FAA. Provozovatel letadla, uživatel civilního létajícího zařízení a provozovatel kódovaného zařízení jsou povinni neprodleně ohlásit vzlet anebo přistání na frekvenci číslo 25. Na této frekvenci musí být pilot připojen po celou dobu účasti letového provozu a to až do chvíle přistání a deaktivace stroje. Na frekvenci mají oprávnění se připojit pouze piloti s platnou pilotní licencí, zaměstnanci státních složek a příslušníci FAA. Každý let musí být zanesen ve spise pilota ve formátu stanoveném od FAA. 
+
+Nezanesení informací o letu do spisu pilota je trestný čin který se trestá odnětím svobody v délce 1-3 let odebráním licence a pokutou. 
+
+A) V případě neohlášení Check-listu a neidentifikace stroje před vzletem a během letu na frekvenci č.25. Pokud nedojde k obecnému ohrožení.
+B) V případě neohlášení Check-listu a neidentifikace stroje před vzletem a během letu na frekvenci č.25. V případě, že dojde k všeobecnému ohrožení, nedbání výzev letové věže, nedbání výzev Air-Unit, nedbání výzev Armády USA.
+
+V případě §2 písm. A) jedná se přestupek, který se trestá pokutou $3.000,-
+V případě §2 písm. B) je trestný čin, který se trestá pokutou $20.000,- odnětím svobody v délce 5 - 10 let, odebráním pilotního oprávnění i stroje.
+
+### §3 Pilotovaní bez patřičných oprávnění
+
+A) Pilotování stroje bez příslušných oprávnění a kompletního spisu pilota
+Příslušnými oprávněními se rozumí :
+
+a) Letecký průkaz (na daný typ stroje a pro dané účely)
+b) Psychotest - Pilotní Licence
+c) Doklad o zdravotní způsobilosti
+
+B) Pilotování stroje bez kompletního spisu na aplikaci FAA. Každý pilot je povinen být připojen na aplikaci FAA a zde si založit spis do kterého je nutné zanést vše potřebné dle stanov FAA. Každý pilot je povinen udržovat spíš aktuální a kompletní. 
+
+V případě §3 písm. A) je trestný čin který se trestá odnětím svobody v délce 1-3 roky a pokutou ve výši $2.000,- 
+V případě §3 písm. B) je trestný čin který se trestá odnětím svobody v délce 1-3 roky , odebráním licence a pokutou od FAA ve výši $50.000,-
+
+### §4 Pilotování stroje pod vlivem psychotropních a omamných látek a nedovolený převoz psychotropních a omamných látek
+
+A) Pilotování stroje pod vlivem psychotropních a omamných
+B) Nedovolený převoz psychotropních a omamných látek na palubě stroje
+
+V případě §4 písm. A) je trestný čin který se trestá odnětím svobody v délce 1-3 roky a pokutou odebráním licence i stoje
+V případě §4 písm. B) je trestný čin který se trestá odnětím svobody v délce 3-8 roky, pokutou odebráním licence i stroje
+
+### §5 Místa určená pro přistávání  
+
+Přistávat s helikoptérou lze pouze na vyznačených heliportech k tomu určených. Heliporty v soukromém vlastnictví lze užít v případě , že splňuje předpoklady bezpečného přistávacího prostoru - tzn. 3m vetší průměr místa, než je délka rotorových listů daného stroje.
+Každý soukromý heliport musí být schválen FAA. V případě, že soukromý heliport není schválený v evidenci FAA nelze ho využít.
+Přistávání v prostorách pláže povoleno, ale je nutno dodržet pravidla bezpečné přistávací zóny, tzn. 3m vetší průměr místa, než je délka rotorových listů daného stroje.
+Přistávání na větších vodních plochách je povoleno za předpokladu zachování pravidla bezpečné přistávací zóny, tzn. 3m vetší průměr místa, než je délka rotorových listů daného stroje.
+Stroj nesmí v nikoho nikterak ohrozit a musí být řádně ukotven a mimo obydlenou oblast. Přistávat s letadlem lze pouze na vyznačených letištích k tomu určených.
+
+A) Přistání mimo místa k tomu určená je trestný čin který se trestá odnětím svobody po dobu 1-3 let, odebráním licence i stroje a pokutou ve výši $60.000,- B) Provozování heliportu jenž nebyl schválen FAA  je trestný čin který se trestá odnětím svobody v délce 2-4 roky a pokutou.
+
+### §6 Užívání prostor letišť a heliportů
+
+Veškerá vyznačena letiště a heliporty jsou ve správě FAA. Vstup do těchto prostor je umožněn pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje na zodpovědnost pilota) popř. s platným povolením od FAA. V prostorách letišť a heliportů je nutné řídit se pokyny zaměstnanců letiště a příslušníků FAA.
+
+A) Narušení prostorů letišť a heliportů ve správě FAA je přestupek který se trestá pokutou ve výši $20.000,-
+B) Pořádání akce či výcviku bez povolení FAA je přestupek který se trestá pokutou ve výši $45.000,-
+
+## Zákon o Bezpečnosti Dopravy
+### Sekce č. 14/2022GOV Zákon o bezpečnosti dopravy
+
+Ustanovení a zákony o bezpečnosti a plynulosti provozu
+
+Část 1.)
+
+Bezpečnost a plynulost dopravy
+### §1 Definice
+
+a) Účastník provozu na pozemních komunikacích je každý, kdo se přímým způsobem účastní provozu na pozemních komunikacích.
+
+b) Provozovatel vozidla je osoba, která je v rejstříku zapsána jako vlastník vozidla.
+
+c) řidič je účastník provozu na pozemních komunikacích, který řídí motorové nebo nemotorové vozidlo.
+
+d) Motorové vozidlo je vozidlo poháněné vlastní pohonnou jednotkou.
+
+e) Nemotorové vozidlo je vozidlo pohybující se pomocí lidské síly.
+
+f) Nesmět ohrozit znamená počínat si tak, aby ostatním účastníkům provozu na pozemních komunikacích nehrozilo žádné nebezpečí.
+
+g) Nesmět omezit znamená počínat si tak, aby ostatním účastníkům provozu na pozemních komunikacích nebylo nijak překáženo.
+
+h) Stát znamená uvést vozidlo do klidu nad dobu povolenou k zastavení.
+
+ch) Zastavit znamená uvést vozidlo do klidu na dobu nezbytně nutnou k okamžitému nastoupení nebo vystoupení přepravovaných osob nebo k okamžitému naložení nebo složení nákladu.
+
+i) Zastavit vozidlo znamená přerušit jízdu z důvodu nezávislého na vůli řidiče.
+
+j) Dát přednost v jízdě znamená povinnost řidiče nezačít jízdu nebo jízdní úkon nebo v nich nepokračovat, pokud by řidič, který má přednost v jízdě, musel náhle změnit směr nebo rychlost jízdy.
+
+k) Dálnice je pozemní komunikace označená příslušnou dopravní značkou.
+
+l) Jízdní pruh je část vozovky dovolující jízdu vozidel v jednom jízdním proudu za sebou.
+
+m) Krajnice je část povrchu pozemní komunikace ležící mezi okrajem přilehlého jízdního pruhu a hranou koruny pozemní komunikace, skládá se zpravidla ze zpevněné a nezpevněné části.
+
+n) Křižovatka je místo, ve kterém se pozemní komunikace protínají nebo spojují, za křižovatku se nepovažuje vyústění polní nebo lesní cesty nebo jiné účelové pozemní komunikace na jinou pozemní komunikaci.
+
+p) Elektrický pás je část pozemní komunikace určená především pro provoz tramvají.
+
+q) Železniční přejezd je místo, kde se úrovňově kříží pozemní komunikace se železnicí.
+
+r) Přechod pro chodce je místo na pozemní komunikaci určené k přecházení chodců.
+
+s) Překážka provozu na pozemních komunikacích je vše, co by mohlo ohrozit bezpečnost nebo plynulost provozu na pozemních komunikacích.
+
+t) Doklad totožnosti je doklad, kterým občan státu San Andreas nebo cizinec prokazuje svou totožnost.
+
+u) Zádržný bezpečnostní systém je bezpečnostní pás.
+
+v) kolonou vozidel se rozumí souvislý proud více vozidel, u kterého nelze předjíždět každé vozidlo jednotlivě, rozestup mezi jednotlivými vozidly při předjíždění nebo objíždění neumožňuje bezpečné zařazení.
+
+w) Speciálním znakem se rozumí každý znak, který není číslice nebo písmeno.
+### §2 Povinnosti řidiče
+
+Řidič je kromě povinností uvedených v §3. dále povinen:
+
+a) použít vozidlo, které splňuje technické podmínky stanovené zvláštním právním předpisem.
+
+b) věnovat se plně řízení vozidla v provozu na pozemních komunikacích.
+
+c) přizpůsobit jízdu technickým vlastnostem vozidla.
+
+d) dbát zvýšené opatrnosti zejména vůči dětem, osobám s omezenou schopností pohybu a orientace.
+
+e) odstranit na místě závadu, zjistí-li během jízdy, že vozidlo nebo náklad nesplňuje stanovené podmínky pro jízdu na pozemních komunikacích, nemůže-li tak učinit, smí v jízdě pokračovat přiměřenou rychlostí jen do nejbližšího místa, kde lze závadu odstranit.
+
+f) podrobit se na výzvu člena LSPD, LSSD, zjištění zda není ovlivněn alkoholem, nebo omamnými a psychotropnými látkami.
+
+g) být za jízdy připoután na sedadle bezpečnostním pásem, pokud jím je sedadlo povinně vybaveno
+
+h) mít během jízdy na motocyklu nebo na mopedu na hlavě nasazenou a řádně připevněnou ochrannou přilbu
+
+i) mít viditelnou registrační značku či ji mít u sebe v případě nezpůsobilosti vozidla k nošení registrační značky
+### §3 Řidič nesmí
+
+a) požít alkoholický nápoj ani jinou látku obsahující alkohol (dále jen "alkoholický nápoj") nebo užít jinou návykovou látku během jízdy.
+
+b) řídit vozidlo po požití alkoholického nápoje nebo návykové a to do doby, než bude opět způsobilý k řízení.
+
+c) řídit vozidlo, pokud jeho zdravotní stav může ohrozit bezpečnost nebo plynulost provozu na pozemních komunikacích.
+
+d) předat řízení vozidla osobě, která nesplňuje podmínky podle § 2 ods. 1c nebo která je pod vlivem alkoholu nebo jiné návykové látky nebo jejíž schopnost k řízení vozidla je snížena v důsledku jejího zdravotního stavu.
+
+e) ohrozit nebo omezit chodce na přechodu pro chodce.
+
+f) vyhazovat předměty z vozidla.
+
+g) řídit vozidlo, které se považuje za technický nezpůsobilé pro účast a provoz na pozemních komunikacích.
+
+h) při jízdě vozidlem držet v ruce nebo jiným způsobem telefonní přístroj nebo jiné hovorové nebo záznamové zařízení.
+
+i) kouřit při jízdě na motocyklu, na mopedu a na kole.
+### §4 Povinnosti provozovatele vozidla
+
+Provozovatele vozidla nesmí:
+
+1a) přikázat ani dovolit, aby bylo v provozu na pozemních komunikacích použito vozidlo, které nesplňuje podmínky stanovené zákonem.
+
+1b) svěřit řízení vozidla osobě, která nesplňuje podmínky dané §2.
+
+1c) přikázat nebo svěřit samostatné řízení vozidla osobě, o které nezná údaje potřebné k určení její totožnosti.
+
+a) Provozovatel vozidla je povinen zajistit, aby barevné provedení a označení vozidla nebylo zaměnitelné se zvláštním barevným provedením vozidel Military police, LSPD, LSSD. FIB.
+
+## Zbraně a Střelivo
+### Sekce č. 15/2022GOV Zbraně a střelivo
+
+Zákon o zbraních a střelivu
+
+Část 1.)
+
+Zbraně a střelivo
+### §1 Jediné legální civilní zbraně spadající pod GUR
+
+C1) Berreta M9
+
+C2) H&K P7
+
+C3) H&K P2000
+
+C5) Desert Eagle.50
+
+C6) FN 1910
+
+C7) Lupara
+### §2 Podmínky na vydání zbrojního průkazu
+
+A) Zbrojní průkaz může být vydán pouze osobě, která
+
+A1) je občanem státu San Andreas.
+
+A2) je způsobilá k právním úkonům.
+
+A3) dovršila nebo je starší 21 let věku
+### §3 Oprávnění držitele zbrojního průkazu
+
+Držitel zbrojního průkazu je oprávněn k
+
+A) nošení zbraně kategorie "GUR", přičemž musí nosit zbraň skrytě.
+
+AA) "Skryté nošení" zbraně je nošení zbraně skrytě
+
+AA2) nádobou či pouzdrem, přes které nelze zbraň vidět
+### §4 Podmínky na obnovení zbrojního průkazu
+
+A) Žadatel může požádat o obnovení platnosti zbrojního průkazu na recepci Law Enforcementu. Zbrojní průkaz lze vrátit za podmínek že
+
+A1) žadatel nespáchal žádný násilný trestný čin po dobu 2 let
+
+A2) žadatel zaplatí poplatek ve výši 25.000$ formou sankce
+
+### §5 Odebrání zbrojního průkazu
+
+A) Každý člen státní složky během výkonu služby může rozhodnout o odebrání zbrojního průkazu v případě, že
+
+A1) se jeho držitel dopustil trestného činu se střelnou zbraní.
+### §6 Registrace střelné zbraně
+
+Každý držitel zbrojního průkazu je povinen si zakoupenou zbraň registrovat do 48 hodin, v této lhůtě nesmí být zbraň nabita ani použita.
+V případě, že registrační lhůta uplyne tak se zbraň automaticky řadí jako nelegálně držená a již ji není možné zaregistrovat dle §6 Nelegální držení zbraně.
+§7 Kategorizování "LEG" & "GUR"
+
+### §7 - Legální střelné zbraně patřící pod kategorii "LEG" a "GUR"
+
+A) LEG = Law Enforcement Guns (Legální zbraně pro státní složky)
+
+B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace - viz. §1)
+
+Státní ozbrojené složky LSPD, LSSD,:
+
+A1) Glock 19
+
+A2) H&K P2000
+
+A3) Colt 1911
+
+A4) Remington 870
+
+A5) Beanbag
+
+A6) BSM 123
+
+A7) MP5
+
+A8) H&K MP7
+
+A9) M4
+
+A10) M4A1
+
+A11) Service Carbine
+
+A12) H&K G36C
+
+AA1) Rozšírený zásobnik
+
+AA2) Kompenzátor
+
+AA3) Grip
+
+AA4) Zameriavač
+
+AA5) Pokročilý zameriavač
+
+AA6) Macro zameriavač
+
+AA7) Zafixovaný zameriavač
+
+AA8) Malý zameriavač
+
+AA9) Približovací zameriavač
+
+AA10) Tlumič
+
+AA11) Bubnový zásobník
+
+AA12) Precízna úsťova brzda
+
+AA13) Plochá úsťova brzda
+
+AA14) Ťažká úsťova brzda
+
+AA15) Taktická úsťova brzda
+
+AA16) Ťažký barel
+
+AA17) Základný barel
+
+AA18) Baterka
+
+Státní ozbrojená složka SAND:
+
+A10) Glock-17
+
+A11) WM 29
+
+A12) Glock 17
+
+A13) Colt 1911
+
+A14) MP5
+
+A15) Remington 87
+
+A16) Beanbag
+
+A17) Franchi SPAS-12
+
+A18) M4
+
+A19) M4A1
+
+A20) Service Carbine
+
+A21) Military rifle
+
+## Zákon o soudech, členech soudní komory, členech koncipient-advokátní komory, státních složek, státní správě, soudech a exekučním úřadu
+
+
+### Sekce č. 16/2023GOV - Zákon o soudech, členech koncipient-soudní komory, členech advokátní komory, státních složek, státní správě, soudů a exekuce
+
+ustanovení zákonů
+
+Část 1.)
+Zákon zahrnující obecné ustanovení soudní a advokátní komory, státních složkách a správě, soudů a exekuce
+
+
+### §1 Hlavní zásady činnosti Department Of Justice
+(1)Zajišťuje jednotu a zákonnost rozhodování tím, že:
+a) rozhoduje o mimořádných opravných prostředcích v případech stanovených zákony o řízení před soudy.
+b) rozhoduje v jiných případech stanovených zvláštním právním předpisem/vyhláškou.
+c) rozhoduje veškeré soudní i právní projednávají a rozhodují spory a jiné věci patřící do jejich pravomoci podle zákonů USA.
+d) projednává a rozhoduje trestní věci podle zákonů o trestním řízení
+e) rozhodují v případech pochybení zaměstnanců státní správy a státních složek
+
+
+(2) Department Of Justice dále rozhoduje
+a) organizuje a řídí činnost státních složek
+b) Má pravomoc degradovat, odvolat či rozvázat pracovní poměr s členy státních složek a státní správy
+c) Má pravomoc upravovat zákony, jurisdikce, vyhlášky
+d) Má pravomoc rozhodovat ve věci nouzového stavu
+e) Má pravomoc vykonává úkony notářského úřadu
+f) Má pravomoc k projednávání "všech žalob nebo řízení, jejichž účastníky jsou občané USA, velvyslanci, jiní veřejní činitelé, konzulové, zastupitelé státu nebo vicekonzulové cizích států
+g) Má pravomoc ke zrušení zákonů a aktů státní moci
+h) Rozhoduje ve věcech patřících do pravomoci soudní a advokátní komory, státní správy a státních složek.
+ch) Má výlučnou pravomoc rozhodovat při občanském soudním řízení i v trestním řízení.
+i)  Má výlučnou pravomoc vykonávat veškeré úkony kontol dodržování předpisů, vyhlášek, nařízení a zákonů ve státní sféře a u státních i federálních složek.
+j)  Má výlučnou pravomoc vykonávat veškeré úkony vyšetřování pro dodržování předpisů, vyhlášek, nařízení a zákonů ve státní sféře a u státních i federálních složek .
+k) Má výlučnou pravomoc rozhodovat při soudním řízení právnických osob i v trestním řízení.
+
+### §2 Platnost koncipientské / advokátní licence
+Advokátní/právnickou činnost v San Andreas může vykonávat pouze osoba s platnou advokátní/právnickou licencí na základě vystavení licence od Department Of Justice.
+
+Veškeré vystavené advokátní/právnické licence do data 31.12.2022 byly na základě rozhodnutí Department Of Justice zrušeny. Platné advokátní/právnické licence jsou evidovány s datem vystavení od 1.1.2023. Pokud byla osoba držitelem advokátní/právnické licence s datem vystavení na dobu určitou/neurčitou a s datem vystavení před dobou .31.12.2022, pak tato osoba není aktivním držitelem advokátní/právnické licence.
+
+
+### §3 Zrušení platnosti koncipientské / advokátní licence
+
+Veškeré vystavené advokátní/právnické licence do data 31.12.2022 byly na základě rozhodnutí Department Of Justice zrušeny.
+Od 31.12.2022 jsou licence udělovány vždy s datem platnosti na dobu určitou.
+
+Podmínky zrušení platnosti licence:
+a) byla podána vyhláška ke změně zákona o datech platnosti udělené právnické/advokátní licence (tato vyhláška je obnovována 1x za kalendářní rok)
+b) byl prokázán jeden z bodů §4 Nezpůsobilost právníka/advokáta k výkonu funkce
+
+### §4 Nezpůsobilost koncipienta / advokáta k výkonu funkce
+Právník/advokát je nezpůsobilý vykonávat svou funkci, jestliže:
+a) mu nepříznivý zdravotní stav dlouhodobě nedovoluje vykonávat jeho funkci
+b) byl pravomocně odsouzen za trestný čin
+
+c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
+
+
+
+### §5 žádost o koncipientské / advokátní - licence
+Při žádosti o koncipientní, nebo advokátní licenci je uchazeč o tuto licenci povinen:
+
+
+(1)
+Uhradit poplatek za konání odborné justiční zkoušky ve výši:
+a) Koncipient licence 50 000 USD
+b) Advokátní licence 300 000 USD
+Poplatek je splatný při podání žádosti.
+
+(2)
+koncipientní / advokátní licence se skládá z:
+a) z písemné a ústní části
+b) z psychologického vyšetření.
+c) z trestní bezúhonnosti
+d) doložení o splnění podmínky získání vysokoškolského vzdělání v oboru právo
+
+
+Uchazeč musí splnit všechny body k získání oprávnění. V případě, že uchazeč jeden z bodů nesplní, nevzniká mu nárok na vrácení poplatku.
+
+Za každou zkoušku zaplatí uchazeč 50 000 USD. Na zkoušku z písemné a ústní části má uchazeč tři pokusy. V případě, že uchazeč ani na třetí pokus zkouškou nesloží,zaniká možnost stát se Koncipientem nebo Advokátem.
+
+### §6 Jurisdikce - koncipient na advokátní licenci
+Koncipient je člověk, který má ukončené právnické vzdělání (obvyklý je titul Juris Doctor (JD), Master of Laws (LLM) ). Pokud absolvuje i požadovanou praxi a profesní zkoušku, může se z něj za pár let stát advokát. Koncipient je zmocněn vykonávat právní úkony a zastupovat fyzické i právnické osoby.
+
+Koncipient je první krok k možnosti žádosti o advokátní licenci.
+
+
+a) vykonává svoji činnost v souladu se zákonem
+b) poskytuje právní služby.
+c) ceník právních úkonů stanovuje státní správa. (max 50% z hrozící finanční sankce žalované osoby)
+d) smí zastupovat stranu žalobce i obžalovaného.
+
+
+Počet koncipientů není nijak omezen. Seznam koncipientů je veřejný.
+
+
+
+### §7 Jurisdikce - advokát
+Advokát je právník, který po ukončení právnické fakulty získal:
+a) tříletou praxi advokátního koncipienta, nebo má za sebou 10 soudních řízení.
+b) úspěšně zvládl advokátní zkoušku, a je zapsán v seznamu advokátů vedeném advokátní komorou, pod správou Department Of Justice.
+
+c) vykonává svoji činnost v souladu se zákonem.
+d) poskytuje právní služby.
+c) smí zastupovat stranu žalobce i obžalovaného.
+e) advokát vykonává svobodné povolání poskytováním právních služeb.
+f) advokátní ceník si stanovuje na základě vlastního hodnocení.
+
+
+Počet advokátů není nijak omezen. Seznam advokátů je veřejný.
+
+
+### §8 Trestněprávní imunita
+
+Osoby s trestně právní imunitou jsou povinné se na místě prokázat platnými doklady o trestněprávní imunitě.
+Pod trestněprávní imunitu spadají:
+a) zastupitelé Government State of San Andreas
+b) zastupitelé Department of Commerce
+c) zastupitelé Department of Labor
+d) zastupitelé Department of Justice
+e) zastupitelé Department of Finance
+f) členové soudní komory
+
+
+Při spáchání přestupku ze strany osob s trestněprávní imunitou nemají členové státních složek LSSD,LSPD,DEA, po identifikaci osoby pravomoc přestupek řešit.
+Státní složká má pravomoc identifikovat osobu a sepsat s ní záznam o přestupku, který poté doloží na Department Of Justice k posouzení.
+
+
+Trestní stíhání osob s trestněprávní imunitou:
+
+Při spáchání trestného činu ze strany osob s trestněprávní imunitou mají členové státních složek LSSD,LSPD,DEA, po identifikaci osoby pravomoc přestupek řešit.
+Musí však osobu zajistit:
+a) při trestném činu
+b) bezprostředně poté
+
+
+V případě bodů a) i b) mohou příslušné státní složky osobu omezit na osobní svobodě. Ihned po omezení osoby na osobní svobodě je pro předání soudu nutné získat souhlas od Department Of Justice, která bude pomocí komise rozhodovat v dané trestní věci.
+
+
+
+
+Část 2.)
+Zákon zahrnující postup soudního líčení
+
+### §9 Zásada řádného zákonného procesu
+
+Nikdo nemůže být stíhán jako obviněný jinak než ze zákonných důvodů a
+
+způsobem, který stanoví zákon. Je vyloučeno, aby osoby byly bezdůvodně stíhány,
+
+lze je stíhat jen způsobem, který stanoví trestní zákon
+
+
+### §10 Zásada obžalovací
+
+Trestní stíhání před soudem Department Of Justice je možné jen na základě obžaloby nebo návrhu na potrestání, které státní správa dané působnosti. Veřejnou žalobu v řízení před soudem zastupuje státní zástupce - zvolená osoba orgánu státní správy. Podstatou této zásady je rozdělení procesních funkcí mezi tři subjekty žalobu, obhajobu (v případě, že má osoba právního zástupce) a soud. V hlavním líčení není možné projednávat
+
+jiný skutek, než pro který byla podána obžaloba, tzn. pokud do spisu, nebyly uloženy důkazy do doby soudního líčení, které se projeví až při soudním líčení, nebudou brány tyto důkazy v potaz.
+
+
+### §11 Zásada ústnosti
+
+Jednání při soudním líčení je ústní - důkaz výpověďmi svědků, znalců a obviněného se
+provádí tak, že se osoby vyslýchají. Všechny tyto osoby, a důkazy musí být evidovány ve spisu.
+
+
+
+### §12 Zásada bezprostřednosti
+
+Při rozhodování v hlavním líčení smí Department Of Justice přihlédnout jen k těm důkazům,
+
+které byly při tomto jednání provedeny. Rozhoduje se tedy na základě provedených
+
+důkazů, které by měly splňovat podmínku co největší blízkosti zjišťované skutečnosti.
+
+
+### §13 Zásada presumpce neviny
+
+Dokud pravomocným odsuzujícím rozsudkem od Department Of Justice není vina vyslovena,
+
+nelze na toho, proti němuž se vede trestní řízení, hledět, jako by byl vinen. Existuje
+
+zde povinnost orgánů činných v řízení prokázat vinu.
+
+
+
+Část 3.)
+Zákon zahrnující zahrnující postup obhajoby při zadržení osoby
+
+### §14 Obhájce / obhájce EX OFFO
+
+a) Obhájce, tedy koncipient/advokát zastupuje obžalovaného při obhajobě v trestním řízení.
+
+Obhajoba v trestním řízení může být vykonávána zásadně jen koncipientem nebo advokátem, který je zapsán v advokátní komoře Los Santos, a to na základě plné moci nebo na základě ustanovení soudem ( EX OFFO) v případech nutné obhajoby stanovené zákonem, a to na vyžádání ze strany obviněné osoby.
+
+
+b) Obviněný má právo zvolit si advokáta přiděleného EX OFFO, nebo soukromého koncipienta/advokáta.
+
+
+c) Koncipient/advokát Vám může pomoci během všech fází trestního řízení, ať již jako Vaš koncipient/advokát při podání vysvětlení na policii nebo jako Váš obhájce od zahájení trestního stíhání až po soudní líčení. Mohou Vás zastupovat rovněž v řízení ve věci stížnosti, adt.
+
+
+c) Již při podání vysvětlení má koncipient/advokát přístup ke spisu obviněného, pro možnost dohlédnout na to, aby postup orgánů činných v trestním řízení byl v souladu s předpisy a aby Vám nebyly kladeny nepřípustné a zakázané otázky. V případech, kdy jste v pozici obviněného či obžalovaného v trestním řízení, dbá koncipient/advokát na to, aby byla šetřena veškerá Vaše práva a aby byly odstraněny veškeré nejasnosti.
+
+
+d) Koncipient/advokát se může účastnit i výslechů, může klást svědkům otázky, předkládat důkazy a zdůraznit skutečnosti svědčící ve prospěch obviněného.
+
+
+e) Dále může koncipient/advokát komunikovat s orgány činnými v trestním řízení, podávat písemná podání včetně odporu proti trestnímu příkazu a navrhnout odklony v trestním řízení.
+
+
+f) Koncipient/advokát může navrhnout alternativní trest, pokud bude strana vyšetřovatele (žaloby) souhlasit s trestem - projde toto šetření k dohodě.
+
+g) V případě nezákonného trestního stíhání může koncipient/advokát ve Váš prospěch požadovat a uplatňovat náhradu škody.
+
+
+Část 4.)
+Pohrdání a znevažování pravomocného rozhodnutí Department Of Justice
+
+
+### §15 Pohrdání a znevažování
+pravomocného rozhodnutí Department Of Justice
+Civilní nebo úřední osoba se dopouští:
+
+
+a) závažným způsobem ruší jednání/vyšetřování vedeném ze strany Department Of Justice .
+
+b) vměšování se do vyšetřování vedeném ze strany Department Of Justice.
+
+c) znevažování postupů vedených ze strany Department Of Justice.
+
+d) při jednání se k Department Of Justice chová urážlivě nebo znevažuje jeho rozhodnutí.
+
+e) při projednávání úředních dokumentů se k Department Of Justice chová urážlivě nebo znevažuje jeho pravomocném rozhodnutí.
+
+f) neuposlechne příkaz nebo výzvu od Department Of Justice
+
+g) snaží se jednání/vyšetřování vedeném ze strany Department Of Justice zmařit.
+
+h) vyhrožování zaměstnancům Department Of Justice
+
+ch) neplněním pravomocného rozhodnutí vydaném od Department Of Justice
+
+Jedná se o trestný čin: v bodech a) b) c) d) e) f) g) h) ch) osobě na základě takového jednání hrozí trest:
+
+
+- Odnětím svobody až na 2 roky.
+
+- Propadnutím věci v předmětu šetření.
+
+- Degradací z pozice státní správy, degradace z pozice státních i federálních složek.
+
+- Odvoláním z funkce státní správy, odvolání z funkce státních i federálních složek .
+
+- Finanční pokuta v hodnotě až 6 000 000 USD.
+
+
+
+Část 5.) Státní správa, státní složka, federální složka
+
+### §16 Ukončení pracovního poměru
+
+(1)Výpověď ve zkušební době
+Zrušit pracovní poměr ve zkušební době může jak zaměstnanec, tak i zaměstnavatel kdykoliv během zkušební doby, a to z jakéhokoliv důvodu nebo bez uvedení důvodu.
+V tomto případě nevzniká nárok na odtupné.
+
+
+(2)Výpověď ze strany zaměstnance
+Zaměstnanec může dát zaměstnavateli výpověď z jakéhokoli důvodu nebo i bez uvedení důvodu. Nemusí tedy oficiálně nic vysvětlovat. Je však potřeba splnit základní povinnosti: podat (a doručit) výpověď písemně a dodržet výpovědní lhůtu – ta je stejná jako pro zaměstnavatele, tedy v zásadě dvouměsíční.
+V tomto případě nevzniká nárok na odtupné.
+
+(3)Výpověď ze strany zaměstnavatele (dohodou)
+Dohodou lze rozvázat pracovní poměr kdykoliv, z jakýchkoliv důvodů nebo i bez uvedení důvodu, a to nejdříve k okamžiku (dni) podpisu dohody nebo k jakémukoliv dohodnutému termínu v budoucnosti. Nelze však rozvázat pracovní poměr dohodou do minulosti.
+Může být dohodnuto odstupné.Výše odstupného se odvíjí od délky trvání pracovního poměru a činí jedno až trojnásobek průměrného měsíčního výdělku.
+
+(4)Okamžité zrušení pracovního poměru
+
+Speciální situací je takzvaná okamžitá výpověď.
+Zaměstnavatel ji může dát jenom ve dvou případech:
+
+    když zaměstnanec porušil povinnost vyplývající z právních předpisů vztahujících se k jím vykonávané práci zvlášť hrubým způsobem.
+    když byl zaměstnanec pravomocně odsouzen pro trestný čin k odnětí svobody na dobu delší než jeden rok, nebo pro úmyslný trestný čin spáchaný při plnění pracovních úkolů nebo v přímé souvislosti s ním k nepodmíněnému trestu odnětí svobody na dobu nejméně šesti měsíců.
+    V tomto případě nevzniká nárok na odtupné.
+
+
+
+(5)Zrušení zaměstnavatele (nebo jeho části)
+
+Zrušení zaměstnavatele (spojené se zánikem jeho podniku) je krajním řešením. V současné situaci však lze očekávat, že v některých případech přistoupí zaměstnavatelé k rušení některých svých poboček, případně samostatných oddělení. Bude-li se jednat o organizačně samostatnou jednotku, může být naplněno zrušení části zaměstnavatele a zaměstnavatel pak bude moci použít tento výpovědní důvod. Ten má např. v porovnání s nadbytečností [viz bod c) níže] výhodu v tom, že nejsou chráněny některé skupiny zaměstnanců (např. zaměstnanci na rodičovské dovolené či v pracovní neschopnosti).
+
+
+(6)Přemístění sídla zaměstnavatele
+
+Další možnou variantou řešení finančních potíží zaměstnavatele je sloučení některých poboček či přesunutí střediska podnikatelské činnosti zaměstnavatele do ekonomicky výhodnějších oblastí či prostor. Ani zde se v pracovněprávních vztazích nevychází z úzce pojaté definice sídla zapsaného v obchodním rejstříku, nýbrž myšleno je sídlo ekonomické činnosti, v němž má zaměstnavatel umístěn svůj závod, a v němž svým zaměstnancům přiděluje práci. Takových sídel může být samozřejmě celá řada, je proto nutné přemístění posoudit s ohledem na konkrétního zaměstnance.
+
+
+
+(7)Nadbytečnost zaměstnance
+Jednoznačně nejčastějším organizačním důvodem využívaným při zhoršené hospodářské situaci zaměstnavatele je institut tzv. nadbytečnosti zaměstnance.Zákon předpokládá, že výpovědi pro nadbytečnost předchází úvaha zaměstnavatele o zefektivnění provozu, zjednodušení organizační struktury zaměstnavatele, snížení počtu zaměstnanců a s tím související ušetření mzdových nákladů a podobně. Nikoliv každá organizační změna je tedy automaticky výpovědním důvodem, nýbrž musí jít o změnu, která (sama) způsobí, že se zaměstnanec stane nadbytečným, jinými slovy zaměstnavatel nemá dostatek práce, kterou by zaměstnanci v souladu s uzavřenou pracovní smlouvou mohl přidělovat. Nadbytečnost však nesmí být způsobena přímo zaměstnavatelem v tom smyslu, že na shodnou pracovní pozici přijal jiného zaměstnance, v důsledku čehož již nemůže vytížit svého dosavadního zaměstnance. Musí se vždy jednat o provozně opodstatněnou změnu, kterou musí být zaměstnavatel připraven prokázat a obhájit.
+
+(8)Odstupné a povinné odvody
+
+S ukončením pracovního poměru z organizačních důvodů je spojená zákonná povinnost platit po skončení pracovního poměru zaměstnanci odstupné. Výše odstupného se odvíjí od délky trvání pracovního poměru a činí jedno až trojnásobek průměrného měsíčního výdělku. V dohodě se zaměstnancem, interním předpisu či kolektivní smlouvě může být přiznáno odstupné vyšší.
+
+
+Část 6.)
+
+### §17 Pořádková pokuta ve správním řízení
+
+Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu až do výše 1 000 000 USD především tomu, kdo v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání ke správnímu orgánu, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
+
+Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
+
+Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle (§ 18). Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 000 000 USD.
+
+
+
+### §18 Předvolání k podání vysvětlení
+
+(1) K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 18) a předvedení (§ 19). O odepření vysvětlení obdobně platí to, co pro odepření součinnosti při dokazování a zákaz výslechu.
+
+(2) Každý je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 17) až do výše 1 000 000 USD.
+
+(3) O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
+
+(4) Záznam o podání vysvětlení lze použít jako důkazní prostředek.
+
+
+### §19 Předvedení
+
+(1) Jestliže se účastník nebo svědek bez náležité omluvy nebo bez dostatečných důvodů na předvolání nedostaví, může Department Of Justice vydat usnesení, na jehož základě bude účastník nebo svědek předveden. Písemné vyhotovení usnesení se doručuje pověřeným orgánům elektronicky pomocí datové schránky. Státní složky LSPD,LSSD,DEA mají pravomoc předvedení provést.
+
+(2) Předvedení na požádání Department Of Justice zajišťuje LSPD,LSSD,DEA.
+
+
+
+### §20 Pořádková pokuta uložená Okresním soudem Los Santos
+
+Každá osoba přítomna na soudním jednání, líčení je povinná dodržovat řád soudní budovy. Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, může být usnesením soudu uložena jako pořádkové opatření pořádková pokuta do maximální výše 150 000 USD. Tato pořádková pokuta může být i opakovaně uložena a může být na odůvodněnou žádost podanou do právní moci rozhodnutí, jímž se řízení končí, usnesením zčásti nebo zcela prominuta.
+
+
+
+### §22 Placení nákladů soudního řízení
+
+Každý z účastníků a osob zúčastněných na řízení platí náklady, které vzniknou jemu nebo jeho zástupci.
+Stát platí náklady vynaložené na svědečné, znalečné, tlumočné a jiné náklady spojené s dokazováním.
+Deparment of Justice však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl a to až do výše 250 000 USD 
+
+## Státní složky
+### Sekce č. 17/2023GOV - Ozbrojené státní složky LSPD,LSSD,DEA a složky IZS EMS,LSFD
+Obecné ustanovení zákonů
+
+Část 1.)
+Jurisdikce ozbrojených složek
+
+
+### §1 Jurisdikce ozbrojených složek Los Santos Police Department
+
+LSPD má ve své jurisdikci tyto body:
+
+a) Chrání bezpečnost osob a majetku.
+
+b) Spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+
+c) Vede boj proti terorismu.
+
+d) Odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+
+e) Dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+
+f) Kontroluje pravost a platnost dokladů.
+
+h) Vede evidence a statistiky potřebné pro plnění svých úkolů.
+
+ch) Vyhlašuje celostátní pátrání.
+
+i) Na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+
+j) Zadržuje osoby vyhlášené v pátrání.
+
+k) Zajištění veřejného pořádku.
+
+l) Plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+
+m) Plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+
+n) Vede boj proti organizovanému zločinu.
+
+o) Los Santos Police Department s působností na celém území San Andreas.
+
+p) Role Los Santos Police Department provádějí police officers.
+
+q) Za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+
+r) Vedení LSPD jmenuje a odvolává Department Of Justice.
+
+
+
+### §2 Jurisdikce ozbrojených složek Los Santos Sheriff Department
+
+LSSD má ve své jurisdikci tyto body:
+
+a) Chrání bezpečnost osob a majetku.
+
+b) Spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+
+c) Vede boj proti terorismu.
+
+d) Odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+
+e) Dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+
+f) Kontroluje pravost a platnost dokladů.
+
+h) Vede evidence a statistiky potřebné pro plnění svých úkolů.
+
+ch) Vyhlašuje celostátní pátrání.
+
+i) Na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+
+j) Zadržuje osoby vyhlášené v pátrání.
+
+k) Zajištění veřejného pořádku.
+
+l) Plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+m) Plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+
+n) Vede boj proti organizovanému zločinu.
+
+o) Los Santos Sheriff Department s působností na celém území San Andreas.
+
+p) Úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
+
+q) Za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
+
+r) Vedení LSSD jmenuje a odvolává Department Of Justice.
+
+
+
+
+
+
+### §3 Jurisdikce ozbrojených složek Drug Enforcement Administration
+
+DEA má ve své jurisdikci tyto body:
+
+a) DEA má působnost v drogově trestné činnosti. Jedná se především o specifické trestné činy nedovolené výroby a držení omamných a psychotropních látek, jenich prodej.  
+
+b) Prošetřuje trestnost držení drogy pro vlastní potřebu, trestnost šíření toxikomanie, trestnost zacházení s drogami.
+
+c) Chrání bezpečnost osob a majetku.
+
+d) Vede boj proti drogově trestné činnosti a organizovaném zločinu v drogově trestné činnosti.
+
+e) Odhaluje trestné činy v oblasti drog, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti v oblasti drog. Koná vyšetřování o drogově trestných činech - v trestním řízení vystupuje jako DEA.
+
+f) Kontroluje pravost a platnost dokladů.
+
+g) Vede evidence a statistiky potřebné pro plnění svých úkolů.
+
+h) Vyhlašuje celostátní pátrání.
+
+ch) Zadržuje osoby vyhlášené v pátrání.
+
+i) Vede boj proti organizovanému zločinu v drogové činnosti.
+
+j) Drug Enforcement Administration s působností na celém území San Andreas a přilehlých oblastech včetně ostrovů a území ostrova Cayo Perico.
+Jurisdikce je spojena s veškerou drogově trestní činností.
+
+k) DEA má pravomoc vznést žádost o převzetí případu na jednotku řešící případ spojený s drogově trestnou činností
+
+l) Vedení DEA jmenuje a odvolává Department Of Justice.
+
+
+Část 2.)
+Rozvázání pracovního poměru
+
+
+### §4 Rozvázání pracovního poměru u Los Santos Police Department
+
+(1)
+V případě rozvázání služebního poměru ze strany vedení LSPD,
+má osoba se kterou byl služební poměr rozvázán tyto možnosti:
+
+a) Nastoupit do pracovního poměru v případě splnění všech podmínek stanovených k LSSD, která přestupujícímu může nabídnout pozici do maximální hranice o dva stupně nižší, než vykonával u sboru LSPD.
+b) Nastoupit do služebního poměru v případě splnění všech podmínek stanovených k EMS/LSFD a to na pozici asistent.
+
+(2)
+V případě rozvázání služebního poměru ze strany zaměstnance,
+má osoba, která podala výpověď z služebního poměru tyto možnosti:
+
+a) Nastoupit do služebního poměru v případě splnění všech podmínek stanovených k LSSD a to na pozici Deputy.
+b) Nastoupit do služebního poměru v případě splnění všech podmínek stanovených k EMS/LSFD a to na pozici asistent.
+
+
+
+### §5 Rozvázání služebního poměru u Los Santos Sheriff Department
+
+(1)
+V případě rozvázání služebního poměru ze strany vedení LSSD,
+
+má osoba se kterou byl služební poměr rozvázán tyto možnosti:
+
+a) Nastoupit do pracovního poměru v případě splnění všech podmínek stanovených k LSPD, která přestupujícímu může nabídnout pozici do maximální hranice o dva stupně nižší, než vykonával u sboru LSSD.
+b) Nastoupit do služebního poměru v případě splnění všech podmínek stanovených k EMS/LSFD a to na pozici asistent. 
+
+
+(2)
+
+V případě rozvázání služebního poměru ze strany zaměstnance,
+má osoba, která podala výpověď z služebního poměru tyto možnosti:
+
+a) Nastoupit do služebního poměru v případě splnění všech podmínek stanovených k LSPD a to na pozici Police Officer.
+b) Nastoupit do služebního poměru v případě splnění všech podmínek stanovených k EMS/LSFD a to na pozici asistent.
+
+
+
+### §6 Výpovědní lhůta - návaznost na §4,§5,§7
+
+
+1. Rozvázání pracovního poměru je závislé na datu nástupu a vypracování pracovní smlouvy u jednotlivé státní složky součástí integrovaného systému a složky ozbrojené.
+2. Rozvázání pracovního poměru je vázané výpovědní lhůtou od podání výpovědi po časovém období 2 dnů od založení pracovního poměru.
+3. V době rozvázání pracovního poměru není možné čerpat osobní volno či dovolenou avšak jedinou možnou omluvou absence výkonu práce v době výpovědní lhůty je nemoc potvrzená od lékaře s vystavením dočasné pracovní neschopnosti a odebráním zdravotní způsobilosti po dobu nemoci.
+4. Stanovená lhůta 7 dnů je možná v případě potřeby a nahrazení pozic jinými zájemci prodloužit o dalších 2 dnů.
+5. Po uplynutí dané doby je za povinnost pracovní smlouvu ukončit ke dni skončení lhůty.
+
+
+### §7 Rozvázání služebního poměru u Emergency medical services/Los Santos Fire Department
+(1)
+V případě rozvázání služebního poměru ze strany vedení EMS,
+má osoba se kterou byl služební poměr rozvázán tyto možnosti:
+
+a) Nastoupit do pracovního poměru v případě splnění všech podmínek stanovených k LSPD/LSSD a to do akademie.
+(2)
+V případě rozvázání služebního poměru ze strany zaměstnance,
+má osoba, která podala výpověď z služebního poměru tyto možnosti:
+
+a) Nastoupit do pracovního poměru v případě splnění všech podmínek stanovených k LSPD/LSSD a to do akademie.
+
+
+
+Část 3.)
+### §8 nepřiměřený zákrok ozbrojených státních složek při zásahu
+
+Při vyšetřování Department Of Justice provede:
+-Počáteční zjištění faktů.
+
+-Zajištění výpovědi svědectví nebo zaznamů kamerových záznamů.
+-Zajištění důkazních materiálů.
+-Na základě prošetření poté rozhodne pravděpodobná míra pochybení z I nebo II. stupně
+-[menší/vážné/hrubé]
+
+Nepřiměřený zákrok - použití služebních donucovacích prostředků a střelné zbraně proti osobám ve chvíli, kdy např:
+1. Nedochází k přímému ohrožení státní složky za pomoci zbraně.
+2. Osoba není agresivní a ozbrojená.
+3. Osoba neohrožuje jinou osobu na životě.
+4. Se osoba vzdala, je neozbrojená a dbá všech pokynům ozbrojené státní složky.
+5. Se osoba nedopustila žádné trestné činnosti - jde pouze o přestupek.
+6. Ve chvíli, kdy osoba uposlechla výzvy pokynům ozbrojené státní složky.
+
+Nepřiměřený zákrok ozbrojených státních ložek - I. stupně je trestný čin:
+
+Použití služební střelné zbraně na neozbrojenou osobu, která neklade odpor.
+
+Střelba ze služební střelné zbraně na jedoucí vozidlo, ze kterého nedošlo ke střelbě.
+Použití služebního taseru a jiných donucovacích prostředků na neozbrojenou osobu, která neklade odpor.
+V případě, kdy suspect uniká pomocí motorovéhom nebo jiného dopravního prostředku, a během zásahu nepoužil střelnou zbraň, má zaměstnanec státní ozbrojené složky povinnost před použitím donucovacích prostředků k zamezení vozidla, nebo motorového prostředku zajistit, aby následkem použití donucovacích prostředků nedošlo k újmě na zdraví suspecta a nezúčastněných osob.
+
+Nepřiměřený zákrok ozbrojených státních ložek - II. stupněje trestný čin :
+
+II. stupeň je použití nepřiměřené síly vůči osobě, u které nedošlo k porušení zákona.
+
+
+Sankce:
+
+I. stupeň- 10 let až odnětí svobody na doživotí ve státní věznici.
+
+II. stupeň - degradace zaměstnance až 8 let ve státní věznici.
+
+U stupeň I a II pokutu ve výši až 5000 - 20000$ a odškodnění oběti ve výši 50 000 až 250 000 $
+
+
+### §9 Úplatkářství a korupční jednání, ze strany zaměstnance státní složky
+
+Každá osoba zaměstnaná u státních a federálních složek, která příjme nabídku jakékoli podoby úplatku v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, názorem, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, se ve svém postavení dopouští trestného činu.
+V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
+
+(1) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody v délce 2 let - Pokuta 100,000$ až 250,000$
+
+(2) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 10 let - Pokuta 250,000$ až 1 000,000$
+
+(3) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 10 000,000$
+
+
+Část 4.)
+
+### §10 nedodržování služební ústrojové kázně
+
+ 
+Příslušníci a příslušnice státních složek používají služební stejnokroj následovně:
+
+(1) 
+a) Pracovní stejnokroj je předem stanovený na aplikaci každé státní složky.
+Je povinností každého zaměstnance při výkonu služby podle charakteru stanovený předpisy spojenými s činností a klimatickými podmínkami tento stejnokroj dodržovat a to na základě ustanovení předepsané uniformy v rámci kodexu dané statní složky s výjimkou případů Agentů DEA, CID, FTF
+
+V případě nedodržení předem stanovených pravidel ústrojové kázně,bude daný zaměstnanec státní složky degradován vedením pod které spadá o jednu hodnost níže.
+
+
+
+
+### §11 překročení jurisdikce a zneužití pravomocí
+
+Každá osoba zaměstnaná u státních a federálních složek, která překročí svou jurisdikční pravomoc, nebo ji zneužije, se dopouští trestného činu §11 překročení jurisdikce a zneužití pravomocí. Tato osoba bude v rámci takového provinění vyšetřován ze strany Department Of Justice, která na základě prošetření dle závažnosti případu stanoví délku trestu, případně odnětí svobody.
+
+(1) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+odnětí svobody v délce 1 rok a pokuta 20,000$ - Možnost propuštění na kauci 80,000$
+(2) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 2 let a pokuta 50,000$ - Možnost propuštění na kauci 120,000$
+(3) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 5 let - až doživotí - Pokuta 70,000$
+
+(úprava zákona proběhla dne 20.3.2023 - 15:00)
+
+
+### §12 Odcizení nebo přechovávání důkazních materiálů a služebního vybavení v osobním skladu/trezoru ze strany zaměstnance státní složky
+
+Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, nebo služební vybavení v osobním skladu/trezoru se v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, dopouští trestného činu.
+V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
+
+(1) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody v délce 2 let - Pokuta 100,000$ až 250,000$
+(2) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 5 let - Pokuta 250,000$ až 1 000,000$
+(3) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 1 000,000$
+
+
+(úprava zákona proběhla dne 20.3.2023 - 15:00)
+
+Část 5.)
+
+### §13 Suspendace ze strany vedení státní složky svého zaměstnance a proces vyšetřování
+
+Vedení státní složky oznámí zaměstnanci suspendaci, situaci na základě důkazů a zákonů prošetří, poté oznámí vznesená obvinění a informuje zaměstnance jak šetření dopadlo. Vedení státní organizace následně rozhodne buď o degradaci, rozvázání pracovního poměru bez nárokovatelných finančních složek, o umístění osoby do vazby nebo trestním stíhání na svobodě.
+
+Po shromáždění dostatečného množství důkazů v trestním řízení, sepíše prokurátor obžalobu, ve které bude podrobně popsáno řízení obviněného, důkazy získané v průběhu trestního řízení, návrh trestu a odůvodnění tohoto návrhu.
+
+Kopii obžaloby zašle prokurátor k seznámení soudci a obviněnému, který se po doručení obžaloby stává obžalovaným. Toto ustanovení se nepoužije, je-li proti osobě vedeno zkrácené řízení podle.
+
+
+### §14 Suspendace vznesená ze strany Department Of Justice
+Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
+
+V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
+
+Department Of Justice na základě §19 zašle suspendaci zaměstnance s platností ke dni a důvodem suspendace.
+Vedení státní složky, která tento příkaz obdrží, vydá suspendaci příslušnému zaměstnanci. 
+Poté Department Of Justice založí soudní spis s podnětem k šetření.
+Do spisu je přidělena osoba zvolená Department Of Justice a zmocněna situaci prošetřit. Tuto osobu stanoví pouze Department Of Justice .
+Osoba zmocněná k vyšetřování má případ v kompetenci vyšetřování.
+Započne vyšetřování na základě důkazů, zákonů, vyhlášek, směrnic, a postupů. Během prošetřování doplňuje veškeré materiály tento vyšetřovatel do úředního spisu vedeném u Department Of Justice .
+Department Of Justice po prošetření případu vynese konečné rozhodnutí v rámci vyšetřování dle stanovených porušení zákonů Los Santos.
+
+
+(úprava zákona proběhla dne 20.3.2023 - 15:00)
+
+### §15 Vyšetřování a kontroly státních organizací a státních složek ze strany Department Of Justice
+(1)
+
+Department Of Justice je státní orgán s výlučnou pravomocí, který může prošetřovat pochybení zaměstnanců státních organizací a státních složek, včetně vedoucích zaměstnanců v pozicích státních organizací a státních složek.
+
+
+(2)
+V případě vznesené žádosti k vyšetřování ze strany civilní či fyzické osoby, s doložením důkazních materiálu k předmětu šetření, započne strana Department Of Justice úkon šetření.
+
+(3)
+Department Of Justice má pravomoc provádět neohlášené kontroly státních organizací a státních složek.
+
+(4)
+Department Of Justice má pravomoc k vyžádání všech potřebných dokumentů, na základě kontroly či vyšetřování.
+
+(5)
+Department Of Justice má pravomoc pověřit vyšetřováním státní orgán LSPD/LSSD/DEA, který na základě pověření, započne úkon vyšetřování.
+
+
+(úprava zákona proběhla dne 20.3.2023 - 15:00)
+Část 6.)
+
+### §16 Neoprávněná prohlídka/vstup bez soudního povolení
+
+§15 je v státě San Andreas trestný čin, který definuje neoprávněnou prohlídku/vstup ze strany státních složek:
+Prohlídka bez soudního příkazu k domovní prohlídce, nebo bez souhlasu vlatníka, je protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek a to bez předchozího schválení ze strany Department Of Justice. K takovému úkonu musí státní složka předložit žádost u Department Of Justice o povolení k domovní prohlídce na základě předem podložených důkazů o trestné činnosti, nebo ve spojitosti s nimi.
+
+Je-li uskutečněna domovní prohlídka bez soudního povolení,nebo písemného souhlasu vlastníka, bude člen státní složky, který k takovému úkonu rozhodl, obviněn z §16 Neoprávněná prohlídka/vstup bez soudního povolen.
+
+
+
+Trest:
+(1) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+odnětí svobody v délce 1 rok a pokuta 20,000$ - Možnost propuštění na kauci 80,000$
+(3) je trestný čin
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 2 let - Pokuta 50,000$ - Možnost propuštění na kauci 80,000$
+
+
+(úprava zákona proběhla dne 20.3.2023 - 15:00)
+
+
+
+Část 7.)
+### §17 Zřízení datové schránky do 25.3.2023
+
+Od 25. 3. 2023 dochází na základě nového zákona k automatickému zřízení datových schránek na aplikacích všech orgánů státní správy a státních složek. V tentýž den 25.3.2023 bude tato schránka uvedena v platnost. Od tohoto okamžiku, bude veškeré úřední dokumenty zasílána v elektronické podobě. Všechny dokumenty takto zaslané budou mít účinnou platnost úředního dokumentu a budou sepsány podle vzoru § 19.
+
+
+### §18 Datová schránka
+Datová schránka je v Los Santos od 25.3.2023 definována jako elektronické úložiště speciálního typu, zřízené podle příslušného zákona §17 Zřízení datové schránky u všech orgánů státní správy a státních složek do 25.3.2023, které je určeno k doručování elektronických dokumentů mezi orgány veřejné moci (např. Department Of Justice) na straně jedné a všech orgánů státní správy a státních složek (např. Los Santos Police Department) na straně druhé. Do této schránky můsí být umožněn přístup celému vedení státní správy/státní složky, které tato schránka náleží.
+
+
+
+### §19 vzor platného úředního dokumentu zaslaného do datové schránky
+
+úředně platný dokument musí obsahovat tyto náležitosti:
+1) Název dokumentu - např. SUSPENDACE
+2) úřední dokument - název orgánu státní správy/státní složky/státní organizace/federální složky
+3) jméno a příjmení osoby, která dokument vydala s hlavičkou organizace(příslušnosti) pod kterou vydávající osoba spadá
+4) jméno a příjmení osoby, pro kterou je dokument určený a hlavička organizace(příslušnosti) pod kterou tato osoba spadá
+5) předmět věci dokumentu s datem ke dni.
+6) (nepovinné) text s vyjádřením, dalšími informacemi, paragrafy, a nařízení v návaznosti na předmět dokumentu
+7) kontaktní e-mail na orgán státní správy/státní složky, který dokument vydal
+8) elektronický podpis zaměstnance orgánu státní správy/státní složky, který dokument vydal
+9) pracovní pozice a příslušnost osoby orgánu státní správy/státní složky, který dokument vydal
+9) V San Andreas I Los Santos, SA                    dne:
+
+
+
+Část 8.)
+### §20 porušení právních předpisů a zákona ze strany státní složky
+
+
+Příslušníci všech státních složek jsou povinni se na místě prokázat platnými doklady s identifikací čísla odznaku. To platí i v případě, že osoba je v momentální chvíli šetření protiprávního jednání mimo službu.
+Řešení přestupků u zaměstnanců státních složek je vedeno ze strany vlastního vedení státní složky pod kterou osoba spadá.
+
+Jedná-li se o přestupek:
+Při spáchání přestupku ze strany zaměstnanců státních složek, nemají členové jiné státní ozbrojené složky po identifikaci osoby pravomoc přestupek řešit na místě.
+Státní složka, která osobu jiné státní složky na místě přestupku vyšetřuje, má pravomoc identifikovat osobu a sepsat s ní záznam o přestupku, které poté doloží na Vedení státní složky pod kterou osoba dopouštějící se přestupku spadá. Po předání záznamu se Vedení touto osobou zabývá.
+Výjimku tvoří EMS a LSFD, které ozbrojené státní složky mají ve své kompetenci a mohou ji řešit.
+
+
+Řešení trestných činů u zaměstnanců státních složek je v jurisdikci rozhodování ze strany Department Of Justice.
+
+Jedná-li se o trestný čin:
+Trestní stíhání u zaměstnanců státních složek:
+Při spáchání trestného činu ze strany zaměstnanců státních složek, mají všechny ozbrojené státní složky pravomoc omezit osobu na osobní svobodě, provádět vyšetřování a vznést obvinění. Ozbrojená státní složka, která osobu zajistí je povinna informovat Department Of Justice prostřednictvím soudního spisu na aplikaci soudu. Na základě spisu se Department Of Justice touto osobou zabývá.
+Výjimku tvoří EMS a LSFD, které ozbrojené státní složky mají ve své kompetenci a mohou ji řešit.
+Při spáchání trestného činu ze strany zaměstnanců EMS a LSFD, mají všechny ozbrojené složky pravomoc omezit osobu na osobní svobodě, provádět vyšetřování a vznést obvinění.
+Státní složka, která osobu spadající pod EMS, nebo LSFD zajistí je povinna informovat Department Of Justice prostřednictvím soudního spisu na aplikaci soudu. Na základě spisu se Department Of Justice touto osobou zabývá.
+
+
+
+### §21 Pořádková pokuta pro státní složky
+
+Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu zaměstnanci státní složky až do výše 1 500 000 USD pokud v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání k Department Of Justice, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
+
+Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
+
+Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle § 22. Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 500 000 USD.
+
+
+
+### §22 Předvolání k podání vysvětlení zaměstnance státní složky
+
+(1) K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 22).
+
+(2) Každý zaměstnanec státní složky je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 21) až do výše 1 500 000 USD.
+
+(3) O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
+
+(4) Záznam o podání vysvětlení lze použít jako důkazní prostředek.
+
+
+## Advokátní komora
+
+### Veřejný seznam advokátních a právnických licencí
+Vydané advokátní licence
+
+
+
+## San Andreas Naval Defense
+### Sekce č. 19/2023GOV SAND
+
+SAND, San Andreas Naval Defense
+Část 1.)
+
+### §1 Konání přestupků a trestních činů na nelegální části Cayo Perico 
+
+a) Konání přestupků a trestních činů na nelegální části ostrova Cayo Perico § 1 odst. a) je trestný čin, který se trestá podle závažnosti spáchaného přestupku nebo trestního činu
+b) Přestupky a trestní činy jsou vázané na Penal Code, z. s. č. 5/2022GOV o Penal Code
+### §2 Útok či střelba proti San Andreas Naval Defense
+
+a) Útok či střelba proti San Andreas Naval Defense v oblasti Cayo Perica § 2 odst. a) je trestný čin, který se trestá odnětím svobody 15 let a pokutou. 
+b) V případě recidivy hrozí dvojnásobný trest běžného trestu.
+### §3 Útěk z prostor Cayo Perico 
+
+a) Ujíždění nebo útěk před příslušníky ozbrojených složek San Andreas Naval Defense přes výzvu k zanechání protiprávního jednání je trestný čin, který se trestá odnětím svobody od 2 do 4 let a pokutou a nebo podmínkou.
+### §4 Neuposlechnutí výzvy na území Cayo Perica 
+
+a) Neuposlechnutí zákonné výzvy či nařízení San Andreas Naval Defense je trestný čin, který se trestá odnětím svobody od 1 do 2 let a pokutou a nebo podmínkou.
+### §5 Dodatky k působnosti zákona 
+
+Podle trestního zákoníku se posuzuje trestnost činu, který byl spáchán na území státu San Andreas trestným činem je protiprávní jednání nebo čin, který trestní zákon označuje za trestný a který vykazuje znaky uvedené v takovém zákoně. 
+Část 2.)
+### §6 Patrolovací činnost
+
+a) SAND může provádět patrolovací činnost na základně Fort Zancudo a jejím okoli, na přilehlých ostrovech, vodních plochách státu San Andreas a ostrově Cayo Perico.
+b) Patrolovací činnost mimo vyhrazené území je zakázáno.
+c) Patrolovací činnost na vyžádání LSPD nebo LSSD za účelem výpomoci je zakázáno. 
+### §7 Respond SAND na vyžádání LSPD & LSSD
+
+a) V případě přepadnutí Pacific Standard Public Deposit Bank můžou jednotky SAND reagovat pouze v případech, kde padne vyžádání od LSSD Ranger-1 nebo LSPD Staff-1 a schválení od SAND Admiral Alpha-1 nebo Vice Admiral Eagle-1.
+b) Reagování SAND je možno pouze v označených Military Police vozidlech nebo jiných vozidlech se zvukovým výstražným zařízením doplněným zvláštním výstražným světlem
+c) Reagování SAND je možné i za letecké podpory.
+d) Odvolání SAND z dané akce je možné pouze od LSSD Ranger-1 nebo LSPD Staff-1 nebo Admirál Alpha-1 nebo Vice Admiral Eagle-1, poté se musí neprodleně vrátit na jejich působiště.
+
+Část 3.)
+### §8 Zadržení a zatčení příslušníky San Andreas Naval Defense
+
+a) SAND má právo zadržet nebo zatknout osobu na území Cayo Perico, základně Fort Zancudo a na území patrolovací činnosti v případě §1, §2, §3, §4 zákona sekce č. 19/2023GOV, SAND.
+b) SAND má za povinnost po zadržení nebo zatčení kontaktovat LSPD nebo LSSD k převzetí dané osoby k dořešení.
+c) SAND nemá za povinnost ptát se na znalost mirandy dané osoby, provádí poté na místě jednotky LSPD nebo LSSD.
+d) SAND má právo na držení dané osoby v cele předběžného zadržení dle zákona 24 hodin a má právo na automatické prodloužení o dalších 24 hodin v případě, že není dostatek jednotek LSPD nebo LSSD ve službě kteří by si mohli danou osobu převzít.
+e) SAND má za povinné po uplynutí 48 hodin v cele předběžného zadržení osobu převézt na stanici Vespucci HQ a předání místnímu personálu. 
+### §9 Výslechy
+
+a) SAND má právo na provádění výslechů na území San Andreas Naval Defense.
+b) SAND má za povinné předat záznam z výslechu složce, která si poté osobu přebírá.
+### §10 Narušení federální půdy
+
+Federální půdou se rozumí vládní budovy a prostory Armády, Námořnictva a Letectva.
+
+Narušením těchto prostor se osoba dopouští federálního zločinu.
+Narušením prostoru se rozumí neoprávněný vstup do těchto prostor.
+Státní složky (LSPD, LSSD, EMS, LSFD, FIB, DEA, USMS, SAHP, FAA) nesmí nikterak narušit Prostory Armády, Námořnictva, Letectva a objekty ve správě San Andreas Naval Defense bez patřičných povolení ze strany San Andreas Naval Defense.
+
+Narušení prostoru federální půdy jest trestný čin, který se trestá pokutou $70.000,- odnětím svobody v délce 4 - 5 let
+### §11 Vozidla ve vlastnictví San Andreas Naval Defense
+
+
+a) Vozidla vlastněná San Andreas Naval Defense mohou mít poznávací značku vydanou touto pobočkou armády ve spolupráci s Department of Defense, ačkoli některá užitková vozidla či těžká technika nebudou míti žádnou SPZ, pouze identifikační číslo aplikované přímo na karoserii daného vozidla. Vozidla mohou býti značena taktéž logem nebo znakem daného útvaru či branže jež spadá pod SAND. Mimo toto značení nespadá technika jejíchž povaha neumožnuje tuto techniku SPZ či jiným značením osadit.
+b) Osazení výše zmíněných znaků na techniku či vozidla jiná nežli ukládá SAND či vozidla mimo vlastnictví SAND jest přestupek který se trestá pokutou ve výši $15000 a zabavením vozidla.
+
+
+## Los Santos Police Department
+### Sekce č. 20/2023GOV, LSPD
+
+LSPD, Los Santos Police Department
+
+
+**Část 1.) Postavení a činnost**
+
+
+### §1 Los Santos Police Department ( dále jen ‚‚LSPD‘‘ ) je jednotnou ozbrojenou složkou.
+
+
+### §2 LSPD má ve své jurisdikci tyto body:
+
+a) Chrání bezpečnost osob a majetku.
+b) Spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+c) Vede boj proti terorismu.
+d) Odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+e) Dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+f) Kontroluje pravost a platnost dokladů.
+h) Vede evidence a statistiky potřebné pro plnění svých úkolů.
+ch) Vyhlašuje pátrání
+i) Na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+j) Zadržuje osoby vyhlášené v pátrání.
+k) Zajištění veřejného pořádku.
+l) Plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+m) Plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+n) Vede boj proti organizovanému zločinu.
+o) Los Santos Police Department s působností na celém území San Andreas.
+p) Role Los Santos Police Department provádějí police officers.
+q) Za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+r) Vedení LSPD jmenuje a odvolává Department Of Justice. 
+### §3 LSPD působí na celém území ostrova San Andreas
+
+
+**Část 2.) Základní povinnosti**
+
+
+### §4 Zdvořilost
+
+Police Officer je povinen při plnění úkolů dodržovat pravidla zdvořilosti a dbát cti, vážnosti a důstojnosti osob i své vlastní. 
+### §5 Přiměřenost postupu
+
+Police Officer je při plnění úkolů povinen
+a) dbát, aby žádné osobě v důsledku jejich postupu nevznikla bezdůvodná újma,
+b) dbát, aby jejich rozhodnutím neprovést úkon nevznikla osobám, jejichž bezpečnost je ohrožena nevznikla bezdůvodná újma.
+### §6 Prokazování příslušnosti
+
+Police Officer je při provádění úkonu povinen se prokázat
+a) Stejnokrojem
+b) Odznakem
+c) Ústním zvoláním "LSPD"
+### §7 Poučování a právo "miranda"
+
+Police Officer je povinen před provedením úkonu poučit osobu dotčenou úkonem o právních důvodech provedení úkonu, a jde-li o úkon spojený se zásahem do práv nebo svobod osoby, také o jejích právech a povinnostech. Pokud poučení brání povaha a okolnosti úkonu, poučí nebo zajistí toto poučení ihned, jakmile to okolnosti dovolí.
+
+LSPD má povinnost poučit zadrženou nebo zatčenou osobu o jejích právech následovně:
+
+Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
+
+Police Officer musí zadrženou anebo zatčenou osobu maximálně dvakrát seznámit se svými právy v případě, že osoba na poprvé nerozuměla svým právům. Pokud osoba nerozumí svým právům, Police Officer není povinen tato práva opakovat a osoba se tímto vzdává svých práv.
+
+
+**Část 3.) Spolupráce**
+
+
+### §8 LSPD při plnění svých úkolů spolupracuje s ozbrojenými silami, bezpečnostními sbory a dalšími orgány veřejné správy, jakož i s právnickými a fyzickými osobami.
+### §9 V rámci spolupráce LSPD zejména upozorňuje orgány a osoby uvedené v §8 na skutečnosti, které se dotýkají jejich činnosti a mohou vést k ohrožení nebo porušení pořádku a bezpečnosti, pokud tento zákon nebo jiný právní předpis nestanoví jinak.
+
+**Část 4.) Omezení osobní svobody**
+
+
+### §10 Osoba omezená na svobodě Police Officerem nesmí být podrobena mučení nebo krutému, nelidskému anebo ponižujícímu zacházení a nesmí s ní být zacházeno takovým způsobem, který nerespektuje lidskou důstojnost. Police Officer , který se stane svědkem takového zacházení, má povinnost přijmout opatření k zamezení takovému zacházení a oznámit je bezodkladně svému nadřízenému.
+
+### §11 Omezení osobní svobody je Police Officer oprávněn vykonat v případě:
+
+a) Osoba klade fyzický odpor.
+b) Osoba ohrožuje život svůj nebo jiných osob.
+c) Osoba poškozuje osobní, cizí nebo veřejný majetek.
+d) Osoba se pokouší o útěk.
+e) Osoba odmítá nebo nemůže prokázat svou totožnost.
+f) Osoba neuposlechne výzvu LSPD.
+
+K omezení osobní svobody lze použít pouze služební pouta.
+
+
+
+### §12 Připoutání 
+
+Police Officer je oprávněn omezit možnost volného pohybu osoby, která fyzicky napadá policistu nebo jinou osobu, ohrožuje vlastní život, poškozuje majetek nebo se pokusí o útěk, připoutáním k vhodnému předmětu, zejména pomocí pout. 
+
+Omezení musí být ukončeno v okamžiku, kdy je zřejmé, že osoba jednání  nebude opakovat, nejdéle však po uplynutí 2 hodin od okamžiku připoutání. 
+### §13 Zajištění osoby
+
+Police Officer je oprávněn zajistit osobu v případě:
+
+a) svým jednáním bezprostředně ohrožuje svůj život, život nebo zdraví jiných osob anebo majetek,
+b) v budově LSPD úmyslně znečišťuje nebo poškozuje majetek anebo slovně uráží Police Officera nebo jinou osobu,
+c) má být předvedena podle jiného právního předpisu,
+d) utekla z výkonu trestu odnětí svobody,
+e) při předvedení kladla odpor nebo se pokusila o útěk,
+f) byla přistižena při jednání, které má znaky přestupku, je-li důvodná obava, že bude v protiprávním jednání pokračovat anebo mařit řádné objasnění věci,
+g) není trestně odpovědná a byla přistižena při jednání, které má znaky trestného činu, je-li důvodná obava, že bude v protiprávním jednání pokračovat anebo mařit řádné objasnění věci.
+
+Zajištění může trvat nejdéle 6 hodin od okamžiku omezení osobní svobody
+O zajištění je Police Officer povinen sepsat úřední záznam.
+### §14 Cela předběžného zadržení
+
+Police Officer je oprávněn umístit osobu do Cely předběžného zadržení ( dále jen ‚‚CPZ‘‘ ) za těchto okolností:
+
+a) Osoba je zadržená
+b) Osoba je zatčená
+c) Osoba je zajištěná
+
+Před umístěním osoby do cely je Police Officer povinen přesvědčit se, zda tato osoba u sebe nemá zbraň nebo jinou věc způsobilou ohrozit život anebo zdraví a takovou věc odebrat. Za tímto účelem je oprávněn provést prohlídku osoby.
+
+Do CPZ se umisťují oddělené osoby:
+
+a) různého pohlaví,
+b) zadržené nebo zatčené, u nichž lze předpokládat, že proti nim bude vedeno společné trestní řízení nebo spolu jejich trestní věci souvisejí,
+c) které se chovají agresivně, nebo
+d) u nichž lze důvodně předpokládat agresivní chování.
+
+Zjistí-li Police Officer , že osoba, která má být umístěna v cele, je zraněná, nebo upozorní-li tato osoba na svou závažnou chorobu anebo je důvodné podezření, že tato osoba takovou chorobou trpí, zajistí Police Officer její lékařské ošetření a vyžádá vyjádření lékaře k jejímu zdravotnímu stavu.
+
+
+**Část 5.) Vydávání a odebírání věcí**
+
+
+### §15 Vydání, odebrání zbraně a prohlídka osoby 
+
+Police Officer je oprávněn vyzvat osobu k vydání zbraně, hrozí-li nebezpečí, že jí bude neoprávněně užito k násilí nebo pohrůžce násilím. Po předchozí marné výzvě je Police Officer oprávněn zbraň odebrat.
+
+Police Officer je oprávněn provést prohlídku osoby a odebrat jí zbraň, pokud
+
+a) osobní svoboda osoby má být omezena,
+b) proti ní směřuje zákrok, nebo
+c) proti ní směřuje jiný úkon, hrozí nebezpečí, že osoba bude klást odpor, a je podezření, že má u sebe zbraň.
+
+
+**Část 6.) Stížnost a postup u stížnosti na Police Officera**
+
+
+### §16 Stížnost na Police Officera
+
+Proti postupu Police Officera je možnost podat stížnost
+
+a) Sepsáním stížnosti ve formě formuláře, dostupný na stránkách LSPD,
+b) Na místě, přivoláním "supervisora" skrze žádost směřována přímo na Police Officera který je následně povinen supervisora kontaktovat,
+c) Dostavením se na nejbližší stanici a kontaktovat o celé záležitosti jiného Police Officera který je poté povinen věc předat supervisorům.
+### §17 Povinnosti Police Officera u stížnosti
+
+Police Officer je povinen za účelem vyhovění stížnosti následující
+
+a) Sdělit číslo odznaku
+
+Police Officerovi je zakázáno sdělovat
+
+a) Celé jméno ( povolené je pouze příjmení )
+b) Volací znak
+c) Telefonní číslo
+d) jiné..
+### §17a Povinnosti příslušníka LSPD ve stejnokroji zásahové jednotky
+
+Příslušník zásahové jednotky LSPD se u stížnosti na divizi zásahových jednotek neprokazuje číslem odznaku nýbrž automaticky přivolává velitele akce jenž má za povinnost stížnost převzít do řešení a na místo povolat supervisora.
+
+Příslušník zásahové jednotky LSPD se u stížnosti na divizi zásahových jednotek prokazuje číslem odznaku v případě, že provádí patrolovací činnost.
+
+
+### §17b Povinnosti příslušníka LSPD ve stejnokroji detektivní divize
+
+Příslušník LSPD, detektivní divize se u stížnosti neprokazuje číslem odznaku nýbrž automaticky přivolává na místo supervisora.
+
+
+**Část 7.) Použití donucovacích prostředků a zbraně**
+
+
+### §18 Donucovací prostředky
+
+Police Officer je oprávněn použít při zákroku donucovací prostředek a zbraň, k jejichž používání byl vycvičen. 
+
+Donucovacími prostředky jsou
+a) hmaty, chvaty, údery a kopy,
+b) slzotvorný, elektrický nebo jiný obdobně dočasně zneschopňující prostředek,
+c) obušek
+e) zastavovací pás, zahrazení cesty vozidlem a jiný prostředek k násilnému zastavení vozidla nebo zabránění odjezdu vozidla,
+f) vytlačování vozidlem,
+g) vytlačování štítem,
+h) služební pes,
+ch) vodní stříkač,
+i) zásahová výbuška,
+j) úder střelnou zbraní,
+k) hrozba namířenou střelnou zbraní,
+l) varovný výstřel,
+m) pouta,
+n) prostředek k zamezení prostorové orientace.
+
+Police Officer je oprávněn použít donucovací prostředek k ochraně bezpečnosti své osoby, jiné osoby nebo majetku anebo k ochraně veřejného pořádku. 
+Před použitím donucovacího prostředku je Police Officer povinen vyzvat osobu, proti které zakročuje, aby upustila od protiprávního jednání, s výstrahou, že bude použito donucovacích prostředků. To neplatí v případě použití prostředku k zabránění odjezdu vozidla. Od výzvy s výstrahou lze upustit v případě, že je ohrožen život nebo zdraví osoby a zákrok nesnese odkladu. Police Officer při použití donucovacího prostředku dbá na to, aby nezpůsobil osobě újmu zřejmě nepřiměřenou povaze a nebezpečnosti jejího protiprávního jednání.
+### §19 Použití zbraně
+
+Police Officer je oprávněn použít zbraň:
+
+a) v nutné obraně nebo v krajní nouzi,
+b) jestliže se nebezpečný pachatel, proti němuž zakročuje, na jeho výzvu nevzdá nebo se zdráhá opustit svůj úkryt,
+c) aby zamezil útěku nebezpečného pachatele, jehož nemůže jiným způsobem zadržet,
+d) nelze-li jinak překonat aktivní odpor směřující ke zmaření jeho závažného zákroku,
+f) nelze-li jinak zadržet dopravní prostředek, jehož řidič bezohlednou jízdou vážně ohrožuje život nebo zdraví osob a na opětovnou výzvu nebo znamení dané podle jiného právního předpisu nezastaví,
+g) jestliže osoba, proti níž byl použit donucovací prostředek hrozba namířenou střelnou zbraní nebo varovný výstřel, neuposlechne příkazu Police Officera směřujícího k zajištění bezpečnosti jeho vlastní nebo jiné osoby, nebo
+h) ke zneškodnění zvířete ohrožujícího život nebo zdraví osoby.
+
+Při použití zbraně je Police Officer povinen dbát nutné opatrnosti, zejména neohrozit život jiných osob a co nejvíce šetřit život osoby, proti níž zákrok směřuje.
+Po použití donucovacího prostředku nebo zbraně, při kterém došlo ke zranění osoby, je Police Officer povinen ihned, jakmile to okolnosti dovolí, poskytnout zraněné osobě první pomoc a zajistit lékařské ošetření. Dále je povinen učinit neodkladné úkony nebo jiná opatření, aby mohla být řádně objasněna oprávněnost použití zbraně.  
+### §20 Zákrok pod jednotným velením
+
+Při zákroku pod jednotným velením rozhoduje o použití donucovacího prostředku a zbraně velitel zakročující jednotky. O použití donucovacího prostředku a zbraně může na místě zákroku rozhodnout také nadřízený tohoto velitele, který tímto rozhodnutím přebírá velení do ukončení zákroku.
+
+
+**Část 8.) Práce s informacemi**
+
+### §21 Zpracování informací LSPD
+
+LSPD zpracovává v souladu s tímto zákonem a jiným právním předpisem informace včetně osobních údajů v rozsahu nezbytném pro plnění svých úkolů. 
+Zpracovávané informace musí LSPD zabezpečit před neoprávněným přístupem, změnou, zničením, ztrátou nebo odcizením, zneužitím nebo jiným neoprávněným zpracováním. LSPD dále učiní nezbytná opatření pro zajištění bezpečnosti a spolehlivosti provozovaného informačního systému. Tímto nejsou dotčeny povinnosti podle jiného právního předpisu. 
+### §22 Podání vysvětlení
+
+ LSPD může požadovat potřebné vysvětlení od osoby, která může přispět k objasnění skutečností důležitých pro
+
+a) odhalení trestného činu nebo přestupku a jeho pachatele,
+b) vypátrání hledané nebo pohřešované osoby anebo věci.
+### §23 Prokázání totožnosti
+
+Prokázáním totožnosti se rozumí prokázání jména, popřípadě jmen, příjmení, data narození a v případě potřeby také adresy místa trvalého pobytu, adresy místa pobytu, rodného čísla a státní příslušnosti. Rozsah a způsob zjišťování osobních údajů musí být přiměřené účelu zjišťování totožnosti. 
+
+Police Officer je oprávněn vyzvat k prokázání totožnosti osobu
+
+a) podezřelou ze spáchání trestného činu nebo přestupku,
+c) bezdůvodně se zdržující v bezprostřední blízkosti LSPD chráněného prostoru nebo v místě, z něhož lze tento prostor účinně ohrozit
+d) od níž je požadováno vysvětlení,
+e) odpovídající popisu hledané nebo pohřešované osoby,
+f) která má na místě veřejně přístupném zbraň a je důvodné podezření, že zbraně může být užito k násilí nebo pohrůžce násilím
+g) zdržující se v blízkosti místa, kde došlo ke spáchání trestného činu nebo přestupku, k požáru anebo jiné mimořádné události,
+h) která je oznamovatelem podezření ze spáchání trestného činu nebo přestupku,
+ch) při plnění jiného úkolu, je-li to nezbytné k ochraně bezpečnosti osob a majetku, veřejného pořádku nebo pro předcházení trestné činnosti.
+
+
+## Los Santos Sheriff Department
+### Sekce č. 21/2023GOV, LSSD
+
+LSSD, Los Santos Sheriff Department
+
+
+Část 1.) Postavení a činnost
+
+
+### §1 Los Santos Sheriff Department ( dále jen ''LSSD'' ) je jednotnou ozbrojenou složkou.
+
+
+### §2 LSSD má ve své jurisdikci tyto body:
+
+a) Chrání bezpečnost osob a majetku.
+b) Spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+c) Vede boj proti terorismu.
+d) Odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+e) Dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+f) Kontroluje pravost a platnost dokladů.
+h) Vede evidence a statistiky potřebné pro plnění svých úkolů.
+ch) Vyhlašuje celostátní pátrání.
+i) Na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+j) Zadržuje osoby vyhlášené v pátrání.
+k) Zajištění veřejného pořádku.
+l) Plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+m) Plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+n) Vede boj proti organizovanému zločinu.
+o) Los Santos Sheriff Department s působností na celém území San Andreas.
+p) Úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
+q) Za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
+r) Vedení LSSD jmenuje a odvolává Department Of Justice.
+### §3 LSSD působí na celém území ostrova San Andreas
+
+
+**Část 2.) Základní povinnosti**
+
+
+### §4 Zdvořilost
+
+Deputy Sheriff je povinen při plnění úkolů dodržovat pravidla zdvořilosti a dbát cti, vážnosti a důstojnosti osob i své vlastní.
+### §5 Přiměřenost postupu
+
+Deputy Sheriff je při plnění úkolů povinen
+a) dbát, aby žádné osobě v důsledku jejich postupu nevznikla bezdůvodná újma,
+b) dbát, aby jejich rozhodnutím neprovést úkon nevznikla osobám, jejichž bezpečnost je ohrožena nevznikla bezdůvodná újma.
+### §6 Prokazování příslušnosti
+
+Deputy Sheriff je při provádění úkonu povinen se prokázat
+a) Stejnokrojem
+b) Odznakem
+c) Ústním zvoláním "LSSD"
+### §7 Poučování a právo "miranda"
+
+Deputy Sheriff je povinen před provedením úkonu poučit osobu dotčenou úkonem o právních důvodech provedení úkonu, a jde-li o úkon spojený se zásahem do práv nebo svobod osoby, také o jejích právech a povinnostech. Pokud poučení brání povaha a okolnosti úkonu, poučí nebo zajistí toto poučení ihned, jakmile to okolnosti dovolí.
+
+LSSD má povinnost poučit zadrženou nebo zatčenou osobu o jejích právech následovně:
+
+Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
+
+Deputy Sheriff musí zadrženou anebo zatčenou osobu maximálně dvakrát seznámit se svými právy v případě, že osoba na poprvé nerozuměla svým právům. Pokud osoba nerozumí svým právům, Deputy Sheriff není povinen tato práva opakovat a osoba se tímto vzdává svých práv.
+
+
+**Část 3.) Spolupráce**
+
+
+### §8 LSSD při plnění svých úkolů spolupracuje s ozbrojenými silami, bezpečnostními sbory a dalšími orgány veřejné správy, jakož i s právnickými a fyzickými osobami.
+### §9 V rámci spolupráce LSSD zejména upozorňuje orgány a osoby uvedené v §8 na skutečnosti, které se dotýkají jejich činnosti a mohou vést k ohrožení nebo porušení pořádku a bezpečnosti, pokud tento zákon nebo jiný právní předpis nestanoví jinak.
+
+
+**Část 4.) Omezení osobní svobody**
+
+
+### §10 Osoba omezená na svobodě Deputy Sheriffem nesmí být podrobena mučení nebo krutému, nelidskému anebo ponižujícímu zacházení a nesmí s ní být zacházeno takovým způsobem, který nerespektuje lidskou důstojnost. Deputy Sheriff , který se stane svědkem takového zacházení, má povinnost přijmout opatření k zamezení takovému zacházení a oznámit je bezodkladně svému nadřízenému.
+### §11 Omezení osobní svobody je Deputy Sheriff oprávněn vykonat v případě:
+
+a) Osoba klade fyzický odpor.
+b) Osoba ohrožuje život svůj nebo jiných osob.
+c) Osoba poškozuje osobní, cizí nebo veřejný majetek.
+d) Osoba se pokouší o útěk.
+e) Osoba odmítá nebo nemůže prokázat svou totožnost.
+f) Osoba neuposlechne výzvu LSSD.
+
+K omezení osobní svobody lze použít pouze služební pouta.
+
+
+### §12 Připoutání
+
+Deputy Sheriff je oprávněn omezit možnost volného pohybu osoby, která fyzicky napadá policistu nebo jinou osobu, ohrožuje vlastní život, poškozuje majetek nebo se pokusí o útěk, připoutáním k vhodnému předmětu, zejména pomocí pout.
+
+Omezení musí být ukončeno v okamžiku, kdy je zřejmé, že osoba jednání nebude opakovat, nejdéle však po uplynutí 2 hodin od okamžiku připoutání.
+### §13 Zajištění osoby
+
+Deputy Sheriff  je oprávněn zajistit osobu v případě:
+
+a) svým jednáním bezprostředně ohrožuje svůj život, život nebo zdraví jiných osob anebo majetek,
+b) v budově LSSD úmyslně znečišťuje nebo poškozuje majetek anebo slovně uráží Deputy Sheriffa nebo jinou osobu,
+c) má být předvedena podle jiného právního předpisu,
+d) utekla z výkonu trestu odnětí svobody,
+e) při předvedení kladla odpor nebo se pokusila o útěk,
+f) byla přistižena při jednání, které má znaky přestupku, je-li důvodná obava, že bude v protiprávním jednání pokračovat anebo mařit řádné objasnění věci,
+g) není trestně odpovědná a byla přistižena při jednání, které má znaky trestného činu, je-li důvodná obava, že bude v protiprávním jednání pokračovat anebo mařit řádné objasnění věci.
+
+Zajištění může trvat nejdéle 6 hodin od okamžiku omezení osobní svobody
+O zajištění je Deputy Sheriff povinen sepsat úřední záznam.
+### §14 Cela předběžného zadržení
+
+Deputy Sheriff je oprávněn umístit osobu do Cely předběžného zadržení ( dále jen ''CPZ'' ) za těchto okolností:
+
+a) Osoba je zadržená
+b) Osoba je zatčená
+c) Osoba je zajištěná
+Před umístěním osoby do cely je Deputy Sheriff povinen přesvědčit se, zda tato osoba u sebe nemá zbraň nebo jinou věc způsobilou ohrozit život anebo zdraví a takovou věc odebrat. Za tímto účelem je oprávněn provést prohlídku osoby.
+
+Do CPZ se umisťují oddělené osoby:
+
+a) různého pohlaví,
+b) zadržené nebo zatčené, u nichž lze předpokládat, že proti nim bude vedeno společné trestní řízení nebo spolu jejich trestní věci souvisejí,
+c) které se chovají agresivně, nebo
+d) u nichž lze důvodně předpokládat agresivní chování.
+Zjistí-li Deputy Sheriff , že osoba, která má být umístěna v cele, je zraněná, nebo upozorní-li tato osoba na svou závažnou chorobu anebo je důvodné podezření, že tato osoba takovou chorobou trpí, zajistí Deputy Sheriff její lékařské ošetření a vyžádá vyjádření lékaře k jejímu zdravotnímu stavu.
+**Část 5.) Vydávání a odebírání věcí**
+
+
+### §15 Vydání, odebrání zbraně a prohlídka osoby
+
+Deputy Sheriff je oprávněn vyzvat osobu k vydání zbraně, hrozí-li nebezpečí, že jí bude neoprávněně užito k násilí nebo pohrůžce násilím. Po předchozí marné výzvě je Deputy Sheriff oprávněn zbraň odebrat.
+
+Deputy Sheriff je oprávněn provést prohlídku osoby a odebrat jí zbraň, pokud
+
+a) osobní svoboda osoby má být omezena,
+b) proti ní směřuje zákrok, nebo
+c) proti ní směřuje jiný úkon, hrozí nebezpečí, že osoba bude klást odpor, a je podezření, že má u sebe zbraň.
+
+
+**Část 6.) Stížnost a postup u stížnosti na Deputy Sheriffa**
+
+
+### §16 Stížnost na Deputy Sheriffa
+
+Proti postupu Deputy Sheriffa je možnost podat stížnost
+a) Sepsáním stížnosti ve formě formuláře, dostupný na stránkách LSSD,
+b) Na místě, přivoláním "supervisora" skrze žádost směřována přímo na Deputy Sheriffa který je následně povinen supervisora kontaktovat,
+c) Dostavením se na nejbližší stanici a kontaktovat o celé záležitosti jiného Deputy Sheriffa který je poté povinen věc předat supervisorům.
+### §17 Povinnosti Deputy Sheriffa u stížnosti
+
+Deputy Sheriff je povinen za účelem vyhovění stížnosti následující
+
+a) Sdělit číslo odznaku
+Deputy Sheriffovi je zakázáno sdělovat
+
+a) Celé jméno ( povolené je pouze příjmení )
+b) Volací znak
+c) Telefonní číslo
+d) jiné.. 
+
+
+### §17a Povinnosti příslušníka LSPD ve stejnokroji zásahové jednotky
+
+Příslušník zásahové jednotky LSPD se u stížnosti na divizi zásahových jednotek neprokazuje číslem odznaku nýbrž automaticky přivolává velitele akce jenž má za povinnost stížnost převzít do řešení a na místo povolat supervisora.
+
+Příslušník zásahové jednotky LSPD se u stížnosti na divizi zásahových jednotek prokazuje číslem odznaku v případě, že provádí patrolovací činnost.
+### §17b Povinnosti příslušníka LSPD ve stejnokroji detektivní divize
+
+Příslušník LSPD, detektivní divize se u stížnosti neprokazuje číslem odznaku nýbrž automaticky přivolává na místo supervisora.
+
+
+**Část 7.) Použití donucovacích prostředků a zbraně**
+
+
+### §18 Donucovací prostředky
+
+Deputy Sheriff je oprávněn použít při zákroku donucovací prostředek a zbraň, k jejichž používání byl vycvičen.
+
+Donucovacími prostředky jsou
+a) hmaty, chvaty, údery a kopy,
+b) slzotvorný, elektrický nebo jiný obdobně dočasně zneschopňující prostředek,
+c) obušek
+e) zastavovací pás, zahrazení cesty vozidlem a jiný prostředek k násilnému zastavení vozidla nebo zabránění odjezdu vozidla,
+f) vytlačování vozidlem,
+g) vytlačování štítem,
+h) služební pes,
+ch) vodní stříkač,
+i) zásahová výbuška,
+j) úder střelnou zbraní,
+k) hrozba namířenou střelnou zbraní,
+l) varovný výstřel,
+m) pouta,
+n) prostředek k zamezení prostorové orientace.
+
+Deputy Sheriff je oprávněn použít donucovací prostředek k ochraně bezpečnosti své osoby, jiné osoby nebo majetku anebo k ochraně veřejného pořádku.
+Před použitím donucovacího prostředku je Deputy Sheriff povinen vyzvat osobu, proti které zakročuje, aby upustila od protiprávního jednání, s výstrahou, že bude použito donucovacích prostředků. To neplatí v případě použití prostředku k zabránění odjezdu vozidla. Od výzvy s výstrahou lze upustit v případě, že je ohrožen život nebo zdraví osoby a zákrok nesnese odkladu. Deputy Sheriff při použití donucovacího prostředku dbá na to, aby nezpůsobil osobě újmu zřejmě nepřiměřenou povaze a nebezpečnosti jejího protiprávního jednání.
+### §19 Použití zbraně
+
+Deputy Sheriff je oprávněn použít zbraň:
+
+a) v nutné obraně nebo v krajní nouzi,
+b) jestliže se nebezpečný pachatel, proti němuž zakročuje, na jeho výzvu nevzdá nebo se zdráhá opustit svůj úkryt,
+c) aby zamezil útěku nebezpečného pachatele, jehož nemůže jiným způsobem zadržet,
+d) nelze-li jinak překonat aktivní odpor směřující ke zmaření jeho závažného zákroku,
+f) nelze-li jinak zadržet dopravní prostředek, jehož řidič bezohlednou jízdou vážně ohrožuje život nebo zdraví osob a na opětovnou výzvu nebo znamení dané podle jiného právního předpisu nezastaví,
+g) jestliže osoba, proti níž byl použit donucovací prostředek hrozba namířenou střelnou zbraní nebo varovný výstřel, neuposlechne příkazu Deputy Sheriffa směřujícího k zajištění bezpečnosti jeho vlastní nebo jiné osoby, nebo
+h) ke zneškodnění zvířete ohrožujícího život nebo zdraví osoby.
+
+Při použití zbraně je Deputy Sheriff povinen dbát nutné opatrnosti, zejména neohrozit život jiných osob a co nejvíce šetřit život osoby, proti níž zákrok směřuje.
+Po použití donucovacího prostředku nebo zbraně, při kterém došlo ke zranění osoby, je Deputy Sheriff povinen ihned, jakmile to okolnosti dovolí, poskytnout zraněné osobě první pomoc a zajistit lékařské ošetření. Dále je povinen učinit neodkladné úkony nebo jiná opatření, aby mohla být řádně objasněna oprávněnost použití zbraně.
+### §20 Zákrok pod jednotným velením
+
+Při zákroku pod jednotným velením rozhoduje o použití donucovacího prostředku a zbraně velitel zakročující jednotky. O použití donucovacího prostředku a zbraně může na místě zákroku rozhodnout také nadřízený tohoto velitele, který tímto rozhodnutím přebírá velení do ukončení zákroku.
+**Část 8.) Práce s informacemi**
+
+
+### §21 Zpracování informací LSSD
+
+LSSD zpracovává v souladu s tímto zákonem a jiným právním předpisem informace včetně osobních údajů v rozsahu nezbytném pro plnění svých úkolů.
+Zpracovávané informace musí LSSD zabezpečit před neoprávněným přístupem, změnou, zničením, ztrátou nebo odcizením, zneužitím nebo jiným neoprávněným zpracováním. LSSD dále učiní nezbytná opatření pro zajištění bezpečnosti a spolehlivosti provozovaného informačního systému. Tímto nejsou dotčeny povinnosti podle jiného právního předpisu.
+### §22 Podání vysvětlení
+
+LSSD může požadovat potřebné vysvětlení od osoby, která může přispět k objasnění skutečností důležitých pro
+
+a) odhalení trestného činu nebo přestupku a jeho pachatele,
+b) vypátrání hledané nebo pohřešované osoby anebo věci.
+### §23 Prokázání totožnosti
+
+Prokázáním totožnosti se rozumí prokázání jména, popřípadě jmen, příjmení, data narození a v případě potřeby také adresy místa trvalého pobytu, adresy místa pobytu, rodného čísla a státní příslušnosti. Rozsah a způsob zjišťování osobních údajů musí být přiměřené účelu zjišťování totožnosti.
+
+Deputy Sheriff je oprávněn vyzvat k prokázání totožnosti osobu
+
+a) podezřelou ze spáchání trestného činu nebo přestupku,
+c) bezdůvodně se zdržující v bezprostřední blízkosti LSSD chráněného prostoru nebo v místě, z něhož lze tento prostor účinně ohrozit
+d) od níž je požadováno vysvětlení,
+e) odpovídající popisu hledané nebo pohřešované osoby,
+f) která má na místě veřejně přístupném zbraň a je důvodné podezření, že zbraně může být užito k násilí nebo pohrůžce násilím
+g) zdržující se v blízkosti místa, kde došlo ke spáchání trestného činu nebo přestupku, k požáru anebo jiné mimořádné události,
+h) která je oznamovatelem podezření ze spáchání trestného činu nebo přestupku,
+ch) při plnění jiného úkolu, je-li to nezbytné k ochraně bezpečnosti osob a majetku, veřejného pořádku nebo pro předcházení trestné činnosti.
+
+
+## Emergency Medical Services a Los Santos Fire Department
+
+
+### Sekce č. 22/2023GOV, EMS/LSFD
+
+Emergency Medical Services & Los Santos Fire Department
+### §1 Emergency Medical Services / Los Santos Fire Department (dále jen "EMS/LSFD") je jednotnou státní složkou.
+
+
+### §2 EMS/LSFD má ve své jurisdikci tyto body
+
+ 
+a) Chrání zdraví a bezpečnost osob a majetku.
+b) Spolupracuje na poskytování zdravotní péče a hasičských služeb v případě nouze, a při mimořádných událostech koná opatření k zachování zdravotního a majetkového bezpečí.
+c) Podílí se na zajišťování veřejného pořádku v situacích vyžadujících lékařskou nebo hasičskou asistenci.
+d) Poskytuje lékařskou pomoc a první pomoc, vyšetřuje zraněné a nemocné osoby, a v případě potřeby spolupracuje s orgány činnými v trestním řízení.
+e) Dohlíží na bezpečnost a zajišťuje pomoc při dopravních nehodách a mimořádných událostech na silnicích.
+f) Kontroluje platnost a pravost lékařských a hasičských dokladů.
+g) Udržuje evidence a statistiky související s poskytováním zdravotní péče a hašením požárů.
+h) Zajišťuje pátrání po osobách v ohrožení zdraví nebo života.
+i) Zajišťuje zraněné nebo nemocné osoby potřebující lékařskou pomoc.
+j) Pomáhá zachovat veřejný pořádek v situacích vyžadujících zdravotní nebo hasičskou intervenci.
+k) Plní úkoly státní složky a může být povolána k poskytování lékařské péče a hašení požárů
+l) Spolupracuje na prevenci a boji proti mimořádným událostem a životu ohrožujícím situacím.
+
+
+### §3 EMS/LSFD působí na celém území ostrova San Andreas s výjimkou ostrova Cayo Perico
+
+
+### §4 Zdvořilost Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) je povinné dodržovat pravidla zdvořilosti a zachovávat cti, vážnost a důstojnost jak vůči pacientům a občanům, tak vůči sobě samým při plnění svých úkolů.
+
+
+### §5 Přiměřenost postupu Emergency Medical Services / Los Santos Fire Department
+
+ 
+(EMS/LSFD) je povinno při plnění svých úkolů dbát na následující zásady:
+a) EMS/LSFD musí zajistit, aby žádné osobě v důsledku jejich postupu nevznikla bezdůvodná újma. To znamená, že všechny zdravotnické a hasičské zásahy musí být provedeny s ohledem na bezpečnost a pohodu pacientů a občanů, a zároveň musí být postupy prováděny s maximálním ohledem na minimalizaci rizika dalšího poškození.
+b) EMS/LSFD musí také zajistit, aby jejich rozhodnutím neprovést lékařský úkon nevznikla osobám, jejichž zdraví je ohroženo, bezdůvodná újma. To znamená, že při hodnocení situace a rozhodování o poskytnutí lékařské péče musí být vždy brána v úvahu bezpečnost a zdraví pacientů, a nemělo by docházet k nedostatečnému poskytování zdravotní péče, pokud je tato péče nezbytná pro zachování zdraví pacienta
+
+
+### §6 Prokazování příslušnosti Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) se identifikuje prostřednictvím řádné uniformy či kartou zaměstnance. V případě hasičů je také používán odznak, pokud osoba má na sobě formální uniformu. Tímto způsobem se zajišťuje jasná identifikace příslušnosti členů EMS/LSFD a poskytuje se veřejnosti jistota, že jednají v rámci svého postavení.
+
+
+### §7 EMS/LSFD při plnění svých úkolů spolupracuje s ozbrojenými silami, bezpečnostními sbory a dalšími orgány veřejné správy, jakož i s právnickými a fyzickými osobami.
+
+
+### §8 Organizační struktura EMS/LSFD
+
+Za Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) nese celkovou odpovědnost Director of Emergency Medical Services.
+
+Director of Emergency Medical Services a zbylé vedení EMS jsou přímo nadřízeni Chief of Los Santos Fire Department
+
+Chief of Los Santos Fire Department má stejnou úroveň odpovědnosti jako členové vedení EMS pouze v případě, že sám vykonává funkci vedení EMS.
+
+### §9 Provoz nemocnic
+
+
+EMS/LSFD je povinno provozovat a spravovat jednotlivé nemocnice na území San Andreas a zajistit, že tyto nemocnice budou plně vybaveny a připraveny k poskytování zdravotnické péče.
+
+EMS/LSFD může v rámci provozování jednotlivých nemocnic uzavírat smlouvy s dodavateli zdravotnického vybavení a materiálů a zajistit tak dostatečnou dostupnost nezbytných prostředků pro poskytování kvalitní zdravotnické péče.
+
+EMS/LSFD má povinnost zajistit, aby personál pracující v jednotlivých nemocnicích byl řádně vyškolen a kvalifikovaný k poskytování zdravotnické péče a aby byly dodržovány všechny relevantní zdravotnické standardy a postupy.
+
+EMS/LSFD má rovněž povinnost spolupracovat s ostatními zdravotnickými organizacemi a úřady ve snaze zlepšit a koordinovat poskytování zdravotnické péče na území San Andreas.
+
+### §10 Provoz Výjezdové záchranné služby
+
+EMS/LSFD je povinno provozovat a udržovat výjezdovou záchrannou službu s cílem poskytovat rychlou a účinnou zdravotnickou péči a záchranné operace na území San Andreas.
+
+Výjezdová záchranná služba musí být vybavena odpovídajícím zdravotnickým vybavením a prostředky a být schopna rychle reagovat na mimořádné události, nehody a jiné situace vyžadující zdravotnickou asistenci.
+
+Personál výjezdové záchranné služby musí mít potřebné odborné znalosti a dovednosti k poskytování zdravotnické péče v obtížných podmínkách a musí být trénování pro rychlé a efektivní zásahy v rámci záchranných operací.
+Ozbrojené státní složky, zejména pak LSPD a LSSD, nejsou oprávněny k převozu zraněných osob v rámci svých pravomocí, a to v souladu s platnými zákony a předpisy týkající se poskytování zdravotnické péče. Tyto složky mají za úkol zajišťovat bezpečnost a veřejný pořádek a spolupracovat s EMS/LSFD při potřebě poskytování zdravotnické péče.
+
+### §11 Provoz Lifeguard
+
+EMS/LSFD provozuje Lifeguard s cílem zabezpečit bezpečnost návštěvníků plážích a vnějších vodních plochách na území San Andreas.
+
+
+### §12 Provoz Mountain Rescue
+
+EMS/LSFD provozuje horské záchranné služby (Mountain Rescue) s cílem poskytovat záchranné operace a zdravotnickou péči v horských a horolezeckých prostředích na území San Andreas.
+
+
+### §13 Odbor soudního lékařství
+
+EMS/LSFD provozuje oddělení patologie a soudního lékařství s cílem provádět soudní pitvy, zjišťovat příčiny úmrtí a zajišťovat relevantní lékařské informace pro trestní řízení na území San Andreas.
+
+### §14 Provoz Letecké Záchranné Služby
+
+EMS/LSFD provozuje leteckou záchrannou službu s cílem poskytovat rychlou a efektivní zdravotnickou a záchrannou asistenci z výšky v oblastech s obtížným terénem nebo při mimořádných událostech na území San Andreas.
+
+
+Personál letecké záchranné služby musí mít odborné dovednosti pro poskytování zdravotnické péče a záchranných operací z výšky a být kvalifikován pro bezpečné provádění leteckých misí.Letecká záchranná služba spolupracuje s ostatními složkami EMS/LSFD, hasičským oddělením a orgány veřejné správy za účelem poskytování rychlé a účinné pomoci občanům a zachránění osob v obtížně dostupných oblastech.
+
+
+### §15 Los Santos Fire Department (LSFD)
+
+Los Santos Fire Department (LSFD) je samostatnou podřízenou složkou Emergency Medical Services a má za úkol poskytovat rychlou a efektivní hasičskou a záchrannou službu na území San Andreas.
+
+LSFD má povinnost udržovat a spravovat požární stanice, hasičské vybavení a zařízení, aby bylo zajištěno, že je připraveno k rychlému a účinnému zásahu při požárech, mimořádných událostech a haváriích.
+
+
+LSFD spolupracuje s ostatními složkami EMS/LSFD a orgány veřejné správy ve snaze chránit občany a majetek na území San Andreas před nebezpečím požárů a mimořádných událostí.
+
+
+LSFD se nadále řídí ustanovením plynoucími z následujících právních předpisů Sekcí č. 08/2022GOV Obecné ustanovení zákonů
+
+§13 Zákon o požární ochraně
+
+§14 Povinnosti fyzických a právnických osob k prevenci požárů
+
+§15 Požární kontrola
+
+§16 Inspekce objektu
+
+
+### §16 Použití Majáků a Sirén
+
+EMS/LSFD je oprávněno používat majáky a sirény na svých záchranných a zdravotnických vozidlech v případech, kdy je naléhavě třeba provést zásah k zachránění života, poskytnout lékařskou péči nebo zajištění bezpečného transportu těhotných žen, přepravovat krev a v ostatních naléhavých situacích.
+
+Použití majáků a sirén má za cíl zabezpečit rychlý průjezd záchranných a zdravotnických vozidel přes dopravní překážky a signalizovat prioritní postavení těchto vozidel v rámci silničního provozu.
+
+Personál EMS/LSFD je povinen používat majáky a sirény s ohledem na bezpečnost ostatních účastníků provozu a v souladu s platnými předpisy a nařízeními týkajícími se používání majáků a sirén.
+
+### §17 Udílení Atestací, Školení a Dohled nad CLS
+
+EMS/LSFD má pravomoc udílet atestace a provádět školení pro jednotlivé zaměstnance EMS / LSFD. Vedení nemocnice spolu s instruktory tvoří dohromady orgán oprávněný k udílení atestací a certifikátů.
+
+EMS/LSFD má pravomoc provádět výcviky u členů státních složek Los Santos Police Department (LSPD) a Los Santos Sheriff's Department (LSSD), za účelem zajištění nejvyšší kvality zdravotnické péče v rámci jejich činností.
+
+Vedení EMS/LSFD má rovněž povinnost provádět dohled nad systémem Combat Life Savers (CLS) v rámci jednotlivých státních složek LSPD a LSSD s cílem zajistit, že zaměstnanci těchto složek jsou schopni poskytovat adekvátní zdravotnickou péči během výkonu svých povinností.
+
+Školení a dohled nad CLS jsou prováděny v souladu s platnými předpisy a nařízeními a jsou zaměřeny na zajištění vysoké úrovně profesionální zdravotnické péče ve spolupráci se státními složkami LSPD a LSSD. 
+
+
+### §18 Prodej zdravotnického materiálu a provoz lékáren
+
+EMS může provádět prodej zdravotnického materiálu a provozovat lékárny na území San Andreas, za účelem zabezpečení dostupnosti zdravotnických potřeb pro občany a zdravotnické instituce.
+
+Prodej zdravotnického materiálu a provoz lékáren musí být prováděn v souladu s platnými zákony a předpisy týkající se prodeje léčiv, zdravotnického materiálu a farmaceutických služeb zmíněných v právním předpisu Sekce č. 05/2022GOV Penal Code - §73 Distribuce a prodej medikamentů a léčiv
+
+EMS má povinnost zajistit, že veškerý prodávaný zdravotnický materiál a léky splňují stanovené standardy kvality a jsou řádně skladovány a distribuovány.
+
+Prodej zdravotnického materiálu a provoz lékáren mohou být využity k financování činností EMS s cílem zajištění kvalitní zdravotnické péče pro občany San Andreas.
+
+### §19 Poskytování Služeb Zdravotního Pojištění
+
+EMS/LSFD je oprávněno poskytovat služby zdravotního pojištění s cílem zabezpečit finanční krytí pro zdravotnickou péči poskytovanou občanům na území San Andreas.
+
+
+Služby zdravotního pojištění jsou poskytovány v souladu s platnými zákony a předpisy týkající se zdravotního pojištění a musí zahrnovat pokrytí léčebných a zdravotnických nákladů občanů dle podmínek jednotlivých typu zdravotního pojištění
+ 
+### §20 Stížnost na Příslušníka EMS/LSFD
+
+Pokud pacient, jenž má závažné obavy ohledně průběhu hospitalizace, léčebného režimu nebo kvality poskytovaných zdravotních služeb, má právo vyjádřit své výhrady a podat stížnost.
+
+Stížnost může být podána ústně nebo písemně a může ji pacient předložit kterémukoliv členu supervizorského týmu nebo inspektorovi provozu, kteří mají povinnost informovat vedení pracoviště o této skutečnosti bez zbytečného odkladu.
+
+
+Vedení pracoviště EMS je povinno zaregistrovat stížnost, prověřit ji a podniknout vhodné kroky pro vyřešení.
+
+
+### §21 Udělování a odebírání psychotestů
+
+EMS/LSFD má pravomoc provádět psychotesty na žádost jednotlivců, kteří požadují udělení zbrojního průkazu nebo pilotní licence, a také u uchazečů o zaměstnání v rámci svého personálu či v případech kdy to vyžaduje povaha situace.
+
+
+EMS si ponechává právo odebrat zbrojní průkaz nebo pilotní licenci a přijmout potřebná opatření v případě, že výsledky psychotestu či chování osoby naznačují, že držitel zbrojního průkazu nebo pilotní licence není psychicky způsobilý k jejich držení. 
