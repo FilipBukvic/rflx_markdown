@@ -65,53 +65,6 @@ Associate Attorney General
 
 ## Vyhlášky
 
-
-
-### Vyhláška č.5.972023
-
-Dnem 9.7.2023 je jmenován do funkce Soudce na Obvodním soudě San Andreas p. Conrad Sorlie, J.D.
-Conrad Sorlie, J.D.
-nar. 1968-12-06
-
-Dnem 10. 9. 2023 je jmenován do funkce Soudce na Obvodním soudě San Andreas p. Liam O’Reilly, J.D.
-Liam O’Reilly, J.D.
-nar. 1975-04-01
-
-### Vyhláška č.6.1392023
-Dnem 13.9.2023 jsou jmenováni do funkce Admiral of San Andreas Naval Defense a Vice Admiral of San Andreas Naval Defense
-- Oliver Morningstar do funkce O-10 Admiral of San Andreas Naval Defense
-- Maxim Scot do funkce O-9 Vice Admiral of San Andreas Naval Defense
-
-### Vyhláška č.7.1492023
-Dne 14. 9. 2023 John White, nar. 31. 3. 1985 rezignoval z pozice Chief of Police ( Staff-1 ).
-Dnem 14. 9. 2023 je jmenován do funkce Chief of Police ( Staff-1 ),
-Tristan O‘Connor, LL.M., M.P.A.
-nar. 19. 10. 1979
-
-### Vyhláška č.8.21102023
-Dne 21. 10. 2023 je jmenován Liam O’Reilly, J.D. nar. 1. 4. 1975 do pozice Předsedy obvodního soudu.
-Dne 21. 10. 2023 je jmenován Conrad Sorlie, J.D. nar. 6. 12. 1968 do pozice Místopředsedy obvodního soudu.
-
-### Vyhláška č.9.23102023
-
-Dne 23. 10. 2023 vstupuje v platnost vyhláška která definuje patrolovací činnost v městské části M5 ( Downtown ). Tato vyhláška omezuje základní patrolovací činnost v městské části M5 státním ozbrojeným složkám. Do této městské části má povolený vjezd pouze:
-
-     Los Santos Police Department
-
-Gang & Narcotics Division
-
-
-    Los Santos Sheriff Department
-
-Gang & Narcotics Division
-
-
-
-V případě nedostupnosti Gang & Narcotics Division do městské části M5 smí reagovat metropolitní hlídky v označených policejních vozidlech. 
-V případě nedostupnosti metropolitních hlídek smí reagovat do městské části M5 specializované zásahové týmy pouze s povolením vedení LSPD anebo LSSD.
-Výjimka zvláštního reagování platí v případě, že na místě vznikne prioritní dispatch výzva "Officer v ohrožení".
-Reagování do městské části M5 se týká všech výzev od dispatchingu.
-
 ## Vláda
 
 ### Sekce č. 01/2022GOV Vláda
