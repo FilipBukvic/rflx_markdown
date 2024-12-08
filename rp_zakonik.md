@@ -1982,9 +1982,9 @@ Sankce za překročení rychlosti:
 
 a) Překročení rychlosti o 1-20 Mph = $750
 
-b) Překročení rychlosti o 21-34 MpH = $1000
+b) Překročení rychlosti o 21-34 MpH = $1500
 
-c) Překročení rychlosti nad 35 MpH = $3000 a odebrání řidičského oprávnění:
+c) Překročení rychlosti nad 35 MpH = $2000 a odebrání řidičského oprávnění:
 Po odebrání řidičského oprávnění u osoby, která se dopustila §1 c)
 může tato osoba zažádat o přijetí do autoškoly 1 den od data zabavení řidičského oprávnění
 
