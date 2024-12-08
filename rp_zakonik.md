@@ -1640,7 +1640,7 @@ c) Pokud je čin spáchán proti budově státních institucí, jedná se o tres
 
 a) Přestupek, pokud jsou poškozeny bankomaty, kasy v obchodech, je trestáno pokutou ve výši 5 000 $, 
 
- b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let, nebo peněžitý trest ve výši 7.000$.
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let, nebo peněžitý trest ve výši 7.000$.
 
 ### §9 Loupež
 
@@ -1980,13 +1980,13 @@ je základním zákonem o rychlosti San Andreas. V této části je nezákonné,
 
 Sankce za překročení rychlosti:
 
-a) Překročení rychlosti o 1-15 Mph = $750
+a) Překročení rychlosti o 1-20 Mph = $750
 
-b) Překročení rychlosti o 16-25 MpH = $1000
+b) Překročení rychlosti o 21-34 MpH = $1000
 
-c) Překročení rychlosti nad 26 MpH = $3000 a odebrání řidičského oprávnění:
+c) Překročení rychlosti nad 35 MpH = $3000 a odebrání řidičského oprávnění:
 Po odebrání řidičského oprávnění u osoby, která se dopustila §1 c)
-může tato osoba zažádat o přijetí do autoškoly 10 dnů od data zabavení řidičského oprávnění
+může tato osoba zažádat o přijetí do autoškoly 1 den od data zabavení řidičského oprávnění
 
 Povolená rýchlosť
 
@@ -1996,387 +1996,174 @@ Povolená rýchlosť
 
 - Maximální povolená rychlost na dálnici je 80 mph,
 
-### §2 Reckless Driving
+### §2 Řízení vozidla bez řidičského oprávnění
+Řízení vozidla bez příslušného oprávnění
 
-Zákon §2 sekce VC je v zákoně definovaný jako přestupek bezohledné, okolí nebezpečné a nesmyslné jízdy s motorovým vozidlem, které může poškodit jak živé osoby tak jejich majetek či zdraví.
+a) je přestupek, který se trestá pokutou ve výši až 3.000$.
 
-Sankce:
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou ve výši 3.500$.
 
-- Maximální sankce za tento přestupek jsou:
+### §3 Licence Plate - SPZ
 
-1 rok odnětí svobody a/nebo pokuta $5 000.
-### §4 Obyčejná krádež vozidla
+- Pokud DMV vydá řidiči dvě poznávací značky, musí umístit jednu na přední část vozidla a druhou na zadní
+- Pokud DMV vydá motoristovi jen jednu desku. musí být umístěna na zadní část vozu
+- Neexistuje výjimka pro to, aby nebylo vozidlo na pozemní komunikaci označeno pomocí licence plate (SPZ).
 
-Vehicle Code 4 VC je zákon v San Andreas, který činí trestným činem řídit nebo vzít vozidlo někoho jiného bez souhlasu této osoby. Běžně označované jako joyriding.
+a) je přestupek, který se trestá pokutou ve výši až 1.000$.
 
-Pokud-li se osoba dopustí porušení zákonu dle 4 VC, hrozí jí:
+### §4 Jízda pod vlivem alkoholu / omamných látek
+Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky
 
-Odnětí svobody nejvýše 3 let v okresní věznici a pokuta až $5 000
-### §6 Jízda bez patřičných dokladů
+a) je přestupek, který se trestá pokutou ve výši až 3.500$ a odebrání řidičského oprávnění po dobu 2 dnů.
 
-je podle san andreaských zákonů řízení vozidla bez platného řidičského průkazu trestné.
+### §5 Nerespektování značení / světelného zařízení
 
-6 V.C. uvádí, že:
+- Řidič, který stojí před stálým kruhovým červeným signálem, musí zastavit na vyznačené hraniční čáře, ale pokud žádná, před vjezdem na přechod pro chodce na blízké straně křižovatky, nebo pokud ne, pak před vjezdem do křižovatky, a musí zůstat zastaven. dokud se nezobrazí indikace pokračovat, s výjimkou případů uvedených v pododdíle (b).
+- Kromě případů, kdy je na místě značka zakazující odbočení, může řidič po zastavení, jak vyžaduje pododdíl (a), oproti stálému kruhovému červenému signálu odbočit doprava nebo odbočit doleva z stejnosměrné ulice na stejnosměrnou ulici. -silniční ulice. Řidič, který odbočuje, musí dát přednost chodcům v souladu se zákonem na přilehlém průchodu a každému vozu, které se přiblížilo nebo se přibližuje tak blízko, že představuje bezprostřední nebezpečí pro řidiče, a nadále dává přednost. cestu k tomuto vozidlu, dokud řidič nebude moci pokračovat s přiměřenou bezpečností.
+- Řidič stojící před stálou červenou šipkou nesmí vejít do křižovatky, aby provedl pohyb označený šipkou, a pokud nevchází do křižovatky s cílem provést pohyb povolený jiným signálem, musí zastavit na zřetelně vyznačené hraniční čáře, ale pokud žádný, před vstupem na přechod pro chodce na blízké straně křižovatky, nebo pokud žádný, tak před vjezdem do křižovatky, a musí zůstat zastaven, dokud se nezobrazí indikace umožňující pohyb.
+- Neurčuje-li signál kontroly chodců podle jinak, nesmí chodec, který stojí před stálým kruhovým signálem červené nebo červené šipky, vstoupit na vozovku.
 
-Osoba nesmí řídit motorové vozidlo po dálnici, pokud tato osoba není držitelem platného řidičského průkazu vydaného podle tohoto předpisu, s výjimkou osob, které jsou podle tohoto předpisu výslovně osvobozeny."
+a) je přestupek, který se trestá pokutou ve výši až 750$
 
-Kdy lze osobu pokutovat za porušení zákonu?
+### §6 Nelegální tuning
+- Červené podsvícení vozidla (i všechny odstíně červené)
+- Modré podsvícení vozidla (i všechny odstíně modré)
+- Zatmavení čelního skla (100% propustnost)
+- Zatmavení předních bočních skel (70% propustnost - Limo)
+- Zatmavení zadního a zadních bočních skel (bez omezení)
+- Zabarvení předních světlometů (jiné než Xenon, bílá a teplá bílá)
+- Jízda se zvednutým hydraulickým podvozkem
 
-- Osoba u sebe fyzicky nedržela doklad
+a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením vozidla. 
 
-- Osobě se nepodařilo obnovit řidičský průkaz (DL)
+### §7 Technický stav vozidla
 
-- Osoba nikdy nezískala/nevlastnila DL
+- Je nezákonné provozovat jakékoli vozidlo nebo jízdní soupravu, které jsou v nebezpečném stavu nebo nejsou bezpečně naloženy a představují bezprostřední bezpečnostní riziko.
+- Je nezákonné provozovat jakékoli vozidlo nebo soupravu vozidel, která nejsou vybavena tak, jak je uvedeno v tomto kodexu.
+- Žádná osoba nesmí řídit žádné vozidlo nebo jízdní soupravu po upozornění police officerem, jak je definováno v oddíle 830.1 nebo pododdíle (a) oddílu 830.2 trestního zákona, že vozidlo je v nebezpečném stavu nebo není vybaveno tak, jak to vyžaduje tento kód, s výjimkou případu, kdy je třeba vrátit vozidlo nebo jízdní soupravu do bydliště nebo místa podnikání vlastníka nebo řidiče nebo do garáže, dokud vozidlo a jeho vybavení nebudou přizpůsobeny požadavkům tohoto kodexu.
 
-Tresty/sankce:
-
-Pokuta ne vyšší než 2500$
-### §7 Licence Plate - SPZ
-
-Je zákon, který říká:
-
-a) pokud DMV vydá řidiči dvě poznávací značky, musí umístit jednu na přední část vozidla a druhou na zadní
-
-b) pokud DMV vydá motoristovi jen jednu desku. musí být umístěna na zadní část vozu
-
-Pozn.: Neexistuje výjimka pro to, aby nebylo vozidlo na pozemní komunikaci označeno pomocí licence plate (SPZ).
-
-Trest -> okamžité odtažení vozidla, odebrání DL po dobu 1 roku a pokuta 3800$
-
-.
-
-Dodatek
-
--> Dostanete se do situace, kdy zastavíte motorku BF400 na pozemní komunikace.
-
--> Motorka BF400 se v našem státě nevyrábí s SPZ, vozidlo bez SPZ nelze pojistit, tudíž postupujte stejně jako viz výše (odtažení, odebrani DL, pokuta).
-### §8 Reckless Evading
-
-Tento zákon definuje vyhýbání se důstojníkovi ve vozidle úmyslným nebo svévolným ignorováním bezpečnosti osob nebo majetku.
-
-Sankce:
-
-Tento čin může být trestán jako přestupek nebo jako trestný čin("wobblerový trest). Záleží vždy na předchozích trestech a kriminální minulosti
-
-Přestupek:
-
-Pokud se jedná o přestupek je maximální trest 1 rok ve krajském vězení a nebo pokuta ve výši $3 000.
-
-Trestný čin:
-
-Sankce za trestný čin je 3 roky.
-### §9 Jízda pod vlivem alkoholu / omamných látek
-
-a) Je nezákonné, aby osoba, která je pod vlivem jakéhokoli alkoholického nápoje, vedla vozidlo.
-
-b) Je nezákonné, aby osoba, která má v krvi 0,08 procenta hmotnosti nebo více alkoholu, vedla vozidlo.
-
-Při každém trestním stíhání podle tohoto oddílu platí vyvratitelná domněnka, že osoba měla v době řízení vozidla 0,08 procenta hmotnosti nebo více alkoholu v krvi, pokud měla 0,08 procenta hmotnosti nebo více, alkoholu v krvi v době provedení chemické zkoušky do tří hodin po řízení vozidla.
-
-(c) Je nezákonné, aby osoba, která je závislá na užívání jakékoliv drogy, vedla vozidlo.
-
-d) Je nezákonné, aby osoba, která má v krvi 0,04 procenta hmotnosti nebo více alkoholu v krvi, vedla užitkové motorové vozidlo podle § 9 předpoklad, že osoba měla v době řízení vozidla 0,04 % hmotnostních a více alkoholu v krvi , pokud měla v době řízení vozidla 0,04 % hmotnostních nebo více alkoholu v krvi. provedení chemické zkoušky do tří hodin po jízdě.
-
-(f) Je nezákonné, aby osoba, která je pod vlivem jakékoliv drogy, vedla vozidlo.
-
-(g) Je nezákonné, aby osoba, která je pod kombinovaným vlivem jakéhokoli alkoholického nápoje a drogy, vedla vozidlo.
-
-Trest
-
-Odnětí svobody ne více než 3 roky
-
-Odebrání a zabavení DL na ne více než 5 let
-### §10 Nerespektování značení / světelného zařízení
-
-a) Řidič, který stojí před stálým kruhovým červeným signálem, musí zastavit na vyznačené hraniční čáře, ale pokud žádná, před vjezdem na přechod pro chodce na blízké straně křižovatky, nebo pokud ne, pak před vjezdem do křižovatky, a musí zůstat zastaven. dokud se nezobrazí indikace pokračovat, s výjimkou případů uvedených v pododdíle (b).
-
-(b) Kromě případů, kdy je na místě značka zakazující odbočení, může řidič po zastavení, jak vyžaduje pododdíl (a), oproti stálému kruhovému červenému signálu odbočit doprava nebo odbočit doleva z stejnosměrné ulice na stejnosměrnou ulici. -silniční ulice. Řidič, který odbočuje, musí dát přednost chodcům v souladu se zákonem na přilehlém průchodu a každému vozu, které se přiblížilo nebo se přibližuje tak blízko, že představuje bezprostřední nebezpečí pro řidiče, a nadále dává přednost. cestu k tomuto vozidlu, dokud řidič nebude moci pokračovat s přiměřenou bezpečností.
-
-c) Řidič stojící před stálou červenou šipkou nesmí vejít do křižovatky, aby provedl pohyb označený šipkou, a pokud nevchází do křižovatky s cílem provést pohyb povolený jiným signálem, musí zastavit na zřetelně vyznačené hraniční čáře, ale pokud žádný, před vstupem na přechod pro chodce na blízké straně křižovatky, nebo pokud žádný, tak před vjezdem do křižovatky, a musí zůstat zastaven, dokud se nezobrazí indikace umožňující pohyb.
-
-(d) Neurčuje-li signál kontroly chodců podle jinak, nesmí chodec, který stojí před stálým kruhovým signálem červené nebo červené šipky, vstoupit na vozovku.
-
-Trest
-
-Pokuta ne vyšší než 900$
-### §11 Nelegální tuning
-
-Červené podsvícení vozidla (i všechny odstíně červené)
-
-Modré podsvícení vozidla (i všechny odstíně modré)
-
-Zatmavení čelního skla (100% propustnost)
-
-Zatmavení předních bočních skel (70% propustnost - Limo)
-
-Zatmavení zadního a zadních bočních skel (bez omezení)
-
-Zabarvení předních světlometů (jiné než Xenon, bílá a teplá bílá)
-
-Jízda se zvednutým hydraulickým podvozkem
-
-Trest
-
-Odtažení vozidla
-
-Pokuta ne vyšší než 5,000$.
-
-Odebrání a zabavení DL až na 2 roky (opakované)
-### §12 Technický stav vozidla
-
-a) Je nezákonné provozovat jakékoli vozidlo nebo jízdní soupravu, které jsou v nebezpečném stavu nebo nejsou bezpečně naloženy a představují bezprostřední bezpečnostní riziko.
-
-b) Je nezákonné provozovat jakékoli vozidlo nebo soupravu vozidel, která nejsou vybavena tak, jak je uvedeno v tomto kodexu.
-
-Žádná osoba nesmí řídit žádné vozidlo nebo jízdní soupravu po upozornění police officerem, jak je definováno v oddíle 830.1 nebo pododdíle (a) oddílu 830.2 trestního zákona, že vozidlo je v nebezpečném stavu nebo není vybaveno tak, jak to vyžaduje tento kód, s výjimkou případu, kdy je třeba vrátit vozidlo nebo jízdní soupravu do bydliště nebo místa podnikání vlastníka nebo řidiče nebo do garáže, dokud vozidlo a jeho vybavení nebudou přizpůsobeny požadavkům tohoto kodexu.
-
-Trest
-
-Odtah vozidla
-
-Odebrání a zabavení DL(opakované)
-
-Pokuta ne vyšší než 4,000$
+a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením vozidla. 
 
 ### §13 Zákaz zastavení / postavení / parkovaní
-
 Osoba nesmí zastavit, zaparkovat ani nechat stát žádné vozidlo bez ohledu na to, zda je obsluhováno nebo bez dozoru, kromě případů, kdy je to nezbytné k zabránění konfliktu s jiným provozem nebo v souladu s pokyny police officera nebo oficiálního dopravního zařízení na kterémkoli z následujících míst:
 
-c) Mezi bezpečnostní zónou a přilehlým pravým obrubníkem nebo v prostoru mezi zónou a obrubníkem, jak může být označeno značkou nebo červenou barvou na obrubníku, kterou značku nebo barvu umístily místní orgány.
+- Mezi bezpečnostní zónou a přilehlým pravým obrubníkem nebo v prostoru mezi zónou a obrubníkem, jak může být označeno značkou nebo červenou barvou na obrubníku, kterou značku nebo barvu umístily místní orgány.
+- Do 15 stop od příjezdové cesty k požární stanici. Toto rozdělení se nevztahuje na žádné vozidlo, které vlastní nebo provozuje hasičský sbor a je zřetelně označeno jako hasičské vozidlo.
+- Před veřejnou nebo soukromou příjezdovou cestou.
+- Na části chodníku nebo s karoserií vozidla přesahující část chodníku.
+- Vedle nebo proti výkopu nebo překážky na ulici nebo silnici by při zastavení, stání nebo parkování které by překáželo provozu.
+- Na straně vozovky od vozidla, které zastavilo, zaparkovalo nebo stálo na krajnici nebo okraji dálnice.
 
-(d) Do 15 stop od příjezdové cesty k požární stanici. Toto rozdělení se nevztahuje na žádné vozidlo, které vlastní nebo provozuje hasičský sbor a je zřetelně označeno jako hasičské vozidlo.
-
-(e) (1) Před veřejnou nebo soukromou příjezdovou cestou.
-
-(f) Na části chodníku nebo s karoserií vozidla přesahující část chodníku.
-
-(g) Vedle nebo proti výkopu nebo překážky na ulici nebo silnici by při zastavení, stání nebo parkování které by překáželo provozu.
-
-h) Na straně vozovky od vozidla, které zastavilo, zaparkovalo nebo stálo na krajnici nebo okraji dálnice.
-
-Trest
-
-Pokuta ne vyšší než 500$
-
+a) je přestupek, který se trestá pokutou ve výši až 500$ a odtažením vozidla. 
 
 ## Health & Safety Code
 ### Sekce č. 07/2022GOV Health & Safety Code
 
 Zákon o zdraví
 
-Část 1.)
+Marihuana
 
-Zákon zahrnující činy proti / se zdravím
+### §1 Pěstování marihuany
 
-### §1 Marihuana
+A) Pěstování marihuany do 10 rostlin
 
-Kodex zdraví a bezpečnosti 1 HS je san andreaský zákon, který definuje zločin nezákonného pěstování marihuany. Odsouzení je přestupek, za který lze uložit trest odnětí svobody až na 1 rok.
+1a) Pěstování marihuany v množství do 10 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 4 let a pokutou ve výši 12.000 $.
 
-Podle HS 1 se jedná o přestupek, pokud někdo ve věku 18-20 let pěstuje marihuanu. Trestný čin se trestá maximální pokutou až $10 000.
+B) Pěstování marihuany od 11 do 50 rostlin
 
-a) Zákon říká že se jedná o přestupek tehdy kdy:
+1b) Pěstování marihuany v množství od 11 do 50 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 3 roku do 6 let a pokutou ve výši 20.000 $.
 
-- Je osoba starší více než 21 let
+C) Pěstování marihuany nad 50 rostlin
 
-- Osoba pěstuje více než 6 rostlin
+1c) Pěstování marihuany v množství nad 50 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 6 let do 10 let a pokutou ve výši 40.000 $.
 
-b) Pěstování marihuany se trestá:
+### §2 Držení marihuany
 
-- je trestný čin, který se trestá odnětím svobody od 2 do 6 let
+A) Držení marihuany od 5 do 20 gramů
 
-- Pokuta až $2 000
+1a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou ve výši 2000$.
 
-c) Legální množství dle zákona je 21g na osobu.
-### §2 Prodej marihuany
+B) Držení marihuany od 21 do 100 gramů
 
-Kodex zdraví a bezpečnosti 2 H.S. je zákonem v San Andreas, který z něj činí trestný čin prodávat, rozdávat, dovážet do státu nebo přepravovat na prodej jakékoli množství marihuany nebo koncentrovaného konopí (hašiš) bez státní licence (a jakéhokoli požadovaného místního licence).
+1b) Držení marihuany v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 5 let a pokutou ve výši 6.000$.
 
-Existuje výjimka pro přepravu marihuany san andreaskými uživateli marihuany pro lékařské použití konvice pro jejich osobní potřebu. Poskytovatelé primární péče o tyto pacienty mohou také přepravovat marihuanu a dávat ji svým pacientům v množství přiměřeně souvisejícím s lékařskými potřebami pacienta.
+C) Držení marihuany od 101 do 300 gramů
 
-Tresty za trestné činy za nezákonný prodej nebo přepravu marihuany
+1c) Držení marihuany v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od 4 let do 10 let a pokutou ve výši 15.000$.
 
-Ilegální prodej nebo přeprava marihuany je však san andreaským zločinem, pokud platí cokoliv z následujícího:
+D) Držení marihuany nad 301 gramů
 
-- Jste již dříve odsouzeni za některý ze seznamu zvlášť závažných násilných zločinů, včetně vražd, sexuálně násilných trestných činů, sexuálních trestných činů na dítěti mladších 14 let nebo hrubého zabití osoby ve vozidle pod vlivem alkoholu.
+1d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let do 15 let a pokutou ve výši 50.000$.
 
-- Máte dvě (2) nebo více předchozích odsouzení za prodej / přepravu marihuany HS 2
+### §3 Prodej marihuany
 
-- Vědomě jste prodali, pokusili se prodat nebo jste nabídli prodej nebo vybavení marihuany někomu do 18ti let
+A) Prodej marihuany do 50 gramů
 
-- Dovezli jste nebo jste se pokoušeli nebo nabídli dovoz do San Andreas nebo jste přepravili nebo se pokusili / nabídli přepravit z San Andreas na prodej více než 28,5 gramů marihuany nebo více než čtyři gramy koncentrovaného konopí.
+1a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši  7.500$.
 
-Porušení trestného činu 2 H.S. je trestané následovně:
+B) Prodej marihuany od 51 gramů do 150 gramů
 
-dva, tři nebo čtyři roky ve vězení a/nebo pokuta až do výše 3 000$
-### §4 Omamné a psychotropní látky
+1b)Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od 5 do 8 let a pokutou ve výši 15.000$.
 
-Kategorie a rozdělení pro znění tohoto zákona:
+C) Prodej marihuany od 151 do 400 gramů
 
-1.1 Cannabinoidy
+1c)Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od 8 let do 12 let a pokutou ve výši  25.000$
 
-a) marihuana
+C) Prodej marihuany nad 401 gramů
 
-b) hašiš
+1c)Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od 8 let do 12 let a pokutou ve výši 50.000$
 
-1.2 Stimulační drogy
+Coke & Heroin
 
-a) LSD
+### §4 Výroba drog (Coke and Heroin)
 
-b) Psilocybin (Lysohlávky)
+A) Výroba drog do 50 gramů
 
-c) Extáze (MDMA)
+1a) Výroba drog (Coke nebo Heroin) v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 15.000$.
 
-d) Opium
+B) Výroba drog od 51 gramů do 300 gramů
 
-c) Heroin
+1b) Výroba drog (Coke nebo Heroin) v množství od 51 gramů do 300 gramů je trestný čin, který se trestá odnětím svobody od 4 roku do 10 let, pokutou ve výši až 45.000$
 
-d) Morfium
+C) Výroba drog nad 300 gramů
 
-e) Oxikodon (Perkodan)
+1c) Výroba drog (Coke nebo Heroin) v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let po doživotí, pokutou ve výši až 150.000.$
 
-f) Subutex (Buprenorfin)
+### §5 Prodej Cocaine nebo Heroin
 
-g) Psychofarmaka (trankvilizéry)
+A) Prodej Cocaine nebo Heroin do 50 gramů 
 
-h) Amfetaminy
+1a) Prodej Cocaine nebo Heroin v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 2 do 5 let a pokutou ve výši 25.000$.
 
-i) Kokain a semínka kokainu
+B) Prodej Cocaine nebo Heroin od 51 gramů do 150 gramů 
 
-j) Pervitin (Metamfetamin)
+1b) Prodej Cocaine nebo Heroin v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od 6 do 10 let a pokutou ve výši 45.000$.
 
-- Výjimku v §1, §2, §3 kategorie 1.1 a 1.2 mají všechny záchranné složky státu San Andreas které jsou vyškolené, a jednání v rámci služebního úkonu:
+C) Prodej Cocaine nebo Heroin od 151 do 400 gramů 
 
-A) podávání léků na tlumení a utišení bolesti.
+1c) Prodej Cocaine nebo Heroin v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let do 15 let a pokutou ve výši 100.000$.
 
-B) uspání pacienta při operacích.
+D) Prodej Cocaine nebo Heroin nad 401 gramů 
 
-C) které splňují normu a jsou povoleny pro užívání ve zdravotnických zařízeních.
-### §5 Přechovávání omamných a psychotropních látek
+1d) Prodej Cocaine nebo Heroin v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od 15 let do 25 let a pokutou ve výši 150.000$.
 
-Klasifikace drog pro toto znění zákona:
+### §6 Držení Cocaine nebo Heroin
 
-1.1 Cannabinoidy
+A) Držení Cocaine nebo Heroin do 20 gramů 
 
-1.2 Stimulační drogy
+1a) Držení Cocaine nebo Heroin v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 4 let a pokutou ve výši 10.000$.
 
-A) Přechovávání množství omamných a psychotropních látek od 1 do 21 gramů v případě 1.1
+B) Držení Cocaine nebo Heroin od 21 do 100 gramů 
 
-A1) Přechovávání množství semínek marihuany od 1 do 21 kusů v případě 1.1.
+1b) Držení Cocaine nebo Heroin v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od 2 roku do 5 let a pokutou ve výši 25.000$.
 
-B) Přechovávání nedovoleného množství omamných a psychotropních látek 21 a více gramů v případě 1.1.
+C) Držení Cocaine nebo Heroin od 101 do 300 gramů 
 
-C) Přechovávání nedovoleného množství omamných a psychotropních látek tzn. 50g a více gramů je bráno, že jde o množství držení drog za účelem šíření, prodeje, distribuce, v případě 1.1.
+1c) Držení Cocaine nebo Heroin v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od 5 let do 15 let a pokutou ve výši 60.000$.
 
-D) Přechovávání nedovoleného množství semínek marihuany od 22 a výše v případě 1.1.
+D) Držení Cocaine nebo Heroin nad 301 gramů 
 
-E) Přechovávání nedovoleného množství omamných a psychotropních látek pod 21 gramů v případě 1.2.
-
-F) Přechovávání nedovoleného množství omamných a psychotropních látek 22 a více gramů v případě 1.2.
-
-G) Přechovávání nedovoleného množství omamných a psychotropních látek tzn. 50g a více gramů je bráno, že jde o množství držení drog za účelem šíření, prodeje, distribuce, v případě 1.2.
-
-H) Přechovávání nedovoleného množství listů koky. Přechovávání listy koky je zakázáno.
-
-CH) Přechovávání nedovoleného množství Sodium Hydroxid. Přechovávání těchto látek je 30 lahviček v případě prokazatelné nutnosti k povaze zaměstnání (např. Wood Company). Je nutné se prokázat platným povolením.
-
-I) Přechovávání nedovoleného množství Chemikálie. Přechovávání těchto látek je omezeno na 30 lahviček v případě prokazatelné nutnosti k povaze zaměstnání. (např. čistič bazénů, čistič oken, zemědělství) Je nutné se prokázat platným povolením.
-
-J) Přechovávání nedovoleného množství Hydrochlorid acid. Přechovávání těchto látek je omezeno 20 lahviček.
-
-K) Přechovávání semínek Kokainu v případě 1.2 je zakázána.
-
-- A) je legální.
-
--A1) je legální.
-
-- B) je trestný čin, který se trestá odnětím svobody od 8 do 15 let, a pokutou ve výši 15000$
-
-- C) je trestný čin, který se trestá odnětím svobody od 15 do 25 let, a pokutou ve výši 20000$
-
-- D) je trestný čin, který se trestá odnětím svobody od 1 do 4 let, a pokutou ve výši 500$
-
-- E) je trestný čin, který se trestá odnětím svobody od 4 do 6 let, a pokutou ve výši 5000$
-
-- F) je trestný čin, který se trestá odnětím svobody od 10 do 18 let, a pokutou ve výši 15000$
-
-- G) je trestný čin, který se trestá odnětím svobody od 18 do 30 let, a pokutou ve výši 20000$
-
-- H) je trestný čin, který se trestá odnětím svobody od 3 do 6 let, a pokutou ve výši 500$
-
-- CH) je trestný čin, který se trestá odnětím svobody od 3 do 6 let, a pokutou ve výši 500$
-
-- I) je trestný čin, který se trestá odnětím svobody od 2 do 5 let, a pokutou ve výši 500$
-
-- J) je trestný čin, který se trestá odnětím svobody od 4 do 8 let, a pokutou ve výši 500$
-
-- K) je trestný čin, který se trestá odnětím svobody od 1 do 4 let, a pokutou ve výši 500$
-
-### §6 Nedovolené nakládání s omamnými a psychotropními látkami
-
-1) Kdo neoprávněně vyrobí, doveze, vyveze, převeze, nabízí, zprostředkuje, prodá nebo jinak jinému opatří nebo pro jiného přechovává omamnou nebo psychotropní látku, přípravek obsahující omamnou nebo psychotropní látku, prekursor nebo jed.
-
-2a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny, nebo ve větším rozsahu, nebo
-
-2b) spáchá-li takový čin vůči osobě mladší osmnácti let.
-
-3a) získá-li činem uvedeným v odstavci 1 značný prospěch,
-
-3b) spáchá-li takový čin vůči osobě mladší patnácti let, nebo
-
-3c) způsobí-li takovým činem těžkou újmu na zdraví.
-
-4a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví více osob nebo smrt,
-
-4b) získá-li takovým činem prospěch velkého rozsahu, nebo
-
-4c) pokud takový čin spáchá ve spojení s organizovanou skupinou působící ve více státech.
-
-Klasifikace drog pro toto znění zákona:
-
-1.1 Cannabinoidy
-
-1.2 Stimulační drogy
-
-A) Distribuce omamných a psychotropních látek v případě 1.1
-
-B) Distribuce omamných a psychotropních látek v případě 1.2
-
-A) je trestný čin, který se trestá odnětím svobody od 1 do 5 let, a pokutou ve výši 150$
-
-B) je trestný čin, který se trestá odnětím svobody od 4 do 8 let, a pokutou ve výši 150$
-### §7 Šíření omamných a psychotropních látek
-
-1) Kdo neoprávněně vyrobí, doveze, vyveze, převeze, nabízí, zprostředkuje, prodá nebo jinak jinému opatří nebo pro jiného přechovává omamnou nebo psychotropní látku, přípravek obsahující omamnou nebo psychotropní látku, prekursor nebo jed.
-
-2a) spáchá-li čin uvedený v odstavci 1 jako člen organizované skupiny, nebo ve větším rozsahu, nebo
-
-2b) spáchá-li takový čin vůči osobě mladší osmnácti let.
-
-3a) získá-li činem uvedeným v odstavci 1 značný prospěch,
-
-3b) spáchá-li takový čin vůči osobě mladší patnácti let, nebo
-
-3c) způsobí-li takovým činem těžkou újmu na zdraví.
-
-4a) způsobí-li činem uvedeným v odstavci 1 těžkou újmu na zdraví více osob nebo smrt,
-
-4b) získá-li takovým činem prospěch velkého rozsahu, nebo
-
-4C) pokud takový čin spáchá ve spojení s organizovanou skupinou působící ve více státech.
-
-Klasifikace drog pro toto znění zákona:
-
-1.1 Cannabinoidy
-
-1.2 Stimulační drogy
-
-A) Distribuce omamných a psychotropních látek v případě 1.1
-
-B) Distribuce omamných a psychotropních látek v případě 1.2
-
-A) je trestný čin, který se trestá odnětím svobody od 1 do 5 let, a pokutou ve výši 500$
-
-B) je trestný čin, který se trestá odnětím svobody od 4 do 8 let, a pokutou ve výši 500$
+1d) Držení Cocaine nebo Heroin v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od 15 let do 20 let a pokutou ve výši 100.000$
 
 ## Cayo Perico
 ### Sekce č. 09/2022GOV Cayo Perico
