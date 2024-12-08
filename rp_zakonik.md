@@ -1,4 +1,3 @@
-
 # Law-Book of San Andreas
 
 #### The only valid San Andreas state code valid from 8/14/2022.
@@ -1260,7 +1259,6 @@ Je-li zaměstnanec státní ozbrojené složky nebo jiná osoba v přímém ohro
 
 Zaměstnanec státní ozbrojené složky je povinen zajistit, aby následkem použití donucovacích prostředků nedošlo k újmě na zdraví nezúčastněných osob.
 
-
 ### §20 Použití donucovacích prostředků na zamezení pohybu vozidla
 
 Zaměstnanec státní ozbrojené složky má oprávnění použít donucovací prostředky na vozidlo, pokud:
@@ -1517,29 +1515,33 @@ c) Pokud vyšetřování zločinu vyžaduje zajištění důkazů ve věcech slo
 
 Trest odnětí svobody představuje omezení osobní svobody odsouzeného v zařízeních určených státem. Délka trestu odnětí svobody je omezena trestním zákoníkem státu San Andreas. Tresty odnětí svobody se nesčítají, a je určen nejvyšší trest za nejzávažnější čin podle trestního zákona.
 
+### §20 Pokuty
 
-### §20 Předvedení
+Trest pokuty představuje finanční sankci, která musí být uhrazena odsouzeným ve stanoveném termínu. Výše pokuty je pevně omezena zákonem a nelze ji kombinovat s pokutami za jiné přestupky či trestné činy. Každá pokuta se vztahuje pouze k konkrétnímu porušení zákona, za které byla udělena.
+
+
+### §21 Předvedení
 
 Pokud státní ozbrojená složka požaduje, aby osoba vykonala určité úkony, může na ni uložit povinnost dostavit se v daný termín na místo stanovené státní ozbrojenou složkou. Tento příkaz musí být předáván dokumentovatelným způsobem, například e-mailem nebo telefonicky. Pokud je osoba ústně vyzvána, musí se o této výzvě sepisovat záznam, který podepíše osoba, která byla vyzvána, nebo se záznam zaznamená na záznamové zařízení. Pokud se osoba nedostaví k úkonům po řádném předvolání nebo není možné osobu předem vyzvat, může státní ozbrojená složka osobu předvést, což znamená dočasné omezení její osobní svobody k provedení úkonů. Osoba je povinna toto strpět. V případě, že je osoba zadržena, není třeba osobu předem předvolávat.
 
 
-### §21 Zadržení
+### §22 Zadržení
 
 Pokud má policejní orgán důvodné podezření, že osoba spáchala trestný čin, může osobu zadržet.
 
 Zadržení je dočasné omezení osobní svobody osoby vedoucí k úspěšnému objasnění věci a urychlení trestního řízení. Zadržená osoba musí být poučena o svých právech a povinnostech. Do 24 hodin od zadržení musí být osobě oznámeno obvinění nebo musí být osoba umístěna do vazby; jinak musí být propuštěna na svobodu a dále vyšetřována na svobodě. Doba čekání na právního zástupce zadržené osoby se do této lhůty nezapočítává. Zadržení lze provést pouze bezprostředně před, během nebo po spáchání trestného činu, nikoliv s velkým časovým odstupem.
 
-### §22 Souhlas se zadržením
+### §23 Souhlas se zadržením
 
 Pokud je dáno důvodné podezření, že osoba spáchala trestný čin, může státní ozbrojená složka žádat o souhlas se zadržením od prokurátora nebo soudce, což umožňuje omezit osobní svobodu osoby pro účely trestního řízení.
 
 
-### §23 Zatčení
+### §24 Zatčení
 
 Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
 
 
-### §24 Operativní pátrací prostředky
+### §25 Operativní pátrací prostředky
 
 Jestliže vyšetřování zločinu vyžaduje zajištění důkazů, může si státní ozbrojená složka vyžádat u prokurátora nebo soudce povolení:
 
@@ -1562,639 +1564,305 @@ Zákon o trestných činech
 Zákon zahrnující činy proti zdraví a všechny trestné činy
 
 ### §1 Ublížení na zdraví
+Zranění osoby, či pokus o zranění osoby
 
-Za ublížení na zdraví lze považovat takový stav (onemocnění, poranění), který porušením normálních tělesných nebo duševních funkcí ztěžuje výkon obvyklé činnosti nebo má jiný vliv na obvyklý způsob života poškozeného, ​​a který vyžaduje lékařské ošetření i když nezanechává trvalé následky.
+a) Neúmyslně a zbraní, je trestný čin, který se trestá se odnětím svobody od 1 roku do 3 let a pokutou ve výši 5.000$.
 
-    bez použití zbraně, ublížení na zdraví napadením je přestupek, který se trestá pokutou ve výši do 2500 $, nebo odnětím svobody od 1 roka do 2 rokov.
+b) Úmyslně a zbraní, je trestný čin, který se trestá odnětím svobody od 2 roku do 5 let a pokutou ve výši 6.000$.
 
-    neúmyslně(z nedbalosti), je trestný čin, který se trestá pokutou ve výši do 1500 $ který se trestá s odnětím svobody od 1 roku do 5 let.
+c) Úmyslně a zbraní střelnou, je trestný čin, který se trestá odnětím svobody od 5 let do 10 let a pokutou ve výši 8.000$.
 
-    úmyslně se zbraní jinou než střelnou, je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let.
+d) Úmyslně a zbraní proti úřední osobě nebo členům záchranných složek je trestný čin, který se trestá odnětím svobody od 5 let do 15 let a pokutou ve výši 15.000$.
 
-    úmyslně se střelnou zbraní, je trestný čin, který se trestá odnětím svobody od 5 let do 10 let.
+### §2 Napadení
+Násilí na osobě bez použití zbraně
 
-    úmyslně se zbraní proti úřední osobě, je trestný čin, který se trestá odnětím svobody od 5 let do 15 let.
+a) Jednání, které je klasifikováno jako přestupek, který se trestá pokutou ve výši 2.000$.
 
-### §2 Vražda I. stupeň
+b) Přestupek spáchaný vůči úřední osobě je trestán pokutou ve výši 5.000$.
 
-Vražda je nezákonné usmrcení člověka nebo "plodu" ze špatného úmyslu.
+c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný čin, za který hrozí trest odnětí svobody na 1 až 5 let a pokutou ve výši 7.000$.
 
-Vražda se rozděluje na Vraždu I. stupně a Vraždu II. stupně.
+### §3 Vražda
+Vražda je nezákonné usmrcení člověka nebo "plodu".
 
-Vražda I. stupně
+a) Úmyslné zabití jiné osoby je trestný čin, za který hrozí trest odnětí svobody v délce 25 let až doživotí a pokutou ve výši 30.000$.
 
-5 bodů při kterých se jedná o vraždu I. stupně:
+b) Úmyslné a předem promyšlené zabití jiné osoby je trestný čin, který je trestán doživotním odnětím svobody.
 
-Použitím ničivého zařízení nebo výbušniny, zbraně hromadného ničení, munice, která proniká kovem nebo krunýřem, nebo využití jedu.
+### §3 Nedovolené ozbrojování
+Vlastnictví a užívání jakoukoli střelnou zbraň, kromě starožitné střelné zbraně, bez platného bezpečnostního osvědčení o střelné zbrani, s výjimkou toho, že v případě ruční zbraně může být použito bezpečnostní osvědčení nevypršené platnosti.
 
-Čekáním na možnost usmrcení.
+a) Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
 
-V případě vraždy mučením.
+b) Zbraň tohoto typu nespadá ani pod kategorii LEG, ani pod kategorii GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
 
-Úmyslným, záměrným a předem promyšleným způsobem.
+c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek, který se trestá pokutou ve výši 5.000$.
 
-Přímé usmrcení osoby při páchání určitých trestných činů.
-
-Sankce:
-
-25 let až doživotí ve státní věznici.
-### §3 Vražda II. stupeň
-
-Vražda II.stupně
-
-Jakýkoli jiný způsob který není uveden v I. stupni. De facto neplánovaná vražda která nebyla provedena za speciálních okolností ktere se stanovují při I stupni.
-
-Sankce:
-
-15 let až doživotí.
-
-V případě že oběť byla Peace Officera tak 25 let až doživotí.
-
-Capital Murder je vražda I. stupně která se trestá doživotím bez možnosti odvolání nebo trestem smrti.
-
-Některé situace které spadají pod Capital Murder:
-
-Zabíjení pro finanční zisk.
-
-Zabití policisty, hasiče, prokurátora, soudce, porotce nebo voleného úředníka. Zabití svědka s cílem zabránit mu ve výpovědi. oběti.
-
-Vražda následkem Drive-By Shootingu.
-### §4 Pokus o vraždu
-
-Pokus o vraždu je, když pachatel má úmysl zabít oběť a učiní přímý krok k usmrcení osoby, ale oběť nezemře.
-
-Přímý krok
-
-Je to uvedení plánu do pohybu. Znamená to, že k vraždě by došlo, kdyby do ní nezasáhl vnější faktor
-
-Tímto přímým jednáním může být téměř cokoli. Mezi příklady patří např.:
-
-bodnutí nožem do hrudi
-
-střelba z pistole na někoho
-
-zaplacení osoby aby danou vraždu udělala
-
-Přímý krok nemusí zahrnovat jakýkoliv fyzický dotek. Osoba může být usvědčena z pokusu o vraždu jednoduše tím, že uskuteční plán porážky, i když nedojde k fyzickému kontaktu.
-
-Úmysl zabít
-
-Musí být dokázán úmysl zabít. Úmysl způsobit zranění nestačí, pokud chybí úmysl zabít.
-
-Důležité je místo poranění. Zranění horní části těla více poukazují na úmysl vraždy. Z důvodu, že se tam nacházejí životně důležité orgány.
-
-V mnoha případech nedochází k žádným zraněním. Prokurátoři se proto při prokazování úmyslu spoléhají na celkové okolnosti.
-
-Pokus o vraždu se také rozděluje na Pokus o vraždu I. stupně a II. stupně.
-
-I. stupeň je promyšlený a záměrný.
-
-Pokus někoho usmrtit, ale oběť přežije.
-
-Objednání vraždy.
-
-Bodnutí nožem do hrudníku s úmyslem zabít, ale oběť přežije.
-
-Škrtit někoho s úmyslem ho zabít, ale oběť přežije.
-
-II. stupeň jsou všechny ostatní druhy a způsoby.
-
-Sankce:
-
-I. stupeň- 12 let až doživotí.
-
-V případě, že oběť byla Peace Officer, Hasič tak minimální trest je 15 let.
-
-II. stupeň - 5, 7 nebo 9 let v státní věznici.
-
-Pokus o vraždu taktéž nese pokutu ve výši až 20000$ a odškodnění oběti.
-### §5 Útok na Peace Officera
-
-§5 uvádí, že "je-li spáchán útok na osobu mírového důstojníka, hasiče, pohotovostního zdravotního technika, mobilního záchranáře intenzivní péče, plavčíka, procesního serveru, dopravního důstojníka, důstojníka vymáhání zákonů, důstojníka kontroly zvířat nebo člena pátrací a záchranné služby zapojeného výkon svých povinností nebo lékař nebo zdravotní sestra zabývající se poskytováním neodkladné lékařské péče mimo nemocnici, kliniku nebo jiné zdravotnické zařízení a osoba, která se dopustila trestného činu, ví nebo by měla přiměřeně vědět, že obětí je mírový důstojník, hasič, pohotovostní lékařský technik, mobilní zdravotník na jednotce intenzivní péče, plavčík, procesní server, dopravní důstojník, pracovník pro vymáhání zákonů, pracovník pro kontrolu zvířat nebo pátrací a záchranný člen podílející se na plnění jeho povinností, nebo lékař nebo zdravotná sestra zapojená do poskytování neodkladné lékařské péče, je útok.
-
-Sankce:
-
-5let a 3000$
-
-Příklady
-
-- Házet kámen po policistovi.
-
-- Fyzicky skočit na officera, aby se znehybnil a složil k zemi.
-
-- Plivat do tváře veřejnému činiteli.
-
-### §6 Nelegální držení zbraně
-
-(a) Osoba nesmí provádět žádné z těchto akcí se střelnou zbraní:
-
-- Koupit nebo obdržet jakoukoli střelnou zbraň, kromě starožitné střelné zbraně, bez platného bezpečnostního osvědčení o střelné zbrani, s výjimkou toho, že v případě ruční zbraně může být použito bezpečnostní osvědčení nevypršené platnosti.
-
-- Prodávat, dodávat, půjčovat nebo převádět jakoukoli střelnou zbraň, s výjimkou starožitné střelné zbraně, jakékoli osobě, která nemá platné bezpečnostní osvědčení o střelné zbrani, s výjimkou toho, že v případě ruční zbraně může být použito bezpečnostní osvědčení o nevypršení platnosti ruční zbraně.
-
-(c) "Ustanovení tohoto oddílu jsou kumulativní a nelze je vykládat tak, že omezují použití jakéhokoliv jiného zákona. Čin nebo opomenutí, které lze různými způsoby postihovat různými ustanoveními tohoto kódexu, však nebude potrestáno podle více než jednoho ustanovení."
-
-Sankce:
-Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 10 let
-Zbraně typu GUR (neregistrované/bez licence) - odnětí svobody až na 5 let
-### §7 Nelegální přídavky na zbraň
-
-Tlumič:
-
+### §4 Nelegální přídavky na zbraň
 Trestní zákoník dle §7. říká, že tlumič či jiná tlumící zařízení na střelné zbrani proti odhlučnění střelného rázu je nelegální, a nesmí jí vlastnit žádná osoba na její střelné zbrani. Tento zákon se nevztahuje na státní zásahové jednotky okresního Departmentu.
-
-"Každá osoba, firma nebo korporace, která má v tomto státě tlumič, je vinna z trestného činu a na základě jeho přesvědčení bude potrestána odnětím svobody po dobu maximálně až 24 měsíců, nebo pokutou nepřesahující 15 000$, nebo oběma pokutami a odnětí svobody."
 
 Na závažnosti porušení tohoto zákonu se také přihlíží k tomu, na jaké zbrani se tlumič nacházel
 
-Seznam nelegální přídavků na zbraně ve státu San Andreas:
+a) Jedná se o trestný čin, za který je vždy uložen trest odnětí svobody na dobu jednoho roku a pokutou ve výši 2.500$.
 
-Tlumič
-### §9 Únos
+### §5 Únos
+Nezákonné bránění či zamezení osobě ve volném pohybu, manipulace s touto osobou
 
-San Andreaský trestní zákoník 9 P. C. definuje únos jako přesun jiné osoby na značnou vzdálenost bez jejího souhlasu silou nebo strachem.
+a) Jedná se o trestný čin, který je trestán odnětím svobody na dobu 1 až 3 let, a pokutou ve výši 6.000$, pokud nedošlo k transportu osoby.
 
-Jednoduchý únos je zločin, za který hrozí trest ve vězení až 8 let. Trestem může být doživotí, je-li obětí dítě , je-li oběť zraněna nebo zabita, je-li požadováno výkupné nebo je-li únos součástí únosu automobilu.
+b) Jedná se o trestný čin, za který hrozí trest odnětí svobody v rozmezí 1 až 6 let a pokutou ve výši 10.000$.
 
-9 (a) P. C. uvádí, že "každá osoba, která násilím nebo jakýmkoli jiným způsobem vyvolá psychickou újmu, ukradne, vezme, zadržuje, nebo zatýká jakoukoli osobu v tomto státě a přepravuje ji do jiné země, státu nebo nebo do jiné části stejného okresu, je vinen z únosu. "
+c) Pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání, jedná se o trestný čin, za který hrozí trest odnětí svobody na dobu 5 až 15 let a pokutou ve výši 15.000$.
 
-### §10 Zhoršený Únos
+### §6 Vandalizmus
 
-- Únos dítěte nebo osoby mladší než 14 let
-
-- Požadování finanční částky za unesenou osobu
-
-- Únos je součástí carjackingu v trestním zákoně 10 P. C.
-
-- Pokud je osobě ublíženo na zdraví
-
-- Pokud je unesená osoba vězněná bez veřejného kontaktu
-
-Pokud-li si nejedná o zhoršený únos, obžalovaný může být trestán až pokutou $10 000.
-
-Pokud-li se jedná o zhoršený únos, obžalovaný může být trestán odnětím svobody po dobu 8 let v okresní věznici
-### §11 Drive by Shooting
-
-"je zákon, který definuje trestný čin střelby z auta. Existují dva způsoby, jak tuto část porušit: úmyslným a zlomyslným vystřelením střelné zbraně z vašeho vozidla nebo tím, že dovolíte jiné osobě vnést do vašeho vozidla zbraň."
-
-§11. uvádí, že "Je přestupkem řidiče jakéhokoli motorového vozidla nebo vlastníka jakéhokoli motorového vozidla, umožnit jakékoli jiné osobě, vnést do vozidla střelnou zbraň. Jakýkoli řidič nebo vlastník jakéhokoli vozidla, který vědomě připouští jakékoli jiná osoba, která by mohla z vozidla vystřelit jakoukoli střelnou zbraň, se trestá odnětím svobody v krajském vězení na nejvýše jeden rok nebo ve státním vězení na 12 měsíců, dva nebo tři roky. Každý, kdo úmyslně a zlomyslně namíří střelnou zbraň z motorového vozidla na jinou osobu, než je cestující v motorovém vozidle, je vinen z trestného činu s trestem odnětí svobody ve státním vězení na tři, pět nebo sedm let. "
-### §12 Vandalizmus
-
-Trestní zákoník 12 je zákon v štáte San Andreas, který definuje vandalismus jako zlomyslně poškozující, ničící nebo poškozující majetek jiné osoby. Trestá se pokutou ne vyšší jak 1500$
+Trestní zákoník 6 je zákon v štáte San Andreas, který definuje vandalismus jako zlomyslně poškozující, ničící nebo poškozující majetek jiné osoby. Trestá se pokutou ve výši 3.500$.
 
 Příklady vandalství mohou být:
 
-- Nepovolená malba na cizí plochu či pozemek ne/smytelnými typy barev a následné znehodnocení hodnoty majetku.
+- Nepovolená malba na cizí plochu či pozemek ne/smytelnými typy barev a následné znehodnocení hodnoty majetku
 
 - Destrukce majetku což může být: Elektronika v domě, nádobí, textil atp.
 
 - Poškození majetku: Pachatel se pokusí šperhákem dostat do zámku osobního vozidla, poničí vnitřní systém a mechaniku cizí věci
 
-### §13 Trespassing
-§13 je zákon v státě San Andreas, který definuje trespassing (neoprávněný vstup) jako vstup nebo setrvání na cizím pozemek bez povolení a pozemek je ohrazen plotem nebo má vyvěšené cedule "zákaz vstupu (no trespassing)".
+### §7 Neoprávněný vstup
+Neoprávněné vniknutí do uzavřeného prostoru, na pozemek, či do nemovitosti bez povolení a pozemek je ohrazen plotem nebo má vyvěšené cedule "zákaz vstupu".
 
-Trest:
-Trestá se odnětím svobody ne vyšší než 2 roky a pokutou 2 500$
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
 
-V případě pozemku státních institucí a státních složek se trestá odnětím svobody ne vyšší než 5 let a pokutou 2 500$
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let a pokutou ve výši 3.500$.
 
+c) Pokud je čin spáchán proti budově státních institucí, jedná se o trestný čin, který je trestán odnětím svobody na dobu od 4 do 8 let a pokutou ve výši 9.000$.
 
-### §14 Loupež
+### §8 Krádež 
 
-San Andreaský trestní zákoník §9 P.C. definuje zločin loupeže jako "zločinné převzetí osobního majetku v držení jiného, ​​od jeho osoby nebo bezprostřední přítomnosti, a proti jeho vůli, provedeného silou nebo strachem.
+a) Přestupek, pokud jsou poškozeny bankomaty, kasy v obchodech, je trestáno pokutou ve výši 5 000 $, 
 
-Příklady loupeže
+ b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let, nebo peněžitý trest ve výši 7.000$.
 
-- Vniknutí do domu, když jsou obyvatelé uvnitř, a poté jim hrozí krádeží části jejich osobního majetku
+### §9 Loupež
 
-- Omráčit někoho a poté ukrást jeho majetek, když je v bezvědomí a nemůže se proti loupeži bránit.
+a) Trestný čin, pokud jsou poškozeny trezory v obchodech, který se trestá odnětím svobody na 1 až 3 roky a pokutou ve výši 9.000$.
 
-- Poté, co byl přistižen při činu krádeže, vyhrožoval majiteli nemovitosti fyzickou újmou, aby unikl.
+b) Trestný čin, pokud jsou poškozeny banky nebo klenotnictví, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 12.000$.
 
-Pokuty/tresty
+c) Trestný čin, pokud je poškozena hlavní státní banka, který se trestá odnětím svobody na 10 až 15 let a pokutou ve výši 20.000$.
 
-Odsouzení za loupež nese trestné činy. Přesné důsledky přesvědčení o loupeži závisí na tom, zda spácháte loupež prvního nebo druhého stupně.
+### §10 Neuposlechnutí výzvy úřední osoby
 
-Loupež I. stupně zahrnuje:
+a) Neuposlechnutí zákonné výzvy nebo nařízení úřední osoby či státní instituce je přestupek, který se trestá pokutou ve výši 4.000$.
 
-- Jakýkoli řidič nebo cestující v autobuse, taxíku, tramvaji, metru atp.
+### §11 Křivá výpověď
 
-- Loupež, která se odehrává v nemovitosti, loupež obchodu nebo klenotnictví
+- je zákon v San Andreas, díky němuž je nezákonné podávat falešné policejní zprávy o trestném činu. Zpráva by mohla být přestupkem nebo trestným činem. Falešné hlášení je trestným činem, pouze pokud osoba, která hlášení podává, ví, že je nepravdivé.
+- 17 P.C definuje že "každá osoba, která se ohlásí kterémukoli mírovému důstojníkovi, generálnímu prokurátorovi nebo náměstkovi generálního prokurátora nebo okresnímu právníkovi nebo zástupci okresního právníka, že byl spáchán zločin nebo přestupek, protože ví, že hlášení je nepravdivé, je vinen z přestupku. "
 
-- Každá osoba, která právě použila bankomat a je stále v blízkosti bankomatu
+a) Je přestupek, který se trestá pokutou ve výši 6.000 $.
 
-Loupež prvního stupně vede k trestu odnětí svobody v San Andreas na až 9 let.
+### §12 Vyhrožování
+Vyhrožování usmrcením, těžkou újmou na zdraví nebo majetku, a to způsobem, který může vzbudit důvodnou obavu druhé osoby.
 
-A trest za loupež druhého stupně je až 5 let ve státním vězení.
-### §15 Neuposlechnutí výzvy
+a) Je přestupek, který se trestá pokutou ve výši 6.000 $.
 
-Policisté v Los Santos jsou jedineční v tom, že mají pravomoc vydávat zákonné rozkazy obyvatelstvu jako celku. Tyto příkazy mohou být nezbytné k zachování veřejné bezpečnosti nebo udržení pořádku během mimořádné situace. Pokud by veřejnosti bylo umožněno svobodně ignorovat zákonné příkazy, neměly by tyto orgány činné v trestním řízení žádný smysluplný způsob, jak plnit své povinnosti. Výsledkem je, že neuposlechnutí mírového důstojníka je trestným činem podle san andreaského zákoníku o vozidlech.
+b) Pokud je čin spáchán s cílem působit na úřední osobu, jedná se o trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 8.000$
 
-K prokázání, že obžalovaný je vinen z neuposlechnutí policisty, musí být státní zástupce schopen prokázat následující skutečnosti:
+### §13 Krádež vozidla
+Vloupání do vozidla nebo neoprávněné zmocnění se vozidla, bez ohledu na jeho hodnotu.
 
-- Osoba úmyslně odmítla nebo nesplnila zákonný rozkaz, signál nebo pokyny kteréhokoli mírového důstojníka.
+a) Je přestupek, který se trestá pokutou výše 5.000 $
 
-- Důstojník byl uniformě a plnil svou povinnost.
+b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 10.000$.
 
-Trest/sankce
+### §14 Nelicencovaný prodej zbraní
+Při prodeji, pronájmu nebo převodu střelných zbraní či doplňků na střelné zbraně (patenty na zbraně, zásobníky,..) bez platné licence nebo povolení.
 
-- Pokud-li osoba neuposlechne důstojníkových výzev po dobu tří pokusů, a bude nucena být zajištěna donucovacími prostředky, může čelit trestu odnětí svobody až jeden rok a/nebo pokutě nepřevyšující sankci 3 000$
+a) Jedná se o trestný čin, za který hrozí trest odnětí svobody v rozmezí 1 až 3 let a pokutou ve výši 5.000$.
 
-### §16 Bránění ve výkonu
+### §15 Stalking
+Dlouhodobé pronásledování, sledování a obtěžování jiné osoby
 
-San Andreaský trestní zákoník 16 PC obecně definuje vzdorování zatčení jako úmyslné vzdorování, zdržování nebo maření policistů při výkonu jejich úředních povinností.
+a) Dlouhodobé pronásledování, sledování a obtěžování jiné osoby je přestupek, za který lze uložit pokutu ve výši 8.000$.
 
-16 P.C. uvádí, že "každá osoba, která úmyslně vzdoruje, zdržuje nebo brání jakémukoli veřejnému činiteli, mírovému důstojníkovi nebo záchrannému lékaři, při propuštění nebo pokusu o splnění jakékoli povinnosti svého úřadu nebo zaměstnání.
+b) V případě, kdy toto jednání způsobí důvodnou obavu o život nebo zdraví osoby nebo jejích blízkých, jedná se o trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 10.000$
 
-Příklady
+### §16 Open Carry
+Znemožňuje otevřenou přepravu nenaložené zbraně na veřejném prostranství
 
-- Osoba fyzicky a použití silou vzdoruje výkonu policejního důstojníka.
+- Otevřeně nosit zbraň
+- Mít zbraň odhalenou a nabitou
+- Nosit zbraň na veřejném místě nebo na ulici
 
-- Posmívání se příslušníkovy lékařské pomoci při výkonu zachraňujícím život zraněné osobě.
+a) Je přestupek, který se trestá pokutou ve výši 5.000 $
 
-- Uvedení falešného jména úřadům během výslechu.
+### §17 Spolupachatelství
+Všechny osoby zúčastněné pří pácháníčinu, ať už jde o trestný čin nebo přestupek, a zda se přímo dopustí skutku zakládajícího činu, nebo napomáhají a dopouštějí se jeho spáchání, jsou hlavními osobami v jakémkoli takto spáchaném zločinu.
 
-Sankce/tresty
+a) Osobě, které se dopustí trestného činu napomáhání a navádění, hrozí stejný trest jako tomu, kdo trestný čin spáchal.
 
-Porušení §16 P.C. je v San Andreas bráno jako přestupek, osoba čelí trestům následujícím:
+### §18 Zahalování
+Částečné nebo úplné zahalování obličeje za účelem skrytí identity na veřejných shromážděních a v prostorách státních institucí představuje trestný čin.
 
-Odnětí svobody osoby na max. jednoho léta v okresní věznici a/nebo pokuta nepřevyšující 10 000$
-### §17 Křivá výpověď
+a) Je přestupek, který se trestá pokutou ve výši 2.500 $
 
-je zákon v San Andreas, díky němuž je nezákonné podávat falešné policejní zprávy o trestném činu. Zpráva by mohla být přestupkem nebo trestným činem. Falešné hlášení je trestným činem, pouze pokud osoba, která hlášení podává, ví, že je nepravdivé.
+### §19 Křivá přísaha
 
-17 P.C definuje že "každá osoba, která se ohlásí kterémukoli mírovému důstojníkovi, generálnímu prokurátorovi nebo náměstkovi generálního prokurátora nebo okresnímu právníkovi nebo zástupci okresního právníka, že byl spáchán zločin nebo přestupek, protože ví, že hlášení je nepravdivé, je vinen z přestupku. "
+- Každá osoba, která po složení přísahy, že bude svědčit, prohlašovat, odvolávat nebo pravdivě osvědčit před jakýmkoli příslušným tribunálem, úředníkem nebo osobou, v kterémkoli z případů, ve kterých může být přísaha podle zákona státu San Andreas být spravován, úmyslně a v rozporu s přísahou, uvádí jako pravdivou jakoukoli materiální záležitost, o které ví, že je nepravdivá, a každou osobu, která svědčí, prohlašuje, odvolává nebo osvědčuje pod hrozbou trestu za křivou přísahu v kterémkoli z případů, ve kterých svědectví, prohlášení, výpovědi nebo osvědčení jsou povoleno zákonem státu San Andreas pod hrozbou trestu za křivou přísahu a úmyslně uvádí jako pravdivou jakoukoli podstatnou věc, o které ví, že je nepravdivá, je vinna z křivé výpovědi.
 
-Tresty/sankce
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou ve výši 3.000$.
 
-Porušení tohoto zákona je přestupkem podle zákona státu San Andreas.
+### §20 Nosení balistické vesty
+Viditelná balistická vesta
 
-Trestný čin se trestá:
+a) Je přestupek, který se trestá pokutou ve výši 6.000$
 
-Vazba v okresním vězení až na 1 rok a Nepřevyšující pokuta 5 000$
-### §18 Vyhrožování
+### §21 Ovlivňování svědků
 
-Je vyhrožování případné hrozby, smrtí či poškození trestný čin. Konkrétně hrozby ve formě trestu, smrti nebo velkého ublížení na zdraví kdy je na osobu vyvinutý psychický nátlak s vyvolání strachu o svůj život.
+- Vědomě a zlomyslně brání nebo odrazuje jakéhokoli svědka nebo oběti, aby se zúčastnili nebo poskytli svědectví na jakémkoli soudním řízení, řízení nebo vyšetřování povoleném zákonem.
+- Vědomě a zlomyslně se pokouší zabránit nebo odradit jakéhokoli svědka nebo oběť, aby se zúčastnili nebo poskytli svědectví jakéhokoli procesu, řízení nebo vyšetřování povoleném zákonem.
+- Každá osoba, která vědomě a zlomyslně jedná některý z činů popsaných v pododdíle (a) nebo (b) za jedné nebo více z následujících okolností, je vinna ze zločinu za kterékoli z těchto okolností:
+- Je-li čin doprovázen silou nebo výslovnou nebo implicitní hrozbou síly nebo násilí, vůči svědkovi nebo oběti nebo jakékoli třetí osobě nebo majetku kterékoli oběti, svědka nebo jakékoli třetí osoby.
+- Je-li čin na podporu spiknutí.
+- Každá osoba, která se pokusí spáchat jakýkoli čin uvedený v pododdílech (a), (b) a (c), je vinna z pokusu o trestný čin bez ohledu na úspěch nebo neúspěch tohoto pokusu. Skutečnost, že žádná osoba nebyla fyzicky zraněna nebo ve skutečnosti zastrašena, není obranou proti jakémukoli trestnímu stíhání podle tohoto oddílu.
+- Nic v tomto oddíle nevylučuje uložení zvýšení za velké tělesné zranění, je-li způsobená újma významná nebo podstatná.
+- Použití síly při spáchání jakéhokoli trestného činu popsaného v části (c) se považuje za přitěžující okolnost trestného činu při ukládání trestu odnětí svobody podle části (b)
 
-18 PC uvádí, že každá osoba, která úmyslně vyhrožuje spácháním trestného činu, který bude mít za následek smrt nebo velkou újmu na zdraví jiné osoby, se zvláštním úmyslem, aby prohlášení učiněné ústně, písemně nebo prostřednictvím elektronického komunikačního zařízení bylo být brána jako hrozba, i když neexistuje žádný záměr ve skutečnosti ji uskutečnit, což je na první pohled a za okolností, za kterých je vyrobeno, tak jednoznačné, bezpodmínečné, okamžité a konkrétní, sdělit ohrožené osobě závažnost účelu a okamžitá vyhlídka na provedení hrozby, a tím způsobí, že se tato osoba bude důvodně obávat o vlastní bezpečnost nebo o bezpečnost své nejbližší rodiny.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$.
 
-Příklady:
+### §22 Pohrdání soudem
 
-- Hrozba osobám přítomným zastřelením jiné osoby, zatímco držíte zbraň
+- Neřízené, pohrdavé nebo drzé chování spáchané během zasedání soudu v bezprostředním zorném poli a v přítomnosti soudu, které má přímou tendenci přerušit jeho jednání nebo narušit respekt vůči jeho autoritě.
+- Chování uvedené v odstavci 1, které je spácháno v přítomnosti poroty, během skutečného jednání nebo jednání, na základě příkazu soudu nebo v přítomnosti poroty během skutečného zasedání při jednání z důvodu nebo na základě vyšetřování nebo jiného jednání povoleného zákonem.
+- Narušení klidu, hluk nebo jiné rušení přímo směřující k přerušení řízení soudu.
+- Úmyslné neuposlechnutí napsaných podmínek procesu nebo soudního příkazu nebo příkazu mimo státní soud, zákonně vydaného soudem, včetně příkazů čekajících na soudní proces.
+- Úmyslně kladený odpor osoby zákonnému příkazu nebo postupu soudu.
+- Kontumační a nezákonné odmítnutí osoby složit přísahu jako svědek nebo, je-li to přísaha, podobné odmítnutí odpovědět na podstatnou otázku.
+- Zveřejnění nepravdivé nebo hrubě nepřesné zprávy o řízení soudu.
+- Úmyslné neuposlechnutí podmínek soudního příkazu, který omezuje činnost pouličního zločineckého gangu nebo kteréhokoli z jeho členů, zákonně vydaného soudem, včetně soudního příkazu.
 
-- Policista zabaví osobě nelegální množství marihuany, a tam mu následně začne vyhrožovat že si jej a jeho rodinu najde
+a) Je přestupek, který se trestá pokutou ve výši 6.000$
 
-- Muž píše své bývalé přítelkyni, která jej vyhodila z bytu, že jí zničí její majetek
+### §23 Úplatkářství a korupce
 
-Tresty/sankce:
+- Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi, porotci nebo jakékoli osobě, která může být zákonem oprávněna vyslechnout nebo rozhodnout o jakékoli otázce nebo polemice s úmyslem ovlivnit jeho hlas, vyjádření nebo rozhodnutí o jakékoli věci nebo otázce, která mu je nebo může být předložena k rozhodnutí.
 
-Odnětí svobody na maximální dobu odnětí svobody po dobu jednoho roku v okresní věznici a /nebo pokuta až 6 000$
-### §19 "Velká" Krádež vozidla
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou ve výši 5.000$.
 
-Dle trestního zákona 19 PC San Andreaské právo definuje zločin krádeže auta jako převzetí motorového vozidla jiné osobě silou nebo strachem.
+### §24 Korupce státních složek
+Přijetí, nabídnutí, slíbení nebo žádání úplatku
 
-Zločin krádeže auta je trestný čin, za který Vám hrozí až devět let vězení v San Andreas, a další, pokud
-
-1. Bude oběť při krádeži zraněna
-
-2. Bude při krádeži použita střelná zbraň
-
-3. Bude pachatel páchat přestupek ve prospěch gangu
-
-4. Pachatel unese při krádeži oběť
-
-Sankce:
-
-Za tento přestupek lze uložit trest odnětí svobody až na 9 let ve státní věznici a další trestný čin, pokud bude při spáchání zločinu použita zbraň.
-### §20 Nelicencovaný prodej zbraní
-
-San Andreaské právo činí přestupek při prodeji, pronájmu nebo převodu střelných zbraní či doplňků na střelné zbraně (patenty na zbraně, zásobníky,..) bez platné licence nebo povolení.
-
-Dále uvádí, že:
-
-a) Žádná osoba nesmí prodávat, pronajímat nebo převádět střelné zbraně, pokud jí nebyla vydána licence.
-
-b) Každá osoba, která se dopouští protiprávního jedná dle §20 sekce PC se dopouští přestupku.
-
-Sankce:
-
-Trest nepřesahující 1 roku a / nebo pokuta nepřesahující $1,000.
-### §21 Stalking
-
-Je zákon, který definuje pronásledování a obtěžování jako zločin.
-
-Dále uvádí, že každá osoba, která úmyslně a opakovaně sleduje jinou a činí důvěryhodnou hrozbu v úmyslu vybudit strach o bezpečí a zdraví osoby druhé a její rodiny, je vinen ze zločinu stalkingu.
-
-Sankce:
-
-Trest nepřesahující 5 let.
-### §22 Open Carry
-
-Jedná se o zákon, který znemožňuje otevřenou přepravu nenaložené zbraně na veřejném prostranství
-
-Podle San Andreaského trestního zákoníku §22 je nezákonné:
-
-a) otevřeně nosit zbraň
-
-b) mít zbraň odhalenou a nabitou
-
-c) mít zbraň na vaší osobě nebo uvnitř vozidla
-
-d) nosit zbraň na veřejném místě nebo na ulici
-
-Sankce:
-
-Pobyt ve věznici 1 rok a/nebo pokuta $5,000
-### §23 Spolupachatelství
-
-Je zákon, který definuje pomoc při trestném činu. Je nezákonné navádět, usnadňovat nebo pomáhat při spáchání trestného činu.
-
-Tento zákon uvádí, že všechny osoby zúčastněné pří páchání trestného činu, ať už jde o trestný čin nebo přestupek, a zda se přímo dopustí skutku zakládajícího trestný čin, nebo napomáhají a dopouštějí se jeho spáchání, jsou hlavními osobami v jakémkoli takto spáchaném zločinu.
-
-Osobě, které se dopustí trestného činu napomáhání a navádění, hrozí stejný trest jako tomu, kdo trestný čin spáchal.
-### §24 Zahalování
-
-Zákon také činí trestným činem, když osoba nosí masku, aby unikla poté, co byla obviněna, zatčena nebo odsouzena za trestný čin.
-
-24 P.C. uvádí, že "pro jakoukoli osobu bude nezákonné nosit jakoukoli masku, falešné vousy nebo jakýkoli osobní převlek (ať už úplný nebo částečný) za účelem buď, vyhýbat se při spáchání jakéhokoli veřejného trestného činu, nebo utajení či útěk. Nadále pokud je obviněn, zatčen nebo odsouzen za jakýkoliv veřejný trestný čin."
-
-Příklad:
-
-Osoba vykradla obchod, následně utekla a změnila si vizáž např. lepícími vousy či parukou
-
-Hledaná osoba si na sebe oblékne masku či nákrčník za účelem skrytí identity
-
-Osoba si poté co odejde pryč ze soukromého pozemku nasadí černé sluneční brýle
-
-San Andreaský trestní zákoník považuje nošení masky nebo přestrojení za zločin, aby se člověk po spáchání trestného činu vyhnul policii.
-
-Sankce:
-Přestupek, za který lze uložit až 1 let vězení a pokutu až do výše 1000$
-### §25 Nedbalé použití střelné zbraně
-
-Trestní zákoník 25 P.C. uvádí:
-
-"že se osoba dopouští trestného činu nedbalé použití střelné zbraně když při užití střelné zbraně způsobí někomu zranění život ohrožující či dokonce smrt"
-
-Příklady:
-
-• Poté, co jeho oblíbený baseballový tým vyhraje Světovou sérii, muž během oslavy v parku vystřelí ze své zbraně do vzduchu.
-
-Sankce:
-
-Pokud se jedná o přečin, lze trestat odnětím svobody až na 1 rok ve státní věznici a pokutou nepřesahující 1 000$.
-
-Pokud se jedná o zločin (trestný čin), lze trestat odnětím svobody až na 3 roky ve státní věznici a pokutou nepřesahující 5 000$.
-### §26 Křivá přísaha
-
-a) Každá osoba, která po složení přísahy, že bude svědčit, prohlašovat, odvolávat nebo pravdivě osvědčit před jakýmkoli příslušným tribunálem, úředníkem nebo osobou, v kterémkoli z případů, ve kterých může být přísaha podle zákona státu San Andreas být spravován, úmyslně a v rozporu s přísahou, uvádí jako pravdivou jakoukoli materiální záležitost, o které ví, že je nepravdivá, a každou osobu, která svědčí, prohlašuje, odvolává nebo osvědčuje pod hrozbou trestu za křivou přísahu v kterémkoli z případů, ve kterých svědectví, prohlášení, výpovědi nebo osvědčení jsou povoleno zákonem státu San Andreas pod hrozbou trestu za křivou přísahu a úmyslně uvádí jako pravdivou jakoukoli podstatnou věc, o které ví, že je nepravdivá, je vinna z křivé výpovědi.
-
-Toto rozdělení je použitelné bez ohledu na to, zda je prohlášení nebo svědectví, prohlášení, výpověď nebo osvědčení učiněné nebo upsané ve státě San Andreas nebo mimo něj.
-
-b) Nikdo nebude odsouzen za křivou přísahu, jestliže důkaz o nepravdivosti spočívá výlučně na protiřečení svědectví jediné osoby jiné než obžalovaného. Důkaz o nepravdivosti může být prokázán přímým nebo nepřímým důkazem.
-
-Trest
-
-Odnětí svobody ne více než 2 roky a/nebo pokuta ne vyšší než 2,000$
-### §28 Nosení balistické vesty
-
-b) Každá osoba, která si nasadí body armor při spáchání nebo při pokusu o spáchání násilného trestného činu, jak je definován v § 28, je po odsouzení za tento zločin nebo pokus o trestný čin povinen kromě a následně po trestu předepsaném pro zločin nebo pokus zločinu, za který byl odsouzen, potrestán dodatečným trestem na jeden, dva nebo pět let. Soud nařídí střední lhůtu, dokud nenastanou přitěžující nebo zmírňující okolnosti. Důvody pro svůj výběr zesílení uvede soud v záznamu při vynesení rozsudku.
-
-c) Jak se používá v této části, "body armor" znamená jakýkoli neprůstřelný materiál určený k poskytnutí balistické a traumatické ochrany pro nositele.
-
-Trest
-
-Přidání ne více než 5 let k původnímu trestu
-
-### §29 Ovlivňování svědků
-
-(1) Vědomě a zlomyslně brání nebo odrazuje jakéhokoli svědka nebo oběti, aby se zúčastnili nebo poskytli svědectví na jakémkoli soudním řízení, řízení nebo vyšetřování povoleném zákonem.
-
-(2) Vědomě a zlomyslně se pokouší zabránit nebo odradit jakéhokoli svědka nebo oběť, aby se zúčastnili nebo poskytli svědectví jakéhokoli procesu, řízení nebo vyšetřování povoleném zákonem.
-
-(c) Každá osoba, která vědomě a zlomyslně jedná některý z činů popsaných v pododdíle (a) nebo (b) za jedné nebo více z následujících okolností, je vinna ze zločinu za kterékoli z těchto okolností:
-
-(1) Je-li čin doprovázen silou nebo výslovnou nebo implicitní hrozbou síly nebo násilí, vůči svědkovi nebo oběti nebo jakékoli třetí osobě nebo majetku kterékoli oběti, svědka nebo jakékoli třetí osoby.
-
-(2) Je-li čin na podporu spiknutí.
-
-(d) Každá osoba, která se pokusí spáchat jakýkoli čin uvedený v pododdílech (a), (b) a (c), je vinna z pokusu o trestný čin bez ohledu na úspěch nebo neúspěch tohoto pokusu. Skutečnost, že žádná osoba nebyla fyzicky zraněna nebo ve skutečnosti zastrašena, není obranou proti jakémukoli trestnímu stíhání podle tohoto oddílu.
-
-(e) Nic v tomto oddíle nevylučuje uložení zvýšení za velké tělesné zranění, je-li způsobená újma významná nebo podstatná.
-
-(f) Použití síly při spáchání jakéhokoli trestného činu popsaného v části (c) se považuje za přitěžující okolnost trestného činu při ukládání trestu odnětí svobody podle části (b)
-
-Trest
-
-Odnětí svobody ne více než 5 let a/nebo pokuta ne vyšší než 4,000$
-### §30 Pohrdání soudem
-
-(1) Neřízené, pohrdavé nebo drzé chování spáchané během zasedání soudu v bezprostředním zorném poli a v přítomnosti soudu, které má přímou tendenci přerušit jeho jednání nebo narušit respekt vůči jeho autoritě.
-
-(2) Chování uvedené v odstavci 1, které je spácháno v přítomnosti poroty, během skutečného jednání nebo jednání, na základě příkazu soudu nebo v přítomnosti poroty během skutečného zasedání při jednání z důvodu nebo na základě vyšetřování nebo jiného jednání povoleného zákonem.
-
-(3) Narušení klidu, hluk nebo jiné rušení přímo směřující k přerušení řízení soudu.
-
-(4) Úmyslné neuposlechnutí napsaných podmínek procesu nebo soudního příkazu nebo příkazu mimo státní soud, zákonně vydaného soudem, včetně příkazů čekajících na soudní proces.
-
-(5) Úmyslně kladený odpor osoby zákonnému příkazu nebo postupu soudu.
-
-(6) Kontumační a nezákonné odmítnutí osoby složit přísahu jako svědek nebo, je-li to přísaha, podobné odmítnutí odpovědět na podstatnou otázku.
-
-(7) Zveřejnění nepravdivé nebo hrubě nepřesné zprávy o řízení soudu.
-
-(9) Úmyslné neuposlechnutí podmínek soudního příkazu, který omezuje činnost pouličního zločineckého gangu nebo kteréhokoli z jeho členů, zákonně vydaného soudem, včetně soudního příkazu.
-
-Trest
-
-Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 10,000$
-### §31 Civilní zatčení
-
-Soukromá osoba může zatknout druhou:
-
-1. Za veřejný přestupek spáchaný nebo pokus o něj v jeho přítomnosti.
-
-2. Když zatčená osoba spáchala trestný čin, byť ne v její přítomnosti.
-
-3. Když byl trestný čin skutečně spáchán a má přiměřený důvod se domnívat, že byl spáchán zatčenou osobou.
-
-### §32 Úplatkářství a korupce
-
-Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi, porotci nebo jakékoli osobě, která může být zákonem oprávněna vyslechnout nebo rozhodnout o jakékoli otázce nebo polemice s úmyslem ovlivnit jeho hlas, vyjádření nebo rozhodnutí o jakékoli věci nebo otázce, která mu je nebo může být předložena k rozhodnutí.
-
-Trest
-
-Odnětí svobody ne více než 4 roky
-### §33 Úplatkářství a korupce státních složek
-
-Každá osoba, která poskytne nebo nabídne jakýkoli úplatek jakémukoli výkonnému úředníkovi v tomto státě s úmyslem ovlivnit jej v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, názorem nebo jiným jednáním jako takový úředník.
-
-Trest
-
-(1) Civilista: Odnětí svobody ne více než 4 roky
-
-(2) Státní složka: a) zbavení a zákaz funkce jako veřejný úředník
-                            b) Odnětí svobody na 10 let - až doživotí.
-                            c) Odnětí svobody na 10 let - až doživotí. Pokuta 100,000$ - 10 000,000$
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 10 let a pokutou ve výši 50.000$.
                        
-### §34 Zneužití tísňové linky
+### §25 Zneužití tísňové linky
+Záměrné telefonáty nebo zasílání SMS na tísňovou linku bez důvodu, kdy není ohrožen život, zdraví, majetek nebo veřejný pořádek, je přestupek
 
-a) Osoba, která vědomě povolí použití nebo která použije tísňový systém 911 z jakéhokoli jiného důvodu než z důvodu nouze, se dopustí přestupku, který se trestá takto:
+a) Je přestupek, který se trestá pokutou ve výši 10.000$
 
-Trest
-
-Odnětí svobody ne více než 1 rok (třikrát a více)
-
-Pokuta ne vyšší než 5,000$ (poprvé a podruhé)
-### §35 Narušení klidu
-
+### §26 Narušení klidu
 Osoba která se dopustí jedněch z následujících je vinna z narušení klidu.
 
-(1) Každý, kdo se protiprávně bije na veřejném místě nebo vyzývá jinou osobu na veřejném prostranství k boji.
+- Každý, kdo se protiprávně bije na veřejném místě nebo vyzývá jinou osobu na veřejném prostranství k boji.
+- Každý, kdo svévolně a svévolně obtěžuje jiného hlasitým a bezdůvodným hlukem.
+- Každá osoba, která na veřejném místě použije urážlivá slova, která ve své podstatě mohou vyvolat okamžitou násilnou reakci.
 
-(2) Každý, kdo svévolně a svévolně obtěžuje jiného hlasitým a bezdůvodným hlukem.
+a) Je přestupek, který se trestá pokutou ve výši 4.000$
 
-(3) Každá osoba, která na veřejném místě použije urážlivá slova, která ve své podstatě mohou vyvolat okamžitou násilnou reakci.
+### §27 Nedostavení se na předvolání
 
-Trest
+- Z přestupku je vinna každá osoba, která je obviněna nebo odsouzena za spáchání přestupku, která je propuštěna ze zadržení na vlastní pěst a která se ve snaze vyhnout se soudnímu řízení úmyslně nedostaví podle potřeby. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 4 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
+- Každá osoba, která je obviněna nebo odsouzena za spáchání trestného činu, která je propuštěna z vazby na vlastní pěst a která se s cílem vyhnout se soudnímu procesu úmyslně nedostaví podle potřeby, je vinna z trestného činu. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 2 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
 
-Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 800$
-### §36 Nedostavení se na předvolání
+a) Je přestupek, který se trestá pokutou ve výši 5.000$
 
-(a) Z přestupku je vinna každá osoba, která je obviněna nebo odsouzena za spáchání přestupku, která je propuštěna ze zadržení na vlastní pěst a která se ve snaze vyhnout se soudnímu řízení úmyslně nedostaví podle potřeby. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 4 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
+### §28 Vydírání
 
-(b) Každá osoba, která je obviněna nebo odsouzena za spáchání trestného činu, která je propuštěna z vazby na vlastní pěst a která se s cílem vyhnout se soudnímu procesu úmyslně nedostaví podle potřeby, je vinna z trestného činu. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 2 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
+-Pachatel tohoto trestného činu jiného neoprávněně nutí, aby něco jednal, opomenul nebo trpěl, a to jednáními typickými pro trestné činy patřící do této hlavy, tedy násilím, hrozbou násilí nebo jiné těžké újmy. Trestný čin je dokonán použitím násilí, jeho hrozbou nebo hrozbou jiné těžké újmy.
+- Kdo jiného násilím, hrozbou násilí nebo hrozbou jiné těžké újmy nutí, aby něco jednal, opomenul nebo trpěl.
 
-Trest
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 8.000$.
 
-Odnětí svobody ne více než 2 roky a/nebo pokuta ne vyšší než 5,000$
-### §37 Neposkytnutí identifikace
-
-a) Nestanoví-li zákon jinak, v každém případě, kdy je osoba zatčena za trestný čin či zadržena za přestupek, bude police officer vyžadovat od zadrženého pouze předložení řidičského průkazu nebo jiného průkazu způsobilosti jako důkaz o své totožnosti k přezkoumání. Pokud zadržený nemá řidičský průkaz nebo jiný uspokojivý důkaz totožnosti, může policista od zadrženého vyžadovat jinou formu identifikace (VI, WI, FR, FPR). Zadržená osoba může být vzata do vazby pouze tehdy, pokud osoba odmítne podepsat písemný slib, nemá uspokojivou identifikaci nebo odmítne poskytnout jinou formu identifikace.
-
-Trest
-
-Odnětí svobody ne více než 1 roky a/nebo pokuta ne vyšší než 1,000$
-### §38 Vydírání
-
-- Pachatel tohoto trestného činu jiného neoprávněně nutí, aby něco jednal, opomenul nebo trpěl, a to jednáními typickými pro trestné činy patřící do této hlavy, tedy násilím, hrozbou násilí nebo jiné těžké újmy. Trestný čin je dokonán použitím násilí, jeho hrozbou nebo hrozbou jiné těžké újmy.
-
-- Kdo jiného násilím, hrozbou násilí nebo hrozbou jiné těžké újmy nutí, aby něco jednal, opomenul nebo trpěl, bude potrestán odnětím svobody až na 6 let, a pokutou 8000$
-
-### §39 Zneužití pravomocí
+### §29 Zneužití pravomocí
 
 - Ujednání či poskytnutí výhody nebo ústupku, překročení pravomocí, nevykonání své zákonné povinnosti, napomáhání v nebo k protiprávní činnosti, nebo nátlak na druhého, a to v rámci zneužití svého postavení nebo funkce vůči státu.
-
-
 - Tohoto trestného činu se mohou dopustit pouze úřední osoby.
 
-§39 je trestný čin, který se trestá odnětím svobody od 3 let do 10 let, peněžitou pokutou ve výši 15.000$ a ukončením pracovního poměru s okamžitou platností.
-### §40 Zpronevěra
+a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 6 let a pokutou ve výši 15.000$.
 
+### §30 Zpronevěra
 Přisvojení si cizího majetku, svěřených do péče nebo správy.
 
-se trestá finanční pokutou ve výši až 3000$
-### §42 Vloupáni
-§42 je zákon v státě San Andreas, který definuje vloupání jako vniknutí do budovy nebo uzamčeného vozidla s úmyslem spáchat velkou krádež, drobnou krádež nebo jakýkoli trestný čin, jakmile je uvnitř. Můžete být obviněn z vloupání, i když nedojde k násilnému vstupu.
+a) Pokud hodnota činí do 20 000 $, jedná se o přestupek, který se trestá pokutou ve výši 4.500$.
 
-Zločin vloupání je dokonán, jakmile osoba vstoupí do struktury se zločinným úmyslem, a to i v případě, že zamýšlený trestný čin není ve skutečnosti nikdy splněn.
-Vloupání se dělí na "první stupeň" a "druhý stupeň". Prvního stupně je vloupání do obytné budovy (vloupání do domu). Druhý stupeň je vloupání do jakéhokoli jiného typu struktury (včetně obchodů, podniků, státních institucí a budov státních složek).
+b) Pokud hodnota činí od 20 001 $ do 200 000 $, jedná se o trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 8.500$
 
-Trest:
-I. stupeň se trestá odnětím svobody ne vyšší než 5 let a pokutou 1 500$
-II. stupeň se trestá odnětím svobody ne vyšší než 10 let a pokutou 1 500$
-### §43 Falešná identita
+c) Pokud hodnota činí více než 200 001 $, jedná se o trestný čin, který se trestá odnětím svobody na 1 až 10 let a pokutou ve výši 12.000$
 
-(a) Jakákoli osoba, která se nepravdivě zastupuje nebo identifikuje jako jinou osobu nebo jako fiktivní osobu jakémukoli police officerovi po zákonném zadržení nebo zatčení osoby, buď vyhýbat se procesu soudu se řádné identifikaci osoby vyšetřovatelem, je vinna z přestupku.
+### §31 Falešná identita
+Jakákoli osoba, která se nepravdivě zastupuje nebo identifikuje jako jinou osobu nebo jako fiktivní osobu jakémukoli police officerovi po zákonném zadržení nebo zatčení osoby, buď vyhýbat se procesu soudu se řádné identifikaci osoby vyšetřovatelem, je vinna z přestupku.
 
-Trest
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou ve výši 5.000$.
 
-Odnětí svobody ne více než 1 rok a/nebo pokuta ne vyšší než 7,000$
-### §44 Útěk
+### §32 Útěk
+Unikání před příslušníky státních či federálních ozbrojených složek přes výzvu na zastavení.
 
-- Unikání před příslušníky státních či federálních ozbrojených složek přes výzvu na zastavení je
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
 
-a) přestupek, který se trestá pokutou ve výši až 5000$
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let a pokutou ve výši 3.500$.
 
-b) trestný čin, který se trestá odnětím svobody až na 5 let, pokud se ho osoba dopustí v přímém souběhu s dalšími trestnými činy.
-### §45 Znásilnění
+### §33 Mučení
+Kruté nebo jiné zacházení, které způsobuje jiné osobě tělesné nebo duševní utrpení.
 
-- Pohlavní styk, jiná obdobná sexuální aktivita či sexuální nátlak proti vůli jiné osoby. Jako i přípava a pokus o znásilnění.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 8 let a pokutou ve výši 10.000$.
 
-a) je trestný čin, který se trestá odnětím svobody od 1 do 10 let, a pokutou ve výši 5000$
-### §46 Mučení
+### §34 Pomluva
+Záměrné a vědomé šíření nepravdy o jiné osobě či společnosti.
 
-A) Mučení znamená úmyslné způsobení velké tělesné nebo duševní bolesti nebo utrpení vězněné osobě nebo osobě, nad kterou měl kontrolu.
-
-B) Hanobení lidských pozůstatků.
-
-C) Hanobení národa, rasy a etnické nebo jiné skupiny osob
-
-D) Genocidium
-
-E) Útok proti lidskosti
-
-A) Kruté nebo jiné zacházení působící jinému tělesné nebo duševní utrpení je trestný čin, který se trestá odnětím svobody od 1 roku do 15 let, a pokutou 750$
-
-B) je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let, a pokutou 13000$
-
-C) je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let, a pokutou 13000$
-
-D) je trestný čin, který se trestá odnětím svobody od 12 roku do 20 let, a pokutou 13000$
-
-E) je trestný čin, který se trestá odnětím svobody od 12 roku do 20 let, a pokutou 13000$
-### §47 Pomluva
-
-- Záměrné a vědomé šíření nepravdy o jiné osobě či společnosti.
-
-a) v úmyslu způsobit majetkovou škodu nebo společenské znevážení je přestupek, který se trestá pokutou ve výši do 1000$.
+a) v úmyslu způsobit majetkovou škodu nebo společenské znevážení je přestupek, který se trestá pokutou ve výši 5.000$.
 
 b) v úmyslu způsobit trestní stíhání nebo přestupkové řízení je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let.
-### §48 Podvod
 
-- Kdo ke škodě cizího majetku sebe nebo jiného obohatí tím, že uvede někoho v omyl nebo využije něčího omylu, a způsobí tak na cizím majetku škodu.
+### §35 Podvod
+Kdo ke škodě cizího majetku sebe nebo jiného obohatí tím, že uvede někoho v omyl nebo využije něčího omylu, a způsobí tak na cizím majetku škodu.
 
-- je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a/nebo pokutou ve výši 500$
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$.
 
-### §49 Smluvní podvod
+### §37 Smluvní podvod
+Uvedení nepravdivých nebo hrubě zkreslených údajů nebo zamlčení podstatných údajů při sjednání smlouvy.
 
-- Uvedení nepravdivých nebo hrubě zkreslených údajů nebo zamlčení podstatných údajů při sjednání smlouvy.
+a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 5 let a pokutou ve výši 6.000$.
 
-- je trestný čin, který se trestá odnětím svobody od 2 roku do 6 let, a pokutou ve výši 750$
+### §38 Vyhýbaní se spravedlnosti
+Úmyslné vyhýbání se trestu.
 
-### §50 Vyhýbaní se spravedlnosti
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$.
 
-- Úmyslné vyhýbání se trestu.
+### §39 Sexuální nátlak
+Nucení k obnažování, sexu nebo jinému srovnatelnému chování.
 
-- je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let, a pokutou ve výši 8000$
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou ve výši 4.000$.
 
-### §51 Sexuální nátlak
+### §40 Žhářství
+Úmyslné založení požáru.
 
-- Nucení k obnažování, sexu nebo jinému srovnatelnému chování.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 4.000$. 
 
-- je trestný čin, který se trestá odnětím svobody od 2 do 3 let, a pokutou ve výši 2000$
+### §41 Neposkytnutí první pomoci
+Neposkytnutí první pomoci nebo nepřivolání pomoci, útěk od místa nehody.
 
-### §52 Žhářství
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$. 
 
-- Úmyslné založení požáru je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let, a pokutou ve výši 1000$
+### §42 Nelegální distribuce a prodej želv
+Přechovávání a prodej mořských želv.
 
-### §53 Neposkytnutí první pomoci
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 10.000$. 
 
-- Neposkytnutí první pomoci nebo nepřivolání pomoci, útěk od místa nehody je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let, a pokutou ve výši 1500$
+### §43 Nelegální distribuce a prodej žraločího masa
+Přechovávání a prodej žraločího masa.
 
-### §54 Nelegální distribuce a prodej želv
+a) Je trestný čin, který se trestá odnětím svobody od 3 roku do 5 let a pokutou ve výši 12.000$. 
 
-- Přechovávání a prodej mořských želv
-
-- je trestný čin, který se trestá odnětím svobody od 3 do 5 let, a pokutou ve výši 25000$
-
-### §55 Nelegální distribuce a prodej žraločího masa
-
-- Přechovávání a prodej žraločího masa -
-
-- je trestný čin, který se trestá odnětím svobody od 4 do 6 let, a pokutou ve výši 18000$
-
-### §56 Nelegální lov
+### §44 Nelegální lov
 
 A) Lov mimo vyhrazené lovecké oblasti
 
@@ -2202,75 +1870,31 @@ B) Lov bez licence a bez registrace zbraně určené k lovu - Lupara
 
 C) Lov zvěře se zbraní, která není určena k lovu
 
-A) je přestupek, který se trestá pokutou 20000$, pokud se to stane více než 2 krát odebráním lovecké licence
+a) je přestupek, který se trestá pokutou 10.000$, pokud se to stane více než 2 krát odebráním lovecké licence
 
-B) je trestný čin, který se trestá odnětím svobody od 4 let do 6 let, v případě opakovaného porušení zákona je sazba vyšší a to od 6 do 8 let.
+b) je trestný čin, který se trestá odnětím svobody od 2 let do 4 let, v případě opakovaného porušení zákona je sazba vyšší a to od 4 do 6 let a pokutou 10.000$.
 
-C) je přestupek, který se trestá pokutou ve výši 20000
-#### §57 Nelegální rybolov
+c) je přestupek, který se trestá pokutou ve výši 10.000$
 
-Lov ryb bez licence je trestný čin, který se trestá odnětím svobody od 3 do 5 let, pokutou ve výši 12000$, zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 5 do 7 let.
-### §58 Nedovolený vstup do národních parků
+#### §45 Nelegální rybolov
+Lov ryb bez licence 
 
-Vstup do národních parků s motorovým vozidle je zakázáno (viz. foto)
-Výjimka: Státní složky při výkonu služby
+a) je trestný čin, který se trestá odnětím svobody od 1 do 2 let, pokutou ve výši 6.000$, zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 2 do 3 leta pokutou ve výši 6.000$.
 
-Sankce: Vykázání a/nebo pokuta ve výši až 1000$
+### §46 Nedovolený pohlavní styk a jiné sexuální aktivity
+Nedovolený pohlavní styk a jiné sexuální aktivity, které jsou v rozporu se zákonem
 
+a) Vědomé poskytnutí nebo sjednání sexuálních služeb za úplatu či jinou protihodnotu bez držení platné licence, nebo mimo zaměstnanecký vztah u držitele licence, je přestupek, za který lze uložit pokutu ve výši 25.000$.
 
-### §59 Neoprávněný vstup do budovy
+b) Incest, tedy jakýkoliv sexuální vztah nebo intimní chování mezi příbuznými v přímé rodinné linii, je trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 10.000$
 
-§61 je zákon v státě San Andreas, který definuje neoprávněný vstup do budovy jako neoprávněné vniknutí do uzavřeného prostoru, budovy, či nemovitosti.
+c) Zoofilie, což zahrnuje jakoukoliv sexuální interakci se zvířaty, je trestný čin, který je trestán odnětím svobody na 5 až 10 let a pokutou ve výši 15.000$
 
-Trest:
-Trestá se odnětím svobody ne vyšší než 2 roky a pokutou 2 500$
+d) Nekrofilie, tedy jakákoliv sexuální interakce s mrtvým tělem, je trestný čin, za který hrozí trest odnětí svobody na 5 až 10 let a pokutou ve výši 15.000$
 
+e) Pedofilní jednání, což znamená jakoukoliv sexuální interakci s dětmi a mladistvými mladšími 14 let, je trestný čin, za který je možné uložit trest odnětí svobody na 5 až 10 let a a pokutou ve výši 20.000$
 
-V případě budov státních institucí a státních složek se trestá odnětím svobody ne vyšší než 5 let a pokutou 2 500$
-
-
-### §60 Sexuální napadení
-
-Je zákon, který specifikuje sexuální napadení. Osoba spáchá tento trestný čin dotykem intimních částí jiné osoby proti její vůli za účelem sexuálního uspokojení, vzrušení nebo zneužití.
-
-Uvádí, že "každá osoba, která se dotýká intimní části jiné osoby, zatímco je tato osoba nezákonně omezována obviněným nebo spolupachatelem, a pokud je dotek proti vůli dotyčné osoby a je za účelem sexuálního vzrušení, sexuální uspokojení nebo sexuální zneužívání je vinen sexuálním napadením nebo-li sexual battery. "
-
-Sexuální napadení se lze brát jako přestupek nebo trestný čin. Mohou být uloženy pokuty, pokud údajná oběť:
-
-- Nevěděla o povaze činu, protože byl podvodně přesvědčen, že dotyky byly pro profesionální účely (například pro lékařské nebo terapeutické účely)
-
-- Byla nucena masturbovat nebo se dotknout jedné z vašich intimních partií, nebo intimní část jiné osoby, za jakékoli z výše uvedených okolností
-
-Příklady přestupku:
-
-- Položte ruce na zadek někoho jiného, aniž byste k tomu nejprve získali souhlas.
-
-Tresty/sankce:
-
-- Pokud se však osoba při sexuálním napadení dopustila ublížení na zdraví či psychické újmě poškozeného, čelí trestům dvou, třem až čtyřem letům odnětí svobody v okresní věznici nebo pokutě nepřesahující 10 000$
-
-### §61 "Peeping Tom" laws
-
-§63 je zákon v státě San Andreas, který považuje za trestný čin špehování nebo fotografování někoho na soukromém místě bez souhlasu této osoby.
-Neplatí v případě, že:
-- Údajná oběť neměla přiměřené očekávání soukromí;
-- Údajná oběť souhlasila s fotografováním nebo nahráváním;
-- Obžalovaný neměl v úmyslu narušit ničí soukromí a/nebo obžalovaný se neměl v úmyslu sexuálně vzrušit nebo uspokojit.
-- Obžalovaný měl zákonný důvod k tomu, aby se na pozemku nacházel, a/nebo budova, do které obžalovaný nahlížel, nebyla obydlená.
-- Státní ozbrojená složka má při výkonu služby pádný důvod pro toto konání.
-
-Trest:
-Trestá se odnětím svobody na 1 rok
-### §62 Bodné a sečné zbraně
-§64 je zákon v státě San Andreas, který považuje za trestný čin nošení, držení na veřejnosti, prodej nebo rozdávání vystřelovací čepele (nože switchblade).
-
-Taktéž definuje, že držení mačety na veřejnosti je trestným činem.
-
-Trest:
-Trestá se odnětím svobody na 1 rok a/nebo pokutou 1 200$
-
-
-### §63 Nezaplacené faktury a pohledávky
+### §47 Nezaplacené faktury a pohledávky
 
 (1) §65 je zákon v státě San Andreas, který je považován za trestný čin. Vzniká v případě, kdy dlužník neplatí své závazky vůči státním organizacím. V takovém případě dlužníkovi vyměří Department of Justice s asistencí Department of Finance výši úroku z prodlení od dne vzniku prvého úroku. Úroková sazba je 10% denně ze základní a později navyšující se částky. V případě, kdy dlužník dosáhne hranicí svého dluhu na 100 000 USD, neplatí své pohledávky včas a dosáhne prodlení s placením déle jako tři dny, vzniká u něj zákonná pravomoc ve věci trestního stíhání pro §65. 
 
@@ -2281,91 +1905,30 @@ Trestá se odnětím svobody na 1 rok a/nebo pokutou 1 200$
  c) Cennosti s vyšší hodnotou - zabavení s kontrolou hodnoty
  d) Vlastněné účty - pozastavení plateb, zmrazení účtu a odebrání částky k proplacení faktur a úroků z prodlení s kontrolou a spoluprací DoF 
 
-(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura 50 000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §65: 
+(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura 10.000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §65: 
 
  a) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 100 000 USD do 500 000 USD:
- 1) zabavení majetku - vozidla / stroje a trest, exekuční řízení (2) a),b),c),d) a odnětí svobody v délce 5 let
+ 1) zabavení majetku - vozidla / stroje a trest, exekuční řízení (2) a),b),c),d) a odnětí svobody v délce 3 let
 
  b) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 500 000 USD do 1 000 000 USD:
-1) zabavení majetku - vozidla / stroje, zabavení majetku - budova, pozemek, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 10 let
+1) zabavení majetku - vozidla / stroje, zabavení majetku - budova, pozemek, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 7 let
 
 
  c) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 1 000 000 USD do 1 999 999 USD:
- 1) zabavení majetku - vozidla / stroje, zabavení majetku budova, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody od 20 let
+ 1) zabavení majetku - vozidla / stroje, zabavení majetku budova, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 12 let
 
 
  d) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 2 000 000 USD:
- 1) zabavení majetku - vozidla / stroje, zabavení nemovitosti, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody od 20 let až doživotí.
+ 1) zabavení majetku - vozidla / stroje, zabavení nemovitosti, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 20 let
 
+### §48 Nelegální rozebírání vozidla
+Vzniká v případě, kdy dojde k nelegálnímu rozebírání bez příslušného povolení.
 
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
 
-### §64 Nelegální rozebírání vozidla
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou ve výši 3.500$.
 
- §66 nelegální rozebírání vozidla je zákon v státě San Andreas,
-který je považován za trestný čin.
-
-Vzniká v případě, kdy dojde k nelegálnímu rozebírání - autovraků / osobních a nákladních automobilů / motocyklů / a dalších dopravních prostředků - které osoba rozebere na nelegálních autovrakovištích ( neschválená zařízení ) bez příslušného povolení.
-
-Při zadržení bude osoba obžalována z §66:
-
-a) 1. jedná se o nelegální rozebírání vlastního vozidla:
-trest odnětí svobody v délce 2 roky a pokutou 2 500$
-
-a) 2. jedná se o nelegální rozebírání vlastního vozidla, při rozebírání byla použita střelná zbraň:
-trest odnětí svobody v délce 8 až 10 let a pokutou 10 000$
-
-
-b) 1. jedná se o nelegální rozebírání kradeného vozidla:
-trest odnětí svobody v délce 10 let a pokutou 15 000$ až 35 000$
-
-b) 2. jedná se o nelegální rozebírání kradeného vozidla, při rozebírání byla použita střelná zbraň:
-trest odnětí svobody v délce 10 až 12 let a pokutou 15 000$ až 35 000$
-
-b) 3. jedná se o nelegální rozebírání kradeného vozidla organizovanou skupinou (dvě a více spolupracujících osob, zajištěných při trestné činnosti nelegálního rozebírání vozidel ).
-trest odnětí svobody v délce 12 až 15 let a pokutou 20 000$ až 45 000$
-
-
-
-### §65 Útok s použitím žíravých nebo hořlavých látek
-  §67 PC je zákon v státě San Andreas,
-který je považován za trestný čin. Definicí tohoto zákona je "útok žíravými chemikáliemi". V této části je trestným činem házení nebo pokládání žíravých nebo hořlavých látek na někoho s úmyslem tuto osobu zranit, zabít nebo zohavit. Tento zákon výslovně zakazuje používat, manipulovat, skladovat, držet, přechovávat či jakkoliv nakládat s vysoce toxickými chemickými látkami, žíravými látkami a hořlavými látkami.
-
-
-Jakákoli osoba, která úmyslně a se zlým úmyslem umístí nebo hodí nebo způsobí umístění nebo vržení na jinou osobu jakoukoli nebezpečnou chemickou látku, žíravou kyselinu, hořlavou látku nebo žíravou chemikálii jakékoli povahy s úmyslem zranit, usmrtit nebo znetvoření těla jiné osoby, se trestá:
-
-a) 1. V případě zranění osoby:
-trest odnětí svobody v délce 2 roky a pokutou 2 500$
-
-a) 2. V případě usmrcení osoby:
-trest odnětí svobody v délce 5 až 12 let a pokutou 15 000$ až 35 000$
-
-a) 3. V případě usmrcení dvou a více osob:
-trest odnětí svobody v délce 25 let až doživotí a pokutou 25 000$ až 55 000$
-
-
-
-### §66 Nelegální držení / přechovávání improvizovaných hořlavých látek "molotov"
-
-§68 PC je zákon v státě San Andreas, který je považován za trestný čin.
-Tento zákon výslovně zakazuje všem osobám vyrábět ,používat, manipulovat, skladovat, držet, přechovávat či jakkoliv nakládat s improvizovanými hořlavými látkami ( MOLOTOV )
-
-Porušení tohoto zákona se trestá:
-
-a) 1. V případě výroby, držení, manipulace či přechovávání:
-trest odnětí svobody v délce 2 roky a pokutou 2 500$
-
-a) 2. V případě použití proti jiné osobě - ublížení na zdraví:
-trest odnětí svobody v délce 5 let a pokutou 10 000$ až 15 000$
-
-a) 3. V případě použití proti jiné osobě -  usmrcení jiné osoby:
-trest odnětí svobody v délce  5 až 10 let a pokutou 15 000$ až 25 000$
-
-a) 4. V případě použití proti skupině osob - usmrcení dvou a více osob:
-trest odnětí svobody v délce 25 let až doživotí a pokutou 25 000$ až 55 000$
-
-
-
-### §67 Trestní odpovědnost nezletilých a mladistvých osob
+### §49 Trestní odpovědnost nezletilých a mladistvých osob
 
 V San Andreas je hranice trestní odpovědnosti určena věkem 15 let dosaženého věku.
 U federálních zločinů je hranice trestní odpovědnosti určena věkem 11 let dosaženého věku.
@@ -2383,79 +1946,22 @@ b) Nepodmíněné odnětí svobody může soud mladistvému uložit jen tehdy, j
 6. osoba se dopustila držení/přechovávání omamných a psychotropních látek
 
 
-### §68 Obecné ohrožení
+### §50 Obecné ohrožení
+Ohrožení života nebo zdraví pěti a více osob, které je spojeno s rizikem smrti či těžké újmy na zdraví
 
+a) Ohrožení způsobené během řízení vozidla je klasifikováno jako přestupek, za který může být uložena pokuta ve výši 4.000 $.
 
-a) Obecné ohrožení je považováno za spáchané v případě, že se jedná o záměrné chování nebo jednání, které představuje vážnou hrozbu pro veřejný pořádek, bezpečnost nebo mír. To může zahrnovat, ale není omezeno na násilí, jako je použití zbraní, exploziv, nebezpečných látek nebo jiných prostředků, které mají za následek ohrožení života, zdraví nebo majetku ostatních osob. Dále také použití vozidla k neopatrné jízdě a ohrožení života občanů.
+b) Pokud bylo ohrožení způsobeno střelnou nebo jinou zbraní, jedná se o trestný čin, za který hrozí trest odnětí svobody na 1 až 4 let a pokutou ve výši 4.000 $.
 
-b) Kdo způsobí obecné ohrožení veřejného pořádku, bezpečnosti nebo míru prostřednictvím násilí, vyhrožování, neopatrnou jízdou vozidla nebo jiných nebezpečných činů se trestní sazba ustanovuje odnětím svobody na 1 rok ve federální věznici a pokutou ve výši 5000$.
-### §69 Hanobení lidských ostatků a svévolné otevírání hrobu
-
+### §51 Hanobení lidských ostatků a svévolné otevírání hrobu
 Osoba, která neoprávněně hrob nebo hrobku anebo urnu s lidskými ostatky otevře, páchá trestní čin. Otevření hrobu, hrobky nebo urny je trestní čin i v případě, že neobsahuje lidské ostatky.
 
-Hanobení lidských ostatků anebo svévolné otevření hrobu nebo hrobky nebo urny je trestní čin který se trestá odnětím svobody na jeden rok s podmínečným odkladem čtyř let.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
 
+### §52 Neoprávněná manipulace s dopravním značením a světelným zařízením
+Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením
 
-### §70 Neoprávněná manipulace s dopravním značením a světelným zařízením
-
-Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením se dopouští přestupku v případě:
-a) že, při neoprávněné manipulaci nevznikl jiný přestupek či trestní čin
-
-Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením se dopouští trestního činu v případě:
-b) že, při neoprávněné manipulaci vznikl jiný přestupek či trestní čin,
-c) nebo provádí neoprávněnou manipulaci opakovaně a záměrně za účelem narušení dopravního pořádku.
-
-V bodě a) §72 se jedná o přestupek který se trestá pokutou ve výši §2.000
-V bodě b) §72 se jedná o trestní čin který se trestá odnětím svobody po dobu dvou let s možným podmínečným odkladem tří let.
-V bodě c) §72 se jedná o trestní čin který se trestá odnětím svobody po dobu tří let s možným podmínečným odkladem pěti let.
-### §71 Distribuce a prodej medikamentů a léčiv
-
-Osoba, která distribuuje nebo prodává medikamenty nebo léčiva anebo léčivé přípravky bez povolení nebo není členem Emergency Medical Services anebo Los Santos Fire Department se dopouští trestního činu.
-
-a) Zákaz prodeje medikamentů a léčiv se vztahuje výhradně na:
-
-    Ibuprofen 
-    Paralen 
-    Akutol Spray 
-    Gelaspon 
-    Hojivý gel 
-    Zodac   
-    Živočišné uhlí 
-    Samaritan 
-    Kyselina listová 
-    Viagra 
-    Bandage aj.
-
-b) Dále se do medikamentů a léčiv do zákazu prodeje neřadí:
-
-    Autolékárnička
-    Náplasti
-    Škrtidlo
-
-c) Přísný zákaz distribuce a prodeje:
-
-    Medkit
-    Antidepresiva
-    Lékařská marihuana
-    Antibiotika
-    Kodein
-    Vicodin 
-
-
-V bodě a) se jedná o medikamenty a léčiva která se používají pro vlastní potřebu, jejich distribuce nebo prodej je trestná.
-
-V bodě b) se jedná o předměty nebo medikamenty či léčiva která se mohou volně distribuovat nebo prodávat.
-
-V bodě c) se jedná o předměty nebo medikamenty či léčiva která se nesmí svévolně distribuovat nebo prodávat, manipulace s nimi provádí jen a pouze odpovědný pracovník.
-Bod c) se vztahuje i na léčiva či medikamenty které odpovědný pracovník označí jako na "předpis", tyto léky, léčiva či medikamenty jsou určená jen a pouze k osobnímu používání a jejich distribuce či prodej je trestný.
-
-
-V bodě a) §73 se jedná o trestní čin který se trestá odnětím svobody po dobu jednoho roku s možným podmínečným odkladem čtyř let a pokutou až $10.000 za jeden typ položky. 
-
-Př: 1x Antidepresiva, 1x Kodein = $20.000,-
-Př: 5x Vicodin, 5x Antibiotika = $20.000,-
-
-V bodě c) §73 se jedná o trestní čin který se trestá odnětím svobody po dobu dvou let.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
 
 ## Vehicle Code
 ### Sekce č. 06/2022GOV Vehicle Code
@@ -4080,33 +3586,6 @@ Odnětí svobody na 2 let - Pokuta 50,000$ - Možnost propuštění na kauci 80,
 
 
 Část 7.)
-### §17 Zřízení datové schránky do 25.3.2023
-
-Od 25. 3. 2023 dochází na základě nového zákona k automatickému zřízení datových schránek na aplikacích všech orgánů státní správy a státních složek. V tentýž den 25.3.2023 bude tato schránka uvedena v platnost. Od tohoto okamžiku, bude veškeré úřední dokumenty zasílána v elektronické podobě. Všechny dokumenty takto zaslané budou mít účinnou platnost úředního dokumentu a budou sepsány podle vzoru § 19.
-
-
-### §18 Datová schránka
-Datová schránka je v Los Santos od 25.3.2023 definována jako elektronické úložiště speciálního typu, zřízené podle příslušného zákona §17 Zřízení datové schránky u všech orgánů státní správy a státních složek do 25.3.2023, které je určeno k doručování elektronických dokumentů mezi orgány veřejné moci (např. Department Of Justice) na straně jedné a všech orgánů státní správy a státních složek (např. Los Santos Police Department) na straně druhé. Do této schránky můsí být umožněn přístup celému vedení státní správy/státní složky, které tato schránka náleží.
-
-
-
-### §19 vzor platného úředního dokumentu zaslaného do datové schránky
-
-úředně platný dokument musí obsahovat tyto náležitosti:
-1) Název dokumentu - např. SUSPENDACE
-2) úřední dokument - název orgánu státní správy/státní složky/státní organizace/federální složky
-3) jméno a příjmení osoby, která dokument vydala s hlavičkou organizace(příslušnosti) pod kterou vydávající osoba spadá
-4) jméno a příjmení osoby, pro kterou je dokument určený a hlavička organizace(příslušnosti) pod kterou tato osoba spadá
-5) předmět věci dokumentu s datem ke dni.
-6) (nepovinné) text s vyjádřením, dalšími informacemi, paragrafy, a nařízení v návaznosti na předmět dokumentu
-7) kontaktní e-mail na orgán státní správy/státní složky, který dokument vydal
-8) elektronický podpis zaměstnance orgánu státní správy/státní složky, který dokument vydal
-9) pracovní pozice a příslušnost osoby orgánu státní správy/státní složky, který dokument vydal
-9) V San Andreas I Los Santos, SA                    dne:
-
-
-
-Část 8.)
 ### §20 porušení právních předpisů a zákona ze strany státní složky
 
 
