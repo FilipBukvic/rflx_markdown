@@ -206,12 +206,7 @@ Všechny právní předpisy platné v tomto státě se řídí ústavou Spojený
 ## Zákon č. 10/2022
 *Lidská práva*
 
-
-Část 1.)
-
-Zákon zahrnující ustanovení na Cayo Perico
-
-### §1 Rozdělení článků
+### ČÁST PRVNÍ - ZÁKLADNÍ PRÁVA A SVOBODY
 
 #### Článek 1
 - Všichni lidé se rodí svobodní a sobě rovní, v jejich důstojnosti a právech. Jsou obdařeni rozumem a svědomím a mají navzájem jednat v duchu bratrstva.
@@ -322,46 +317,28 @@ Zákon zahrnující ustanovení na Cayo Perico
 - V této deklaraci se nesmí nic vykládat tak, aby to opravňovalo jakýkoli stát, skupinu nebo osobu vyvíjet činnost nebo dopouštět se činů, které by směřovaly k potlačení některého z práv nebo svobod v této deklaraci vyhlášených.
 
 
-## Povinnosti Občana
+## Zákon č. 10/2022
+*Povinnosti občana*
 
-### Sekce č. 11/2022GOV Povinnosti občana
+### ČÁST PRVNÍ - ZÁKLADNÍ POVINNOSTI
 
-Obecné povinnosti občana státu San Andreas
-
-Část 1.)
-
-Všechny povinnosti občanů
-
-### §1 Povinnosti
-
-Následující body jsou základní povinnosti osob s občanstvím na území státu San Andreas, které mají platnost ve všech situacích:
-
+- Následující body jsou základní povinnosti osob s občanstvím na území státu San Andreas, které mají platnost ve všech situacích:
 a) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
-
-b) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poslechnout pokyny vydané úřední osobou.
-
+b) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poslechnout pokyny vydané úřední osobou
 c) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna podrobit se testu na zjištění přítomnosti omamných a psychotropních látek v organismu.
-
 d) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna podrobit se testu na zjištění přítomnosti alkoholu v organismu.
-
 e) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poskytnout nezbytnou první zdravotní pomoc.
-
 f) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna dodržovat zákoník státu San Andreas, který nabyl účinnosti dne 02/06/2022 ve 20:22 hodin.
-
 g) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna mít ve svém držení všechny nezbytné doklady umožňující legální vstup na území nebo pobyt na území státu San Andreas.
-
 h) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
 
-Tato ustanovení mají za cíl zabezpečit právní spravedlnost a veřejný pořádek v rámci státu San Andreas. Každý občan nebo osoba s pobytem na území státu San Andreas je povinna se řídit těmito povinnostmi a podřizovat se jim za účelem zachování harmonie a bezpečnosti ve společnosti. 
+- Tato ustanovení mají za cíl zabezpečit právní spravedlnost a veřejný pořádek v rámci státu San Andreas. Každý občan nebo osoba s pobytem na území státu San Andreas je povinna se řídit těmito povinnostmi a podřizovat se jim za účelem zachování harmonie a bezpečnosti ve společnosti. 
 
-## Obecné Ustanovení
-### Sekce č. 08/2022GOV Obecné ustanovení zákonů
 
-Obecné ustanovení zákonů
+## Zákon č. 08/2022
+*Obecné ustanovení zákonů*
 
-Část 1.)
-
-Zákon zahrňujúci obecné ustanovenia
+Zákon zahrňujúci obecné ustanovení
 
 ### §1 Rioting Laws
 
@@ -370,66 +347,64 @@ Trestní zákoník §1 P.C. je zákon v San Andreas, který stanoví trestní od
 
 Podle §1 P.C. se výtržnictvím rozumí jakékoli použití síly nebo násilí, které narušuje veřejný mír nebo ohrožuje jinou osobu pomocí síly nebo násilí. K výtržnictví dochází tehdy, jsou-li přítomny dvě nebo více osob, které jednají společně a bez oprávnění. Pojem "narušení veřejného míru" zahrnuje jakékoli místo uvěznění, jako jsou státní věznice, okresní věznice, průmyslové farmy, silniční tábory, městské věznice, haly pro mladistvé, tábory pro mladistvé, ranče pro mladistvé nebo lesnické tábory pro mladistvé.
 
-
-Příklady:
-
-
-Skupina deseti studentů univerzity přebírá kontrolu nad kanceláří předsedy své vysoké školy. Svazují prezidenta a slibují, že ho neuvolní, - dokud nebudou splněny jejich požadavky.
-
-
-Po incidentu s policií se několik set lidí shromáždí v obchodní čtvrti města, rozbije okna, demoluje veřejný majetek a auta.
-
-
 Pokuty:
+Účast na nepokojích je přestupkem. Možné pokuty zahrnují až jeden rok odnětí svobody ve státní věznici a/nebo pokutu až do výše jednoho tisíce dolarů ($1,000).
 
-
-Účast na nepokojích je přestupkem. Možné pokuty zahrnují až jeden (1) rok odnětí svobody v krajském vězení a/nebo pokutu až do výše jednoho tisíce dolarů ($1,000).
 ### §2 Nezaplacení pokut
-
-Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 3 dnů od rozhodnutí představuje porušení. 
-
+- Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 3 dnů od rozhodnutí představuje porušení. 
 a) Nezaplacení pokuty ve výši do 20 000 $ je přestupek, který se trestá pokutou ve výši 5 000 $ + částka, kterou daná osoba nemá zaplacenou. 
-
 b) Nezaplacení pokuty od 20 001 $ do 200 000 $ se považuje za trestný čin, který se trestá odnětím svobody v rozmezí 1 roku až 5 let a pokutou 50 000 $ + částka, kterou daná osoba nemá zaplacenou. 
-
 c) Nezaplacení pokuty ve výši 200 001 $ a více se považuje za trestný čin, který se trestá odnětím svobody v rozmezí 5 let až 15 let + pokutou 250 000 $ + částka, kterou daná osoba nemá zaplacenou. 
-
-Body výše zmíněné rovněž podléhají úrokům a dalším krokům dle sekce zákona č. 05/2022GOV, P.C., §65 (1), (2) a)-d), (3) a),1); b),1); c),1); d),1)
+- Body výše zmíněné rovněž podléhají úrokům a dalším krokům dle sekce zákona č. 05/2022GOV, P.C., §65 (1), (2) a)-d), (3) a),1); b),1); c),1); d),1)
 
 ### §3 Terorismus
 
 a) Pojem "terorismus" zahrnuje soubor protilidských metod hrubého zastrašování, které se vyznačují hrozbou síly a užitím různých forem násilí.
-
 b) Trestným činem terorismu je úmyslné usmrcení jiné osoby s cílem poškodit ústavní zřízení Státu San Andreas nebo se o to pokusit.
-
 c) Trestným činem teroristického útoku je úmyslné poškození ústavního zřízení nebo obranyschopnosti státu, narušení nebo zničení základní politické, hospodářské nebo společenské struktury státu nebo mezinárodní organizace, závažným způsobem zastrašení obyvatelstva nebo donucení vlády státu, jiného orgánu veřejné moci nebo mezinárodní organizace k jednání, opomenutí nebo strpění něčeho.
 
 
 Trestním činem terorismu je páchání činu, který se trestá odnětím svobody od 5 let až doživotí na základě závažnosti činu.
-
 Trestním činem teroristického útoku je páchání činu, který bude potrestán odnětím svobody na 15 až 25 let a pokutou ve výši 1 500 $.
-
 Trestním činem teroristického útoku je páchání činu, který bude potrestán odnětím svobody na 5 až 15 let a pokutou ve výši 500 $.
 
 
 ### §4 Organizovaný zločin
+- Organizovaný zločin zahrnuje specifickou skupinu trestných činů, které byly spáchány členy zločineckých skupin nebo jsou jimi spáchány.
+- Taktéž se sem řadí páchání zločinu, opakované páchání více úmyslných trestných činů po delší či neurčitou dobu. Toto jednání je charakterizováno snahou dosáhnout co největšího nelegálního zisku nebo je spojeno s motivací faktického získání.
+- Z pohledu trestního zákona se jedná o činnost zločinecké skupiny, která působí dlouhodobě, má určitou strukturu, charakterizuje ji dělba úkolů mezi členy a používání násilí nebo jiných prostředků vhodných k zastrašování nebo ovlivňování ekonomiky, politiky, médií, státní a veřejné správy.
+- Kdo se dopustí dlouhodobé jmenované trestné činnosti v takové organizaci či skupině, bude potrestán odnětím svobody až na doživotí.
 
-Organizovaný zločin zahrnuje specifickou skupinu trestných činů, které byly spáchány členy zločineckých skupin nebo jsou jimi spáchány.
+### §5 Dočasné odebrání střelných zbraní
 
+#### (a) Účel
+- Účelem tohoto ustanovení je zajistit ochranu veřejnosti a jednotlivců prostřednictvím dočasného odebrání střelných zbraní osobám, které představují bezprostřední nebezpečí pro sebe nebo jiné. Tento zákon specifikuje proces, jakým příslušné orgány a oprávněné osoby mohou požádat soud o vydání ochranného příkazu.
+  
+#### (b) Oprávněné osoby k podání návrhu
+Návrh na dočasné odebrání střelných zbraní může podat:
+1. Los Santos Police Department (dále jen „LSPD“) nebo Los Santos Sheriff’s Department (dále jen „LSSD“);
+2. Blízcí příbuzní, zákonní zástupci nebo osoby sdílející domácnost s dotyčnou osobou;
+3. Další osoby oprávněné na základě rozhodnutí soudu.
 
-Taktéž se sem řadí páchání zločinu, opakované páchání více úmyslných trestných činů po delší či neurčitou dobu. Toto jednání je charakterizováno snahou dosáhnout co největšího nelegálního zisku nebo je spojeno s motivací faktického získání.
+#### (c) Návrh a obsah žádosti
+Návrh musí obsahovat:
+1. Písemné odůvodnění s uvedením konkrétních skutkových okolností;
+2. Podporující důkazy, jako jsou svědecké výpovědi, policejní zprávy, zdravotní dokumentace nebo znalecké posudky psychologů či psychiatrů;
+3. Přesné informace o osobě, která je předmětem návrhu, včetně popisu vlastněných zbraní (pokud jsou známy).
 
+#### (d) Soudní řízení
+1. Po obdržení návrhu je soud povinen do 48 hodin zahájit jednání. V případě naléhavé situace může soudce vydat předběžný příkaz bez slyšení, avšak s platností nejvýše 14 dnů.
+2. Konečné rozhodnutí o ochranném příkazu je učiněno po slyšení, během něhož má dotyčná osoba právo:
+a) Vyjádřit se k předloženým důkazům;
+b) Předložit vlastní důkazy;
+c) Být zastoupena právníkem.
 
-Z pohledu trestního zákona se jedná o činnost zločinecké skupiny, která působí dlouhodobě, má určitou strukturu, charakterizuje ji dělba úkolů mezi členy a používání násilí nebo jiných prostředků vhodných k zastrašování nebo ovlivňování ekonomiky, politiky, médií, státní a veřejné správy.
-
-Kdo se dopustí dlouhodobé jmenované trestné činnosti v takové organizaci či skupině, bude potrestán odnětím svobody až na doživotí.
-
-### §5 Red Flag Law
-
-V rámci Spojených států je Zákon o červené vlajce zákonem o kontrole zbraní, který umožňuje policii požádat soud o dočasné odstranění střelných zbraní od osoby, u které existuje podezření, že může představovat nebezpečí pro ostatní nebo pro sebe. Soudce rozhoduje o vydání příkazu na základě prohlášení a řízení příslušného držitele zbraně. Odmítnutí splnit rozkaz se trestá jako trestný čin. Po uplynutí stanovené doby jsou zbraně vráceny osobě, která byla od nich zbavena, pokud další soudní řízení neprodlouží dobu odebrání.
-
-
-Příkazy vydávané na základě zákonů o "červené vlajce", které jsou také známy jako zákony o odstraňování zbraní na základě rizika, mají v různých státech různá jména, včetně příkazů na ochranu před extrémními riziky (ERPO) (v Oregonu, Washingtonu, Marylandu, Vermontu a Coloradu); Příkazů na ochranu střelných zbraní před extrémním rizikem (ERFPO) (v Novém Mexiku); Příkazů na ochranu před rizikem (na Floridě); omezujících příkazů o střelných zbraních (GVRO) (v Kalifornii); rizikových záruk (v Connecticutu); a řízení o zajištění a zadržení střelné zbraně (v Indianě). Od roku 2021 je v 19 státech a v okrese Columbia zavedena nějaká forma zákona o červené vlajce. Specifika těchto zákonů a jejich uplatňování se mohou v jednotlivých státech lišit
+#### (e) Trvání příkazu a navrácení střelných zbraní
+1. Ochranný příkaz může být vydán na dobu nepřesahující 12 měsíců. Soud může na základě nových důkazů rozhodnout o jeho prodloužení.
+2. Po uplynutí doby platnosti příkazu budou zbraně vráceny jejich majiteli, pokud není vydán nový ochranný příkaz.
+   
+#### (f) Sankce za nedodržení
+- Jakýkoli pokus o zatajení zbraní, nesplnění příkazu k jejich odevzdání nebo jiná obstrukce tohoto procesu bude klasifikována jako trestný čin. Osoba může být potrestána až jedním rokem odnětí svobody nebo pokutou až do výše $10,000.
 
 ### §6 Advokátní prax bez licence
 
