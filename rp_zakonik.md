@@ -207,9 +207,6 @@ Všechny právní předpisy platné v tomto státě se řídí ústavou Spojený
 *Lidská práva*
 
 
-### Zákon č. 10/2022 Lidská práva
-
-
 Část 1.)
 
 Zákon zahrnující ustanovení na Cayo Perico
