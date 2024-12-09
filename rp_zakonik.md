@@ -247,32 +247,32 @@ Zákon zahrnující ustanovení na Cayo Perico
 - Každý má stejné právo, aby byl spravedlivě a veřejně vyslechnut nezávislým a nestranným soudem, který rozhoduje o jeho právech a povinnostech a o jakémkoli trestním obvinění, vzneseném proti němu.
 
 #### Článek 11
-(1) Každý, kdo je obviněn z trestného činu, má právo, aby byl považován za nevinného, dokud není zákonným postupem prokázána jeho vina ve veřejném procesu, při kterém měl všechny záruky nezbytné pro jeho obhajobu.
-(2) Nikdo nesmí být shledán vinným ze spáchání jakéhokoli trestného činu spočívajícího v řízení nebo opomenutí, které v době, kdy bylo spácháno, nebylo trestným činem podle vnitrostátního nebo mezinárodního práva. Rovněž nesmí být uložen těžší trest než trest, který mohl být uložen v době, kdy byl trestný čin spáchán.
+1. Každý, kdo je obviněn z trestného činu, má právo, aby byl považován za nevinného, dokud není zákonným postupem prokázána jeho vina ve veřejném procesu, při kterém měl všechny záruky nezbytné pro jeho obhajobu.
+2. Nikdo nesmí být shledán vinným ze spáchání jakéhokoli trestného činu spočívajícího v řízení nebo opomenutí, které v době, kdy bylo spácháno, nebylo trestným činem podle vnitrostátního nebo mezinárodního práva. Rovněž nesmí být uložen těžší trest než trest, který mohl být uložen v době, kdy byl trestný čin spáchán.
 
 #### Článek 12
 - Nikdo nesmí být vystaven svévolnému zasahování do soukromého života, rodiny, domova nebo korespondence, ani útokům na svou čest a pověst. Každý má právo na zákonnou ochranu proti takovým zásahům nebo útokům.
 
 #### Článek 13
-(1) Každý má právo svobodně se pohybovat a svobodně si zvolit bydliště v každém státě.
-(2) Každý má právo opustit kteroukoli zemi, i svou vlastní, a vrátit se do své země.
+1. Každý má právo svobodně se pohybovat a svobodně si zvolit bydliště v každém státě.
+2. Každý má právo opustit kteroukoli zemi, i svou vlastní, a vrátit se do své země.
 
 #### Článek 14
-(1) Každý má právo vyhledat a získat v jiných zemích azyl před pronásledováním.
-(2) Toto právo nelze uplatňovat v případě stíhání zahájeného na základě nepolitických trestných činů nebo na základě činů, které jsou v rozporu s cíli a zásadami Organizace Spojených národů.
+1. Každý má právo vyhledat a získat v jiných zemích azyl před pronásledováním.
+2. Toto právo nelze uplatňovat v případě stíhání zahájeného na základě nepolitických trestných činů nebo na základě činů, které jsou v rozporu s cíli a zásadami Organizace Spojených národů.
 
 #### Článek 15
-(1) Každý má právo na státní příslušnost.
-(2) Nikdo nesmí být svévolně zproštěn své státní příslušnosti, ani práva svou státní příslušnost změnit.
+1. Každý má právo na státní příslušnost.
+2. Nikdo nesmí být svévolně zproštěn své státní příslušnosti, ani práva svou státní příslušnost změnit.
 
 #### Článek 16
-(1) Muži a ženy, kteří dosáhli zletilosti, mají právo bez omezení z důvodů rasové, národnostní nebo náboženské příslušnosti, uzavřít manželství a založit rodinu. Mají nárok na stejná práva na uzavření manželství, stejná práva během manželství i při jeho zrušení.
-(2) Manželství může být uzavřeno jen se svobodným a řádným souhlasem nastávajících manželů.
-(3) Rodina je přirozenou a základní jednotkou společnosti a má nárok na ochranu tak ze strany společnosti, jakož i státu.
+1. Muži a ženy, kteří dosáhli zletilosti, mají právo bez omezení z důvodů rasové, národnostní nebo náboženské příslušnosti, uzavřít manželství a založit rodinu. Mají nárok na stejná práva na uzavření manželství, stejná práva během manželství i při jeho zrušení.
+2. Manželství může být uzavřeno jen se svobodným a řádným souhlasem nastávajících manželů.
+3. Rodina je přirozenou a základní jednotkou společnosti a má nárok na ochranu tak ze strany společnosti, jakož i státu.
 
 #### Článek 17
-(1) Každý má právo vlastnit majetek sám, stejně jako spolu s jinými.
-(2) Nikdo nesmí být svévolně zproštěn svého majetku.
+1. Každý má právo vlastnit majetek sám, stejně jako spolu s jinými.
+2. Nikdo nesmí být svévolně zproštěn svého majetku.
 
 #### Článek 18
 - Každý má právo na svobodu myšlení, svědomí a náboženství; toto právo zahrnuje i svobodu změnit své náboženství nebo víru, jakož i svobodu projevovat své náboženství soukromě, vyučováním, prováděním náboženských úkonů, bohoslužbou a zachováváním obřadů.
@@ -281,44 +281,44 @@ Zákon zahrnující ustanovení na Cayo Perico
 - Každý má právo na svobodu přesvědčení a projevu, toto právo nepřipouští, aby někdo trpěl újmu pro své přesvědčení a zahrnuje právo vyhledávat, přijímat a rozšiřovat informace a myšlenky všemi prostředky a bez ohledu na hranice.
 
 #### Článek 20
-(1) Každému je zaručena svoboda pokojného shromažďování a sdružování se.
+1. Každému je zaručena svoboda pokojného shromažďování a sdružování se.
 
 #### Článek 21
-(1) Každý má právo, aby se zúčastnil správy své země, buď přímo nebo prostřednictvím svobodně volených zástupců.
-(2) Každý má právo vstoupit za stejných podmínek do veřejných služeb své země.
-(3) Základem vládní moci je vůle lidu, tato vůle má být vyjádřena v pravidelných a řádných volbách, na základě všeobecného a rovného hlasovacího práva tajným hlasováním nebo jiným rovnocenným postupem zajišťujícím svobodu hlasování.
+1. Každý má právo, aby se zúčastnil správy své země, buď přímo nebo prostřednictvím svobodně volených zástupců.
+2.Každý má právo vstoupit za stejných podmínek do veřejných služeb své země.
+3. Základem vládní moci je vůle lidu, tato vůle má být vyjádřena v pravidelných a řádných volbách, na základě všeobecného a rovného hlasovacího práva tajným hlasováním nebo jiným rovnocenným postupem zajišťujícím svobodu hlasování.
 
 #### Článek 22
 - Každý člověk má jako člen společnosti právo na sociální zabezpečení a nárok na to, aby mu byly národním úsilím i mezinárodní součinností a v souladu s organizací a prostředky příslušného státu zaručena hospodářská, sociální a kulturní práva, nezbytná pro jeho důstojnost a svobodný rozvoj jeho osobnosti.
 
 #### Článek 23
-(1) Každý má právo na práci, na svobodnou volbu zaměstnání, na spravedlivé a uspokojivé pracovní podmínky ak ochraně před nezaměstnaností.
-(2) Každý má bez jakékoli diskriminace nárok na stejný plat za stejnou práci.
-(3) Každý pracující má právo na spravedlivou a přiměřenou odměnu, která zajišťuje jemu samému a jeho rodině živobytí odpovídající lidské důstojnosti, a doplněna, v případě potřeby, jinými prostředky sociálního zabezpečení.
-(4) Každý má právo na ochranu svých zájmů zakládat odborové organizace a přistupovat k nim.
+1. Každý má právo na práci, na svobodnou volbu zaměstnání, na spravedlivé a uspokojivé pracovní podmínky ak ochraně před nezaměstnaností.
+2. Každý má bez jakékoli diskriminace nárok na stejný plat za stejnou práci.
+3. Každý pracující má právo na spravedlivou a přiměřenou odměnu, která zajišťuje jemu samému a jeho rodině živobytí odpovídající lidské důstojnosti, a doplněna, v případě potřeby, jinými prostředky sociálního zabezpečení.
+4. Každý má právo na ochranu svých zájmů zakládat odborové organizace a přistupovat k nim.
 
 #### Článek 24
 - Každý má právo na odpočinek a zotavení, na rozumné vymezení pracovních hodin a pravidelné placené dovolené.
 
 Článek 25
-(1) Každý má právo na takovou životní úroveň, která může zajistit jemu i jeho rodině zdraví a blahobyt, včetně stravy, ošacení, bydlení, lékařské péče, jakož i potřebných sociálních služeb, má právo na zajištění v nezaměstnanosti, v nemoci, při pracovní nezpůsobilosti, při ovdovění, ve stáří nebo v jiných případech ztráty výdělečných možností, které nastaly za okolností nezávislých na jeho vůli.
+1. Každý má právo na takovou životní úroveň, která může zajistit jemu i jeho rodině zdraví a blahobyt, včetně stravy, ošacení, bydlení, lékařské péče, jakož i potřebných sociálních služeb, má právo na zajištění v nezaměstnanosti, v nemoci, při pracovní nezpůsobilosti, při ovdovění, ve stáří nebo v jiných případech ztráty výdělečných možností, které nastaly za okolností nezávislých na jeho vůli.
 
 Článek 26
-(1) Každý má právo na vzdělání. Vzdělání je bezplatné, alespoň v počátečních a základních stupních. Základní vzdělání je povinné. Technické a odborné vzdělání je obecně přístupné a vyšší vzdělání má být rovněž přístupné každému podle jeho schopností.
-(2) Vzdělání má směřovat k plnému rozvoji lidské osobnosti ak posílení úcty k lidským právům a základním svobodám. Má napomáhat ke vzájemnému porozumění, snášenlivosti a přátelství mezi všemi národy a všemi rasovými i náboženskými skupinami, jakož i rozvoji činnosti Organizace spojených národů na zachování míru.
-(3) Rodiče mají přednostní právo vybrat druh vzdělání, který bude poskytnut jejich dětem.
+1. Každý má právo na vzdělání. Vzdělání je bezplatné, alespoň v počátečních a základních stupních. Základní vzdělání je povinné. Technické a odborné vzdělání je obecně přístupné a vyšší vzdělání má být rovněž přístupné každému podle jeho schopností.
+2. Vzdělání má směřovat k plnému rozvoji lidské osobnosti ak posílení úcty k lidským právům a základním svobodám. Má napomáhat ke vzájemnému porozumění, snášenlivosti a přátelství mezi všemi národy a všemi rasovými i náboženskými skupinami, jakož i rozvoji činnosti Organizace spojených národů na zachování míru.
+3. Rodiče mají přednostní právo vybrat druh vzdělání, který bude poskytnut jejich dětem.
 
 #### Článek 27
-(1) Každý má právo svobodně se účastnit kulturního života společnosti, mít potěšení z umění a účastnit se vědeckého pokroku a jeho výdobytků.
-(2) Každý má právo na ochranu morálních a materiálních zájmů, které vyplývají z jeho vědecké, literární nebo umělecké tvorby.
+1. Každý má právo svobodně se účastnit kulturního života společnosti, mít potěšení z umění a účastnit se vědeckého pokroku a jeho výdobytků.
+2.Každý má právo na ochranu morálních a materiálních zájmů, které vyplývají z jeho vědecké, literární nebo umělecké tvorby.
 
 #### Článek 28
 - Každý má právo na to, aby vládl takový sociální a mezinárodní řád, ve kterém by se práva a svobody vyhlášené v této deklaraci uskutečňovaly v plném rozsahu.
 
 ####Článek 29
-(1) Každý má povinnosti vůči společnosti, pouze v ní může svobodně a plně rozvinout svou osobnost.
-(2) Ve výkonu svých práv a svobod je každý podroben pouze takovým omezením, která stanoví zákon a které slouží výhradně k zajištění náležitého uznávání a zachování práv a svobod jiných, jakož ik uspokojení spravedlivých požadavků morálky, veřejného pořádku a obecného blaha v demokratické společnosti.
-(3) Výkon těchto práv a svobod nesmí být v žádném případě v rozporu s cíli a zásadami Organizace spojených národů.
+1. Každý má povinnosti vůči společnosti, pouze v ní může svobodně a plně rozvinout svou osobnost.
+2.Ve výkonu svých práv a svobod je každý podroben pouze takovým omezením, která stanoví zákon a které slouží výhradně k zajištění náležitého uznávání a zachování práv a svobod jiných, jakož ik uspokojení spravedlivých požadavků morálky, veřejného pořádku a obecného blaha v demokratické společnosti.
+3. Výkon těchto práv a svobod nesmí být v žádném případě v rozporu s cíli a zásadami Organizace spojených národů.
 
 #### Článek 30
 - V této deklaraci se nesmí nic vykládat tak, aby to opravňovalo jakýkoli stát, skupinu nebo osobu vyvíjet činnost nebo dopouštět se činů, které by směřovaly k potlačení některého z práv nebo svobod v této deklaraci vyhlášených.
