@@ -203,10 +203,11 @@ Devátý dodatek ústavy Spojených států amerických stanoví, že existence 
 Spojených států amerických se vztahuje na celé území státu San Andreas.
 Všechny právní předpisy platné v tomto státě se řídí ústavou Spojených států amerických.
 
-## Lidské Práva
+## Zákon č. 10/2022
+*Lidská práva*
 
 
-### Sekce č. 10/2022GOV Lidské práva
+### Zákon č. 10/2022 Lidská práva
 
 
 Část 1.)
@@ -300,10 +301,10 @@ Zákon zahrnující ustanovení na Cayo Perico
 #### Článek 24
 - Každý má právo na odpočinek a zotavení, na rozumné vymezení pracovních hodin a pravidelné placené dovolené.
 
-Článek 25
+#### Článek 25
 1. Každý má právo na takovou životní úroveň, která může zajistit jemu i jeho rodině zdraví a blahobyt, včetně stravy, ošacení, bydlení, lékařské péče, jakož i potřebných sociálních služeb, má právo na zajištění v nezaměstnanosti, v nemoci, při pracovní nezpůsobilosti, při ovdovění, ve stáří nebo v jiných případech ztráty výdělečných možností, které nastaly za okolností nezávislých na jeho vůli.
 
-Článek 26
+#### Článek 26
 1. Každý má právo na vzdělání. Vzdělání je bezplatné, alespoň v počátečních a základních stupních. Základní vzdělání je povinné. Technické a odborné vzdělání je obecně přístupné a vyšší vzdělání má být rovněž přístupné každému podle jeho schopností.
 2. Vzdělání má směřovat k plnému rozvoji lidské osobnosti ak posílení úcty k lidským právům a základním svobodám. Má napomáhat ke vzájemnému porozumění, snášenlivosti a přátelství mezi všemi národy a všemi rasovými i náboženskými skupinami, jakož i rozvoji činnosti Organizace spojených národů na zachování míru.
 3. Rodiče mají přednostní právo vybrat druh vzdělání, který bude poskytnut jejich dětem.
@@ -315,7 +316,7 @@ Zákon zahrnující ustanovení na Cayo Perico
 #### Článek 28
 - Každý má právo na to, aby vládl takový sociální a mezinárodní řád, ve kterém by se práva a svobody vyhlášené v této deklaraci uskutečňovaly v plném rozsahu.
 
-####Článek 29
+#### Článek 29
 1. Každý má povinnosti vůči společnosti, pouze v ní může svobodně a plně rozvinout svou osobnost.
 2.Ve výkonu svých práv a svobod je každý podroben pouze takovým omezením, která stanoví zákon a které slouží výhradně k zajištění náležitého uznávání a zachování práv a svobod jiných, jakož ik uspokojení spravedlivých požadavků morálky, veřejného pořádku a obecného blaha v demokratické společnosti.
 3. Výkon těchto práv a svobod nesmí být v žádném případě v rozporu s cíli a zásadami Organizace spojených národů.
