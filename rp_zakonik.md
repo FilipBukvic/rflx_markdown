@@ -316,21 +316,21 @@ Všechny právní předpisy platné v tomto státě se řídí ústavou Spojený
 #### Článek 30
 - V této deklaraci se nesmí nic vykládat tak, aby to opravňovalo jakýkoli stát, skupinu nebo osobu vyvíjet činnost nebo dopouštět se činů, které by směřovaly k potlačení některého z práv nebo svobod v této deklaraci vyhlášených.
 
-
 ## Zákon č. 10/2022
 *Povinnosti občana*
 
 ### ČÁST PRVNÍ - ZÁKLADNÍ POVINNOSTI
 
 - Následující body jsou základní povinnosti osob s občanstvím na území státu San Andreas, které mají platnost ve všech situacích:
-a) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
-b) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poslechnout pokyny vydané úřední osobou
-c) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna podrobit se testu na zjištění přítomnosti omamných a psychotropních látek v organismu.
-d) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna podrobit se testu na zjištění přítomnosti alkoholu v organismu.
-e) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poskytnout nezbytnou první zdravotní pomoc.
-f) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna dodržovat zákoník státu San Andreas, který nabyl účinnosti dne 02/06/2022 ve 20:22 hodin.
-g) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna mít ve svém držení všechny nezbytné doklady umožňující legální vstup na území nebo pobyt na území státu San Andreas.
-h) Každý občan nebo osoba s pobytem na území státu San Andreas je povinna respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
+  
+**a)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
+**b)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poslechnout pokyny vydané úřední osobou
+**c)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna podrobit se testu na zjištění přítomnosti omamných a psychotropních látek v organismu.
+**d)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna podrobit se testu na zjištění přítomnosti alkoholu v organismu.
+**e)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna poskytnout nezbytnou první zdravotní pomoc.
+**f)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna dodržovat zákoník státu San Andreas, který nabyl účinnosti dne 02/06/2022 ve 20:22 hodin.
+**g)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna mít ve svém držení všechny nezbytné doklady umožňující legální vstup na území nebo pobyt na území státu San Andreas.
+**h)** Každý občan nebo osoba s pobytem na území státu San Andreas je povinna respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
 
 - Tato ustanovení mají za cíl zabezpečit právní spravedlnost a veřejný pořádek v rámci státu San Andreas. Každý občan nebo osoba s pobytem na území státu San Andreas je povinna se řídit těmito povinnostmi a podřizovat se jim za účelem zachování harmonie a bezpečnosti ve společnosti. 
 
