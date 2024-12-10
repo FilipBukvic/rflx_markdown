@@ -477,7 +477,7 @@ d) Instalace nebo modifikace osvětlení vozidla.
 Po provedení úprav, montáži nebo změn na vozidle je nutné se s vozidlem dostavit na stanici Los Santos Police Department (LSPD) nebo Los Santos Sheriff Department (LSSD).
 
 
-Za účelem registrace úprav na vozidle je třeba zaplatit poplatek ve výši 1000 $ za každou provedenou úpravu. Registraci provádí příslušný úředník na stanici, který provede zápis úprav do Technického průkazu vozidla a potvrdí jejich legálnost.
+Za účelem registrace úprav na vozidle je třeba zaplatit poplatek ve výši 500 $ za každou provedenou úpravu. Registraci provádí příslušný úředník na stanici, který provede zápis úprav do Technického průkazu vozidla a potvrdí jejich legálnost.
 
 ### §10 Přepis vozidla
 
@@ -1393,15 +1393,6 @@ a) Úmyslné zabití jiné osoby je trestný čin, za který hrozí trest odnět
 
 b) Úmyslné a předem promyšlené zabití jiné osoby je trestný čin, který je trestán doživotním odnětím svobody.
 
-### §3 Nedovolené ozbrojování
-Vlastnictví a užívání jakoukoli střelnou zbraň, kromě starožitné střelné zbraně, bez platného bezpečnostního osvědčení o střelné zbrani, s výjimkou toho, že v případě ruční zbraně může být použito bezpečnostní osvědčení nevypršené platnosti.
-
-a) Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
-
-b) Zbraň tohoto typu nespadá ani pod kategorii LEG, ani pod kategorii GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
-
-c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek, který se trestá pokutou ve výši 5.000$.
-
 ### §4 Nelegální přídavky na zbraň
 Trestní zákoník dle §7. říká, že tlumič či jiná tlumící zařízení na střelné zbrani proti odhlučnění střelného rázu je nelegální, a nesmí jí vlastnit žádná osoba na její střelné zbrani. Tento zákon se nevztahuje na státní zásahové jednotky okresního Departmentu.
 
@@ -1595,11 +1586,11 @@ a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 6 let a po
 ### §30 Zpronevěra
 Přisvojení si cizího majetku, svěřených do péče nebo správy.
 
-a) Pokud hodnota činí do 20 000 $, jedná se o přestupek, který se trestá pokutou ve výši 4.500$.
+a) Pokud hodnota činí do 20 000$. Jedná se o přestupek, který se trestá pokutou ve výši 4.500$.
 
-b) Pokud hodnota činí od 20 001 $ do 200 000 $, jedná se o trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 8.500$
+b) Pokud hodnota činí od 20 001$ do 200 000$. Jedná se o trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 8.500$
 
-c) Pokud hodnota činí více než 200 001 $, jedná se o trestný čin, který se trestá odnětím svobody na 1 až 10 let a pokutou ve výši 12.000$
+c) Pokud hodnota činí více než 200 001$. Jedná se o trestný čin, který se trestá odnětím svobody na 1 až 10 let a pokutou ve výši 12.000$
 
 ### §31 Falešná identita
 Jakákoli osoba, která se nepravdivě zastupuje nebo identifikuje jako jinou osobu nebo jako fiktivní osobu jakémukoli police officerovi po zákonném zadržení nebo zatčení osoby, buď vyhýbat se procesu soudu se řádné identifikaci osoby vyšetřovatelem, je vinna z přestupku.
@@ -1679,7 +1670,7 @@ b) je trestný čin, který se trestá odnětím svobody od 2 let do 4 let, v p�
 
 c) je přestupek, který se trestá pokutou ve výši 10.000$
 
-#### §45 Nelegální rybolov
+### §45 Nelegální rybolov
 Lov ryb bez licence 
 
 a) je trestný čin, který se trestá odnětím svobody od 1 do 2 let, pokutou ve výši 6.000$, zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 2 do 3 leta pokutou ve výši 6.000$.
@@ -1766,6 +1757,25 @@ Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným
 
 a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
 
+### §53 Znásilnění
+Pohlavní styk, jiná obdobná sexuální aktivita.
+
+a) je trestný čin, který se trestá odnětím svobody od 5 let do 10 let a pokutou ve výši 10.000$.
+
+### §54 Neposkytnutí první pomoci
+Neposkytnutí první pomoci nebo ujetí od místa nehody 
+
+a) je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 6.500$.
+
+### §55 Nedovolené ozbrojování
+Vlastnictví a užívání jakoukoli střelnou zbraň, kromě starožitné střelné zbraně, bez platného bezpečnostního osvědčení o střelné zbrani, s výjimkou toho, že v případě ruční zbraně může být použito bezpečnostní osvědčení nevypršené platnosti.
+
+a) Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
+
+b) Zbraň tohoto typu nespadá ani pod kategorii LEG, ani pod kategorii GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
+
+c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek, který se trestá pokutou ve výši 5.000$.
+
 ## Vehicle Code
 ### Sekce č. 06/2022GOV Vehicle Code
 
@@ -1847,7 +1857,7 @@ a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením v
 
 a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením vozidla. 
 
-### §13 Zákaz zastavení / postavení / parkovaní
+### §8 Zákaz zastavení / postavení / parkovaní
 Osoba nesmí zastavit, zaparkovat ani nechat stát žádné vozidlo bez ohledu na to, zda je obsluhováno nebo bez dozoru, kromě případů, kdy je to nezbytné k zabránění konfliktu s jiným provozem nebo v souladu s pokyny police officera nebo oficiálního dopravního zařízení na kterémkoli z následujících míst:
 
 - Mezi bezpečnostní zónou a přilehlým pravým obrubníkem nebo v prostoru mezi zónou a obrubníkem, jak může být označeno značkou nebo červenou barvou na obrubníku, kterou značku nebo barvu umístily místní orgány.
@@ -1858,6 +1868,18 @@ Osoba nesmí zastavit, zaparkovat ani nechat stát žádné vozidlo bez ohledu n
 - Na straně vozovky od vozidla, které zastavilo, zaparkovalo nebo stálo na krajnici nebo okraji dálnice.
 
 a) je přestupek, který se trestá pokutou ve výši až 500$ a odtažením vozidla. 
+
+### §9 Jízda v protisměru
+
+a) je přestupek, který se trestá pokutou ve výši až 500$.
+
+### §10 Přejíždění přes plnou čáru
+
+a) je přestupek, který se trestá pokutou ve výši až 500$.
+
+### §11 Řízení motocyklu nebo mopedu bez připevněné ochranné přilby
+
+a) je přestupek, který se trestá pokutou ve výši až 500$.
 
 ## Health & Safety Code
 ### Sekce č. 07/2022GOV Health & Safety Code
@@ -2355,8 +2377,6 @@ A) Každý člen státní složky během výkonu služby může rozhodnout o ode
 A1) se jeho držitel dopustil trestného činu se střelnou zbraní.
 ### §6 Registrace střelné zbraně
 
-Každý držitel zbrojního průkazu je povinen si zakoupenou zbraň registrovat do 48 hodin, v této lhůtě nesmí být zbraň nabita ani použita.
-V případě, že registrační lhůta uplyne tak se zbraň automaticky řadí jako nelegálně držená a již ji není možné zaregistrovat dle §6 Nelegální držení zbraně.
 §7 Kategorizování "LEG" & "GUR"
 
 ### §7 - Legální střelné zbraně patřící pod kategorii "LEG" a "GUR"
@@ -2517,8 +2537,8 @@ Při žádosti o koncipientní, nebo advokátní licenci je uchazeč o tuto lice
 
 (1)
 Uhradit poplatek za konání odborné justiční zkoušky ve výši:
-a) Koncipient licence 50 000 USD
-b) Advokátní licence 300 000 USD
+a) Koncipient licence 5 000 USD
+b) Advokátní licence 30 000 USD
 Poplatek je splatný při podání žádosti.
 
 (2)
@@ -2531,7 +2551,7 @@ d) doložení o splnění podmínky získání vysokoškolského vzdělání v o
 
 Uchazeč musí splnit všechny body k získání oprávnění. V případě, že uchazeč jeden z bodů nesplní, nevzniká mu nárok na vrácení poplatku.
 
-Za každou zkoušku zaplatí uchazeč 50 000 USD. Na zkoušku z písemné a ústní části má uchazeč tři pokusy. V případě, že uchazeč ani na třetí pokus zkouškou nesloží,zaniká možnost stát se Koncipientem nebo Advokátem.
+Za každou zkoušku zaplatí uchazeč 5 000 USD. Na zkoušku z písemné a ústní části má uchazeč tři pokusy. V případě, že uchazeč ani na třetí pokus zkouškou nesloží,zaniká možnost stát se Koncipientem nebo Advokátem.
 
 ### §6 Jurisdikce - koncipient na advokátní licenci
 Koncipient je člověk, který má ukončené právnické vzdělání (obvyklý je titul Juris Doctor (JD), Master of Laws (LLM) ). Pokud absolvuje i požadovanou praxi a profesní zkoušku, může se z něj za pár let stát advokát. Koncipient je zmocněn vykonávat právní úkony a zastupovat fyzické i právnické osoby.
@@ -3065,27 +3085,7 @@ Je povinností každého zaměstnance při výkonu služby podle charakteru stan
 
 V případě nedodržení předem stanovených pravidel ústrojové kázně,bude daný zaměstnanec státní složky degradován vedením pod které spadá o jednu hodnost níže.
 
-
-
-
-### §11 překročení jurisdikce a zneužití pravomocí
-
-Každá osoba zaměstnaná u státních a federálních složek, která překročí svou jurisdikční pravomoc, nebo ji zneužije, se dopouští trestného činu §11 překročení jurisdikce a zneužití pravomocí. Tato osoba bude v rámci takového provinění vyšetřován ze strany Department Of Justice, která na základě prošetření dle závažnosti případu stanoví délku trestu, případně odnětí svobody.
-
-(1) je trestný čin
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-odnětí svobody v délce 1 rok a pokuta 20,000$ - Možnost propuštění na kauci 80,000$
-(2) je trestný čin
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 2 let a pokuta 50,000$ - Možnost propuštění na kauci 120,000$
-(3) je trestný čin
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 5 let - až doživotí - Pokuta 70,000$
-
-(úprava zákona proběhla dne 20.3.2023 - 15:00)
-
-
-### §12 Odcizení nebo přechovávání důkazních materiálů a služebního vybavení v osobním skladu/trezoru ze strany zaměstnance státní složky
+### §11 Odcizení nebo přechovávání důkazních materiálů a služebního vybavení v osobním skladu/trezoru ze strany zaměstnance státní složky
 
 Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, nebo služební vybavení v osobním skladu/trezoru se v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, dopouští trestného činu.
 V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
@@ -3105,7 +3105,7 @@ Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 1 000,000$
 
 Část 5.)
 
-### §13 Suspendace ze strany vedení státní složky svého zaměstnance a proces vyšetřování
+### §12 Suspendace ze strany vedení státní složky svého zaměstnance a proces vyšetřování
 
 Vedení státní složky oznámí zaměstnanci suspendaci, situaci na základě důkazů a zákonů prošetří, poté oznámí vznesená obvinění a informuje zaměstnance jak šetření dopadlo. Vedení státní organizace následně rozhodne buď o degradaci, rozvázání pracovního poměru bez nárokovatelných finančních složek, o umístění osoby do vazby nebo trestním stíhání na svobodě.
 
@@ -3114,7 +3114,7 @@ Po shromáždění dostatečného množství důkazů v trestním řízení, sep
 Kopii obžaloby zašle prokurátor k seznámení soudci a obviněnému, který se po doručení obžaloby stává obžalovaným. Toto ustanovení se nepoužije, je-li proti osobě vedeno zkrácené řízení podle.
 
 
-### §14 Suspendace vznesená ze strany Department Of Justice
+### §13 Suspendace vznesená ze strany Department Of Justice
 Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
 
 V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
@@ -3130,7 +3130,7 @@ Department Of Justice po prošetření případu vynese konečné rozhodnutí v 
 
 (úprava zákona proběhla dne 20.3.2023 - 15:00)
 
-### §15 Vyšetřování a kontroly státních organizací a státních složek ze strany Department Of Justice
+### §14 Vyšetřování a kontroly státních organizací a státních složek ze strany Department Of Justice
 (1)
 
 Department Of Justice je státní orgán s výlučnou pravomocí, který může prošetřovat pochybení zaměstnanců státních organizací a státních složek, včetně vedoucích zaměstnanců v pozicích státních organizací a státních složek.
@@ -3152,7 +3152,7 @@ Department Of Justice má pravomoc pověřit vyšetřováním státní orgán LS
 (úprava zákona proběhla dne 20.3.2023 - 15:00)
 Část 6.)
 
-### §16 Neoprávněná prohlídka/vstup bez soudního povolení
+### §15 Neoprávněná prohlídka/vstup bez soudního povolení
 
 §15 je v státě San Andreas trestný čin, který definuje neoprávněnou prohlídku/vstup ze strany státních složek:
 Prohlídka bez soudního příkazu k domovní prohlídce, nebo bez souhlasu vlatníka, je protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek a to bez předchozího schválení ze strany Department Of Justice. K takovému úkonu musí státní složka předložit žádost u Department Of Justice o povolení k domovní prohlídce na základě předem podložených důkazů o trestné činnosti, nebo ve spojitosti s nimi.
@@ -3176,7 +3176,7 @@ Odnětí svobody na 2 let - Pokuta 50,000$ - Možnost propuštění na kauci 80,
 
 
 Část 7.)
-### §20 porušení právních předpisů a zákona ze strany státní složky
+### §16 porušení právních předpisů a zákona ze strany státní složky
 
 
 Příslušníci všech státních složek jsou povinni se na místě prokázat platnými doklady s identifikací čísla odznaku. To platí i v případě, že osoba je v momentální chvíli šetření protiprávního jednání mimo službu.
@@ -3199,7 +3199,7 @@ Státní složka, která osobu spadající pod EMS, nebo LSFD zajistí je povinn
 
 
 
-### §21 Pořádková pokuta pro státní složky
+### §17 Pořádková pokuta pro státní složky
 
 Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu zaměstnanci státní složky až do výše 1 500 000 USD pokud v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání k Department Of Justice, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
 
@@ -3209,7 +3209,7 @@ Pro informační komplexnost dodejme, že každý je povinen podat Department Of
 
 
 
-### §22 Předvolání k podání vysvětlení zaměstnance státní složky
+### §18 Předvolání k podání vysvětlení zaměstnance státní složky
 
 (1) K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 22).
 
