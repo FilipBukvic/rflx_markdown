@@ -1320,7 +1320,7 @@ Trest odnětí svobody představuje omezení osobní svobody odsouzeného v zař
 
 ### §20 Pokuty
 
-Trest pokuty představuje finanční sankci, která musí být uhrazena odsouzeným ve stanoveném termínu. Výše pokuty je pevně omezena zákonem a nelze ji kombinovat s pokutami za jiné přestupky či trestné činy. Pokuta, kterou obdržíš, vždy odpovídá trestnému činu nebo přestupku, který jsi spáchal, a tento čin bude uveden v trestním rejstříku.
+Trest pokuty představuje finanční sankci, která musí být uhrazena odsouzeným ve stanoveném termínu. Výše pokuty je pevně omezena zákonem a nelze ji kombinovat s pokutami za jiné přestupky či trestné činy.
 
 
 ### §21 Předvedení
