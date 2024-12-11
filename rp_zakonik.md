@@ -1318,33 +1318,28 @@ c) Pokud vyšetřování zločinu vyžaduje zajištění důkazů ve věcech slo
 
 Trest odnětí svobody představuje omezení osobní svobody odsouzeného v zařízeních určených státem. Délka trestu odnětí svobody je omezena trestním zákoníkem státu San Andreas. Tresty odnětí svobody se nesčítají, a je určen nejvyšší trest za nejzávažnější čin podle trestního zákona.
 
-### §20 Pokuty
-
-Trest pokuty představuje finanční sankci, která musí být uhrazena odsouzeným ve stanoveném termínu. Výše pokuty je pevně omezena zákonem a nelze ji kombinovat s pokutami za jiné přestupky či trestné činy.
-
-
-### §21 Předvedení
+### §20 Předvedení
 
 Pokud státní ozbrojená složka požaduje, aby osoba vykonala určité úkony, může na ni uložit povinnost dostavit se v daný termín na místo stanovené státní ozbrojenou složkou. Tento příkaz musí být předáván dokumentovatelným způsobem, například e-mailem nebo telefonicky. Pokud je osoba ústně vyzvána, musí se o této výzvě sepisovat záznam, který podepíše osoba, která byla vyzvána, nebo se záznam zaznamená na záznamové zařízení. Pokud se osoba nedostaví k úkonům po řádném předvolání nebo není možné osobu předem vyzvat, může státní ozbrojená složka osobu předvést, což znamená dočasné omezení její osobní svobody k provedení úkonů. Osoba je povinna toto strpět. V případě, že je osoba zadržena, není třeba osobu předem předvolávat.
 
 
-### §22 Zadržení
+### §21 Zadržení
 
 Pokud má policejní orgán důvodné podezření, že osoba spáchala trestný čin, může osobu zadržet.
 
 Zadržení je dočasné omezení osobní svobody osoby vedoucí k úspěšnému objasnění věci a urychlení trestního řízení. Zadržená osoba musí být poučena o svých právech a povinnostech. Do 24 hodin od zadržení musí být osobě oznámeno obvinění nebo musí být osoba umístěna do vazby; jinak musí být propuštěna na svobodu a dále vyšetřována na svobodě. Doba čekání na právního zástupce zadržené osoby se do této lhůty nezapočítává. Zadržení lze provést pouze bezprostředně před, během nebo po spáchání trestného činu, nikoliv s velkým časovým odstupem.
 
-### §23 Souhlas se zadržením
+### §22 Souhlas se zadržením
 
 Pokud je dáno důvodné podezření, že osoba spáchala trestný čin, může státní ozbrojená složka žádat o souhlas se zadržením od prokurátora nebo soudce, což umožňuje omezit osobní svobodu osoby pro účely trestního řízení.
 
 
-### §24 Zatčení
+### §23 Zatčení
 
 Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
 
 
-### §25 Operativní pátrací prostředky
+### §24 Operativní pátrací prostředky
 
 Jestliže vyšetřování zločinu vyžaduje zajištění důkazů, může si státní ozbrojená složka vyžádat u prokurátora nebo soudce povolení:
 
@@ -1369,49 +1364,47 @@ Zákon zahrnující činy proti zdraví a všechny trestné činy
 ### §1 Ublížení na zdraví
 Zranění osoby, či pokus o zranění osoby
 
-a) Neúmyslně a zbraní, je trestný čin, který se trestá se odnětím svobody od 1 roku do 3 let a pokutou ve výši 5.000$.
+a) Neúmyslně a zbraní, je trestný čin, který se trestá se odnětím svobody od 1 roku do 2 let
 
-b) Úmyslně a zbraní, je trestný čin, který se trestá odnětím svobody od 2 roku do 5 let a pokutou ve výši 6.000$.
+b) Úmyslně a zbraní, je trestný čin, který se trestá odnětím svobody od 2 roku do 5 let a pokutou do výše 3.000$.
 
-c) Úmyslně a zbraní střelnou, je trestný čin, který se trestá odnětím svobody od 5 let do 10 let a pokutou ve výši 8.000$.
+c) Úmyslně a zbraní střelnou, je trestný čin, který se trestá odnětím svobody od 5 let do 10 let a pokutou do výše 5.000$.
 
-d) Úmyslně a zbraní proti úřední osobě nebo členům záchranných složek je trestný čin, který se trestá odnětím svobody od 5 let do 15 let a pokutou ve výši 15.000$.
+d) Úmyslně a zbraní proti úřední osobě nebo členům záchranných složek je trestný čin, který se trestá odnětím svobody od 5 let do 15 let a pokutou do výše 7.000$.
 
 ### §2 Napadení
 Násilí na osobě bez použití zbraně
 
-a) Jednání, které je klasifikováno jako přestupek, který se trestá pokutou ve výši 2.000$.
+a) Jednání, které je klasifikováno jako přestupek, který se trestá pokutou do výše 2.500$.
 
-b) Přestupek spáchaný vůči úřední osobě je trestán pokutou ve výši 5.000$.
+b) Přestupek spáchaný vůči úřední osobě je pokutou do výše 4.500$.
 
-c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný čin, za který hrozí trest odnětí svobody na 1 až 5 let a pokutou ve výši 7.000$.
+c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný čin, za který hrozí trest odnětí svobody na 1 až 5 let a pokutou do výše 6.000$.
 
 ### §3 Vražda
 Vražda je nezákonné usmrcení člověka nebo "plodu".
 
-a) Úmyslné zabití jiné osoby je trestný čin, za který hrozí trest odnětí svobody v délce 25 let až doživotí a pokutou ve výši 30.000$.
+a) Úmyslné zabití jiné osoby je trestný čin, za který hrozí trest odnětí svobody v délce 25 let až doživotí a pokutou do výše 30.000$.
 
 b) Úmyslné a předem promyšlené zabití jiné osoby je trestný čin, který je trestán doživotním odnětím svobody.
 
 ### §4 Nelegální přídavky na zbraň
-Trestní zákoník dle §7. říká, že tlumič či jiná tlumící zařízení na střelné zbrani proti odhlučnění střelného rázu je nelegální, a nesmí jí vlastnit žádná osoba na její střelné zbrani. Tento zákon se nevztahuje na státní zásahové jednotky okresního Departmentu.
+Všechny vylepšení na zbraně, které nejsou zapsány pod kategorii GUR, spadají pod nelegální.
 
-Na závažnosti porušení tohoto zákonu se také přihlíží k tomu, na jaké zbrani se tlumič nacházel
-
-a) Jedná se o trestný čin, za který je vždy uložen trest odnětí svobody na dobu jednoho roku a pokutou ve výši 2.500$.
+a) Jedná se o trestný čin, za který je vždy uložen trest odnětí svobody na dobu jednoho roku a pokutou do výše 1.500$.
 
 ### §5 Únos
 Nezákonné bránění či zamezení osobě ve volném pohybu, manipulace s touto osobou
 
-a) Jedná se o trestný čin, který je trestán odnětím svobody na dobu 1 až 3 let, a pokutou ve výši 6.000$, pokud nedošlo k transportu osoby.
+a) Jedná se o trestný čin, který je trestán odnětím svobody na dobu 1 až 3 let, a pokutou do výše 5.000$., pokud nedošlo k transportu osoby.
 
-b) Jedná se o trestný čin, za který hrozí trest odnětí svobody v rozmezí 1 až 6 let a pokutou ve výši 10.000$.
+b) Jedná se o trestný čin, za který hrozí trest odnětí svobody v rozmezí 1 až 6 let a pokutou do výše 7.000$.
 
-c) Pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání, jedná se o trestný čin, za který hrozí trest odnětí svobody na dobu 5 až 15 let a pokutou ve výši 15.000$.
+c) Pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání, jedná se o trestný čin, za který hrozí trest odnětí svobody na dobu 5 až 15 let a pokutou do výše 10.000$.
 
 ### §6 Vandalizmus
 
-Trestní zákoník 6 je zákon v štáte San Andreas, který definuje vandalismus jako zlomyslně poškozující, ničící nebo poškozující majetek jiné osoby. Trestá se pokutou ve výši 3.500$.
+Trestní zákoník 6 je zákon v štáte San Andreas, který definuje vandalismus jako zlomyslně poškozující, ničící nebo poškozující majetek jiné osoby. Trestá se pokutou do výše 2.000$.
 
 Příklady vandalství mohou být:
 
@@ -1424,62 +1417,62 @@ Příklady vandalství mohou být:
 ### §7 Neoprávněný vstup
 Neoprávněné vniknutí do uzavřeného prostoru, na pozemek, či do nemovitosti bez povolení a pozemek je ohrazen plotem nebo má vyvěšené cedule "zákaz vstupu".
 
-a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 2.000$.
 
-b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let a pokutou ve výši 3.500$.
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou do výše 3.000$.
 
-c) Pokud je čin spáchán proti budově státních institucí, jedná se o trestný čin, který je trestán odnětím svobody na dobu od 4 do 8 let a pokutou ve výši 9.000$.
+c) Pokud je čin spáchán proti budově státních institucí, jedná se o trestný čin, který je trestán odnětím svobody na dobu od 2 do 6 let a pokutou do výše 6.000$.
 
 ### §8 Krádež 
 
-a) Přestupek, pokud jsou poškozeny bankomaty, kasy v obchodech, je trestáno pokutou ve výši 5 000 $, 
+a) Přestupek, pokud jsou poškozeny bankomaty, kasy v obchodech, je trestáno pokutou do výše 2.500$. 
 
-b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let, nebo peněžitý trest ve výši 7.000$.
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou do výše 3.000$.
 
 ### §9 Loupež
 
-a) Trestný čin, pokud jsou poškozeny trezory v obchodech, který se trestá odnětím svobody na 1 až 3 roky a pokutou ve výši 9.000$.
+a) Trestný čin, pokud jsou poškozeny trezory v obchodech, který se trestá odnětím svobody na 1 až 3 roky a pokutou do výše 5.000$.
 
-b) Trestný čin, pokud jsou poškozeny banky nebo klenotnictví, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 12.000$.
+b) Trestný čin, pokud jsou poškozeny banky nebo klenotnictví, který se trestá odnětím svobody na 1 až 5 let a pokutou do výše 7.000$.
 
-c) Trestný čin, pokud je poškozena hlavní státní banka, který se trestá odnětím svobody na 10 až 15 let a pokutou ve výši 20.000$.
+c) Trestný čin, pokud je poškozena hlavní státní banka, který se trestá odnětím svobody na 10 až 15 let a pokutou do výše 12.000$.
 
 ### §10 Neuposlechnutí výzvy úřední osoby
 
-a) Neuposlechnutí zákonné výzvy nebo nařízení úřední osoby či státní instituce je přestupek, který se trestá pokutou ve výši 4.000$.
+a) Neuposlechnutí zákonné výzvy nebo nařízení úřední osoby či státní instituce je přestupek, který se trestá pokutou do výše 3.000$.
 
 ### §11 Křivá výpověď
 
 - je zákon v San Andreas, díky němuž je nezákonné podávat falešné policejní zprávy o trestném činu. Zpráva by mohla být přestupkem nebo trestným činem. Falešné hlášení je trestným činem, pouze pokud osoba, která hlášení podává, ví, že je nepravdivé.
 - 17 P.C definuje že "každá osoba, která se ohlásí kterémukoli mírovému důstojníkovi, generálnímu prokurátorovi nebo náměstkovi generálního prokurátora nebo okresnímu právníkovi nebo zástupci okresního právníka, že byl spáchán zločin nebo přestupek, protože ví, že hlášení je nepravdivé, je vinen z přestupku. "
 
-a) Je přestupek, který se trestá pokutou ve výši 6.000 $.
+a) Je přestupek, který se trestá pokutou do výše 4.000$.
 
 ### §12 Vyhrožování
 Vyhrožování usmrcením, těžkou újmou na zdraví nebo majetku, a to způsobem, který může vzbudit důvodnou obavu druhé osoby.
 
-a) Je přestupek, který se trestá pokutou ve výši 6.000 $.
+a) Je přestupek, který se trestá pokutou do výše 4.000$.
 
-b) Pokud je čin spáchán s cílem působit na úřední osobu, jedná se o trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 8.000$
+b) Pokud je čin spáchán s cílem působit na úřední osobu, jedná se o trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 6.000$.
 
 ### §13 Krádež vozidla
 Vloupání do vozidla nebo neoprávněné zmocnění se vozidla, bez ohledu na jeho hodnotu.
 
-a) Je přestupek, který se trestá pokutou výše 5.000 $
+a) Je přestupek, který se trestá pokutou do výše 2.500$.
 
-b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 10.000$.
+b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody od 1 roku do 5 let a pokutou do výše 6.000$.
 
 ### §14 Nelicencovaný prodej zbraní
 Při prodeji, pronájmu nebo převodu střelných zbraní či doplňků na střelné zbraně (patenty na zbraně, zásobníky,..) bez platné licence nebo povolení.
 
-a) Jedná se o trestný čin, za který hrozí trest odnětí svobody v rozmezí 1 až 3 let a pokutou ve výši 5.000$.
+a) Jedná se o trestný čin, za který hrozí trest odnětí svobody v rozmezí 1 až 3 let a pokutou do výše 4.000$.
 
 ### §15 Stalking
 Dlouhodobé pronásledování, sledování a obtěžování jiné osoby
 
-a) Dlouhodobé pronásledování, sledování a obtěžování jiné osoby je přestupek, za který lze uložit pokutu ve výši 8.000$.
+a) Dlouhodobé pronásledování, sledování a obtěžování jiné osoby je přestupek, za který lze uložit pokutou do výše 4.000$.
 
-b) V případě, kdy toto jednání způsobí důvodnou obavu o život nebo zdraví osoby nebo jejích blízkých, jedná se o trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 10.000$
+b) V případě, kdy toto jednání způsobí důvodnou obavu o život nebo zdraví osoby nebo jejích blízkých, jedná se o trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou do výše 7.000$.
 
 ### §16 Open Carry
 Znemožňuje otevřenou přepravu nenaložené zbraně na veřejném prostranství
@@ -1488,7 +1481,7 @@ Znemožňuje otevřenou přepravu nenaložené zbraně na veřejném prostranstv
 - Mít zbraň odhalenou a nabitou
 - Nosit zbraň na veřejném místě nebo na ulici
 
-a) Je přestupek, který se trestá pokutou ve výši 5.000 $
+a) Je přestupek, který se trestá pokutou do výše 3.500$.
 
 ### §17 Spolupachatelství
 Všechny osoby zúčastněné pří pácháníčinu, ať už jde o trestný čin nebo přestupek, a zda se přímo dopustí skutku zakládajícího činu, nebo napomáhají a dopouštějí se jeho spáchání, jsou hlavními osobami v jakémkoli takto spáchaném zločinu.
@@ -1498,18 +1491,18 @@ a) Osobě, které se dopustí trestného činu napomáhání a navádění, hroz
 ### §18 Zahalování
 Částečné nebo úplné zahalování obličeje za účelem skrytí identity na veřejných shromážděních a v prostorách státních institucí představuje trestný čin.
 
-a) Je přestupek, který se trestá pokutou ve výši 2.500 $
+a) Je přestupek, který se trestá pokutou do výše 1.500$.
 
 ### §19 Křivá přísaha
 
 - Každá osoba, která po složení přísahy, že bude svědčit, prohlašovat, odvolávat nebo pravdivě osvědčit před jakýmkoli příslušným tribunálem, úředníkem nebo osobou, v kterémkoli z případů, ve kterých může být přísaha podle zákona státu San Andreas být spravován, úmyslně a v rozporu s přísahou, uvádí jako pravdivou jakoukoli materiální záležitost, o které ví, že je nepravdivá, a každou osobu, která svědčí, prohlašuje, odvolává nebo osvědčuje pod hrozbou trestu za křivou přísahu v kterémkoli z případů, ve kterých svědectví, prohlášení, výpovědi nebo osvědčení jsou povoleno zákonem státu San Andreas pod hrozbou trestu za křivou přísahu a úmyslně uvádí jako pravdivou jakoukoli podstatnou věc, o které ví, že je nepravdivá, je vinna z křivé výpovědi.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou ve výši 3.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou do výše 3.000$.
 
 ### §20 Nosení balistické vesty
 Viditelná balistická vesta
 
-a) Je přestupek, který se trestá pokutou ve výši 6.000$
+a) Je přestupek, který se trestá pokutou do výše 4.000$.
 
 ### §21 Ovlivňování svědků
 
@@ -1522,7 +1515,7 @@ a) Je přestupek, který se trestá pokutou ve výši 6.000$
 - Nic v tomto oddíle nevylučuje uložení zvýšení za velké tělesné zranění, je-li způsobená újma významná nebo podstatná.
 - Použití síly při spáchání jakéhokoli trestného činu popsaného v části (c) se považuje za přitěžující okolnost trestného činu při ukládání trestu odnětí svobody podle části (b)
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 5.000$.
 
 ### §22 Pohrdání soudem
 
@@ -1535,23 +1528,23 @@ a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a po
 - Zveřejnění nepravdivé nebo hrubě nepřesné zprávy o řízení soudu.
 - Úmyslné neuposlechnutí podmínek soudního příkazu, který omezuje činnost pouličního zločineckého gangu nebo kteréhokoli z jeho členů, zákonně vydaného soudem, včetně soudního příkazu.
 
-a) Je přestupek, který se trestá pokutou ve výši 6.000$
+a) Je přestupek, který se trestá pokutou do výše 3.000$.
 
 ### §23 Úplatkářství a korupce
 
 - Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi, porotci nebo jakékoli osobě, která může být zákonem oprávněna vyslechnout nebo rozhodnout o jakékoli otázce nebo polemice s úmyslem ovlivnit jeho hlas, vyjádření nebo rozhodnutí o jakékoli věci nebo otázce, která mu je nebo může být předložena k rozhodnutí.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou ve výši 5.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou do výše 2.500$.
 
 ### §24 Korupce státních složek
 Přijetí, nabídnutí, slíbení nebo žádání úplatku
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 10 let a pokutou ve výši 50.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 10 let a pokutou do výše 50.000$.
                        
 ### §25 Zneužití tísňové linky
-Záměrné telefonáty nebo zasílání SMS na tísňovou linku bez důvodu, kdy není ohrožen život, zdraví, majetek nebo veřejný pořádek, je přestupek
+Záměrné telefonáty nebo zasílání SMS na tísňovou linku bez důvodu, kdy není ohrožen život, zdraví, majetek nebo veřejný pořádek.
 
-a) Je přestupek, který se trestá pokutou ve výši 10.000$
+a) Je přestupek, který se trestá pokutou a pokutou do výše 7.000$.
 
 ### §26 Narušení klidu
 Osoba která se dopustí jedněch z následujících je vinna z narušení klidu.
@@ -1560,101 +1553,101 @@ Osoba která se dopustí jedněch z následujících je vinna z narušení klidu
 - Každý, kdo svévolně a svévolně obtěžuje jiného hlasitým a bezdůvodným hlukem.
 - Každá osoba, která na veřejném místě použije urážlivá slova, která ve své podstatě mohou vyvolat okamžitou násilnou reakci.
 
-a) Je přestupek, který se trestá pokutou ve výši 4.000$
+a) Je přestupek, který se trestá pokutou do výše 4.000$.
 
 ### §27 Nedostavení se na předvolání
 
 - Z přestupku je vinna každá osoba, která je obviněna nebo odsouzena za spáchání přestupku, která je propuštěna ze zadržení na vlastní pěst a která se ve snaze vyhnout se soudnímu řízení úmyslně nedostaví podle potřeby. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 4 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
 - Každá osoba, která je obviněna nebo odsouzena za spáchání trestného činu, která je propuštěna z vazby na vlastní pěst a která se s cílem vyhnout se soudnímu procesu úmyslně nedostaví podle potřeby, je vinna z trestného činu. Předpokládá se, že obžalovaný, který se úmyslně nedostaví do 2 dnů ode dne určeného k jeho předvolání, se chtěl vyhnout soudnímu řízení.
 
-a) Je přestupek, který se trestá pokutou ve výši 5.000$
+a) Je přestupek, který se trestá pokutou do výše 3.000$.
 
 ### §28 Vydírání
 
 -Pachatel tohoto trestného činu jiného neoprávněně nutí, aby něco jednal, opomenul nebo trpěl, a to jednáními typickými pro trestné činy patřící do této hlavy, tedy násilím, hrozbou násilí nebo jiné těžké újmy. Trestný čin je dokonán použitím násilí, jeho hrozbou nebo hrozbou jiné těžké újmy.
 - Kdo jiného násilím, hrozbou násilí nebo hrozbou jiné těžké újmy nutí, aby něco jednal, opomenul nebo trpěl.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 8.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou do výše 5.000$.
 
 ### §29 Zneužití pravomocí
 
 - Ujednání či poskytnutí výhody nebo ústupku, překročení pravomocí, nevykonání své zákonné povinnosti, napomáhání v nebo k protiprávní činnosti, nebo nátlak na druhého, a to v rámci zneužití svého postavení nebo funkce vůči státu.
 - Tohoto trestného činu se mohou dopustit pouze úřední osoby.
 
-a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 6 let a pokutou ve výši 15.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 6 let a pokutou do výše 15.000$.
 
 ### §30 Zpronevěra
 Přisvojení si cizího majetku, svěřených do péče nebo správy.
 
-a) Pokud hodnota činí do 20 000$. Jedná se o přestupek, který se trestá pokutou ve výši 4.500$.
+a) Pokud hodnota činí do 20 000$. Jedná se o přestupek, který se trestá pokutou do výše 4.000$.
 
-b) Pokud hodnota činí od 20 001$ do 200 000$. Jedná se o trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 8.500$
+b) Pokud hodnota činí od 20 001$ do 200 000$. Jedná se o trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou do výše 6.500$.
 
-c) Pokud hodnota činí více než 200 001$. Jedná se o trestný čin, který se trestá odnětím svobody na 1 až 10 let a pokutou ve výši 12.000$
+c) Pokud hodnota činí více než 200 001$. Jedná se o trestný čin, který se trestá odnětím svobody na 1 až 10 let a pokutou do výše 10.000$.
 
 ### §31 Falešná identita
 Jakákoli osoba, která se nepravdivě zastupuje nebo identifikuje jako jinou osobu nebo jako fiktivní osobu jakémukoli police officerovi po zákonném zadržení nebo zatčení osoby, buď vyhýbat se procesu soudu se řádné identifikaci osoby vyšetřovatelem, je vinna z přestupku.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou ve výši 5.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou do výše 2.000$.
 
 ### §32 Útěk
 Unikání před příslušníky státních či federálních ozbrojených složek přes výzvu na zastavení.
 
-a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 2.500$.
 
-b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 3 let a pokutou ve výši 3.500$.
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou ve výši 3.500$.
 
 ### §33 Mučení
 Kruté nebo jiné zacházení, které způsobuje jiné osobě tělesné nebo duševní utrpení.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 8 let a pokutou ve výši 10.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 8 let a pokutou do výše 10.000$.
 
 ### §34 Pomluva
 Záměrné a vědomé šíření nepravdy o jiné osobě či společnosti.
 
-a) v úmyslu způsobit majetkovou škodu nebo společenské znevážení je přestupek, který se trestá pokutou ve výši 5.000$.
+a) v úmyslu způsobit majetkovou škodu nebo společenské znevážení je přestupek, který se trestá pokutou do výše 4.000$.
 
-b) v úmyslu způsobit trestní stíhání nebo přestupkové řízení je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let.
+b) v úmyslu způsobit trestní stíhání nebo přestupkové řízení je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 5.000$.
 
 ### §35 Podvod
 Kdo ke škodě cizího majetku sebe nebo jiného obohatí tím, že uvede někoho v omyl nebo využije něčího omylu, a způsobí tak na cizím majetku škodu.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 4.000$.
 
 ### §37 Smluvní podvod
 Uvedení nepravdivých nebo hrubě zkreslených údajů nebo zamlčení podstatných údajů při sjednání smlouvy.
 
-a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 5 let a pokutou ve výši 6.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 2 roku do 5 let a pokutou do výše 5.000$.
 
 ### §38 Vyhýbaní se spravedlnosti
 Úmyslné vyhýbání se trestu.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 3.000$.
 
 ### §39 Sexuální nátlak
 Nucení k obnažování, sexu nebo jinému srovnatelnému chování.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou ve výši 4.000$.
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou do výše 4.000$.
 
 ### §40 Žhářství
 Úmyslné založení požáru.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 4.000$. 
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 4.000$. 
 
 ### §41 Neposkytnutí první pomoci
 Neposkytnutí první pomoci nebo nepřivolání pomoci, útěk od místa nehody.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 5.000$. 
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 3 let a pokutou do výše 5.000$. 
 
 ### §42 Nelegální distribuce a prodej želv
 Přechovávání a prodej mořských želv.
 
-a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši 10.000$. 
+a) Je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 3.000$. 
 
 ### §43 Nelegální distribuce a prodej žraločího masa
 Přechovávání a prodej žraločího masa.
 
-a) Je trestný čin, který se trestá odnětím svobody od 3 roku do 5 let a pokutou ve výši 12.000$. 
+a) Je trestný čin, který se trestá odnětím svobody od 3 roku do 5 let a pokutou do výše 5.000$. 
 
 ### §44 Nelegální lov
 
@@ -1664,29 +1657,29 @@ B) Lov bez licence a bez registrace zbraně určené k lovu - Lupara
 
 C) Lov zvěře se zbraní, která není určena k lovu
 
-a) je přestupek, který se trestá pokutou 10.000$, pokud se to stane více než 2 krát odebráním lovecké licence
+a) je přestupek, který se trestá pokutou do výše 4.500$, pokud se to stane více než 2 krát odebráním lovecké licence
 
-b) je trestný čin, který se trestá odnětím svobody od 2 let do 4 let, v případě opakovaného porušení zákona je sazba vyšší a to od 4 do 6 let a pokutou 10.000$.
+b) je trestný čin, který se trestá odnětím svobody od 1 let do 3 let, v případě opakovaného porušení zákona je sazba vyšší a to od 2 do 5 let a pokutou do výše 3.000$.
 
-c) je přestupek, který se trestá pokutou ve výši 10.000$
+c) je přestupek, který se trestá pokutou do výše 4.500$.
 
 ### §45 Nelegální rybolov
 Lov ryb bez licence 
 
-a) je trestný čin, který se trestá odnětím svobody od 1 do 2 let, pokutou ve výši 6.000$, zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 2 do 3 leta pokutou ve výši 6.000$.
+a) je trestný čin, který se trestá odnětím svobody od 1 do 2 let, pokutou do výše 3.000$., zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 2 do 3 leta  pokutou do výše 5.000$.
 
 ### §46 Nedovolený pohlavní styk a jiné sexuální aktivity
 Nedovolený pohlavní styk a jiné sexuální aktivity, které jsou v rozporu se zákonem
 
-a) Vědomé poskytnutí nebo sjednání sexuálních služeb za úplatu či jinou protihodnotu bez držení platné licence, nebo mimo zaměstnanecký vztah u držitele licence, je přestupek, za který lze uložit pokutu ve výši 25.000$.
+a) Vědomé poskytnutí nebo sjednání sexuálních služeb za úplatu či jinou protihodnotu bez držení platné licence, nebo mimo zaměstnanecký vztah u držitele licence, je přestupek, za který lze uložit pokutu do výše 25.000$.
 
-b) Incest, tedy jakýkoliv sexuální vztah nebo intimní chování mezi příbuznými v přímé rodinné linii, je trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou ve výši 10.000$
+b) Incest, tedy jakýkoliv sexuální vztah nebo intimní chování mezi příbuznými v přímé rodinné linii, je trestný čin, který se trestá odnětím svobody na 1 až 5 let a pokutou do výše 10.000$.
 
-c) Zoofilie, což zahrnuje jakoukoliv sexuální interakci se zvířaty, je trestný čin, který je trestán odnětím svobody na 5 až 10 let a pokutou ve výši 15.000$
+c) Zoofilie, což zahrnuje jakoukoliv sexuální interakci se zvířaty, je trestný čin, který je trestán odnětím svobody na 4 až 8 let a pokutou do výše 15.000$.
 
-d) Nekrofilie, tedy jakákoliv sexuální interakce s mrtvým tělem, je trestný čin, za který hrozí trest odnětí svobody na 5 až 10 let a pokutou ve výši 15.000$
+d) Nekrofilie, tedy jakákoliv sexuální interakce s mrtvým tělem, je trestný čin, za který hrozí trest odnětí svobody na 4 až 8 let a pokutou do výše 15.000$.
 
-e) Pedofilní jednání, což znamená jakoukoliv sexuální interakci s dětmi a mladistvými mladšími 14 let, je trestný čin, za který je možné uložit trest odnětí svobody na 5 až 10 let a a pokutou ve výši 20.000$
+e) Pedofilní jednání, což znamená jakoukoliv sexuální interakci s dětmi a mladistvými mladšími 14 let, je trestný čin, za který je možné uložit trest odnětí svobody na 5 až 10 let a pokutou do výše 15.000$.
 
 ### §47 Nezaplacené faktury a pohledávky
 
@@ -1699,7 +1692,7 @@ e) Pedofilní jednání, což znamená jakoukoliv sexuální interakci s dětmi 
  c) Cennosti s vyšší hodnotou - zabavení s kontrolou hodnoty
  d) Vlastněné účty - pozastavení plateb, zmrazení účtu a odebrání částky k proplacení faktur a úroků z prodlení s kontrolou a spoluprací DoF 
 
-(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura 10.000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §65: 
+(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura do výše 10.000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §65: 
 
  a) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 100 000 USD do 500 000 USD:
  1) zabavení majetku - vozidla / stroje a trest, exekuční řízení (2) a),b),c),d) a odnětí svobody v délce 3 let
@@ -1718,9 +1711,9 @@ e) Pedofilní jednání, což znamená jakoukoliv sexuální interakci s dětmi 
 ### §48 Nelegální rozebírání vozidla
 Vzniká v případě, kdy dojde k nelegálnímu rozebírání bez příslušného povolení.
 
-a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 2.000$.
 
-b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou ve výši 3.500$.
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dny), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou do výše 3.000$.
 
 ### §49 Trestní odpovědnost nezletilých a mladistvých osob
 
@@ -1743,38 +1736,38 @@ b) Nepodmíněné odnětí svobody může soud mladistvému uložit jen tehdy, j
 ### §50 Obecné ohrožení
 Ohrožení života nebo zdraví pěti a více osob, které je spojeno s rizikem smrti či těžké újmy na zdraví
 
-a) Ohrožení způsobené během řízení vozidla je klasifikováno jako přestupek, za který může být uložena pokuta ve výši 4.000 $.
+a) Ohrožení způsobené během řízení vozidla je klasifikováno jako přestupek, za který může být uložena pokutou do výše 3.000$.
 
-b) Pokud bylo ohrožení způsobeno střelnou nebo jinou zbraní, jedná se o trestný čin, za který hrozí trest odnětí svobody na 1 až 4 let a pokutou ve výši 4.000 $.
+b) Pokud bylo ohrožení způsobeno střelnou nebo jinou zbraní, jedná se o trestný čin, za který hrozí trest odnětí svobody na 1 až 3 let a pokutou do výše 3.500$.
 
 ### §51 Hanobení lidských ostatků a svévolné otevírání hrobu
 Osoba, která neoprávněně hrob nebo hrobku anebo urnu s lidskými ostatky otevře, páchá trestní čin. Otevření hrobu, hrobky nebo urny je trestní čin i v případě, že neobsahuje lidské ostatky.
 
-a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 2.500$.
 
 ### §52 Neoprávněná manipulace s dopravním značením a světelným zařízením
 Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením
 
-a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou ve výši 3.000 $.
+a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 3.000$.
 
 ### §53 Znásilnění
 Pohlavní styk, jiná obdobná sexuální aktivita.
 
-a) je trestný čin, který se trestá odnětím svobody od 5 let do 10 let a pokutou ve výši 10.000$.
+a) je trestný čin, který se trestá odnětím svobody od 5 let do 10 let a pokutou do výše 10.000$.
 
 ### §54 Neposkytnutí první pomoci
 Neposkytnutí první pomoci nebo ujetí od místa nehody 
 
-a) je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 6.500$.
+a) je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou do výše 6.000$.
 
 ### §55 Nedovolené ozbrojování
 Vlastnictví a užívání jakoukoli střelnou zbraň, kromě starožitné střelné zbraně, bez platného bezpečnostního osvědčení o střelné zbrani, s výjimkou toho, že v případě ruční zbraně může být použito bezpečnostní osvědčení nevypršené platnosti.
 
-a) Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
+a) Zbraně typu LEG nespadajíci pod GUR - odnětí svobody až na 5 let a pokutou do výše 5.000$.
 
-b) Zbraň tohoto typu nespadá ani pod kategorii LEG, ani pod kategorii GUR - odnětí svobody až na 5 let a pokutou ve výši 8.000$.
+b) Zbraň tohoto typu nespadá ani pod kategorii LEG, ani pod kategorii GUR - odnětí svobody až na 5 let a pokutou do výše 5.000$.
 
-c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek, který se trestá pokutou ve výši 5.000$.
+c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek, který se trestá  pokutou do výše 3.000$.
 
 ## Vehicle Code
 ### Sekce č. 06/2022GOV Vehicle Code
@@ -1793,11 +1786,11 @@ je základním zákonem o rychlosti San Andreas. V této části je nezákonné,
 
 Sankce za překročení rychlosti:
 
-a) Překročení rychlosti o 1-20 Mph = $750
+a) Překročení rychlosti o 1-20 Mph je klasifikováno jako přestupek, je trestáno pokutou do výše 700$.
 
-b) Překročení rychlosti o 21-34 MpH = $1500
+b) Překročení rychlosti o 21-34 MpH je klasifikováno jako přestupek, je trestáno pokutou do výše 1200$.
 
-c) Překročení rychlosti nad 35 MpH = $2000 a odebrání řidičského oprávnění:
+c) Překročení rychlosti nad 35 MpH = je klasifikováno jako přestupek, je trestáno pokutou do výše 1500$ a odebrání řidičského oprávnění:
 Po odebrání řidičského oprávnění u osoby, která se dopustila §1 c)
 může tato osoba zažádat o přijetí do autoškoly 1 den od data zabavení řidičského oprávnění
 
@@ -1812,9 +1805,9 @@ Povolená rýchlosť
 ### §2 Řízení vozidla bez řidičského oprávnění
 Řízení vozidla bez příslušného oprávnění
 
-a) je přestupek, který se trestá pokutou ve výši až 3.000$.
+a) je přestupek, který se trestá pokutou do výše 2.000$.
 
-b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou ve výši 3.500$.
+b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od 1 roku do 2 let a pokutou  do výše 3.000$.
 
 ### §3 Licence Plate - SPZ
 
@@ -1822,12 +1815,12 @@ b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém 
 - Pokud DMV vydá motoristovi jen jednu desku. musí být umístěna na zadní část vozu
 - Neexistuje výjimka pro to, aby nebylo vozidlo na pozemní komunikaci označeno pomocí licence plate (SPZ).
 
-a) je přestupek, který se trestá pokutou ve výši až 1.000$.
+a) je přestupek, který se trestá pokutou do výše až 1.500$.
 
 ### §4 Jízda pod vlivem alkoholu / omamných látek
 Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky
 
-a) je přestupek, který se trestá pokutou ve výši až 3.500$ a odebrání řidičského oprávnění po dobu 2 dnů.
+a) je přestupek, který se trestá pokutou do výše 2.500$ a odebrání řidičského oprávnění po dobu 2 dnů.
 
 ### §5 Nerespektování značení / světelného zařízení
 
@@ -1836,7 +1829,7 @@ a) je přestupek, který se trestá pokutou ve výši až 3.500$ a odebrání ř
 - Řidič stojící před stálou červenou šipkou nesmí vejít do křižovatky, aby provedl pohyb označený šipkou, a pokud nevchází do křižovatky s cílem provést pohyb povolený jiným signálem, musí zastavit na zřetelně vyznačené hraniční čáře, ale pokud žádný, před vstupem na přechod pro chodce na blízké straně křižovatky, nebo pokud žádný, tak před vjezdem do křižovatky, a musí zůstat zastaven, dokud se nezobrazí indikace umožňující pohyb.
 - Neurčuje-li signál kontroly chodců podle jinak, nesmí chodec, který stojí před stálým kruhovým signálem červené nebo červené šipky, vstoupit na vozovku.
 
-a) je přestupek, který se trestá pokutou ve výši až 750$
+a) je přestupek, který se trestá pokutou do výše až 750$
 
 ### §6 Nelegální tuning
 - Červené podsvícení vozidla (i všechny odstíně červené)
@@ -1847,7 +1840,7 @@ a) je přestupek, který se trestá pokutou ve výši až 750$
 - Zabarvení předních světlometů (jiné než Xenon, bílá a teplá bílá)
 - Jízda se zvednutým hydraulickým podvozkem
 
-a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením vozidla. 
+a) je přestupek, který se trestá pokutou do výše 1.500$ a odtažením vozidla. 
 
 ### §7 Technický stav vozidla
 
@@ -1855,7 +1848,7 @@ a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením v
 - Je nezákonné provozovat jakékoli vozidlo nebo soupravu vozidel, která nejsou vybavena tak, jak je uvedeno v tomto kodexu.
 - Žádná osoba nesmí řídit žádné vozidlo nebo jízdní soupravu po upozornění police officerem, jak je definováno v oddíle 830.1 nebo pododdíle (a) oddílu 830.2 trestního zákona, že vozidlo je v nebezpečném stavu nebo není vybaveno tak, jak to vyžaduje tento kód, s výjimkou případu, kdy je třeba vrátit vozidlo nebo jízdní soupravu do bydliště nebo místa podnikání vlastníka nebo řidiče nebo do garáže, dokud vozidlo a jeho vybavení nebudou přizpůsobeny požadavkům tohoto kodexu.
 
-a) je přestupek, který se trestá pokutou ve výši až 2.000$ a odtažením vozidla. 
+a) je přestupek, který se trestá pokutou do výše 1.500$ a odtažením vozidla. 
 
 ### §8 Zákaz zastavení / postavení / parkovaní
 Osoba nesmí zastavit, zaparkovat ani nechat stát žádné vozidlo bez ohledu na to, zda je obsluhováno nebo bez dozoru, kromě případů, kdy je to nezbytné k zabránění konfliktu s jiným provozem nebo v souladu s pokyny police officera nebo oficiálního dopravního zařízení na kterémkoli z následujících míst:
@@ -1867,19 +1860,19 @@ Osoba nesmí zastavit, zaparkovat ani nechat stát žádné vozidlo bez ohledu n
 - Vedle nebo proti výkopu nebo překážky na ulici nebo silnici by při zastavení, stání nebo parkování které by překáželo provozu.
 - Na straně vozovky od vozidla, které zastavilo, zaparkovalo nebo stálo na krajnici nebo okraji dálnice.
 
-a) je přestupek, který se trestá pokutou ve výši až 500$ a odtažením vozidla. 
+a) je přestupek, který se trestá pokutou do výše 500$ a odtažením vozidla. 
 
 ### §9 Jízda v protisměru
 
-a) je přestupek, který se trestá pokutou ve výši až 500$.
+a) je přestupek, který se trestá pokutou do výše 500$.
 
 ### §10 Přejíždění přes plnou čáru
 
-a) je přestupek, který se trestá pokutou ve výši až 500$.
+a) je přestupek, který se trestá pokutou do výše 500$.
 
 ### §11 Řízení motocyklu nebo mopedu bez připevněné ochranné přilby
 
-a) je přestupek, který se trestá pokutou ve výši až 500$.
+a) je přestupek, který se trestá pokutou do výše 500$.
 
 ## Health & Safety Code
 ### Sekce č. 07/2022GOV Health & Safety Code
@@ -1892,51 +1885,51 @@ Marihuana
 
 A) Pěstování marihuany do 10 rostlin
 
-1a) Pěstování marihuany v množství do 10 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 4 let a pokutou ve výši 12.000 $.
+1a) Pěstování marihuany v množství do 10 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 4 let pokutou do výše 12.000 $.
 
 B) Pěstování marihuany od 11 do 50 rostlin
 
-1b) Pěstování marihuany v množství od 11 do 50 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 3 roku do 6 let a pokutou ve výši 20.000 $.
+1b) Pěstování marihuany v množství od 11 do 50 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 3 roku do 6 let pokutou do výše 20.000 $.
 
 C) Pěstování marihuany nad 50 rostlin
 
-1c) Pěstování marihuany v množství nad 50 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 6 let do 10 let a pokutou ve výši 40.000 $.
+1c) Pěstování marihuany v množství nad 50 rostlin je trestný čin, který se trestá odnětím svobody na dobu od 6 let do 10 let pokutou do výše 40.000 $.
 
 ### §2 Držení marihuany
 
 A) Držení marihuany od 5 do 20 gramů
 
-1a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou ve výši 2000$.
+1a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou do výše 2000$.
 
 B) Držení marihuany od 21 do 100 gramů
 
-1b) Držení marihuany v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 5 let a pokutou ve výši 6.000$.
+1b) Držení marihuany v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 5 let a pokutou do výše 6.000$.
 
 C) Držení marihuany od 101 do 300 gramů
 
-1c) Držení marihuany v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od 4 let do 10 let a pokutou ve výši 15.000$.
+1c) Držení marihuany v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od 4 let do 10 let pokutou do výše 15.000$.
 
 D) Držení marihuany nad 301 gramů
 
-1d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let do 15 let a pokutou ve výši 50.000$.
+1d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let do 15 let pokutou do výše 50.000$.
 
 ### §3 Prodej marihuany
 
 A) Prodej marihuany do 50 gramů
 
-1a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou ve výši  7.500$.
+1a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 7.500$.
 
 B) Prodej marihuany od 51 gramů do 150 gramů
 
-1b)Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od 5 do 8 let a pokutou ve výši 15.000$.
+1b)Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od 5 do 8 let a pokutou do výše 15.000$.
 
 C) Prodej marihuany od 151 do 400 gramů
 
-1c)Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od 8 let do 12 let a pokutou ve výši  25.000$
+1c)Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od 8 let do 12 let a pokutou do výše 25.000$
 
 C) Prodej marihuany nad 401 gramů
 
-1c)Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od 8 let do 12 let a pokutou ve výši 50.000$
+1c)Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od 8 let do 12 let a pokutou do výše 50.000$
 
 Coke & Heroin
 
@@ -1944,51 +1937,51 @@ Coke & Heroin
 
 A) Výroba drog do 50 gramů
 
-1a) Výroba drog (Coke nebo Heroin) v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou ve výši 15.000$.
+1a) Výroba drog (Coke nebo Heroin) v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 1 roku do 5 let a pokutou do výše 15.000$.
 
 B) Výroba drog od 51 gramů do 300 gramů
 
-1b) Výroba drog (Coke nebo Heroin) v množství od 51 gramů do 300 gramů je trestný čin, který se trestá odnětím svobody od 4 roku do 10 let, pokutou ve výši až 45.000$
+1b) Výroba drog (Coke nebo Heroin) v množství od 51 gramů do 300 gramů je trestný čin, který se trestá odnětím svobody od 4 roku do 10 let a pokutou do výše 45.000$
 
 C) Výroba drog nad 300 gramů
 
-1c) Výroba drog (Coke nebo Heroin) v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let po doživotí, pokutou ve výši až 150.000.$
+1c) Výroba drog (Coke nebo Heroin) v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let po doživotí a pokutou do výše 150.000.$
 
 ### §5 Prodej Cocaine nebo Heroin
 
 A) Prodej Cocaine nebo Heroin do 50 gramů 
 
-1a) Prodej Cocaine nebo Heroin v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 2 do 5 let a pokutou ve výši 25.000$.
+1a) Prodej Cocaine nebo Heroin v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od 2 do 5 let a pokutou do výše 25.000$.
 
 B) Prodej Cocaine nebo Heroin od 51 gramů do 150 gramů 
 
-1b) Prodej Cocaine nebo Heroin v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od 6 do 10 let a pokutou ve výši 45.000$.
+1b) Prodej Cocaine nebo Heroin v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od 6 do 10 let a pokutou do výše 45.000$.
 
 C) Prodej Cocaine nebo Heroin od 151 do 400 gramů 
 
-1c) Prodej Cocaine nebo Heroin v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let do 15 let a pokutou ve výši 100.000$.
+1c) Prodej Cocaine nebo Heroin v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od 10 let do 15 let a pokutou do výše 100.000$.
 
 D) Prodej Cocaine nebo Heroin nad 401 gramů 
 
-1d) Prodej Cocaine nebo Heroin v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od 15 let do 25 let a pokutou ve výši 150.000$.
+1d) Prodej Cocaine nebo Heroin v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od 15 let do 25 let a pokutou do výše 150.000$.
 
 ### §6 Držení Cocaine nebo Heroin
 
 A) Držení Cocaine nebo Heroin do 20 gramů 
 
-1a) Držení Cocaine nebo Heroin v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 4 let a pokutou ve výši 10.000$.
+1a) Držení Cocaine nebo Heroin v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od 1 roku do 4 let a pokutou do výše 10.000$.
 
 B) Držení Cocaine nebo Heroin od 21 do 100 gramů 
 
-1b) Držení Cocaine nebo Heroin v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od 2 roku do 5 let a pokutou ve výši 25.000$.
+1b) Držení Cocaine nebo Heroin v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od 2 roku do 5 let a pokutou do výše 25.000$.
 
 C) Držení Cocaine nebo Heroin od 101 do 300 gramů 
 
-1c) Držení Cocaine nebo Heroin v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od 5 let do 15 let a pokutou ve výši 60.000$.
+1c) Držení Cocaine nebo Heroin v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od 5 let do 15 let a pokutou do výše 60.000$.
 
 D) Držení Cocaine nebo Heroin nad 301 gramů 
 
-1d) Držení Cocaine nebo Heroin v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od 15 let do 20 let a pokutou ve výši 100.000$
+1d) Držení Cocaine nebo Heroin v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od 15 let do 20 let a pokutou do výše 100.000$
 
 ## Cayo Perico
 ### Sekce č. 09/2022GOV Cayo Perico
