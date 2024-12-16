@@ -1740,12 +1740,12 @@ a) Ohrožení způsobené během řízení vozidla je klasifikováno jako přest
 
 b) Pokud bylo ohrožení způsobeno střelnou nebo jinou zbraní, jedná se o trestný čin, za který hrozí trest odnětí svobody na 1 až 3 let a pokutou do výše 3.500$.
 
-### §51 Hanobení lidských ostatků a svévolné otevírání hrobu
+### §51 Hanobení lidských ostatků
 Osoba, která neoprávněně hrob nebo hrobku anebo urnu s lidskými ostatky otevře, páchá trestní čin. Otevření hrobu, hrobky nebo urny je trestní čin i v případě, že neobsahuje lidské ostatky.
 
 a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 2.500$.
 
-### §52 Neoprávněná manipulace s dopravním značením a světelným zařízením
+### §52 Neoprávněná manipulace
 Osoba, která neoprávněně manipuluje s dopravním značením nebo světelným zařízením
 
 a) Jednání, které je klasifikováno jako přestupek, je trestáno pokutou do výše 3.000$.
@@ -1870,7 +1870,8 @@ a) je přestupek, který se trestá pokutou do výše 500$.
 
 a) je přestupek, který se trestá pokutou do výše 500$.
 
-### §11 Řízení motocyklu nebo mopedu bez připevněné ochranné přilby
+### §11 Řízení motocyklu bez ochranné přilby
+je povinné nosit helmu při řízení motorky
 
 a) je přestupek, který se trestá pokutou do výše 500$.
 
