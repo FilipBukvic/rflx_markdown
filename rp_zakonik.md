@@ -1668,7 +1668,7 @@ Lov ryb bez licence
 
 a) je trestný čin, který se trestá odnětím svobody od 1 do 2 let, pokutou do výše 3.000$., zákazem lovu na určitou dobu, v případě opakovaného porušení zákona je sazba vyšší a to od 2 do 3 leta  pokutou do výše 5.000$.
 
-### §46 Nedovolený pohlavní styk a jiné sexuální aktivity
+### §46 Nedovolený pohlavní styk
 Nedovolený pohlavní styk a jiné sexuální aktivity, které jsou v rozporu se zákonem
 
 a) Vědomé poskytnutí nebo sjednání sexuálních služeb za úplatu či jinou protihodnotu bez držení platné licence, nebo mimo zaměstnanecký vztah u držitele licence, je přestupek, za který lze uložit pokutu do výše 25.000$.
