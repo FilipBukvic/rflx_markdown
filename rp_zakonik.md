@@ -346,13 +346,6 @@ Podle §1 P.C. se výtržnictvím rozumí jakékoli použití síly nebo násil�
 Pokuty:
 Účast na nepokojích je přestupkem. Možné pokuty zahrnují až jeden rok odnětí svobody ve státní věznici a/nebo pokutu až do výše jednoho tisíce dolarů ($1,000).
 
-### §2 Nezaplacení pokut
-- Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 3 dnů od rozhodnutí představuje porušení. 
-a) Nezaplacení pokuty ve výši do 20 000 $ je přestupek, který se trestá pokutou ve výši 5 000 $ + částka, kterou daná osoba nemá zaplacenou. 
-b) Nezaplacení pokuty od 20 001 $ do 200 000 $ se považuje za trestný čin, který se trestá odnětím svobody v rozmezí 1 roku až 5 let a pokutou 50 000 $ + částka, kterou daná osoba nemá zaplacenou. 
-c) Nezaplacení pokuty ve výši 200 001 $ a více se považuje za trestný čin, který se trestá odnětím svobody v rozmezí 5 let až 15 let + pokutou 250 000 $ + částka, kterou daná osoba nemá zaplacenou. 
-- Body výše zmíněné rovněž podléhají úrokům a dalším krokům dle sekce zákona č. 05/2022GOV, P.C., §65 (1), (2) a)-d), (3) a),1); b),1); c),1); d),1)
-
 ### §3 Terorismus
 
 a) Pojem "terorismus" zahrnuje soubor protilidských metod hrubého zastrašování, které se vyznačují hrozbou síly a užitím různých forem násilí.
@@ -1682,31 +1675,25 @@ d) Nekrofilie, tedy jakákoliv sexuální interakce s mrtvým tělem, je trestn�
 e) Pedofilní jednání, což znamená jakoukoliv sexuální interakci s dětmi a mladistvými mladšími 14 let, je trestný čin, za který je možné uložit trest odnětí svobody na 5 až 10 let a pokutou do výše 15.000$.
 
 ### §47 Nezaplacené faktury a pohledávky
+Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 14 dnů od rozhodnutí představuje porušení. 
 
-(1) §65 je zákon v státě San Andreas, který je považován za trestný čin. Vzniká v případě, kdy dlužník neplatí své závazky vůči státním organizacím. V takovém případě dlužníkovi vyměří Department of Justice s asistencí Department of Finance výši úroku z prodlení od dne vzniku prvého úroku. Úroková sazba je 10% denně ze základní a později navyšující se částky. V případě, kdy dlužník dosáhne hranicí svého dluhu na 100 000 USD, neplatí své pohledávky včas a dosáhne prodlení s placením déle jako tři dny, vzniká u něj zákonná pravomoc ve věci trestního stíhání pro §65. 
+a) Nezaplacení pokuty ve výši do 20 000 $ je přestupek, který se trestá pokutou do výše 2 000 $
 
-(2) V souladu s §65 se do případné exekuce zahrnuje i s postupy následující 
+b) Nezaplacení pokuty od 20 001 $ do 200 000 $ se považuje za trestný čin, který se trestá odnětím svobody v rozmezí 1 roku až 3 let
+
+c) Nezaplacení pokuty ve výši 200 001 $ a více se považuje za trestný čin, který se trestá odnětím svobody v rozmezí 3 let až 6 let
+
+(2) V souladu s §47 se do případné exekuce zahrnuje i s postupy následující 
 
  a) Vozidla - zabavení s kontrolou vozidla a jeho stav - zahrnuta amortizace 50% v kupní ceně bez započteného vylepšení vozidla ( motorizace aj. )
  b) Nemovitosti - zabavení s kontrolou a spoluprací DoC&DoL
  c) Cennosti s vyšší hodnotou - zabavení s kontrolou hodnoty
  d) Vlastněné účty - pozastavení plateb, zmrazení účtu a odebrání částky k proplacení faktur a úroků z prodlení s kontrolou a spoluprací DoF 
 
-(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura do výše 10.000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §65: 
+(3) Při zadržení dlužníka, je možnost na místě splatit celkovou částku dluhu a vyhnout se tak trestu. Pohledávky musí na místě splatit okamžitě, nejde splatit pouze část. Při zadržení dlužníka a po platbě mu bude vystavena faktura do výše 3.000 USD za zanedbávání úhrad faktur a pohledávek. V případě, nemožnosti splacení všech pohledávek na místě bude osoba obžalována z §47: 
 
- a) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 100 000 USD do 500 000 USD:
- 1) zabavení majetku - vozidla / stroje a trest, exekuční řízení (2) a),b),c),d) a odnětí svobody v délce 3 let
-
- b) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 500 000 USD do 1 000 000 USD:
-1) zabavení majetku - vozidla / stroje, zabavení majetku - budova, pozemek, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 7 let
-
-
- c) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 1 000 000 USD do 1 999 999 USD:
- 1) zabavení majetku - vozidla / stroje, zabavení majetku budova, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 12 let
-
-
- d) Nezaplacené faktury v celkové výši včetně úroků z prodlení od 2 000 000 USD:
- 1) zabavení majetku - vozidla / stroje, zabavení nemovitosti, pozemek, zabavení firmy a firemního majetku, exekuční řízení (2) a),b),c),d) a trest odnětí svobody v délce 20 let
+ a) Nezaplacené faktury v celkové výši (Sečtené všechny faktury podle délky splatnosti.) :
+ 1) zabavení majetku - vozidla / stroje a trest, exekuční řízení (2) a),b),c),d)
 
 ### §48 Nelegální rozebírání vozidla
 Vzniká v případě, kdy dojde k nelegálnímu rozebírání bez příslušného povolení.
