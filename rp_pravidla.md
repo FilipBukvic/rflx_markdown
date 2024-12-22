@@ -296,17 +296,22 @@ Názorný příklad toho, co nedělat:
 - Jedna skupina/firma může mít maximálně 15 členů celkem. Toto pravidlo platí pro všechny skupiny, ať už se jedná o legální nebo nelegální.  
 - Pro schválené nelegální skupiny je možnost zažádat o navýšení maximálního počtu členů. Žádost o navýšení je nutné podat prostřednictvím ticketu na nelegálním DC. O schválení či zamítnutí rozhoduje vedení serveru a nemusí být automaticky schváleno.  
 - Toto pravidlo se nevztahuje na státní složky.
+
 **Obecné**
+
 - Každý člen skupiny/firmy je povinen být součástí frakčního/skupinového Discordu.
 
 ## Frakční Discord
+**Obecné**
 
 - Na každém frakčním Discord serveru musí být přítomen alespoň jeden člen vedení serveru  nebo supervisor admin, kterému po připojení na tento server předáte vlastnictví.  
 - Pokud se na frakčním Discordu nenachází vedení serveru nebo supervisor admin, budou veškeré informace, které jsou využívány v herním světě (IC), považovány za Metagaming.  
 - **Frakční Discord** je možné využít pouze na PC v interiéru, kde se nachází model počítače.  
 - Zapisování a používání informací z Discordu je povoleno pouze na daném PC v interiéru. Není možné využívat jako aplikaci v telefonu nebo přenášet notebook s sebou.
   
-**Nelegální skupiny** *-zahrnují jak organizované skupiny, tak jednotlivce erpící nelegální činnosti.*
+**Nelegální skupiny** 
+
+*zahrnují jak organizované skupiny, tak jednotlivce erpící nelegální činnosti.*
 - Ke každé zapsané informaci je nutné připojit **user number** (jedinečný kód, který slouží k dohledání hráče pro AT) a fotografii osoby z místa "výslechu".  
 - Všechny zapsané informace do PC je nutné řádně zaerpit.
 - Každé zapsání musí být doloženo s příslušnými důkazy (fotografie, user number) a posláno do příslušné roomky na Discordu.  
