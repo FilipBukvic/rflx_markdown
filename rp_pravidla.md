@@ -315,8 +315,9 @@ Názorný příklad toho, co nedělat:
 **Počet členů**
 - Jedna skupina/firma může mít maximálně 15 členů celkem. Toto pravidlo platí pro všechny skupiny, ať už se jedná o legální nebo nelegální.  
 - Pro schválené nelegální skupiny je možnost zažádat o navýšení maximálního počtu členů. Žádost o navýšení je nutné podat prostřednictvím ticketu na nelegálním DC. O schválení či zamítnutí rozhoduje vedení serveru a nemusí být automaticky schváleno.  
-- Každý člen skupiny/firmy je povinen být součástí frakčního/skupinového Discordu.
 - Toto pravidlo se nevztahuje na státní složky.
+**Obecné**
+- Každý člen skupiny/firmy je povinen být součástí frakčního/skupinového Discordu.
 
 ## Frakční Discord
 
