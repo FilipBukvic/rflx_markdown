@@ -148,7 +148,6 @@
 - Hráč, který si udělil nebo mu bylo uděleno CK nemá nadále možnost využívat svoji postavu a je povinen ji odstranit - smazat.
 - Je zakázáno přenášet informace z původní postavy na novou - se smrtí postavy přicházíte také o veškerý majetek a nemovitosti, které jste na dané postavě vlastnili.
 - Jail CK může schválit a udělit výhradně soud.
-- CK provedete za pomoci commandu /selfck nebo tak, že postavu vymažete v samotném přehledu svých postav při napojení na server.
 - Více informací o CK naleznete v sekci **Obecná pravidla**
 
 # Komunitní Pravidla
@@ -244,7 +243,7 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - Po celou dobu příprav a samotného únosu jste povinni zajistit unášené osobě dostatek jídla a pití.  
 
 **Okrádání:**
-- Rukojmího (unesená osoba) může být okradena pouze o věci, které má u sebe. Není povoleno po ní požadovat přepis majetku nebo výběr peněz z bankomatu.  
+- Rukojmí (unesená osoba) může být okradena pouze o věci, které má u sebe. Není povoleno po ní požadovat přepis majetku nebo výběr peněz z bankomatu.  
   
 **Doba únosu:**  
 - Osoba může být unesena pouze po dobu aktivního RP nebo déle na základě schválení ticketem AT.
