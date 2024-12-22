@@ -237,26 +237,6 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - Pro Self CK platí stejná pravidla jako pro běžné CK – musí být pádný důvod, schválený ticket AT a zákaz přepisování majetku.
 
 
-## Únosy  
-
-**Zajištění základních potřeb:**  
-- Po celou dobu příprav a samotného únosu jste povinni zajistit unášené osobě dostatek jídla a pití.  
-
-**Okrádání:**
-- Rukojmí (unesená osoba) může být okradena pouze o věci, které má u sebe. Není povoleno po ní požadovat přepis majetku nebo výběr peněz z bankomatu.  
-  
-**Doba únosu:**  
-- Osoba může být unesena pouze po dobu aktivního RP nebo déle na základě schválení ticketem AT.
-
-**Zákaz držení v interiérech na teleport:**  
-- Držení osob v interiérech, které jsou přístupné pouze prostřednictvím teleportu, je zakázáno.  
-
-
-## Nelegální aktivity
-
-- Započetí nelegálních aktivit je zakázáno 15 minut před i po plánovaném restartu serveru.  
-- Je zakázáno využívat NPC jako rukojmí.  
-
 ## Gross
 
 - Rasismus, pedofilie, řezání jednotlivých končetin a další nechutné prvky.
@@ -332,9 +312,29 @@ Názorný příklad toho, co nedělat:
 - Každé zapsání musí být doloženo s příslušnými důkazy (fotografie, user number) a posláno do příslušné roomky na Discordu.  
 
 
-# Nelegální pravidla
+# Pravidla pro nelegální činnosti a skupiny
 Pravidla vztahující se výhradně na skupinky lidí i jednotlivce, kteří jsou spojeni s nelegálními činnostmi.
 
+## Únosy  
+
+**Zajištění základních potřeb:**  
+- Po celou dobu příprav a samotného únosu jste povinni zajistit unášené osobě dostatek jídla a pití.  
+
+**Okrádání:**
+- Rukojmí (unesená osoba) může být okradena pouze o věci, které má u sebe. Není povoleno po ní požadovat přepis majetku nebo výběr peněz z bankomatu.  
+  
+**Doba únosu:**  
+- Osoba může být unesena pouze po dobu aktivního RP nebo déle na základě schválení ticketem AT.
+
+**Zákaz držení v interiérech na teleport:**  
+- Držení osob v interiérech, které jsou přístupné pouze prostřednictvím teleportu, je zakázáno.  
+
+
+## Nelegální aktivity
+
+- Započetí nelegálních aktivit je zakázáno 15 minut před i po plánovaném restartu serveru.  
+- Je zakázáno využívat NPC jako rukojmí.
+  
 ## Snitching
 - Zákaz jakéhokoliv snitchování, především členům státních složek.
 - Snitchování se vztahuje jak na vaši frakci, tak na jakoukoliv jinou nelegální skupinu nebo jednotlivce spojené s nelegálními činnostmi.
