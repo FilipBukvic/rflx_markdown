@@ -55,6 +55,7 @@
 - Toto přenášení informací může mít různou podobu - písemnou/slovní
 	<div class="chat"><span>ME</span><span>Jdu se zamyslet</span></div>
 	<div class="chat"><span>VOICE</span><span>Banánové ostrovy</span></div>
+- Je přísně zakázáno používat nevhodná slova a výrazy, které narušují herní atmosféru nebo nejsou v souladu s IC prostředím, jako například „upocenej“, „lolíček“, „nepoť to“ a podobné. Tyto výrazy jsou považovány za mixing a jejich užívání může vést k postihům.
 
 
 ## KOS (Kill on sight)
@@ -112,7 +113,8 @@
 ## CombatLog
 
 - Odpojení z probíhající RP akce bez udání důvodu za účelem obcházení trestu nebo vyhýbání se následkům.
-
+- Hráči se nesmí odpojovat mimo nemovitost vlastněnou prostřednictvím inkasa (pronájmu). Toto pravidlo se nevztahuje na situace, kdy dochází k restartu serveru.
+  
 ## Combat comeback
 
 - Je zakázáno navrácení do probíhající RP akce, které se dotyčný hráč zúčastnil a byl v ní postřelen (“death screen”)
@@ -149,6 +151,32 @@
 - CK provedete za pomoci commandu /selfck nebo tak, že postavu vymažete v samotném přehledu svých postav při napojení na server.
 - Více informací o CK naleznete v sekci **Obecná pravidla**
 
+# Komunitní Pravidla
+
+Naše komunita je místem, kde se naši hráči a hráčky setkávají a vzájemně si vytvářejí pozitivní a bezpečné prostředí. Chceme, aby každý měl příležitost se u nás cítit dobře a respektován.
+
+Za tímto účelem je zakázáno posílat jakékoliv příspěvky, které jsou:
+
+- Obtěžující  
+- Hanlivé  
+- Ohrožující  
+- Soukromé  
+- Podvodné  
+- Invazivní  
+- Vulgární  
+- Pornografické  
+
+Komunitní pravidla, která jsme stanovili, jsou odrazem lidských hodnot a zdravého rozumu, na kterém je založena naše komunita. Jakékoliv porušení těchto pravidel bude řešeno odpovídajícím trestem, včetně možnosti trvalého zákazu (banu) bez možnosti odvolání.
+
+Doplňující pravidla, která vedou k trestům:
+
+- Toxicita  
+- Rasismus  
+- Spam  
+- Advertising  
+
+Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se podílejí na jakékoliv aktivitě v rámci serverů portálu TROR.
+
 
 # Obecná pravidla
 
@@ -160,7 +188,6 @@
 - Je zakázáno jakýmkoliv způsobem obcházet ban - vytvářet nové účty se záminkou obejít aktivní ban a zneužít tak určité prostředky ve svůj prospěch.
 - Je **přísně zakázáno** vykrádat jakýkoliv frakční sklad, zejména pak sklady státních složek - EMS/LSPD/LSSD/SAND.
 - Pokud si hráč vytváří ticket, je povinen dodržovat komunitní pravidla, vystupovat slušně a normálně - v opačném případě může být ticket ignorován nebo uzamčen!
-- Státní složky nemají přístup na black market - EMS/LSPD/LSSD/SAND.
 - Je zakázáno streamovat rozhovor s administrátorem nebo ho jakýmkoliv způsobem zaznamenávat (natáčení, nahrávání audia)
 - Je zakázáno vydávat se jakýmkoliv způsobem za státní složku (platí také pro oblečení) - EMS/LSPD/LSSD/SAND.
 	<div class="chat"><span>PŘÍKLAD</span><span>Oblečení s viditelnou nášivkou státní složky</span></div>
@@ -170,6 +197,9 @@
 - Deadscreen - Hráč nesmí pasivně erpit místní EMS, dokud nemá povolený příkaz /respawn - jiný hráč z okolí může zraněnému hráči místní EMS zaerpit.
 - Korupce - Pro možnost hraní korupční postavy je třeba mít schválený ticket a-týmem.
 - Na serveru je zakázáno používání programů třetích stran a herních modifikací sloužících ke zvýhodnění se nad ostatními hráči (NoProp, NoBush, Cheaty apod.).
+### Bindy a automatizace v RP
+- Je zakázáno používat bindy (předem nastavené klávesové zkratky) pro účely RP, jako například předem připravené texty či akce. Veškeré RP situace musí být odehrány manuálně, aby byla zajištěna autenticita a plynulost herního zážitku.
+- Toto pravidlo se nevztahuje na bindy, které se nacházejí přímo v nastavení GTA, jako jsou například bindy pro ovládání vozidel nebo standardní herní funkce. Porušení tohoto pravidla může vést k postihu.
 
 
 ## Cayo Perico
@@ -190,36 +220,43 @@
 
 ![Mapa popisující dosah radarů na serveru](https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/944279104956559420/944279396318076928/letec.webp)
 
-## Obecné CK
+## CK (Character Kill)
 
-- K provedení CK musíte mít pádný důvod a provedené řádné RP!
-- Nelze udělit CK z důvodu, že má osoba příliš mnoho pokut.
-- V případě, kdy si hráč na místě neschválí CK, nelze v RP akci pokračovat a je nutné vytvořit ticket, kde uvede důvody pro udělení CK. Dále je třeba předložit důkazy, které nám ulehčí rozhodování v dané situaci. Schválený ticket je platný do udělení CK danému hráči.
-- Veškeré informace by měly být zapsané na frakčním Discordu, který musí být patřičně vedený. (Admin team musí mít k Discordu přístup)
-- Před plánovaným CK je zakázáno jakkoliv přepisovat / předávat majetek.
+**Pádný důvod:**  
+- K provedení CK (Character Kill) musí existovat pádný důvod a celé CK musí být odehráno v rámci řádného RP. CK nelze udělit například z důvodu, že má postava příliš mnoho pokut.  
 
+**Schvalování:**  
+- Všechna CK, včetně Self CK, musí být schválena ticketem admin týmu (AT). Ticket musí obsahovat jasné důvody a důkazy, které usnadní rozhodování. Pokud hráč na místě nesouhlasí s CK, není možné v RP akci pokračovat a je nutné situaci řešit pomocí ticketu. Schválený ticket je platný až do provedení CK.  
 
+**Frakční záznamy:**  
+- Veškeré informace o CK musí být zapsány na frakčním Discordu, který musí být řádně veden.
 
-## Self CK
+**Přepis majetku:**  
+- Před plánovaným CK je přísně zakázáno přepisovat nebo předávat jakýkoliv majetek.  
 
-- K provedení musí být pádný důvod(y).
-- Schválení je na každém hráči.
-- Před plánovaným CK je zakázáno jakkoliv přepisovat / předávat majetek.
-
-## Únosy
-
-- Po celou dobu příprav a samotného únosu jste povinni zajistit unášené osobě dostatek jídla a pití.
-- Od rukojmího (unesené osoby) je zakázáno vyžadovat/přijímat majetek, peníze z bankovního účtu nebo přepsání vozidla.
-- Maximální délka únosu/držení hráče je stanovena na 48 hodin reálného času.
-- Držení osob v interiérech na teleport je zakázáno!
+**Self CK:**  
+- Pro Self CK platí stejná pravidla jako pro běžné CK – musí být pádný důvod, schválený ticket AT a zákaz přepisování majetku.
 
 
-## Vykrádačky
+## Únosy  
 
-- Započetí vykrádání je zakázáno 30 minut před i po plánovaném restartu.
-- Maximální požadovaná částka za jednoho rukojmího je $15000.
-- Je zakázáno využívat NPC jako rukojmí.
+**Zajištění základních potřeb:**  
+- Po celou dobu příprav a samotného únosu jste povinni zajistit unášené osobě dostatek jídla a pití.  
 
+**Okrádání:**
+- Rukojmího (unesená osoba) může být okradena pouze o věci, které má u sebe. Není povoleno po ní požadovat přepis majetku nebo výběr peněz z bankomatu.  
+  
+**Doba únosu:**  
+- Osoba může být unesena pouze po dobu aktivního RP nebo déle na základě schválení ticketem AT.
+
+**Zákaz držení v interiérech na teleport:**  
+- Držení osob v interiérech, které jsou přístupné pouze prostřednictvím teleportu, je zakázáno.  
+
+
+## Nelegální aktivity
+
+- Započetí nelegálních aktivit je zakázáno 15 minut před i po plánovaném restartu serveru.  
+- Je zakázáno využívat NPC jako rukojmí.  
 
 ## Gross
 
@@ -234,9 +271,9 @@
 
 ## iGross
 
-- Toto pravidlo se týká výhradně nelegálních frakcí a skupin. (schválených i neschválených)
-- Pokud jste členem nelegální frakce/skupinky a odchytí si vás konkurenční nelegální frakce, automaticky je povolený Gross.
-- V případě že se vám Gross zdá, byť příliš nechutný, můžete si požádat o zmírněni Grossu (ne o zrušení) a protistrana tak musí učinit.
+- Toto pravidlo se vztahuje na postavy, které mají nějakou spojitost s nelegálními aktivitami, ať už jsou členy schválených nebo neschválených skupin.  
+- Pokud jste postavou s takovou spojitostí a odchytí vás konkurenční nelegální skupina, automaticky je povolený Gross.  
+- V případě, že se vám Gross zdá příliš drsný, můžete požádat o zmírnění Grossu (ne o zrušení), a protistrana tak musí učinit.  
 
 
 ## sGross (starý - SexRP)
@@ -244,18 +281,15 @@
 - Jedná se o styl Grossu, který se zaměřuje speciálně na sexuální aktivity.
 - Je nutné se na něj ptát zvlášť, povolení Grossu samotného nepovolí tento a naopak.
 
-## CopBaiting
-- Zákaz provokování státních složek
-- Jakýkoliv způsob baitění státních složek bude trestáno banem
 
 ## Multichar
 
-- Vlastníkem frakce můžete být v jednu chvíli pouze na jedné postavě.
-- Je zakázáno zařazení jedné postavy u více státních složek najednou. (např. Sheriff a EMS)
-- Je zakázáno být v jednu chvíli víckrát členem jedné frakci na různých postavách. Toto se vztahuje také na nelegální frakce, nesmí být u např. Cartel a Mafia.
-- Je zakázáno jakýmkoliv způsobem cokoliv převádět z jedné postavy na druhou.
-- Je zakázáno aby Vaše aktuální a předešlé postavy byly jakkoliv příbuzné.
-- Je zakázáno vytvářet nesmyslná jména jako jsou *"Denis Neerpil"* nebo *"Inju Reas"*
+- Vlastníkem frakce můžete být pouze na jedné postavě současně.  
+- Je zakázáno mít jednu postavu ve více státních složkách najednou.  
+- Nelze být zároveň členem jedné frakce/skupiny na různých postavách. Toto pravidlo platí i pro nelegální skupiny.  
+- Je zakázáno jakkoliv převádět věci mezi postavami.  
+- Vaše současné a předchozí postavy nesmí být jakkoliv příbuzné.  
+- Vytváření nesmyslných jmen, jako například *"Denis Neerpil"* nebo *"Inju Reas"*, je zakázáno.
 
 
 ## Passive
@@ -268,8 +302,7 @@
 	- Náměstí, parky a veřejná prostranství
 		
 - Nesmíte využít Passive ve svůj prospěch.
-- V dílnách je zakázáno využívat Passive k pracím na vozu. (opravy, úpravy, výměny)
-- Pro členy gangu je toto pravidlo změněno
+- Pro členy gangu se toto pravidlo mírně upravuje.
 
 
 ## Inventář
@@ -279,87 +312,46 @@
 Názorný příklad toho, co nedělat:
 	<div class="chat"><span>ME</span><span>Schovává zbraň pod sedačku</span></div>
 
-
-## Mobilní telefon
-
-- V případě, že se u hráče nachází předmět mobilního telefonu, je možné získat z telefonu informace, ke kterým má postava hráče běžně přístup
-- Přítomnost předmětu vyplývá z pravidla inventáře.
-	- SMS, Kontakty
-	- Historie volání
-	- Reddit, Twitter
-	- A jiné..
-	
-
+## Frakce a skupiny
+**Počet členů**
+- Jedna skupina/firma může mít maximálně 15 členů celkem. Toto pravidlo platí pro všechny skupiny, ať už se jedná o legální nebo nelegální.  
+- Pro schválené nelegální skupiny je možnost zažádat o navýšení maximálního počtu členů. Žádost o navýšení je nutné podat prostřednictvím ticketu na nelegálním DC. O schválení či zamítnutí rozhoduje vedení serveru a nemusí být automaticky schváleno.  
+- Každý člen skupiny/firmy je povinen být součástí frakčního/skupinového Discordu.
+- Toto pravidlo se nevztahuje na státní složky.
 
 ## Frakční Discord
 
-- Na každém frakčním Discord serveru musí být přítomen alespoň jeden člen vedení serveru nebo supervisor admin, kterému po připojení na tento server předáte vlastnictví tohoto serveru.
-- V případě, že se na frakčním Discordu nenachází vedení serveru nebo supervisor admin, budou veškeré informace, které jsou využívané v herním světě (IC), považovány jako Metagaming.
-- Každá frakce je povinna mít na svém frakčním Discordu místnost popisující způsob uložení důležitých dokumentů nebo informací (písemnosti, smlouvy, doklady). Záleží čistě na Vás a Vaší fantazii, jaký způsob si vyberete a zkomplikujete tak ostatním hráčům přístup k těmto informacím, každopádně způsob musí být OOC reálný a patřičně zaerpený!
-- Možné způsoby ukládání dokumentů:
-	- Kniha
-	- Databáze v PC
-	- A jiné..
-	
+- Na každém frakčním Discord serveru musí být přítomen alespoň jeden člen vedení serveru  nebo supervisor admin, kterému po připojení na tento server předáte vlastnictví.  
+- Pokud se na frakčním Discordu nenachází vedení serveru nebo supervisor admin, budou veškeré informace, které jsou využívány v herním světě (IC), považovány za Metagaming.  
+- **Frakční Discord** je možné využít pouze na PC v interiéru, kde se nachází model počítače.  
+- Zapisování a používání informací z Discordu je povoleno pouze na daném PC v interiéru. Není možné využívat jako aplikaci v telefonu nebo přenášet notebook s sebou.
+  
+**Nelegální skupiny** *-zahrnují jak organizované skupiny, tak jednotlivce erpící nelegální činnosti.*
+- Ke každé zapsané informaci je nutné připojit **user number** (jedinečný kód, který slouží k dohledání hráče pro AT) a fotografii osoby z místa "výslechu".  
+- Všechny zapsané informace do PC je nutné řádně zaerpit.
+- Každé zapsání musí být doloženo s příslušnými důkazy (fotografie, user number) a posláno do příslušné roomky na Discordu.  
 
-
-## IC na frakčních Discordech
-
-- IC chat bude fungovat skrze aplikaci, ke které budete mít přístup z mobilního zařízení - jiný hráč tedy může požadovat přístup v případě, kdy celá situace bude kvalitně zaerpena.
-- Každá frakce si může vytvořit svůj způsob zabezpečení mobilní aplikace, který bude fungovat jako překážka pro ostatní hráče a zamezí tak případnému zneužití důležitých informací.
-- Při vytváření a zabezpečování těchto "aplikací" je třeba mít stále na paměti pravidla Frakčních Discordů a jejich reálnost.
-
-
-# Komunitní pravidla
-Naše komunita je místem, kde se naši hráči a hráčky spojují a nechceme, aby je něco rozdělovalo. Za tímto účelem je zakázáno posílat obtěžující, hanlivé, ohrožující, soukromé, podvodné, invazivní, vulgární nebo pornografické příspěvky.
-Námi stanovená komunitní pravidla můžeme označit jako souhrn lidských hodnot a myšlení, které je založeno na zdravém rozumu každého z nás. Jakékoliv porušení stanovených pravidel bude trestáno bez možnosti odvolání!
-Doplňující body, které jsou v případě porušení trestány banem:
-
-- Toxicita
-- Rasismus
-- Spam
-- Advertising
-
-Tato pravidla jsou povinni dodržovat všichni uživatelé, kteří jsou členy komunity a přidávají jakékoli příspěvky nebo hrát na herních serverech portálu The Rise of Reflex.
 
 # Nelegální pravidla
-Pravidla vztahující se výhradně na členy nelegálních frakcí.
-
-## KOS 
-- na nelegálních územích neplatí KOS
-- jedná se o území - lokace drog, lokace předělu, nelegální část Cayo Perica
-- KOS platí na všech zbylých lokacích jako jsou nelegálové, krádež auta a prodej klenotů
+Pravidla vztahující se výhradně na skupinky lidí i jednotlivce, kteří jsou spojeni s nelegálními činnostmi.
 
 ## Snitching
-- zákaz jakéhokoliv snitchování a především pak členům státních složek
-- snitchování platí, jak na vaší frakci, tak i jakoukoliv jinou nelegální frakci
+- Zákaz jakéhokoliv snitchování, především členům státních složek.
+- Snitchování se vztahuje jak na vaši frakci, tak na jakoukoliv jinou nelegální skupinu nebo jednotlivce spojené s nelegálními činnostmi.
 
 ## Přestup do jiné nelegální frakce
-- přecházení z jedné nelegální frakce do druhé je zakázáno
-- výjimka může být udělena pouze prostřednictvím ticketu na nelegálním DC
+- Přecházení z jedné nelegální frakce do druhé je zakázáno.
+- Výjimka může být udělena pouze prostřednictvím ticketu na nelegálním DC.
 
 ## Spojování
-- jakékoliv spojování nelegálních oraganizací
-- zákaz jezdit společně na nelegální činnosti a jakékoliv akce ve 2 a více nelegálních frakcích
-- přes ticket na nelegálním DC se dá požádat o schválení akce, kde bude přítomno více nelegálních frakcí najednou
+- Jakékoliv spojování nelegálních skupin mezi sebou je zakázáno.
+- Zákaz jízdy společně na nelegální činnosti a jakékoliv akce ve 2 a více nelegálních skupinách nebo jednotlivcích.
+- Přes ticket na nelegálním DC se dá požádat o schválení akce, kde bude přítomno více nelegálních skupin a jednotlivců najednou.
 
 ## CK od Bosse
-- boss jakékoliv frakce má automatické schválené CK na své členy a 
-- boss může kdykoliv a kdekoliv udělit CK členům své frakce
-- vstupem do nelegální frakce si automaticky schvalujete i CK na svoji postavu
-- pokud nelegální frakce chytí některého hráče na svém hlavním sídle (Vila), může udělit dotyčnému hráči CK bez schválení (vytvoření ticketu), avšak pouze za přítomnosti bosse nelegální frakce. Výjimku v tomto případě tvoří státní složky (EMS/LSPD/LSSD/SAND/LFSD/DOJ)
-
-## Počet lidí ve frakci
-- jedna nelegální frakce může mít pouze 40 členů
-- + 10 členů v "brigádě"
-- každý člen je zároveň povinen být na frakčním DC dané nelegální organizace
-
-## Obecná pravidla
-- nelze udělit CK na nelegálních lokacích, pouze pokud si to někdo sám schválí a nebo prostřednictvím ticketu
-- mezi nelegálními frakcemi a skupinami platí iGross (automatické schválení Grossu)
-- nelze být ve 2 nelegálních frakcích najednou jak za jednu postavu, tak za 2 různé
-- na frakčním DC musí být minimálně jeden Supervisor Admin nebo Vedení serveru na kterého bude převedeno vlastnictví daného DC
-- po zabití vaší postavy se nemůžete vrátit zpět do stejné frakce/skupinky 14 dní
+- Boss jakékoliv skupiny má automaticky schválené CK na své členy.
+- Boss může kdykoliv a kdekoliv udělit CK členům své skupiny.
+- Vstupem do nelegální skupiny si automaticky schvalujete i CK na svou postavu.
 
 # FAQ a návody
 
