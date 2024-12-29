@@ -85,39 +85,112 @@ Tady je upravený text do formátu Markdown:
 
 ### ČÁST PRVNÍ - ZÁKLADNÍ PRÁVA A SVOBODY  
 
-#### § 1  
+#### ČLÁNEK 1
 (1) Všichni lidé se rodí svobodní a rovní v důstojnosti a právech. Jsou obdařeni rozumem a svědomím a mají vzájemně jednat v duchu bratrství.  
 
-#### § 2  
+#### ČLÁNEK 2 
 (1) Každý má všechna práva a všechny svobody vyhlášené v této deklaraci, bez ohledu na rasu, barvu, pohlaví, jazyk, náboženství, politické nebo jiné smýšlení, národnostní nebo sociální původ, majetek, rod nebo jiné postavení.  
 (2) Žádný rozdíl nebude činěn na základě politického, právního nebo mezinárodního postavení země nebo území, ke kterému osoba patří, zda je to země nebo území nezávislé, poručnické, nesamosprávné nebo podrobené jakémukoliv jinému omezení suverenity.  
 
-#### § 3  
+#### ČLÁNEK 3 
 (1) Každý má právo na život, svobodu a osobní bezpečnost.  
 
-#### § 4  
+#### ČLÁNEK 4 
 (1) Nikdo nesmí být držen v otroctví nebo v nevolnictví, všechny formy otroctví a obchodu s otroky jsou zakázány.  
 
-#### § 5  
+#### ČLÁNEK 5
 (1) Nikdo nesmí být mučen nebo podroben krutému, nelidskému nebo ponižujícímu zacházení nebo trestu.  
 
-#### § 6  
+#### ČLÁNEK 6
 (1) Každý má právo, aby byl všude uznán jeho právní status.  
 
-#### § 7  
+#### ČLÁNEK 7 
 (1) Všichni jsou si před zákonem rovni a mají právo na stejnou zákonnou ochranu bez jakékoliv diskriminace. Všichni mají právo na stejnou ochranu proti jakékoli diskriminaci, která porušuje tuto deklaraci, a proti jakémukoliv podněcování k takové diskriminaci.  
 
-#### § 8  
+#### ČLÁNEK 8 
 (1) Každý má právo na účinnou ochranu příslušnými vnitrostátními soudy proti činům porušujícím základní práva, která mu přiznává ústava nebo zákon.  
 
-#### § 9  
+#### ČLÁNEK 9 
 (1) Nikdo nesmí být svévolně zatčen, zadržen nebo vyhoštěn.  
 
-#### § 10  
+#### ČLÁNEK 10  
 (1) Každý má stejné právo, aby byl spravedlivě a veřejně vyslechnut nezávislým a nestranným soudem, který rozhoduje o jeho právech a povinnostech a o jakémkoli trestním obvinění vzneseném proti němu.  
 
-#### § 11  
+#### ČLÁNEK 11 
 (1) Každý, kdo je obviněn z trestného činu, má právo, aby byl považován za nevinného, dokud není zákonným postupem prokázána jeho vina ve veřejném procesu, při kterém měl všechny záruky nezbytné pro jeho obhajobu.  
 (2) Nikdo nesmí být shledán vinným ze spáchání jakéhokoliv trestného činu spočívajícího v řízení nebo opomenutí, které v době, kdy bylo spácháno, nebylo trestným činem podle vnitrostátního nebo mezinárodního práva. Rovněž nesmí být uložen těžší trest než trest, který mohl být uložen v době, kdy byl trestný čin spáchán.  
 
 ---  
+## Zákon č. 11/2022
+*Povinnosti občana*
+
+### ČÁST PRVNÍ - ZÁKLADNÍ POVINNOSTI
+
+- Následující body jsou základní povinnosti osob které se nachází na území spadajícím pod jurisdikci San Andreas, které mají platnost ve všech situacích:
+
+a) na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
+b) poslechnout pokyny vydané úřední osobou
+c) podrobit se testu na zjištění přítomnosti omamných a psychotropních látek v organismu.
+d) podrobit se testu na zjištění přítomnosti alkoholu v organismu.
+e) poskytnout nezbytnou první zdravotní pomoc.
+f) dodržovat zákoník státu San Andreas, který nabyl účinnosti dne 02/06/2022 ve 20:22 hodin.
+g) mít ve svém držení všechny nezbytné doklady umožňující legální vstup na území nebo pobyt na území státu San Andreas.
+h) respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
+
+---  
+## Zákon č. 1/2024
+*Zákon o trestných činech*
+
+### **§ 1 Trestný čin**
+
+1. Trestným činem je protiprávní čin, který zákon označuje za trestný.
+2. K trestní odpovědnosti za trestný čin je třeba úmyslného zavinění, nestanoví-li zákon výslovně, že postačí zavinění z nedbalosti.
+
+#### **Zavinění**
+
+### **§ 2 Úmysl**
+
+1. Trestný čin je spáchán úmyslně, jestliže pachatel
+
+  a) chtěl způsobem uvedeným v zákoně porušit nebo ohrozit zájem chráněný zákonem, nebo
+  
+  b) věděl, že svým jednáním může takové porušení nebo ohrožení způsobit, byl s tím srozuměn.
+  
+**2.** Srozuměním se rozumí i smíření pachatele s tím, že způsobem uvedeným v zákoně může porušit nebo ohrozit zájem chráněný zákonem.
+
+### **§ 3 Nedbalost**
+1. Trestný čin je spáchán z nedbalosti, jestliže pachatel
+   
+  a) věděl, že může způsobem uvedeným v zákoně porušit zájem chráněný takovým zákonem, ale spoléhal, že takové porušení nezpůsobí, nebo
+  
+  b) nevěděl, že svým jednáním může takové porušení způsobit, ač o tom vědět měl a mohl.
+  
+3. Trestný čin je spáchán z hrubé nedbalosti k zájmům chráněným trestním zákonem.
+
+## Zákon č. 2/2024
+*Zákon o přestupcích*
+
+### **§ 1 Přestupek**
+
+- Přestupkem je zaviněné jednání, které porušuje nebo ohrožuje zájem společnosti a je za přestupek výslovně označeno v tomto nebo jiném zákoně.
+
+**Zavinění**
+
+### **§ 2**
+- K odpovědnosti za přestupek postačí zavinění z nedbalosti, nestanoví-li zákon výslovně, že je třeba úmyslného zavinění.
+
+### **§ 3**
+
+1. Přestupek je spáchán z nedbalosti, jestliže pachatel
+
+  a) věděl, že svým jednáním může porušit zájem chráněný zákonem, ale spoléhal na to, že tento zájem neporuší nebo
+  
+  b) nevěděl, že svým jednáním může porušit zájem chráněný zákonem, ač to vědět měl a mohl.
+  
+2. Přestupek je spáchán úmyslně, jestliže pachatel
+   
+  a) chtěl svým jednáním porušit zájem chráněný zákonem nebo
+  
+  b) věděl, že svým jednáním může ohrozit zájem chráněný zákonem.
+  
+3. Jednáním se rozumí i opomenutí takového konání, k němuž byl pachatel povinen.
