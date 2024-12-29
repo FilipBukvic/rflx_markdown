@@ -23,7 +23,8 @@ Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo ministerstvo veške
 
 ## **Zákony a vyhlášky**
 
-### **Zákon č. 01/2022GOV - O organizaci státní správy**
+### Zákon č. 01/2022
+*O organizaci státní správy*
 
 #### **§1 Státní orgány San Andreas**
 Stát San Andreas disponuje těmito orgány a správami:
@@ -74,3 +75,49 @@ Stanovuje pravidla pro obžalobu, zaručuje spravedlivý proces a zakazuje dvoj�
 
 ### **Šestý dodatek:**
 Chrání právo na rychlý a veřejný proces, právo na obhájce a konfrontaci svědků.
+
+Tady je upravený text do formátu Markdown:
+
+---
+
+## Zákon č. 10/2022  
+*Lidská práva*  
+
+### ČÁST PRVNÍ - ZÁKLADNÍ PRÁVA A SVOBODY  
+
+#### § 1  
+(1) Všichni lidé se rodí svobodní a rovní v důstojnosti a právech. Jsou obdařeni rozumem a svědomím a mají vzájemně jednat v duchu bratrství.  
+
+#### § 2  
+(1) Každý má všechna práva a všechny svobody vyhlášené v této deklaraci, bez ohledu na rasu, barvu, pohlaví, jazyk, náboženství, politické nebo jiné smýšlení, národnostní nebo sociální původ, majetek, rod nebo jiné postavení.  
+(2) Žádný rozdíl nebude činěn na základě politického, právního nebo mezinárodního postavení země nebo území, ke kterému osoba patří, zda je to země nebo území nezávislé, poručnické, nesamosprávné nebo podrobené jakémukoliv jinému omezení suverenity.  
+
+#### § 3  
+(1) Každý má právo na život, svobodu a osobní bezpečnost.  
+
+#### § 4  
+(1) Nikdo nesmí být držen v otroctví nebo v nevolnictví, všechny formy otroctví a obchodu s otroky jsou zakázány.  
+
+#### § 5  
+(1) Nikdo nesmí být mučen nebo podroben krutému, nelidskému nebo ponižujícímu zacházení nebo trestu.  
+
+#### § 6  
+(1) Každý má právo, aby byl všude uznán jeho právní status.  
+
+#### § 7  
+(1) Všichni jsou si před zákonem rovni a mají právo na stejnou zákonnou ochranu bez jakékoliv diskriminace. Všichni mají právo na stejnou ochranu proti jakékoli diskriminaci, která porušuje tuto deklaraci, a proti jakémukoliv podněcování k takové diskriminaci.  
+
+#### § 8  
+(1) Každý má právo na účinnou ochranu příslušnými vnitrostátními soudy proti činům porušujícím základní práva, která mu přiznává ústava nebo zákon.  
+
+#### § 9  
+(1) Nikdo nesmí být svévolně zatčen, zadržen nebo vyhoštěn.  
+
+#### § 10  
+(1) Každý má stejné právo, aby byl spravedlivě a veřejně vyslechnut nezávislým a nestranným soudem, který rozhoduje o jeho právech a povinnostech a o jakémkoli trestním obvinění vzneseném proti němu.  
+
+#### § 11  
+(1) Každý, kdo je obviněn z trestného činu, má právo, aby byl považován za nevinného, dokud není zákonným postupem prokázána jeho vina ve veřejném procesu, při kterém měl všechny záruky nezbytné pro jeho obhajobu.  
+(2) Nikdo nesmí být shledán vinným ze spáchání jakéhokoliv trestného činu spočívajícího v řízení nebo opomenutí, které v době, kdy bylo spácháno, nebylo trestným činem podle vnitrostátního nebo mezinárodního práva. Rovněž nesmí být uložen těžší trest než trest, který mohl být uložen v době, kdy byl trestný čin spáchán.  
+
+---  
