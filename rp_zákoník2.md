@@ -163,7 +163,7 @@ h) respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná st
   
   b) věděl, že svým jednáním může takové porušení nebo ohrožení způsobit, byl s tím srozuměn.
   
-**2.** Srozuměním se rozumí i smíření pachatele s tím, že způsobem uvedeným v zákoně může porušit nebo ohrozit zájem chráněný zákonem.
+2. Srozuměním se rozumí i smíření pachatele s tím, že způsobem uvedeným v zákoně může porušit nebo ohrozit zájem chráněný zákonem.
 
 ### **§ 3 Nedbalost**
 1. Trestný čin je spáchán z nedbalosti, jestliže pachatel
@@ -278,7 +278,7 @@ c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce
 
 5. Při rozhodování o výši trestu se přihlíží k míře způsobené škody, opakovanosti jednání a úmyslu pachatele.
 
-### **§ 9 Loupež**  
+### **§ 15 Loupež**  
 
 1. Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
 
@@ -289,17 +289,17 @@ c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce
    c) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
 
 
-### **§ 10 Neuposlechnutí výzvy úřední osoby**
+### **§ 16 Neuposlechnutí výzvy úřední osoby**
 
 1. Neuposlechnutí výzvy se rozumí úmyslné nebo vědomé ignorování zákonné výzvy, pokynu nebo nařízení úřední osoby nebo státní instituce, které bylo vydáno v souladu s právními předpisy. Toto jednání je klasifikováno jako přestupek, za který lze uložit pokutu do výše 3.000$.
 
    
-### **§ 11 Křivá výpověď**
+### **§ 17 Křivá výpověď**
 
 1. Každá osoba, která vědomě poskytne nepravdivé informace nebo podá falešnou výpověď úřadům, včetně policejním složkám nebo státním zástupcům, o spáchání trestného činu nebo přestupku, se dopouští přestupku za který lze uložit pokutu do výše 4.000$
     
 
-### **§ 12 Krádež vozidla**
+### **§ 18 Krádež vozidla**
 
 1. Vloupání do vozidla nebo neoprávněné zmocnění se vozidla, bez ohledu na jeho hodnotu.
    
@@ -308,12 +308,12 @@ c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce
    b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody na jeden rok až pět let a pokutou do výše 6.000$.
 
 
-### **§ 13 Nelicencovaný prodej zbraní**
+### **§ 19 Nelicencovaný prodej zbraní**
 
 1.  Prodej, pronájem nebo převod střelných zbraní, munice či doplňků na střelné zbraně bez platné licence nebo povolení je trestný čin, za který hrozí trest odnětí svobody na jeden až tři roky a pokutou do výše 4.000$
    
 
-### **§ 14 Pronásledování**
+### **§ 20 Pronásledování**
 1. Kdo jiného dlouhodobě pronásleduje tím, že vyhledává jeho osobní blízkost nebo jej sleduje.
    
    a) Dlouhodobé pronásledování, sledování a obtěžování jiné osoby je přestupek, za který lze uložit pokutu do výše 4.000$.
@@ -321,36 +321,36 @@ c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce
    b) V případě, kdy toto jednání způsobí důvodnou obavu o život nebo zdraví osoby nebo jejích blízkých, jedná se o trestný čin, který se trestá odnětím svobody na jedno až pět let a pokutou do výše 7.000$.
 
 
-### **§ 15 Open Carry**
+### **§ 21 Open Carry**
 1. Zakazuje se otevřená přeprava střelných zbraní na veřejném prostranství, včetně nošení viditelně odhalené a nabité zbraně. Toto jednání se klasifikuje jako přestupek, který se trestá pokutou až do výše 3.500$
 2. Toto ustanovení se nevztahuje na státní ozbrojené složky při výkonu jejich povinností.
 
 
-### **§ 16 Spolupachatelství**
+### **§ 22 Spolupachatelství**
 1. Každá osoba, která se podílí na spáchání trestného činu nebo přestupku, ať už provedením skutku nebo poskytnutím pomoci, je považována za spolupachatele. Spolupachatelé čelí stejnému trestu jako ten, kdo trestný čin nebo přestupek spáchal.
 
 
-### **§ 17 Zahalování **
+### **§ 23 Zahalování **
 1. Částečné nebo úplné zahalování obličeje za účelem skrytí identity na veřejných shromážděních a v prostorách státních institucí představuje přestupek, který se trestá pokutou až do výše 1.500$.
 
 
-### **§ 18 Křivá přísaha**
+### **§ 24 Křivá přísaha**
 1.Křivá přísaha je trestný čin, kdy osoba úmyslně podává nepravdivé informace po složení přísahy před tribunálem, úředníkem nebo jinou příslušnou osobou. Tento čin se trestá odnětím svobody na 1 až 3 roky a pokutou do výše 3.000$
 
-### **§ 19 Nosení balistické vesty**
+### **§ 25 Nosení balistické vesty**
 
 1. Kdo nosí balistickou vestu na veřejném místě nebo v místech s veřejným přístupem, dopouští se přestupku, který se trestá pokutou do výše 4.000$.
 
-### **§ 20 Ovlivňování svědků**
+### **§ 26 Ovlivňování svědků**
 1. Kdo vědomě brání nebo odrazuje svědky nebo oběti od účasti na soudních řízeních nebo vyšetřování, dopouští se trestného činu, který se trestá odnětím svobody od 1 roku do 4 let a pokutou do výše 5.000$.
    
 
-### **§ 21 Pohrdání soudem**
+### **§ 27 Pohrdání soudem**
 1. Neřízené, drzé nebo neúctivé chování během soudního jednání, které narušuje průběh jednání nebo respekt k soudní autoritě, je přestupek, který se trestá pokutou do výše 3.000$.
 2. Úmyslné neuposlechnutí podmínek soudního příkazu nebo odpor vůči zákonnému postupu je přestupek, který se trestá pokutou do výše 3.000$.  
 
 
-### **§ 22 Korupce**
+### **§ 28 Korupce**
 
 1. Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi nebo porotci s úmyslem ovlivnit jeho rozhodnutí o jakékoli věci, je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou do výše 2.500$.
 
@@ -358,10 +358,10 @@ c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce
 
 3. Příslušník bezpečnostního sboru nebo jiný státní úředník, který přijme úplatek s úmyslem ovlivnit své rozhodnutí nebo výkon své pravomoci, se dopouští trestného činu, který se trestá odnětím svobody od 1 roku do 10 let a pokutou do výše 50.000$.
 
-### **§ 23 Zneužití tísňové linky**
+### **§ 29 Zneužití tísňové linky**
 1. Záměrné telefonáty nebo zasílání SMS na tísňovou linku bez důvodu, kdy nedochází k ohrožení života, zdraví, majetku nebo veřejného pořádku, je přestupek, který se trestá pokutou až do výše 7.000$.
    
-**§ 24 Narušení klidu**
+**§ 30 Narušení klidu**
 1. Kdo se dopustí jednoho z následujících jednání, dopustí se přestupku a za jednání podle odstavce 1 a) až c) se ukládá pokuta do výše 4.000$:
    
 a) úmyslně se bije na veřejném místě nebo vyzývá jinou osobu k boji na veřejném prostranství,
