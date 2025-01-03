@@ -126,21 +126,21 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
 
 - Následující body jsou základní povinnosti osob které se nachází na území spadajícím pod jurisdikci San Andreas, které mají platnost ve všech situacích:
 
-a) na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
-
-b) poslechnout pokyny vydané úřední osobou
-
-c) podrobit se testu na zjištění přítomnosti omamných a psychotropních látek v organismu.
-
-d) podrobit se testu na zjištění přítomnosti alkoholu v organismu.
-
-e) poskytnout nezbytnou první zdravotní pomoc.
-
-f) dodržovat zákoník státu San Andreas, který nabyl účinnosti dne 02/06/2022 ve 20:22 hodin.
-
-g) mít ve svém držení všechny nezbytné doklady umožňující legální vstup na území nebo pobyt na území státu San Andreas.
-
-h) respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
+   a) na žádost úřední osoby prokázat svou totožnost pomocí jakéhokoliv právně uznávaného dokladu.
+   
+   b) poslechnout pokyny vydané úřední osobou
+   
+   c) podrobit se testu na zjištění přítomnosti omamných a psychotropních látek v organismu.
+   
+   d) podrobit se testu na zjištění přítomnosti alkoholu v organismu.
+   
+   e) poskytnout nezbytnou první zdravotní pomoc.
+   
+   f) dodržovat zákoník státu San Andreas, který nabyl účinnosti dne 02/06/2022 ve 20:22 hodin.
+   
+   g) mít ve svém držení všechny nezbytné doklady umožňující legální vstup na území nebo pobyt na území státu San Andreas.
+   
+   h) respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
 
 ---  
 
@@ -151,23 +151,23 @@ h) respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná st
 ### **§ 1 Ublížení na zdraví**
 1. Ublížením na zdraví se rozumí porušení normálních tělesných nebo duševních funkcí za pomocí zbraně, nikoli jen po krátkou dobu. 
    
-a) Za neúmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 1 roku do 2 let.
-
-b) Za úmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 2 let do 5 let a pokutou do výše 3.000$.
-
-c) Za úmyslné ublížení na zdraví s použitím střelné zbraně se trestá odnětím svobody od 5 let do 10 let a pokutou do výše 5.000$.
-
-d) Za úmyslné ublížení na zdraví proti úřední osobě nebo členům záchranných složek se trestá odnětím svobody od 5 let do 15 let a pokutou do výše 7.000$.
+   a) Za neúmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 1 roku do 2 let.
+   
+   b) Za úmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 2 let do 5 let a pokutou do výše 3.000$.
+   
+   c) Za úmyslné ublížení na zdraví s použitím střelné zbraně se trestá odnětím svobody od 5 let do 10 let a pokutou do výše 5.000$.
+   
+   d) Za úmyslné ublížení na zdraví proti úřední osobě nebo členům záchranných složek se trestá odnětím svobody od 5 let do 15 let a pokutou do výše 7.000$.
 
 
 ### **§ 2 Napadení**
 1. Napadením se rozumí fyzické, verbální nebo psychické napadení jiné osoby.
 
-a) Jednání, které je klasifikováno jako přestupek, se trestá pokutou do výše 2.500$.
-
-b) Přestupek spáchaný vůči úřední osobě je trestán pokutou do výše 4.500$.
-
-c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný čin, za který hrozí trest odnětí svobody na 1 až 5 let a pokutou do výše 6.000$.
+   a) Jednání, které je klasifikováno jako přestupek, se trestá pokutou do výše 2.500$.
+   
+   b) Přestupek spáchaný vůči úřední osobě je trestán pokutou do výše 4.500$.
+   
+   c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný čin, za který hrozí trest odnětí svobody na 1 až 5 let a pokutou do výše 6.000$.
 
 
 ### **§ 3 Vražda**
@@ -175,11 +175,11 @@ c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný 
 2. Kdo jiného úmyslně usmrtí s rozmyslem nebo po předchozím uvážení, bude potrestán odnětím svobody na doživotí.
 3. Odnětím svobody na doživotí bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo 2
 
-a) na dvou nebo více osobách,
-
-b) opětovně,
-
-4. Příprava je trestná.
+   a) na dvou nebo více osobách,
+   
+   b) opětovně,
+   
+   4. Příprava je trestná.
 
 
 ### **§ 4 Nedovolené ozbrojování**
@@ -204,11 +204,11 @@ b) opětovně,
 ### **§ 7 Neoprávněný vstup**
 1. Neoprávněným vstupem se rozumí vniknutí do uzavřeného prostoru, na pozemek či do nemovitosti bez povolení, pokud je prostor ohraničen plotem nebo je opatřen viditelným označením typu "Zákaz vstupu".
    
-a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
-
-b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
-
-c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
+   a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
+   
+   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
+   
+   c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
 
 
 ### **§ 8 Krádež**
@@ -301,11 +301,11 @@ c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce
 ### **§ 24 Narušení klidu**
 1. Kdo se dopustí jednoho z následujících jednání, dopustí se přestupku a za jednání podle odstavce 1 a) až c) se ukládá pokuta do výše 4.000$:
    
-a) úmyslně se bije na veřejném místě nebo vyzývá jinou osobu k boji na veřejném prostranství,
-
-b) svévolně a bezdůvodně obtěžuje jinou osobu hlasitým hlukem,
-
-c) používá na veřejném místě urážlivá slova, která by mohla vyvolat okamžitou násilnou reakci.
+   a) úmyslně se bije na veřejném místě nebo vyzývá jinou osobu k boji na veřejném prostranství,
+   
+   b) svévolně a bezdůvodně obtěžuje jinou osobu hlasitým hlukem,
+   
+   c) používá na veřejném místě urážlivá slova, která by mohla vyvolat okamžitou násilnou reakci.
 
 
 ### **§ 25 Nedostavení se na předvolání**
