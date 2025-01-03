@@ -384,11 +384,13 @@ c) používá na veřejném místě urážlivá slova, která by mohla vyvolat o
 2. Lov bez licence a bez registrace zbraně určené k lovu - Lupara. Je trestný čin, který se trestá odnětím svobody od jednoho do tří let.
    
    a) V případě opakovaného porušení zákona je sazba od dvou do pěti let a pokuta do výše 3.000$.
+   
 4. Lov zvěře se zbraní, která není určena k lovu je přestupek, který se trestá pokutou do výše 4.500$.
 
 
 ### **§40 Nelegální lov ryb**
 1. Lov ryb bez licence je trestný čin, který se trestá odnětím svobody od jednoho do dvou let, pokutou do výše 3.000$, zákazem lovu na určitou dobu.
+   
    a) V případě opakovaného porušení zákona je sazba od dvou do tří let a pokutou do výše 5.000$.
 
 
@@ -425,3 +427,180 @@ c) používá na veřejném místě urážlivá slova, která by mohla vyvolat o
 ### **§43 Nelegální rozebírání vozidla**
 1. Kdo bez příslušného povolení provede nelegální rozebrání vozidla, dopouští se přestupku. Za tento přestupek hrozí pokuta do výše 2.000$.
 2. Pokud dojde k opakovanému nelegálnímu rozebírání vozidla v krátkém časovém období (do 3 dnů), jedná se o trestný čin. Trest za tento trestný čin zahrnuje odnětí svobody v délce jeden až dva roky a pokutu do výše 3.000$.
+
+   
+### **§44 Obecné ohrožení**
+1. Ohrožení života nebo zdraví pěti a více osob, které je spojeno s rizikem smrti či těžké újmy na zdraví.
+
+   a) Ohrožení způsobené během řízení vozidla je přestupek, za který může být uložena pokuta do výše 3.000$.
+   
+   b) Ohrožení způsobené zbraní je trestný čin, za který hrozí trest odnětí svobody na jeden až tři roky a pokuta do výše 3.500$.
+   
+
+### **§45 Hanobení ostatků**
+- Otevření hrobu, hrobky nebo urny s lidskými ostatky bez oprávnění je přestupek, který se trestá pokutou do výše 2.500$.
+
+
+### **§46 Neoprávněná manipulace**
+- Manipulace s dopravním značením nebo světelným zařízením je přestupek, trestaný pokutou do 3.000$.
+
+  
+### **§47 Znásilnění**
+- Pohlavní styk nebo jiná obdobná sexuální aktivita bez souhlasu je trestný čin, trestaný odnětím svobody od pěti do deseti let a pokutou do 10.000$.
+
+
+### **§49 Neposkytnutí první pomoci**
+- Neposkytnutí první pomoci nebo ujetí od místa nehody je trestný čin, trestaný odnětím svobody od jednoho u do pěti let a pokutou do 6.000$.
+
+
+### **§50 Nedovolené ozbrojování**
+1. Vlastnictví, a užívání jakékoli střelné zbraně, bez platného osvědčení.
+
+   a) Držení zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
+   
+   b) Zbraně tohoto typu nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
+   
+   c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek čin, trestaný pokutou do výše 3.000$.
+
+
+---  
+
+## Zákon č. 2/2024
+*Zákon o silničním provozu*
+
+
+### **§1 Rychlost jízdy**
+1. Řidič smí jet maximální rychlostí, kterou povoluje zákon: 50 mph ve městě, 80 mph mimo město a 80 mph na dálnici.
+
+   a) Překročení rychlosti o 1-20 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 700$.
+   
+   b) Překročení rychlosti o 21-34 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 1200$.
+   
+   c) Překročení rychlosti nad 35 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 1500$ a odebráním řidičského oprávnění na jeden den.
+
+
+### **§2 Řízení vozidla bez řp**
+1. Řízení vozidla bez příslušného oprávnění
+
+   a) Je klasifikováno jako přestupek, který se trestá pokutou do výše 2.000$.
+   
+   b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$.
+
+
+### **§3 Označení vozidla**
+- Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
+
+
+### **§4 Jízda pod vlivem**
+- Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky je přestupek, který se trestá pokutou do výše 2.500$ a odebráním řidičského oprávnění po dobu dvou dnů.
+
+
+### **§5 Nerespektování dopravního značení**
+- Řidič je povinen řídit se vodícími značkami a světelnými signály na pozemních komunikacích, porušení je klasifikováno jako přestupek, je trestáno pokutou do výše 750$.
+
+
+### **§6 Nelegální úprava vozidla**
+- Nelegální úprava vozidla zahrnuje změny, které ohrožují bezpečnost provozu nebo jsou v rozporu s platnými právními předpisy. Nelegální úprava vozidla je přestupek, který se trestá pokutou až 1.000$. Nelegálními úpravami jsou:
+
+   a) Červené a modré podsvícení vozidla
+   
+   b) Zatmavení čelního a předních bočních skel tak, že do vozidla není vidět za běžných okolností
+   
+   c) Zabarvení předních světlometů jiným než povolenými barvami
+
+
+### **§7 Technický stav vozidla**
+- Provoz vozidla v nebezpečném stavu nebo bez odpovídajícího vybavení je zakázán. Řízení takového vozidla je trestáno pokutou až 1.500$ a odtažením vozidla.
+
+
+### **§8 Jízda v protisměru**
+- Jízda v protisměru je přestupek, který se trestá pokutou do výše 500$.
+
+
+### **§9 Přejíždění přes plnou čáru**
+- Přejíždění přes plnou čáru je přestupek, který se trestá pokutou až 500$.
+
+### **§10 Řízení motocyklu bez ochranné přilby**
+- Při řízení motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
+
+
+
+---  
+
+## Zákon č. 3/2024
+*Zákon o zdraví a bezpečnosti*
+
+**Marihuana**
+
+### **§1 Pěstování marihuany**
+1. Pěstování marihuany je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+   
+   a) Pěstování marihuany v množství do 10 rostlin je trestným činem, který se trestá odnětím svobody na dobu od jednoho do čtyř let a pokutou do výše 12.000 $.
+
+   b) Pěstování marihuany v množství od 11 do 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od tří do šesti let a pokutou do výše 20.000 $.
+
+   c) Pěstování marihuany v množství nad 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 40.000 $.
+
+   
+### **§2 Držení marihuany**
+1. Držení marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+
+   a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou do výše 2.000$.
+
+   b) Držení marihuany v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 6.000$.
+
+   c) Držení marihuany v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od čtyř do desti let pokutou do výše 15.000$.
+
+   d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let pokutou do výše 50.000$.
+
+
+### **§3 Prodej marihuany**
+1. Prodej marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+
+   a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do čtyř let a pokutou do výše 7.500$.
+   
+   b) Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti do osmi let a pokutou do výše 15.000$.
+   
+   c) Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od osmi do dvanáci let a pokutou do výše 25.000$.
+   
+   d) Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 50.000$.
+
+
+**Kokain & Heroin**
+
+### **§4 Výroba kokainu nebo heroinu**
+1. Výroba kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+
+   a) Výroba kokainu nebo heroinu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do pěti let a pokutou do výše 15.000$.
+   
+   b) Výroba kokainu nebo heroinu v množství od 51 gramů do 300 gramů je trestný čin, který se trestá odnětím svobody od čtyř do deseti let a pokutou do výše 45.000$.
+   
+   c) Výroba kokainu nebo heroinu v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti let po doživotí a pokutou do výše 150.000$.
+
+
+### **§5 Prodej kokainu nebo heroinu**
+1. Prodej kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+
+   a) Prodej kokainu nebo heroinu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od dvou do pěti let a pokutou do výše 25.000$.
+   
+   b) Prodej kokainu nebo heroinu v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 45.000$.
+   
+   c) Prodej kokainu nebo heroinu v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 100.000$.
+   
+   d) Prodej kokainu nebo heroinu v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti do dvacetipěti let a pokutou do výše 150.000$.
+
+
+### **§6 Držení kokainu nebo heroinu**
+1. Držení kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+   
+   a) Držení kokainu nebo heroinu v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do čtyř let a pokutou do výše 10.000$.
+   
+   b) Držení kokainu nebo heroinu v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od dvou let do pěti let a pokutou do výše 25.000$.
+   
+   c) Držení kokainu nebo heroinu v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti let do patnácti let a pokutou do výše 60.000$.
+   
+   d) Držení kokainu nebo heroinu v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti let do dvaceti let a pokutou do výše 100.000$.
+   
+
+
+
