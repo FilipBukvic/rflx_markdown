@@ -830,6 +830,504 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 - Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
 
+---  
+
+## Zákon č. 8/2024
+*Zákon o soudnictví a státní správě.*
+
+
+### **§1 Zásady činnosti Department Of Justice**
+Zajišťuje rozhodování v:
+
+   a) mimořádných opravných prostředcích dle zákonů o řízení před soudy
+   
+   b) jiných případech podle zvláštních právních předpisů
+   
+   c) soudních a právních sporech podle zákonů USA
+   
+   d) trestních věcech dle zákonů o trestním řízení
+   
+   e) případech pochybení zaměstnanců státní správy
+   
+   2. Department Of Justice dále rozhoduje o:
+   
+   a) organizaci a řízení činnosti státních složek
+   
+   b) degradaci, odvolání či rozvázání pracovního poměru členů státních složek
+   
+   c) úpravě zákonů a vyhlášek
+   
+   d) nouzovém stavu
+   
+   e) notářských úkonech
+   
+   f) žalobách občanů USA a zahraničních činitelů
+   
+   g) zrušení zákonů a aktů státní moci
+   
+   h) věcech soudních a advokátních komor
+   
+   i) kontrole a vyšetřování dodržování předpisů ve státní a federální sféře
+   
+   j) soudních řízeních právnických osob
+
+
+### **§2 Platnost advokátní licence**
+1. Advokátní činnost v San Andreas může vykonávat pouze osoba s platnou licencí vydanou Department of Justice, jejíž platnost začíná od 1. ledna 2025.
+
+
+### **§3 Zrušení advokátní licence**
+
+   a) podání vyhlášky ke změně zákona o platnosti udělené licence (obnovována 1x ročně).
+   
+   b) byl prokázán jeden z bodů §4 Nezpůsobilost právníka/advokáta k výkonu funkce
+
+
+### **§4 Nezpůsobilost advokáta k výkonu funkce**
+
+1. Právník/advokát je nezpůsobilý vykonávat svou funkci, jestliže:
+
+   a) mu nepříznivý zdravotní stav dlouhodobě nedovoluje vykonávat jeho funkci
+   
+   b) byl pravomocně odsouzen za trestný čin
+   
+   c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
+
+### **§5 žádost o advokátní licence**
+1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 30 000 USD.
+
+2. Koncipientní / advokátní licence se skládá z:
+
+   a) z písemné a ústní části
+   
+   b) z psychologického vyšetření.
+   
+   c) z trestní bezúhonnosti
+
+   d) doložení o splnění podmínky získání vysokoškolského vzdělání v oboru právo
+
+3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 5 000 USD. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 30 000 USD.
+
+
+### **§6 Jurisdikce - advokát**
+1. Advokát je právník, který:
+
+   a) složil advokátní zkoušku a je zapsán u advokátní komory
+   
+   b) pracuje v souladu se zákonem
+   
+   c) poskytuje právní služby
+   
+   d) může zastupovat žalobce i obžalovaného
+   
+   e) vykonává svobodné povolání a stanovuje si vlastní ceník
+
+2. Počet advokátů není nijak omezen. Seznam advokátů je veřejný.
+
+
+### **§7 Trestněprávní imunita**
+1. Osoby s trestně právní imunitou jsou povinné se na místě prokázat platnými doklady o trestněprávní imunitě. Pod trestněprávní imunitu spadají:
+
+   a) zastupitelé Government State of San Andreas
+   
+   b) zastupitelé Department of Commerce
+   
+   c) zastupitelé Department of Labor
+   
+   d) zastupitelé Department of Justice
+   
+   e) zastupitelé Department of Finance
+   
+   f) členové soudní komory
+
+2. Při přestupku osob s trestněprávní imunitou mají členové LSSD, LSPD a DEA pravomoc pouze identifikovat osobu a sepsat záznam o přestupku, který předají Department of Justice k posouzení.
+
+
+### **§8 Trestní stíhání osob s trestněprávní imunitou**
+1. Při spáchání trestného činu ze strany osob s trestněprávní imunitou mají členové státních složek LSSD,LSPD,DEA, po identifikaci osoby pravomoc přestupek řešit. Musí však osobu zajistit:
+
+   a) při trestném činu
+   
+   b) bezprostředně poté
+
+2. V případě bodů a) i b) mohou příslušné státní složky osobu omezit na osobní svobodě. Ihned po omezení osoby na osobní svobodě je pro předání soudu nutné získat souhlas od Department Of Justice, která bude pomocí komise rozhodovat v dané trestní věci.
+
+
+**Postup soudního líčení**
+
+
+### **§9 Zásada řádného zákonného procesu**
+- Každý má právo na to, aby nebyl svévolně stíhán. Stíhání musí být prováděno v souladu se zásadami spravedlivého procesu, jak je stanoveno zákonem.
+
+
+### **§10 Zásada obžalovací**
+- K zahájení trestního řízení před soudem Department of Justice je nezbytné podání obžaloby. Soud je vázán obsahem obžaloby a může projednávat pouze skutky, které jsou v ní specifikovány. Veřejnou žalobu v řízení před soudem zastupuje státní zástupce - zvolená osoba orgánu státní správy.
+
+
+### **§11 Zásada ústnosti**
+- Soudní líčení je založeno na ústním projednávání, při kterém se vyslýchají svědci, znalci a obviněný. Veškeré výpovědi a další důkazy musí být zaznamenány ve spise.
+
+
+###** §12 Zásada bezprostřednosti**
+- Při rozhodování v hlavním líčení smí Department Of Justice přihlédnout jen k těm důkazům, které byly při tomto jednání provedeny. Rozhoduje se tedy na základě provedených důkazů, které by měly splňovat podmínku co největší blízkosti zjišťované skutečnosti.
+
+
+### **§13 Zásada presumpce neviny**
+- Dokud pravomocným odsuzujícím rozsudkem od Department Of Justice není vina vyslovena, nelze na toho, proti němuž se vede trestní řízení, hledět, jako by byl vinen. Existuje zde povinnost orgánů činných v řízení prokázat vinu.
+
+
+**Postup obhajoby při zadržení osoby**
+
+
+### **§14 Obhájce**
+1. obhájce, tedy koncipient nebo advokát, zastupuje obžalovaného v trestním řízení; obhajobu může vykonávat pouze koncipient nebo advokát zapsaný v advokátní komoře Los Santos, na základě plné moci nebo ustanovení soudem (ex offo) v případech nutné obhajoby
+2. obviněný má právo zvolit si advokáta přiděleného ex offo nebo soukromého koncipienta/advokáta
+3. koncipient/advokát pomáhá ve všech fázích trestního řízení, od podání vysvětlení na policii po soudní líčení, a dohlíží na dodržování práv obviněného
+4. koncipient/advokát se může účastnit výslechů, klást otázky svědkům, předkládat důkazy a zdůrazňovat skutečnosti ve prospěch obviněného
+5. koncipient/advokát komunikuje s orgány činnými v trestním řízení, podává písemná podání a navrhuje odklony v trestním řízení
+6. koncipient/advokát může navrhnout alternativní trest, pokud s tím souhlasí strana vyšetřovatele (žaloby)
+7. v případě nezákonného trestního stíhání může koncipient/advokát požadovat a uplatňovat náhradu škody
+
+
+**Pohrdání a znevažování pravomocného rozhodnutí Department Of Justice**
+
+
+### **§15 Pohrdání a znevažování**
+1. Znevažováním pravomocného rozhodnutí Department of Justice se civilní nebo úřední osoba dopouští:
+
+   a) závažným způsobem ruší jednání/vyšetřování vedeném ze strany Department Of Justice
+   
+   b) vměšování se do vyšetřování vedeném ze strany Department Of Justice
+   
+   c) znevažování postupů vedených ze strany Department Of Justice
+   
+   d) při jednání se k Department Of Justice chová urážlivě nebo znevažuje jeho rozhodnutí
+   
+   e) při projednávání úředních dokumentů se k Department Of Justice chová urážlivě nebo znevažuje jeho pravomocném rozhodnutí
+   
+   f) neuposlechne příkaz nebo výzvu od Department Of Justice
+   
+   g) snaží se jednání/vyšetřování vedeném ze strany Department Of Justice zmařit
+   
+   h) vyhrožování zaměstnancům Department Of Justice
+   
+   ch) neplněním pravomocného rozhodnutí vydaném od Department Of Justice
+
+2. osobě na základě takového jednání hrozí trest:
+
+   a) Odnětím svobody až na 2 roky.
+   
+   b) Propadnutím věci v předmětu šetření.
+   
+   c) Degradací z pozice státní správy, degradace z pozice státních i federálních složek.
+   
+   d) Odvoláním z funkce státní správy, odvolání z funkce státních i federálních složek .
+   
+   e) Finanční pokuta v hodnotě až 6 000 000 USD.
+
+**Státní správa, státní složka, federální složka**
+
+
+### **§ 16 Pořádková pokuta ve správním řízení**
+1. Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu až do výše 1 000 000 USD především tomu, kdo v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání ke správnímu orgánu, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
+2. Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
+3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle (§ 17). Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 000 000 USD.
+
+
+### **§17 Předvolání k podání vysvětlení**
+1. K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 17) a předvedení (§ 18). O odepření vysvětlení obdobně platí to, co pro odepření součinnosti při dokazování a zákaz výslechu.
+2. Každý je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 17) až do výše 1 000 000 USD.
+3. O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
+4. Záznam o podání vysvětlení lze použít jako důkazní prostředek.
+
+
+### **§18 Předvedení**
+1. Jestliže se účastník nebo svědek bez náležité omluvy nebo bez dostatečných důvodů na předvolání nedostaví, může Department Of Justice vydat usnesení, na jehož základě bude účastník nebo svědek předveden. Písemné vyhotovení usnesení se doručuje pověřeným orgánům elektronicky pomocí datové schránky. Státní složky LSPD, LSSD, DEA mají pravomoc předvedení provést.
+2. Předvedení na požádání Department Of Justice zajišťuje LSPD, LSSD, DEA.
+
+
+### **§19 Pořádková pokuta uložená soudem Los Santos**
+- Každá osoba přítomna na soudním jednání, líčení je povinná dodržovat řád soudní budovy. Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, může být usnesením soudu uložena jako pořádkové opatření pořádková pokuta do maximální výše 150 000 USD. Pořádková pokuta může být uložena opakovaně. O prominutí části nebo celé pokuty lze požádat do doby, než nabyde právní moci konečné rozhodnutí ve věci.
+
+
+### **§20 Placení nákladů soudního řízení**
+- Každý z účastníků a osob zúčastněných na řízení platí náklady, které vzniknou jemu nebo jeho zástupci.
+Stát platí náklady vynaložené na svědečné, znalečné, tlumočné a jiné náklady spojené s dokazováním.
+Deparment of Justice však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl a to až do výše 250 000 USD 
+
+
+---  
+
+## Zákon č. 9/2024
+*Zákon o ozbrojených složkách.*
+
+
+### **§1 Jurisdikce ozbrojených složek Los Santos Police Department**
+1. LSPD má ve své jurisdikci tyto body:
+
+a) chrání bezpečnost osob a majetku.
+
+b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+
+c) vede boj proti terorismu.
+
+d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+
+e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+
+f) kontroluje pravost a platnost dokladů.
+
+h) vede evidence a statistiky potřebné pro plnění svých úkolů.
+
+ch) vyhlašuje celostátní pátrání.
+
+i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+
+j) zadržuje osoby vyhlášené v pátrání.
+
+k) zajištění veřejného pořádku.
+
+l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+
+m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+
+n) vede boj proti organizovanému zločinu.
+
+o) Los Santos Police Department působí na celém území San Andreas.
+
+p) role Los Santos Police Department provádějí police officers.
+
+q) za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+
+r) vedení LSPD jmenuje a odvolává Department Of Justice.
+
+
+### **§2 Jurisdikce ozbrojených složek Los Santos Sheriff Department**
+1. LSSD má ve své jurisdikci tyto body:
+
+a) chrání bezpečnost osob a majetku.
+
+b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+
+c) vede boj proti terorismu.
+
+d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+
+e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+
+f) kontroluje pravost a platnost dokladů.
+
+h) vede evidence a statistiky potřebné pro plnění svých úkolů.
+
+ch) vyhlašuje celostátní pátrání.
+
+i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+
+j) zadržuje osoby vyhlášené v pátrání.
+
+k) zajištění veřejného pořádku.
+
+l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+
+m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+
+n) vede boj proti organizovanému zločinu.
+
+o) Los Santos Sheriff Department s působností na celém území San Andreas.
+
+p) úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
+
+q) za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
+
+r) vedení LSSD jmenuje a odvolává Department Of Justice.
+
+### **§3 Jurisdikce ozbrojených složek Drug Enforcement Administration**
+1. DEA má ve své jurisdikci tyto body:
+
+a) DEA má působnost v drogově trestné činnosti. Jedná se především o specifické trestné činy nedovolené výroby a držení omamných a psychotropních látek, jenich prodej.  
+
+b) prošetřuje trestnost držení drogy pro vlastní potřebu, trestnost šíření toxikomanie, trestnost zacházení s drogami.
+
+c) chrání bezpečnost osob a majetku.
+
+d) vede boj proti drogově trestné činnosti a organizovaném zločinu v drogově trestné činnosti.
+
+e) odhaluje trestné činy v oblasti drog, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti v oblasti drog. Koná vyšetřování o drogově trestných činech - v trestním řízení vystupuje jako DEA.
+
+f) kontroluje pravost a platnost dokladů.
+
+g) vede evidence a statistiky potřebné pro plnění svých úkolů.
+
+h) vyhlašuje celostátní pátrání.
+
+ch) zadržuje osoby vyhlášené v pátrání.
+
+i) vede boj proti organizovanému zločinu v drogové činnosti.
+
+j) Drug Enforcement Administration s působností na celém území San Andreas a přilehlých oblastech včetně ostrovů a území ostrova Cayo Perico. Jurisdikce je spojena s veškerou drogově trestní činností.
+
+k) DEA má pravomoc vznést žádost o převzetí případu na jednotku řešící případ spojený s drogově trestnou činností
+
+l) vedení DEA jmenuje a odvolává Department Of Justice.
+
+
+### **§8 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
+1.Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy členové státních složek LSSD, LSPD, DEA nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob
+2. Nepřiměřený zákrok ozbrojených státních složek se rozděluje do dvou stupňů:
+
+   a) První stupeň: Zásah, který zahrnuje použití nadměrné síly, která není odpovídající situaci, a může vést k porušení práv dotčené osoby, například nepřiměřené použití donucovacích prostředků.
+   
+   b) Druhý stupeň: Extrémní zákrok, který zahrnuje hrubé nebo neoprávněné použití síly, které vážně ohrožuje zdraví, bezpečnost nebo život dotčené osoby.
+
+3. Tresty za nepřiměřený zákrok:
+
+   a) První stupeň: Degradace zaměstnance až na 8 let ve státní věznici.
+   
+   b) Druhý stupeň: Trest odnětí svobody na 10 let až doživotí ve státní věznici.
+
+   c) U stupně I a II: Pokuta ve výši 5 000 až 20 000 USD a povinnost odškodnit oběť částkou 50 000 až 250 000 USD. 
+
+   TADY POKAČOVAT
+
+
+
+
+
+   
+### **§9 Úplatkářství a korupční jednání, ze strany zaměstnance státní složky**
+
+- Každá osoba zaměstnaná u státních a federálních složek, která příjme nabídku jakékoli podoby úplatku v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, názorem, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, se ve svém postavení dopouští trestného činu. V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
+
+a) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody v délce 2 let - Pokuta 100,000$ až 250,000$
+
+b) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 10 let - Pokuta 250,000$ až 1 000,000$
+
+c) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 10 000,000$
+
+
+### § 11 Odcizení nebo přechovávání důkazních materiálů a služebního vybavení v osobním skladu/trezoru ze strany zaměstnance státní složky
+
+Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, nebo služební vybavení v osobním skladu/trezoru se v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, dopouští trestného činu.
+V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
+
+a) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody v délce 2 let - Pokuta 100,000$ až 250,000$
+
+b) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 5 let - Pokuta 250,000$ až 1 000,000$
+
+c) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 1 000,000$
+
+
+
+### § 13 Suspendace vznesená ze strany Department Of Justice
+
+Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
+
+V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
+
+- Department Of Justice na základě §19 zašle suspendaci zaměstnance s platností ke dni a důvodem suspendace. Vedení státní složky, která tento příkaz obdrží, vydá suspendaci příslušnému zaměstnanci. 
+Poté Department Of Justice založí soudní spis s podnětem k šetření. Do spisu je přidělena osoba zvolená Department Of Justice a zmocněna situaci prošetřit. Tuto osobu stanoví pouze Department Of Justice .
+
+- Osoba zmocněná k vyšetřování má případ v kompetenci vyšetřování. Započne vyšetřování na základě důkazů, zákonů, vyhlášek, směrnic, a postupů. Během prošetřování doplňuje veškeré materiály tento vyšetřovatel do úředního spisu vedeném u Department Of Justice .
+Department Of Justice po prošetření případu vynese konečné rozhodnutí v rámci vyšetřování dle stanovených porušení zákonů Los Santos.
+
+### § 14 Vyšetřování a kontroly státních organizací a státních složek ze strany Department Of Justice
+
+1. Department Of Justice je státní orgán s výlučnou pravomocí, který může prošetřovat pochybení zaměstnanců státních organizací a státních složek, včetně vedoucích zaměstnanců v pozicích státních organizací a státních složek.
+
+2. V případě vznesené žádosti k vyšetřování ze strany civilní či fyzické osoby, s doložením důkazních materiálu k předmětu šetření, započne strana Department Of Justice úkon šetření.
+
+3. Department Of Justice má pravomoc provádět neohlášené kontroly státních organizací a státních složek.
+
+4. Department Of Justice má pravomoc k vyžádání všech potřebných dokumentů, na základě kontroly či vyšetřování.
+
+5. Department Of Justice má pravomoc pověřit vyšetřováním státní orgán LSPD/LSSD/DEA, který na základě pověření, započne úkon vyšetřování.
+
+Část 6.)
+
+### § 15 Neoprávněná prohlídka/vstup bez soudního povolení
+
+- Je v státě San Andreas trestný čin, který definuje neoprávněnou prohlídku/vstup ze strany státních složek:
+Prohlídka bez soudního příkazu k domovní prohlídce, nebo bez souhlasu vlatníka, je protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek a to bez předchozího schválení ze strany Department Of Justice. K takovému úkonu musí státní složka předložit žádost u Department Of Justice o povolení k domovní prohlídce na základě předem podložených důkazů o trestné činnosti, nebo ve spojitosti s nimi.
+
+Je-li uskutečněna domovní prohlídka bez soudního povolení,nebo písemného souhlasu vlastníka, bude člen státní složky, který k takovému úkonu rozhodl, obviněn z §16 Neoprávněná prohlídka/vstup bez soudního povolen.
+
+a) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+odnětí svobody v délce 1 rok a pokuta 20,000$ - Možnost propuštění na kauci 80,000
+
+b) je trestný čin
+
+Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
+Odnětí svobody na 2 let - Pokuta 50,000$ - Možnost propuštění na kauci 80,000$
+
+Část 7.)
+
+### § 16 porušení právních předpisů a zákona ze strany státní složky
+
+- Příslušníci všech státních složek jsou povinni se na místě prokázat platnými doklady s identifikací čísla odznaku. To platí i v případě, že osoba je v momentální chvíli šetření protiprávního jednání mimo službu. Řešení přestupků u zaměstnanců státních složek je vedeno ze strany vlastního vedení státní složky pod kterou osoba spadá.
+
+Jedná-li se o přestupek:
+
+- Při spáchání přestupku ze strany zaměstnanců státních složek, nemají členové jiné státní ozbrojené složky po identifikaci osoby pravomoc přestupek řešit na místě. Státní složka, která osobu jiné státní složky na místě přestupku vyšetřuje, má pravomoc identifikovat osobu a sepsat s ní záznam o přestupku, které poté doloží na Vedení státní složky pod kterou osoba dopouštějící se přestupku spadá. Po předání záznamu se Vedení touto osobou zabývá.
+
+- Výjimku tvoří EMS a LSFD, které ozbrojené státní složky mají ve své kompetenci a mohou ji řešit.
+
+- Řešení trestných činů u zaměstnanců státních složek je v jurisdikci rozhodování ze strany Department Of Justice.
+
+Jedná-li se o trestný čin:
+
+Trestní stíhání u zaměstnanců státních složek:
+
+- Při spáchání trestného činu ze strany zaměstnanců státních složek, mají všechny ozbrojené státní složky pravomoc omezit osobu na osobní svobodě, provádět vyšetřování a vznést obvinění. Ozbrojená státní složka, která osobu zajistí je povinna informovat Department Of Justice prostřednictvím soudního spisu na aplikaci soudu. Na základě spisu se Department Of Justice touto osobou zabývá. 
+
+- Výjimku tvoří EMS a LSFD, které ozbrojené státní složky mají ve své kompetenci a mohou ji řešit.
+
+- Při spáchání trestného činu ze strany zaměstnanců EMS a LSFD, mají všechny ozbrojené složky pravomoc omezit osobu na osobní svobodě, provádět vyšetřování a vznést obvinění.
+Státní složka, která osobu spadající pod EMS, nebo LSFD zajistí je povinna informovat Department Of Justice prostřednictvím soudního spisu na aplikaci soudu. Na základě spisu se Department Of Justice touto osobou zabývá.
+
+### § 17 Pořádková pokuta pro státní složky
+
+1. Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu zaměstnanci státní složky až do výše 1 500 000 USD pokud v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání k Department Of Justice, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
+
+2. Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
+
+3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle § 20. Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 500 000 USD.
+
+### § 18 Předvolání k podání vysvětlení zaměstnance státní složky
+
+1. K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 22).
+
+2. Každý zaměstnanec státní složky je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 21) až do výše 1 500 000 USD.
+
+3. O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
+
+4. Záznam o podání vysvětlení lze použít jako důkazní prostředek.
+
+## Advokátní komora
+
+### Veřejný seznam advokátních a právnických licencí
+Vydané advokátní licence:
+
+
 ### **§5 Odebrání zbrojního průkazu**
 - Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní.
 
