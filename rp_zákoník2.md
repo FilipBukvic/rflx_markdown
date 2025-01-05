@@ -602,5 +602,140 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
    d) Držení kokainu nebo heroinu v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti let do dvaceti let a pokutou do výše 100.000$.
    
 
+---  
+
+## Zákon č. 4/2024
+*Zákon o správě a ochraně ostrova Cayo Perico*
 
 
+### **§1 Civilní sektor**
+1. Každý, kdo vstoupí na ostrov Cayo Perico, je povinen dodržovat pravidla platná pro tuto nebezpečnou zónu.
+2. Vstup do nebezpečné zóny je na vlastní nebezpečí.
+   
+   a) Nebezpečná zóna je oblast nacházející se za bezpečnostním pásmem označeným ostnatými dráty.
+   
+4. Osoba, která se na ostrově Cayo Perico dopustí protiprávního jednání, bude trestána podle zákonů státu San Andreas.
+
+
+### **§2 Správa a kontrola ostrova**
+1. Celé území ostrova Cayo Perico, včetně přilehlých vodních ploch, spadá pod správu San Andreas Naval Defense.
+2. Vojenské prostory na ostrově jsou vyhrazeny výhradně pro účely San Andreas Naval Defense.
+3. Na celém území ostrova Cayo Perico platí zákony Los Santos.
+4. Pokud San Andreas Naval Defense zadrží osobu, je povinna okamžitě kontaktovat státní ozbrojené složky Los Santos. Zadržená osoba musí být neprodleně převezena na území Los Santos a předána k dalšímu vyšetřování.
+   
+
+---  
+
+## Zákon č. 5/2024
+*Zákon o Katastrálním úřadu a evidenci nemovitostí*
+
+### **§1 Definice pojmů**
+1. Nemovitost – zahrnuje pozemek nebo stavbu spojenou se zemí pevným základem. Součástí nemovitosti může být také podzemní stavba.
+2. Osobní nemovitost – slouží výhradně k osobním účelům.
+3. Výdělečná nemovitost – slouží pro výdělečnou činnost nebo činnosti související s podnikáním.
+4. Majitel nemovitosti  – odpovídá za vše, co se v ní nachází. Pokud je nemovitost pronajímána, přebírá odpovědnost za nemovitost pronajímatel po podpisu smlouvy.
+   
+
+---  
+
+## Zákon č. 6/2024
+*Zákon o leteckém provozu*
+
+### **§1 Bezletová zóna **
+1. Civilní letadla musí dodržovat předepsanou letovou výšku. Be městě a v okolí strategických budov, jako jsou EMS, LSPD, LSSD, LSFD, FIB, Maze Bank, Budova soudu, Věznice a Nádrže s pitnou vodou, je letová výška stanovena na 100 metrů nad nejvyšší budovou. Jakákoliv nižší letová hladina se považuje za bezletovou zónu.
+
+   a) Narušením bezletové zóny v případě, že nevzniklo ohrožení letového provozu a osob, se jedná o přestupek, který se trestá pokutou ve výši $20.000.
+   
+   b) Narušením bezletové zóny v případě, že vzniklo ohrožení letového provozu a osob, nebo nebylo dbáno na výzvy San Andreas Naval Defense se jedná o trestní čin, který se trestá pokutou $200.000, odnětím svobody v délce jeden až pězt let a odebráním pilotního oprávnění i stroje.
+   
+   c) Narušením bezletové zóny v případě, kdy dojde k narušení vzdušného prostoru armády nebo letectva spojených států amerických, se pilot automaticky dopustil federálního zločinu se jedná o trestný čin, který se trestá pokutou $200.000 až $500.000, odnětím svobody v délce pět až patnáct let a odebráním pilotního oprávnění i stroje.
+
+
+### **§2 Komunikace s rádiovou věží**
+1. Každý provozovatel letadla, helikoptéry nebo jiného civilního létajícího zařízení musí používat přidělenou letadlovou adresu. Nezanesení informací o letu do spisu pilota je trestný čin který se trestá odnětím svobody v délce jeden až tři roky a odebráním licence a pokutou. 
+2. Pilot je povinen neprodleně ohlásit vzlet nebo přistání na frekvenci číslo 25 a zůstat na ní po celou dobu letu, až do deaktivace stroje.
+
+   a) Neohlášení Check-listu a neidentifikace stroje na frekvenci č.25 bez ohrožení, jedná se o přestupek, který se trestá pokutou $3.000
+   
+   b) Neohlášení Check-listu a neidentifikace stroje na frekvenci č.25 s ohrožením, nedbání výzev letové věže, Air-Unit nebo Armády USA je trestný čin, který se trestá pokutou $20.000, odnětím svobody na pět až deset let a odebráním pilotního oprávnění i stroje.
+   
+3. Každý let musí být zaznamenán v pilotním spisu podle pravidel FAA. Není-li let zaznamenán, jedná se o trestný čin, který se trestá odnětím svobody na jeden až tři roky, odebráním licence a pokutou.
+
+
+### **§3 Pilotovaní bez oprávnění**
+1. Pilotování stroje bez příslušných oprávnění je trestný čin, který se trestá odnětím svobody v délce jeden až tři roky a pokutou ve výši $2.000,-.
+2. Příslušnými oprávněními se rozumí:
+
+   a) Letecký průkaz (na daný typ stroje a pro dané účely)
+   
+   b) Psychotest - Pilotní Licence
+   
+   c) Doklad o zdravotní způsobilosti
+
+
+### **§4 Pilotovaní pod vlivem**
+- Pilotování pod vlivem alkoholu, omamné nebo psychotropní látky je trestný čin který se trestá odnětím svobody v délce jeden až tři roky a pokutou odebráním licence i stoje
+
+
+### **§5 Nedovolený převoz**
+- Nedovolený převoz psychotropních a omamných látek na palubě stroje je trestný čin který se trestá odnětím svobody v délce tři až osm roky, pokutou odebráním licence i stroje
+
+
+### **§6Místa určená pro přistávání**
+1. Helikoptéry mohou přistávat pouze na oficiálních heliportech.
+2. Soukromé heliporty musí splňovat bezpečnostní standardy a být schváleny FAA. Pokud heliport není schválen, nelze jej využít.
+   
+   a) Provozování neschváleného heliportu je trestný čin s trestem dva až čtyři roky odnětí svobody a pokutou.
+   
+3. Přistávání na plážích a vodních plochách je povoleno, ale je nutné dodržet bezpečnostní pravidla – průměr místa musí být minimálně o 3 metry větší než délka rotorových listů.
+4. Letadla mohou přistávat pouze na oficiálních letištích.
+5. Přistání mimo určená místa je trestné a trestá se odnětím svobody na jeden až tři roky, odebráním licence i stroje a pokutou $60.000.
+
+
+### **§6 Užívání prostor letišť a heliportů**
+1. Všechny letiště a heliporty jsou pod správou FAA. Vstup je povolen pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje) nebo s platným povolením od FAA. V těchto prostorách je nutné dodržovat pokyny zaměstnanců letiště a FAA.
+2.Narušení prostor letišť a heliportů ve správě FAA je přestupek, který se trestá pokutou $20.000.
+3.Pořádání akce nebo výcviku bez povolení FAA je přestupek, který se trestá pokutou $45.000.
+   
+
+---  
+
+## Zákon č. 7/2024
+*Zákon o zbraních a střelivu*
+
+
+### **§1 Definice**
+A) LEG = Law Enforcement Guns (Legální zbraně pro státní složky)
+
+B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
+
+
+### **§2 Legální civilní zbraně spadající pod GUR**
+
+   a) Beretta M9
+   
+   b) H&K P7
+   
+   c) H&K P2000
+   
+   d) Desert Eagle .50
+   
+   e) FN 1910
+   
+   f) Lupara
+
+
+### **§3 Podmínky na vydání zbrojního průkazu**
+1. Zbrojní průkaz může být vydán pouze osobě, která
+
+   a) je občanem státu San Andreas.
+   
+   b) je způsobilá k právním úkonům.
+   
+   c) dovršila nebo je starší 21 let věku.
+
+
+### **§4 Oprávnění držitele zbrojního průkazuu**
+- Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
+
+  
