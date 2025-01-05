@@ -1172,7 +1172,7 @@ l) vedení DEA jmenuje a odvolává Department Of Justice.
 
 
 ### **§8 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
-1.Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy členové státních složek LSSD, LSPD, DEA nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob
+1. Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy členové státních složek LSSD, LSPD, DEA nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob
 2. Nepřiměřený zákrok ozbrojených státních složek se rozděluje do dvou stupňů:
 
    a) První stupeň: Zásah, který zahrnuje použití nadměrné síly, která není odpovídající situaci, a může vést k porušení práv dotčené osoby, například nepřiměřené použití donucovacích prostředků.
@@ -1186,6 +1186,12 @@ l) vedení DEA jmenuje a odvolává Department Of Justice.
    b) Druhý stupeň: Trest odnětí svobody na 10 let až doživotí ve státní věznici.
 
    c) U stupně I a II: Pokuta ve výši 5 000 až 20 000 USD a povinnost odškodnit oběť částkou 50 000 až 250 000 USD. 
+
+
+
+
+
+
 
    TADY POKAČOVAT
 
