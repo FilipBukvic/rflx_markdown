@@ -752,68 +752,69 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    l) H&K G36C
 
 4. Doplňky určené výhradně pro použití státními složkami, podléhající evidenci a regulaci.
-
-   a) Baterka  
    
-   b) Bubnový zásobník  
-   
-   c) Grip  
-   
-   d) Kompenzátor  
-   
-   e) Macro zaměřovač  
-   
-   f) Malý zaměřovač  
-   
-   g) Pokročilý zaměřovač  
-   
-   h) Precizní úsťová brzda  
-   
-   i) Plochá úsťová brzda  
-   
-   j) Přibližovací zaměřovač  
-   
-   k) Rozšířený zásobník  
-   
-   l) Taktická úsťová brzda  
-   
-   m) Tlumič  
-   
-   n) Těžká úsťová brzda  
-   
-   o) Těžký barel  
-   
-   p) Základní barel  
-   
-   q) Zafixovaný zaměřovač  
-   
-   r) Zaměřovač  
+      a) Baterka  
+      
+      b) Bubnový zásobník  
+      
+      c) Grip  
+      
+      d) Kompenzátor  
+      
+      e) Macro zaměřovač  
+      
+      f) Malý zaměřovač  
+      
+      g) Pokročilý zaměřovač  
+      
+      h) Precizní úsťová brzda  
+      
+      i) Plochá úsťová brzda  
+      
+      j) Přibližovací zaměřovač  
+      
+      k) Rozšířený zásobník  
+      
+      l) Taktická úsťová brzda  
+      
+      m) Tlumič  
+      
+      n) Těžká úsťová brzda  
+      
+      o) Těžký barel  
+      
+      p) Základní barel  
+      
+      q) Zafixovaný zaměřovač  
+      
+      r) Zaměřovač  
 
 5.  Zbraně určené výhradně pro použití San Andreas Naval Defense, podléhající speciálním předpisům a evidenci.
-
-   a) Glock-17  
-        
-   b) WM 29  
-        
-   c) Glock 17  
-        
-   d) Colt 1911  
-        
-   e) MP5  
-        
-   f) Remington 87  
-        
-   g) Beanbag  
-        
-   h) Franchi SPAS-12  
-        
-   i) M4  
-        
-   j) M4A1  
-        
-   k) Service Carbine  
-        
-   l) Military rifle
+   
+      a) Glock-17
+      
+      b) WM 29
+      
+      c) Glock 17
+      
+      d) Colt 1911
+      
+      e) MP5
+      
+      f) Remington 87
+      
+      g) Beanbag
+      
+      h) Franchi SPAS-12
+      
+      i) M4
+      
+      j) M4A1
+      
+      k) Service Carbine
+      
+      l) Military rifle
+      
 
 ### **§3 Podmínky na vydání zbrojního průkazu**
 1. Zbrojní průkaz může být vydán pouze osobě, která
