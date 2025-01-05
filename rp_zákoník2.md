@@ -704,14 +704,15 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
 *Zákon o zbraních a střelivu*
 
 
-### **§1 Definice**
+### **§1 Pojmy**
 A) LEG = Law Enforcement Guns (Legální zbraně pro státní složky)
 
 B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 
-### **§2 Legální civilní zbraně spadající pod GUR**
-
+### **§2 Legální zbraně a doplňky**
+1. GUR - Zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
+   
    a) Beretta M9
    
    b) H&K P7
@@ -723,7 +724,96 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    e) FN 1910
    
    f) Lupara
+   
+3. LEG - Zbraně určené výhradně pro použití státními složkami, podléhající speciálním předpisům a evidenci.
 
+   a) Glock 19  
+   
+   b) H&K P2000  
+   
+   c) Colt 1911  
+   
+   d) Remington 870  
+   
+   e) Beanbag  
+   
+   f) BSM 123  
+   
+   g) MP5  
+   
+   h) H&K MP7  
+   
+   i) M4  
+   
+   j) M4A1  
+   
+   k) Service Carbine  
+   
+   l) H&K G36C
+
+4. Doplňky určené výhradně pro použití státními složkami, podléhající evidenci a regulaci.
+
+   a) Baterka  
+   
+   b) Bubnový zásobník  
+   
+   c) Grip  
+   
+   d) Kompenzátor  
+   
+   e) Macro zaměřovač  
+   
+   f) Malý zaměřovač  
+   
+   g) Pokročilý zaměřovač  
+   
+   h) Precizní úsťová brzda  
+   
+   i) Plochá úsťová brzda  
+   
+   j) Přibližovací zaměřovač  
+   
+   k) Rozšířený zásobník  
+   
+   l) Taktická úsťová brzda  
+   
+   m) Tlumič  
+   
+   n) Těžká úsťová brzda  
+   
+   o) Těžký barel  
+   
+   p) Základní barel  
+   
+   q) Zafixovaný zaměřovač  
+   
+   r) Zaměřovač  
+
+5.  Zbraně určené výhradně pro použití San Andreas Naval Defense, podléhající speciálním předpisům a evidenci.
+
+   a) Glock-17  
+        
+   b) WM 29  
+        
+   c) Glock 17  
+        
+   d) Colt 1911  
+        
+   e) MP5  
+        
+   f) Remington 87  
+        
+   g) Beanbag  
+        
+   h) Franchi SPAS-12  
+        
+   i) M4  
+        
+   j) M4A1  
+        
+   k) Service Carbine  
+        
+   l) Military rifle
 
 ### **§3 Podmínky na vydání zbrojního průkazu**
 1. Zbrojní průkaz může být vydán pouze osobě, která
@@ -735,7 +825,11 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    c) dovršila nebo je starší 21 let věku.
 
 
-### **§4 Oprávnění držitele zbrojního průkazuu**
+### **§4 Oprávnění držitele zbrojního průkazu**
 - Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
-  
+
+### **§5 Odebrání zbrojního průkazu**
+- Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní.
+
+
