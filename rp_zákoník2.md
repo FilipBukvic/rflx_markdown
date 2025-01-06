@@ -291,7 +291,7 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
 ### **§ 22 Korupce**
 1. Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi nebo porotci s úmyslem ovlivnit jeho rozhodnutí o jakékoli věci, je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou do výše 2.500$.
 2. Osoba, která nabízí nebo poskytuje úplatek příslušníkovi bezpečnostního sboru nebo jinému státnímu úředníkovi s úmyslem ovlivnit jeho rozhodnutí, se dopouští trestného činu, který se trestá odnětím svobody od 1 roku do 10 let a pokutou do výše 50.000$.
-3. Příslušník bezpečnostního sboru nebo jiný státní úředník, který přijme úplatek s úmyslem ovlivnit své rozhodnutí nebo výkon své pravomoci, se dopouští trestného činu, který se trestá odnětím svobody od 1 roku do 10 let a pokutou do výše 50.000$.
+3. Příslušník bezpečnostního sboru nebo jiný státní úředník, který přijme úplatek s úmyslem ovlivnit své rozhodnutí nebo výkon své pravomoci, se dopouští trestného činu, který se trestá odnětím svobody až na doživotí a pokuta do výše 10 000,000$
 
 
 ### **§ 23 Zneužití tísňové linky**
@@ -1135,7 +1135,7 @@ n) vede boj proti organizovanému zločinu.
 
 o) Los Santos Sheriff Department s působností na celém území San Andreas.
 
-p) úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
+p) úkoly Los Santos Sheriff Department vykonávají sheriff deputy.
 
 q) za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
 
@@ -1171,121 +1171,39 @@ k) DEA má pravomoc vznést žádost o převzetí případu na jednotku řešíc
 l) vedení DEA jmenuje a odvolává Department Of Justice.
 
 
-### **§8 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
-1. Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy členové státních složek LSSD, LSPD, DEA nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob
-2. Nepřiměřený zákrok ozbrojených státních složek se rozděluje do dvou stupňů:
+### **§4 Suspendace vznesená ze strany Department Of Justice**
+1. Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
 
-   a) První stupeň: Zásah, který zahrnuje použití nadměrné síly, která není odpovídající situaci, a může vést k porušení práv dotčené osoby, například nepřiměřené použití donucovacích prostředků.
+2. V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
+
+   a) Department Of Justice zašle suspendaci zaměstnance s platností ke dni a důvodem suspendace. Vedení státní složky, která tento příkaz obdrží, vydá suspendaci příslušnému zaměstnanci. 
+   Poté Department Of Justice založí soudní spis s podnětem k šetření. Do spisu je přidělena osoba zvolená Department Of Justice a zmocněna situaci prošetřit. Tuto osobu stanoví Department Of Justice.
    
-   b) Druhý stupeň: Extrémní zákrok, který zahrnuje hrubé nebo neoprávněné použití síly, které vážně ohrožuje zdraví, bezpečnost nebo život dotčené osoby.
-
-3. Tresty za nepřiměřený zákrok:
-
-   a) První stupeň: Degradace zaměstnance až na 8 let ve státní věznici.
+   b) Osoba zmocněná k vyšetřování má případ v kompetenci vyšetřování. Započne vyšetřování na základě důkazů, zákonů, směrnic, a postupů. Během prošetřování doplňuje veškeré materiály tento vyšetřovatel do úředního spisu vedeném u Department Of Justice.
    
-   b) Druhý stupeň: Trest odnětí svobody na 10 let až doživotí ve státní věznici.
-
-   c) U stupně I a II: Pokuta ve výši 5 000 až 20 000 USD a povinnost odškodnit oběť částkou 50 000 až 250 000 USD. 
+   c) Department Of Justice po prošetření případu vynese konečné rozhodnutí v rámci vyšetřování dle stanovených porušení zákonů.
 
 
-
-
-
-
-
-   TADY POKAČOVAT
-
-
-
-
-
-   
-### **§9 Úplatkářství a korupční jednání, ze strany zaměstnance státní složky**
-
-- Každá osoba zaměstnaná u státních a federálních složek, která příjme nabídku jakékoli podoby úplatku v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, názorem, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, se ve svém postavení dopouští trestného činu. V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
-
-a) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody v délce 2 let - Pokuta 100,000$ až 250,000$
-
-b) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 10 let - Pokuta 250,000$ až 1 000,000$
-
-c) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 10 000,000$
-
-
-### § 11 Odcizení nebo přechovávání důkazních materiálů a služebního vybavení v osobním skladu/trezoru ze strany zaměstnance státní složky
-
-Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, nebo služební vybavení v osobním skladu/trezoru se v tomto státě v souvislosti s jakýmkoli jednáním, rozhodnutím, hlasováním, zatajováním, ovlivňováním, činem, úkonem nebo jiným jednáním, dopouští trestného činu.
-V rámci takového provinění bude vyšetřován ze strany Department Of Justice, která dle závažnosti případu stanoví délku trestu odnětí svobody.
-
-a) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody v délce 2 let - Pokuta 100,000$ až 250,000$
-
-b) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 5 let - Pokuta 250,000$ až 1 000,000$
-
-c) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 10 let - až doživotí - Pokuta 500,000$ až 1 000,000$
-
-
-
-### § 13 Suspendace vznesená ze strany Department Of Justice
-
-Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
-
-V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
-
-- Department Of Justice na základě §19 zašle suspendaci zaměstnance s platností ke dni a důvodem suspendace. Vedení státní složky, která tento příkaz obdrží, vydá suspendaci příslušnému zaměstnanci. 
-Poté Department Of Justice založí soudní spis s podnětem k šetření. Do spisu je přidělena osoba zvolená Department Of Justice a zmocněna situaci prošetřit. Tuto osobu stanoví pouze Department Of Justice .
-
-- Osoba zmocněná k vyšetřování má případ v kompetenci vyšetřování. Započne vyšetřování na základě důkazů, zákonů, vyhlášek, směrnic, a postupů. Během prošetřování doplňuje veškeré materiály tento vyšetřovatel do úředního spisu vedeném u Department Of Justice .
-Department Of Justice po prošetření případu vynese konečné rozhodnutí v rámci vyšetřování dle stanovených porušení zákonů Los Santos.
-
-### § 14 Vyšetřování a kontroly státních organizací a státních složek ze strany Department Of Justice
-
+### **§5 Vyšetřování a kontroly státních organizací a státních složek**
 1. Department Of Justice je státní orgán s výlučnou pravomocí, který může prošetřovat pochybení zaměstnanců státních organizací a státních složek, včetně vedoucích zaměstnanců v pozicích státních organizací a státních složek.
-
 2. V případě vznesené žádosti k vyšetřování ze strany civilní či fyzické osoby, s doložením důkazních materiálu k předmětu šetření, započne strana Department Of Justice úkon šetření.
+3. Department Of Justice má pravomoc
+   
+   a) provádět neohlášené kontroly státních organizací a státních složek.
+   
+   b) vyžádání všech potřebných dokumentů, na základě kontroly či vyšetřování.
 
-3. Department Of Justice má pravomoc provádět neohlášené kontroly státních organizací a státních složek.
+   c) pověřit vyšetřováním státní orgán LSPD/LSSD/DEA, který na základě pověření, započne úkon vyšetřování.
 
-4. Department Of Justice má pravomoc k vyžádání všech potřebných dokumentů, na základě kontroly či vyšetřování.
 
-5. Department Of Justice má pravomoc pověřit vyšetřováním státní orgán LSPD/LSSD/DEA, který na základě pověření, započne úkon vyšetřování.
 
-Část 6.)
+### **§6 Neoprávněná prohlídka/vstup bez soudního povolení**
+- Prohlídka bez soudního příkazu k domovní prohlídce nebo bez souhlasu vlastníka je považována za protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek.
+Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pokutou ve výši 50,000$
 
-### § 15 Neoprávněná prohlídka/vstup bez soudního povolení
+----------------------------------------------
 
-- Je v státě San Andreas trestný čin, který definuje neoprávněnou prohlídku/vstup ze strany státních složek:
-Prohlídka bez soudního příkazu k domovní prohlídce, nebo bez souhlasu vlatníka, je protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek a to bez předchozího schválení ze strany Department Of Justice. K takovému úkonu musí státní složka předložit žádost u Department Of Justice o povolení k domovní prohlídce na základě předem podložených důkazů o trestné činnosti, nebo ve spojitosti s nimi.
 
-Je-li uskutečněna domovní prohlídka bez soudního povolení,nebo písemného souhlasu vlastníka, bude člen státní složky, který k takovému úkonu rozhodl, obviněn z §16 Neoprávněná prohlídka/vstup bez soudního povolen.
-
-a) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-odnětí svobody v délce 1 rok a pokuta 20,000$ - Možnost propuštění na kauci 80,000
-
-b) je trestný čin
-
-Rozvázání pracovního poměru bez nároku na výsluhy a zákaz funkce jako veřejný úředník.
-Odnětí svobody na 2 let - Pokuta 50,000$ - Možnost propuštění na kauci 80,000$
-
-Část 7.)
 
 ### § 16 porušení právních předpisů a zákona ze strany státní složky
 
