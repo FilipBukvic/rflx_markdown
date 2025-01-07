@@ -1218,19 +1218,26 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Povinnosti státních ozbrojených složek**
 
+### **§8 Zdvořilost**
+-  Příslušníci státních složek jsou povinni při plnění úkolů dodržovat pravidla zdvořilosti a dbát cti, vážnosti a důstojnosti osob i své vlastní.
 
-### **§8 Přiměřenost postupu**
+### **§9 Přiměřenost postupu**
 - Státní ozbrojené složky jsou při výkonu svých pravomocí povinny postupovat přiměřeně, tak aby zásah do práv a svobod osob byl omezen pouze na nezbytnou míru potřebnou k dosažení účelu zákroku.
 
+### **§10 Prokazování příslušnosti**
+- Příslušníci státních složek jsou povinni při plnění úkolů povinni se prokázat
+  a) služebním stejnokrojem
+  b) služebním odznakem
+  c) ústním zvoláním názvu státní složky
 
-### **§9 Povinnost identifikace**
+### **§11 Povinnost identifikace**
 1. Příslušníci státních složek jsou povinni se při výkonu služby na požádání identifikovat služebním číslem.
 2. Tato povinnost se nevztahuje na případy, kdy by identifikace mohla ohrozit probíhající operaci, bezpečnost příslušníka, nebo jinou oprávněnou osobu.
 3. Služební číslo musí být poskytnuto jasně a srozumitelně způsobem, který umožňuje jeho jednoznačnou identifikaci.
 4. Porušení této povinnosti může být považováno za kázeňský přestupek, pokud není odůvodněno zvláštními okolnostmi výkonu služby.
 
 
-### **§10 Poučení o právech (Miranda práva)**
+### **§12 Poučení o právech (Miranda práva)**
 1. Příslušník státní ozbrojené složky je povinen zadrženou osobu poučit o jejích právech následujícím způsobem:
 
     a) Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
@@ -1241,7 +1248,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 **Pravomoce státních ozbrojených složek**
 
 
-### **§6 Omezení na osobní svobodě**
+### **§13 Omezení na osobní svobodě**
 1. Zaměstnanec státní ozbrojené složky má pravomoc omezit osobní svobodu osoby v následujících situacích:
 
    a) Osoba klade fyzický odpor.
@@ -1259,20 +1266,20 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    K omezení osobní svobody lze použít pouze služební pouta.
 
 
-### **§7 Cely státních ozbrojených složek**
+### **§14 Cely státních ozbrojených složek**
 
 1. Příslušník státní ozbrojené složky může do cely umístit pouze osobu, která byla zadržena nebo zatčena.
 2. Před umístěním osoby do cely je zaměstnanec povinen se ujistit, že osoba nenese žádný předmět, který by mohl ohrozit život, poškodit majetek nebo narušit výkon práva a spravedlnosti.
 3. Osoby umisťované do cel státních ozbrojených složek jsou odděleny podle pohlaví, zda jsou zadrženy nebo zatčeny, a podle předpokládaného agresivního chování, nebo zda jsou pod vlivem drog či alkoholu.
 
 
-### **§8 Zajištění věcí**
+### **§15 Zajištění věcí**
 1. Příslušník státní ozbrojené složky má pravomoc zajistit věc, pokud je důležitá pro řešení přestupku nebo trestného činu, nebo pokud se cítí ohrožen při řešení přestupku nebo trestného činu.
 2. Zajištěná věc musí být občanovi neprodleně vrácena po vyřešení přestupku nebo trestného činu, pokud nebyla získána z trestné činnosti nebo použita k jejímu páchání.
 3. Věc zajištěná v souvislosti s trestnou činností automaticky propadá státu, pokud není znám její původní vlastník.
 
 
-### **§9 Odebrání zbraně**
+### **§16 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
    
    a) Pokud zbraň není registrována.
@@ -1286,7 +1293,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    e) Pokud byl soudem vydán rozkaz na odebrání zbraně.
 
 
-### **§9 Vstup do obydlí nebo na pozemek**
+### **§17 Vstup do obydlí nebo na pozemek**
 1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí nebo na pozemek v následujících situacích:
    
    a) Pokud má důvodné podezření o trestné činnosti v obydlí nebo na pozemku.
@@ -1302,7 +1309,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí nebo na pozemek v uvedených situacích.
 
 
-### **§14 Zastavení vozidla**
+### **§18 Zastavení vozidla**
 1. Zaměstnanec státní ozbrojené složky má pravomoc zastavit vozidlo a uskutečnit jeho prohlídku v následujících situacích:
    
    a) Pokud pronásleduje pachatele trestného činu.
@@ -1310,7 +1317,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    b) Pokud pátrá po pachateli trestného činu ve spolupráci se státní ozbrojenou složkou.
 
 
-### **§15 Prohledání vozidla**
+### **§19 Prohledání vozidla**
 1. Zaměstnanec státní ozbrojené složky má právo prohledat vozidlo v následujících situacích:
 
    a) Pokud pátrá po ilegálních zbraních a střelivu.
@@ -1324,7 +1331,23 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Zaměstnanec státní ozbrojené složky má povinnost zajistit, aby následkem prohledání vozidla nedošlo k újmě na zdraví nezúčastněných osob.
 
 
-### **§16 Prohledání osoby**
+### **§20 Zadržení osoby**
+1. Zaměstnanec státní ozbrojené složky má pravomoc zadržet osobu, která
+
+   a) svým jednáním bezprostředně ohrožuje svůj život, život nebo zdraví jiných osob, anebo majetek.
+   
+   b) v jakékoliv státní budově úmyslně znečišťuje nebo poškozuje majetek, nebo slovně uráží zaměstnance státní složky či jinou osobu
+
+   c) má být předvedena
+
+   d) byla přistižena při jednání, které má znaky přestupku nebo trestného činu, a je-li důvodná obava, že bude v protiprávním jednání pokračovat nebo mařit řádné objasnění věci
+
+   e) utekla z výkonu trestu odnětí svobody
+
+2. Zadržení osoby může trvat nejdéle 24 hodin od okamžiku omezení osobní svobody. Pokud je doba zajištění delší než 24 hodin, musí být osoba buď propuštěna, nebo musí být sepsána žádost na soudu o prodloužení doby omezení.
+
+   
+### **§21 Prohledání osoby**
 1. Zaměstnanec státní ozbrojené složky má pravomoc prohledat osobu v následujících situacích:
 
    a) Pokud má důvodné podezření, že by u sebe osoba mohla mít nelegální předměty nebo předměty spojené s trestnou činností.
@@ -1334,18 +1357,18 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Při prohledávání osoby musí být vždy zajištěno, že postup bude probíhat v souladu s právními předpisy a s respektem k lidské důstojnosti.
 
 
-### **§17 Vykázání**
+### **§22 Vykázání**
 1. Zaměstnanec státní ozbrojené složky má pravomoc vykázat z místa osobu, která svým jednáním ohrožuje provedení práce zaměstnanců státních ozbrojených složek nebo narušuje veřejný pořádek.
 2. Zaměstnanec státní ozbrojené složky oznámí vykázání ústně, přičemž je povinen osobu informovat o důvodech vykázání a o následcích neuposlechnutí této výzvy.
 
 
-### **§18 Světelné a zvukové zařízení**
+### **§23 Světelné a zvukové zařízení**
 1. Zaměstnanec státní ozbrojené složky má pravomoc použít světelné a zvukové zařízení v rámci své služby, pokud k tomu má dostatečný důvod, zejména za účelem zajištění bezpečnosti, veřejného pořádku nebo v souvislosti s plněním služebních povinností.
 2. Zaměstnanec státní ozbrojené složky nesmí zneužít světelného a zvukového zařízení k dosažení osobního prospěchu nebo zvýhodnění ve vztahu k ostatním účastníkům provozu bez dostatečného a oprávněného důvodu.
 3. Zaměstnanec státní ozbrojené složky je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem, a to bezodkladně nadřízeným.
 
 
-### **§19 Donucovací prostředky**
+### **§24 Donucovací prostředky**
 1. Donucovacími prostředky se rozumí následující prostředky, které mohou zaměstnanci státních ozbrojených složek použít v souladu s právními předpisy a za účelem zajištění výkonu jejich služebních povinností:
 
    a) hmaty, chvaty, údery a kopy;
@@ -1376,7 +1399,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 5. Příslušník státní ozbrojené složky je povinen dbát, aby použitím donucovacího prostředku nezpůsobil osobě újmu zřejmě nepřiměřenou povaze a nebezpečnosti jejího protiprávního jednání.
 
 
-### **§19 Použití zbraně**
+### **§25 Použití zbraně**
 1. Zaměstnanec státní ozbrojené složky má oprávnění použít střelnou zbraň v následujících situacích:
 
    a) Pokud je přímo ohrožen na životě on nebo jiná osoba.
