@@ -4,19 +4,19 @@
 
 ---
 
-## **Ministerstvo spravedlnosti (Department of Justice)**
+## **Department of Justice**
 
-**Ministerstvo spravedlnosti (Department of Justice)** je federální výkonný útvar vlády Spojených států pověřený prosazováním federálního práva a výkonem spravedlnosti. V rámci státu San Andreas je nejvyšším orgánem soudní moci a koordinuje činnost soudů a dalších justičních složek.
+**Department of Justice** je federální výkonný útvar vlády Spojených států pověřený prosazováním federálního práva a výkonem spravedlnosti. V rámci státu San Andreas je nejvyšším orgánem soudní moci a koordinuje činnost soudů a dalších justičních složek.
 
-**Generální prokurátor (Attorney General)** je nejvyšším představitelem ministerstva spravedlnosti. Současným generálním prokurátorem je **Leon Baxter, J.D., Ph.D.**, který složil přísahu dne 27. 6. 2023. 
+**Generální prokurátor (Attorney General)** je nejvyšším představitelem Department of Justice. Současným generálním prokurátorem je **Leon Baxter, J.D., Ph.D.**, který složil přísahu dne 27. 6. 2023. 
 
-Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo ministerstvo veškerou soudní moc na území Los Santos. Nyní zde působí **Obvodní soud Los Santos**, který je zastoupen předsedou a místopředsedou.
+Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo Department of Justiceo veškerou soudní moc na území Los Santos. Nyní zde působí **Soud Los Santos**, který je zastoupen předsedou a místopředsedou.
 
-### **Struktura Ministerstva spravedlnosti:**
+### **Struktura Department of Justice:**
 
 1. **Generální prokurátor (Attorney General):** Leon Baxter, J.D., Ph.D.
 2. **Zástupce generálního prokurátora (Deputy Attorney General):** Philip Nixon, J.D.
-3. **Předseda Obvodního soudu Los Santos:** Liam O’Reilly, J.D.
+3. **Předseda Soudu Los Santos:** Liam O’Reilly, J.D.
 4. **Pracovníci justiční komory a další právníci:** dle jmenování.
 
 ---
@@ -41,18 +41,18 @@ Stát San Andreas disponuje těmito orgány a správami:
 - Řídí výběrová řízení do vládních pozic.
 - Může měnit strukturu vládních úřadů v případě potřeby.
 
-#### **§3 Ministerstvo obchodu a práce (DoC & DoL)**
+#### **§3 *Department of Commerce & Department of Labor (DoC & DoL)**
 - Zabavuje majetek zapojený do trestného činu nebo prokazující neaktivitu.
 - Zajišťuje aukce státně zabaveného majetku.
 - Zastupuje stát v trestněprávních řízeních.
 
-#### **§4 Ministerstvo spravedlnosti (DoJ)**
-Ministerstvo spravedlnosti vykonává tyto funkce:
+#### **§4 Department of Justice**
+Department of Justice vykonává tyto funkce:
 - Organizuje správní řízení a trestní stíhání.
 - Zajišťuje činnost soudů, státních zástupců a krizového řízení.
 - Dozoruje bezpečnostní složky a plánuje civilní ochranu.
 
-#### **§5 Ministerstvo financí (DoF)**
+#### **§5 Department of Finance**
 - Připravuje návrhy zákonů o měně a financích.
 - Organizuje prodej státního majetku ve spolupráci s DoC a DoL.
 - Vede účetní záznamy státu.
@@ -76,6 +76,69 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
 ### **Šestý dodatek:**
 - Chrání právo na rychlý a veřejný proces, právo na obhájce a konfrontaci svědků.
 
+
+---
+
+
+### Zákon č. 02/2022
+*Zákon o ustanovení státních složek*
+
+
+### **§1 Law Enforcement Agencies**
+- Stát San Andreas disponuje těmito státními složkami:
+1. Los Santos Police Department (LSPD)
+2. Los Santos Sheriff Department (LSSD)
+3. San Andreas Naval Defense (SAND)
+4. Emergency Medical Services / (EMS/LSFD)
+5. Federal Aviation Administration
+
+
+### **§2 Los Santos Police Department**
+1. Los Santos Police Department je jednotná státní ozbrojená složka.
+2. Los Santos Police Department s působností na celém území San Andreas, mimo ostrov Cayo Perico
+3. Los Santos Police Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
+4. Role Los Santos Police Department provádějí police officers.
+5. Za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+6. Vedení LSPD jmenuje a odvolává vždy jen GSoSA a DoJ.
+
+
+### **§3 Los Santos Sheriff Department**
+1. Los Santos Sheriff Department je jednotná státní ozbrojená složka.
+2. Los Santos Sheriff Department působí na celém území San Andreas, mimo ostrov Cayo Perico
+3. Los Santos Sheriff Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
+4. Úkoly Los Santos Sheriff Department vykonávají deputy sheriffs.
+5. Za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
+6. Vedení LSSD jmenuje a odvolává vždy jen GSoSA a DoJ.
+
+
+### **§4 Federal Aviation Administration**
+1. Federal Aviation Administration je jednotná státní složka.
+2. Federal Aviation Administration působí na celém území státu San Andreas a Spojených Států Amerických.
+3. Federal Aviation Administration slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů, bezpečnost letového provozu.
+4. Úkoly Federal Aviation Administration vykonávají senior professionals.
+5. Za Federal Aviation Administration nese odpovědnost Director of Federal Aviation Agency
+6. Vedení USMS jmenuje a odvolává vždy jen GSoSA a DoJ . 
+
+
+### **§5 San Andreas Naval Defense**
+1. San Andreas Naval Defense je jednotná ozbrojená síla.
+2. San Andreas Naval Defense působí na přilehlých ostrovech, vodních plochách státu San Andreas a ostrově Cayo Perico.
+3. San Andreas Naval Defense slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů. Úkoly San Andreas Naval Defense vykonávají soldiers.
+4. Za San Andreas Naval Defense nese odpovědnost Admirál of San Andreas Naval Defense a Commissioned Officers .
+5. Vedení San Andreas Naval Defense jmenuje a odvolává vždy jen GSoSA a DoD.
+
+
+### **§6 Emergency Medical Services / Los Santos Fire Department**
+1. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) je jednotná státní složka.
+2. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) působí na celém území San Andreas, mimo ostrov Cayo Perico
+3. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) slouží veřejnosti, jejímž úkolem je zajistit ochranu majetku a zdraví občanů.
+4. Úlohy Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) vykonávají členi EMS/LSFD
+5. Za Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) nese odpovědnost Director of Emergency Medical Services.
+6. Director of Emergency Medical Services a zbylé vedení EMS je nadřazeno Chief of Los Santos Fire Department.
+7. Chief of Los Santos Fire Department je na stejné úrovni jako Director of Emergency Medical Services a zbylé vedení EMS v případě, že sám je vedením EMS.
+8. Vedení EMS/LSFD jmenuje a odvolává vždy jen GSoSA a DoJ.
+
+   
 ---
 
 ## Zákon č. 10/2022  
@@ -122,7 +185,7 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
 ## Zákon č. 11/2022
 *Povinnosti občana*
 
-### ČÁST PRVNÍ - ZÁKLADNÍ POVINNOSTI
+**Základni povinnosti**
 
 - Následující body jsou základní povinnosti osob které se nachází na území spadajícím pod jurisdikci San Andreas, které mají platnost ve všech situacích:
 
@@ -143,6 +206,23 @@ Ministerstvo spravedlnosti vykonává tyto funkce:
    h) respektovat veřejný pořádek a dodržovat veškerá nařízení vydaná státem San Andreas, která slouží k ochraně veřejného zájmu a bezpečnosti.
 
 ---  
+## Zákon č. 12/2022
+*Obecné ustanovení zákonů*
+
+
+### **§ 1 Trestní odpovědnost**
+ Trestní odpovědnost se vztahuje na každou osobu starší 21 let
+
+
+### **§2 Sčítání záznamů z vězení v trestním rejstříku**
+- Osoba, která je pravomocně odsouzena za trestné činy, jejichž záznamy jsou vedeny v trestním rejstříku, a po překročení hranice 90 let strávených ve vězení, bude považována za osobu s nenapravitelnou recidivou. Taková osoba bude následně podléhat trestu odnětí svobody na doživotí, pokud její chování a záznamy v trestním rejstříku potvrzují pokračující a neovlivnitelné páchání trestných činů, čímž se prokáže její nenapravitelnost.
+
+
+### **§3 Dohoda o vině a trestu**
+- Dohoda o vině a trestu je právní institut, kdy osoba, která je obviněna z trestného činu, souhlasí s trestem, který určí Los Santos Police Department (LSPD) nebo Los Santos Sheriff Department (LSSD) v souladu se zákoníkem. Tato dohoda je možná, pokud délka trestu nepřesahuje 10 let. Pokud obě strany, tedy obviněná osoba a příslušné orgány, s navrženým trestem souhlasí, není nutné uskutečnit soudní líčení, a tímto se celý proces urychlí.
+
+---  
+
 
 ## Zákon č. 1/2024
 *Zákon o trestných činech a přestupcích*
@@ -1431,7 +1511,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 ---  
 
 ## Zákon č. 10/2024
-*Zákon o trestech ozbrojených složkách.*
+*Zákon o trestech ozbrojených složkách*
 
 ### **§1 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
 1. Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy člen nebo členové státních složek nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob.
@@ -1458,4 +1538,75 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 - Prohlídka bez soudního příkazu k domovní prohlídce nebo bez souhlasu vlastníka je považována za protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek.
 Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pokutou ve výši 50,000$
 
+
+---  
+
+## Zákon č. 14/2024
+*Zákon o požární ochraně*
+
+
+### **§1 Los Santos Fire Department**
+1. Los Santos Fire Department (LSFD) je státní institucí, která provádí záchranné práce při mimořádných událostech a vykonává státní požární dozor (SPD).
+
+   b) Mimořádná událost je situace ohrožující život, zdraví osob nebo majetek.
+   
+   c) Velitel zásahu je příslušníkem LSFD, který odpovídá za průběh zásahu a využívá všechny dostupné prostředky k minimalizaci následků.
+   
+   d) Velitel zásahu může přerušit záchranu, pokud není možné zachránit osoby, zvířata nebo majetek, nebo pokud by pokračování ohrozilo životy zasahujících.
+   
+   e) Přenosný hasicí přístroj (PHP) slouží k hašení požárů.
+   
+   f) Technik požární ochrany vytváří protokoly a kontroluje požární ochranu (PO).
+   
+   g) Pokud je ohrožen život nebo majetek, může člen LSFD použít civilní prostředky, jako je zabavení dopravního prostředku, a v případě poškození poskytnout náhradu.
+
+   h) Pokud hrozí újma na zdraví nebo poškození majetku a jednotka LSFD narazí na překážku, může použít hrubé síly k jejímu překonání.
+Povinnosti fyzických a právnických osob k prevenci požárů
+
+
+### **§2 Povinnosti osob a firem k prevenci požárů**
+
+   a) Musí zajistit pravidelné provádění preventivních protipožárních prohlídek v objektech a prostorách.
+   
+   b) Jsou povinny plnit opatření požární ochrany v místech se zvýšeným rizikem vzniku požáru.
+   
+   c) Musí určovat místa se zvýšeným rizikem požáru a označovat je příslušnými příkazy a zákazy.
+   
+   d) Jsou povinné zajistit plnění opatření na ochranu před požáry i mimo pracovní dobu.
+   
+   e) Musí zajistit školení a ověřování znalostí zaměstnanců v oblasti požární ochrany.
+   
+   f) Jsou povinny umožnit orgánu vykonávajícímu SPD vstup do objektů za účelem kontroly požární bezpečnosti.
+   
+   g) Musí splnit opatření k odstranění zjištěných nedostatků, která jim uložil orgán SPD.
+   
+   h) Musí provozovat technická zařízení s ohledem na požární bezpečnost.
+   
+   i) Musí dodržovat technické podmínky a požadavky na požární bezpečnost při instalaci a provozování zařízení.
+   
+   j) Jsou povinny dodržovat bezpečnostní předpisy při manipulaci s hořlavými látkami a látkami podporujícími hoření.
+   
+   k) Musí zajistit plnění povinností a úkolů v oblasti požární ochrany.
+   
+   l) Jsou povinny vytvářet podmínky pro hašení požárů a provádění záchranných prací, včetně udržování přístupových cest pro požární techniku a únikových cest.
+
+
+### **§3 Požární kontrola**
+1. Všechny budovy a prostory spojené s výdělečnou činností, větším počtem osob nebo speciální funkcí musí projít požární kontrolou prováděnou SPD a musí mít protokol o požární kontrole vystavený pracovníkem LSFD.
+2. Vlastníci nebo pronajímatelé těchto budov mají povinnost kontaktovat LSFD pro provedení požární kontroly.
+3. Při rekonstrukci, změně majitele nebo změně provozního charakteru prostor spojených s výdělečnou činností je nutné neprodleně ohlásit tuto skutečnost LSFD a požádat o nový protokol o požární kontrole. Předchozí protokol ztrácí platnost.
+4. Požární kontrola se zaměřuje na oblast požární ochrany, elektroinstalace, vzduchotechniku, nouzové zásobování vodou, funkčnost centrálního pultu ochrany, bezpečnost osob v budově a její okolí, skladování nebezpečných materiálů a únikové cesty.
+5. Požární kontrolu provádí pověřený zaměstnanec LSFD, který provede prozkoumání objektu a vyhotoví protokol o požární ochraně.
+
+
+### **§4 Inspekce objektu**
+1. Inspekce objektu je prováděna pověřenou osobou LSFD za účelem zjištění nedostatků v oblasti požární ochrany budov spojených s výdělečnou činností.
+2. Inspekce může být ohlášená nebo neohlášená.
+3. Pokud jsou zjištěny vážné nedostatky v oblasti požární ochrany, má vedení LSFD pravomoc uzavřít objekt do doby odstranění nedostatků a obnovení protokolu o požární kontrole.
+4. V případě hrozícího poškození majetku nebo ohrožení zdraví kvůli nedostatečné požární ochraně může pověřená osoba LSFD vstoupit do objektu za použití vhodného stupně donucení.
+5. Vlastník, nájemce nebo správce budovy je povinen na žádost pověřené osoby LSFD odstranit zjištěné nedostatky.
+6. Pověřená osoba LSFD může na místě udělit pokutu mezi 250.000 $ - 500.000 $ za zjištěné nedostatky v oblasti požární ochrany.
+7. Pokud majitel objektu opakovaně nesplní povinnost odstranit nedostatky, může být udělena další pokuta až do dvojnásobku předchozí pokuty.
+8. Při stanovení výše pokuty se zohledňuje závažnost, délka trvání protiprávního jednání a rozsah potenciální škody.
+9. Udělení pokuty nezbavuje osobu povinnosti odstranit nedostatky v stanovené lhůtě.
 
