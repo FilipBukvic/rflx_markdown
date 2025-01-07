@@ -1247,8 +1247,23 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Pravomoce státních ozbrojených složek**
 
+### **§13 Prokázání totožnosti**
+1. Prokázání totožnosti znamená prokázání jména a příjmení, data narození, případně SSN a pobytu osoby.
+2. Zaměstnanec státní ozbrojené složky je oprávněn vyzvat osobu,
 
-### **§13 Omezení na osobní svobodě**
+   a) přistiženou při jednání, které má znaky trestného činu nebo přestupku,
+
+   b) která odpovídá popisu hledané nebo pohřešované osoby
+
+   c) která se bezdůvodně zdržuje v bezprostřední blízkosti chráněných objektů,
+
+   d) která se zdržuje v blízkosti místa, kde došlo ke spáchání trestného činu nebo přestupku
+
+   e) u které je prokázání totožnosti nezbytné při plnění jiného úkolu k ochraně bezpečnosti osob a majetku, veřejného pořádku nebo pro předcházení trestné činnosti
+   
+4. Každá osoba je povinna svou totožnost prokázat
+
+### **§14 Omezení na osobní svobodě**
 1. Zaměstnanec státní ozbrojené složky má pravomoc omezit osobní svobodu osoby v následujících situacích:
 
    a) Osoba klade fyzický odpor.
@@ -1266,20 +1281,20 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    K omezení osobní svobody lze použít pouze služební pouta.
 
 
-### **§14 Cely státních ozbrojených složek**
+### **§15 Cely státních ozbrojených složek**
 
 1. Příslušník státní ozbrojené složky může do cely umístit pouze osobu, která byla zadržena nebo zatčena.
 2. Před umístěním osoby do cely je zaměstnanec povinen se ujistit, že osoba nenese žádný předmět, který by mohl ohrozit život, poškodit majetek nebo narušit výkon práva a spravedlnosti.
 3. Osoby umisťované do cel státních ozbrojených složek jsou odděleny podle pohlaví, zda jsou zadrženy nebo zatčeny, a podle předpokládaného agresivního chování, nebo zda jsou pod vlivem drog či alkoholu.
 
 
-### **§15 Zajištění věcí**
+### **§16 Zajištění věcí**
 1. Příslušník státní ozbrojené složky má pravomoc zajistit věc, pokud je důležitá pro řešení přestupku nebo trestného činu, nebo pokud se cítí ohrožen při řešení přestupku nebo trestného činu.
 2. Zajištěná věc musí být občanovi neprodleně vrácena po vyřešení přestupku nebo trestného činu, pokud nebyla získána z trestné činnosti nebo použita k jejímu páchání.
 3. Věc zajištěná v souvislosti s trestnou činností automaticky propadá státu, pokud není znám její původní vlastník.
 
 
-### **§16 Odebrání zbraně**
+### **§17 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
    
    a) Pokud zbraň není registrována.
@@ -1293,7 +1308,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    e) Pokud byl soudem vydán rozkaz na odebrání zbraně.
 
 
-### **§17 Vstup do obydlí nebo na pozemek**
+### **§18 Vstup do obydlí nebo na pozemek**
 1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí nebo na pozemek v následujících situacích:
    
    a) Pokud má důvodné podezření o trestné činnosti v obydlí nebo na pozemku.
@@ -1309,7 +1324,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí nebo na pozemek v uvedených situacích.
 
 
-### **§18 Zastavení vozidla**
+### **§19 Zastavení vozidla**
 1. Zaměstnanec státní ozbrojené složky má pravomoc zastavit vozidlo a uskutečnit jeho prohlídku v následujících situacích:
    
    a) Pokud pronásleduje pachatele trestného činu.
@@ -1317,7 +1332,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    b) Pokud pátrá po pachateli trestného činu ve spolupráci se státní ozbrojenou složkou.
 
 
-### **§19 Prohledání vozidla**
+### **§20 Prohledání vozidla**
 1. Zaměstnanec státní ozbrojené složky má právo prohledat vozidlo v následujících situacích:
 
    a) Pokud pátrá po ilegálních zbraních a střelivu.
@@ -1331,7 +1346,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Zaměstnanec státní ozbrojené složky má povinnost zajistit, aby následkem prohledání vozidla nedošlo k újmě na zdraví nezúčastněných osob.
 
 
-### **§20 Zadržení osoby**
+### **§21 Zadržení osoby**
 1. Zaměstnanec státní ozbrojené složky má pravomoc zadržet osobu, která
 
    a) svým jednáním bezprostředně ohrožuje svůj život, život nebo zdraví jiných osob, anebo majetek.
@@ -1347,7 +1362,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Zadržení osoby může trvat nejdéle 24 hodin od okamžiku omezení osobní svobody. Pokud je doba zajištění delší než 24 hodin, musí být osoba buď propuštěna, nebo musí být sepsána žádost na soudu o prodloužení doby omezení.
 
    
-### **§21 Prohledání osoby**
+### **§22 Prohledání osoby**
 1. Zaměstnanec státní ozbrojené složky má pravomoc prohledat osobu v následujících situacích:
 
    a) Pokud má důvodné podezření, že by u sebe osoba mohla mít nelegální předměty nebo předměty spojené s trestnou činností.
@@ -1357,18 +1372,18 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Při prohledávání osoby musí být vždy zajištěno, že postup bude probíhat v souladu s právními předpisy a s respektem k lidské důstojnosti.
 
 
-### **§22 Vykázání**
+### **§23 Vykázání**
 1. Zaměstnanec státní ozbrojené složky má pravomoc vykázat z místa osobu, která svým jednáním ohrožuje provedení práce zaměstnanců státních ozbrojených složek nebo narušuje veřejný pořádek.
 2. Zaměstnanec státní ozbrojené složky oznámí vykázání ústně, přičemž je povinen osobu informovat o důvodech vykázání a o následcích neuposlechnutí této výzvy.
 
 
-### **§23 Světelné a zvukové zařízení**
+### **§24 Světelné a zvukové zařízení**
 1. Zaměstnanec státní ozbrojené složky má pravomoc použít světelné a zvukové zařízení v rámci své služby, pokud k tomu má dostatečný důvod, zejména za účelem zajištění bezpečnosti, veřejného pořádku nebo v souvislosti s plněním služebních povinností.
 2. Zaměstnanec státní ozbrojené složky nesmí zneužít světelného a zvukového zařízení k dosažení osobního prospěchu nebo zvýhodnění ve vztahu k ostatním účastníkům provozu bez dostatečného a oprávněného důvodu.
 3. Zaměstnanec státní ozbrojené složky je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem, a to bezodkladně nadřízeným.
 
 
-### **§24 Donucovací prostředky**
+### **§25 Donucovací prostředky**
 1. Donucovacími prostředky se rozumí následující prostředky, které mohou zaměstnanci státních ozbrojených složek použít v souladu s právními předpisy a za účelem zajištění výkonu jejich služebních povinností:
 
    a) hmaty, chvaty, údery a kopy;
@@ -1399,7 +1414,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 5. Příslušník státní ozbrojené složky je povinen dbát, aby použitím donucovacího prostředku nezpůsobil osobě újmu zřejmě nepřiměřenou povaze a nebezpečnosti jejího protiprávního jednání.
 
 
-### **§25 Použití zbraně**
+### **§26 Použití zbraně**
 1. Zaměstnanec státní ozbrojené složky má oprávnění použít střelnou zbraň v následujících situacích:
 
    a) Pokud je přímo ohrožen na životě on nebo jiná osoba.
@@ -1411,3 +1426,36 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    d) Pokud vozidlo nelze zastavit jiným způsobem.
 
 2.  Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob, a musí činit všechna možná opatření, aby minimalizoval riziko pro okolí.
+
+
+---  
+
+## Zákon č. 10/2024
+*Zákon o trestech ozbrojených složkách.*
+
+### **§1 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
+1. Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy člen nebo členové státních složek nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob.
+2. Nepřiměřený zákrok ozbrojených státních složek se rozděluje do dvou stupňů:
+
+   a) První stupeň: Zásah, který zahrnuje použití nadměrné síly, která není odpovídající situaci, a může vést k porušení práv dotčené osoby, například nepřiměřené použití donucovacích prostředků.
+   
+   b) Druhý stupeň: Extrémní zákrok, který zahrnuje hrubé nebo neoprávněné použití síly, které vážně ohrožuje zdraví, bezpečnost nebo život dotčené osoby.
+
+3. Tresty za nepřiměřený zákrok:
+
+   a) První stupeň: Degradace zaměstnance až na osm let ve státní věznici.
+   
+   b) Druhý stupeň: Trest odnětí svobody na deset let až doživotí ve státní věznici.
+
+   c) U prvního a druhého stupně se ukládá pokuta ve výši 5 000$ až 20 000$ a povinnost odškodnit oběť částkou 50 000$ až 250 000$. 
+
+
+### **§2 Manipulace s důkazy**
+- Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, se dopouští trestného činu, za který hrozí trest odnětí svobody na 10 let až doživotí a pokuta ve výši 500 000 USD až 1 000 000 USD.
+
+
+### **§3 Neoprávněná prohlídka/vstup bez soudního povolení**
+- Prohlídka bez soudního příkazu k domovní prohlídce nebo bez souhlasu vlastníka je považována za protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek.
+Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pokutou ve výši 50,000$
+
+
