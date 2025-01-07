@@ -830,6 +830,10 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 - Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
 
+### **§5 Odebrání zbrojního průkazu**
+- Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní
+
+
 ---  
 
 ## Zákon č. 8/2024
@@ -1025,6 +1029,7 @@ Zajišťuje rozhodování v:
    
    e) Finanční pokuta v hodnotě až 6 000 000 USD.
 
+
 **Státní správa, státní složka, federální složka**
 
 
@@ -1061,119 +1066,120 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 ## Zákon č. 9/2024
 *Zákon o ozbrojených složkách.*
 
+**Jurisdikce ozbrojených složek**
 
 ### **§1 Jurisdikce ozbrojených složek Los Santos Police Department**
 1. LSPD má ve své jurisdikci tyto body:
 
-a) chrání bezpečnost osob a majetku.
-
-b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
-
-c) vede boj proti terorismu.
-
-d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
-
-e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
-
-f) kontroluje pravost a platnost dokladů.
-
-h) vede evidence a statistiky potřebné pro plnění svých úkolů.
-
-ch) vyhlašuje celostátní pátrání.
-
-i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
-
-j) zadržuje osoby vyhlášené v pátrání.
-
-k) zajištění veřejného pořádku.
-
-l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
-
-m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
-
-n) vede boj proti organizovanému zločinu.
-
-o) Los Santos Police Department působí na celém území San Andreas.
-
-p) role Los Santos Police Department provádějí police officers.
-
-q) za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
-
-r) vedení LSPD jmenuje a odvolává Department Of Justice.
+   a) chrání bezpečnost osob a majetku.
+   
+   b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+   
+   c) vede boj proti terorismu.
+   
+   d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+   
+   e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+   
+   f) kontroluje pravost a platnost dokladů.
+   
+   h) vede evidence a statistiky potřebné pro plnění svých úkolů.
+   
+   ch) vyhlašuje celostátní pátrání.
+   
+   i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+   
+   j) zadržuje osoby vyhlášené v pátrání.
+   
+   k) zajištění veřejného pořádku.
+   
+   l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+   
+   m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+   
+   n) vede boj proti organizovanému zločinu.
+   
+   o) Los Santos Police Department působí na celém území San Andreas.
+   
+   p) role Los Santos Police Department provádějí police officers.
+   
+   q) za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+   
+   r) vedení LSPD jmenuje a odvolává Department Of Justice.
 
 
 ### **§2 Jurisdikce ozbrojených složek Los Santos Sheriff Department**
 1. LSSD má ve své jurisdikci tyto body:
 
-a) chrání bezpečnost osob a majetku.
-
-b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
-
-c) vede boj proti terorismu.
-
-d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
-
-e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
-
-f) kontroluje pravost a platnost dokladů.
-
-h) vede evidence a statistiky potřebné pro plnění svých úkolů.
-
-ch) vyhlašuje celostátní pátrání.
-
-i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
-
-j) zadržuje osoby vyhlášené v pátrání.
-
-k) zajištění veřejného pořádku.
-
-l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
-
-m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
-
-n) vede boj proti organizovanému zločinu.
-
-o) Los Santos Sheriff Department s působností na celém území San Andreas.
-
-p) úkoly Los Santos Sheriff Department vykonávají sheriff deputy.
-
-q) za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
-
-r) vedení LSSD jmenuje a odvolává Department Of Justice.
+   a) chrání bezpečnost osob a majetku.
+   
+   b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+   
+   c) vede boj proti terorismu.
+   
+   d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+   
+   e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+   
+   f) kontroluje pravost a platnost dokladů.
+   
+   h) vede evidence a statistiky potřebné pro plnění svých úkolů.
+   
+   ch) vyhlašuje celostátní pátrání.
+   
+   i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+   
+   j) zadržuje osoby vyhlášené v pátrání.
+   
+   k) zajištění veřejného pořádku.
+   
+   l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+   
+   m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+   
+   n) vede boj proti organizovanému zločinu.
+   
+   o) Los Santos Sheriff Department s působností na celém území San Andreas.
+   
+   p) úkoly Los Santos Sheriff Department vykonávají sheriff deputy.
+   
+   q) za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
+   
+   r) vedení LSSD jmenuje a odvolává Department Of Justice.
 
 ### **§3 Jurisdikce ozbrojených složek Drug Enforcement Administration**
 1. DEA má ve své jurisdikci tyto body:
 
-a) DEA má působnost v drogově trestné činnosti. Jedná se především o specifické trestné činy nedovolené výroby a držení omamných a psychotropních látek, jenich prodej.  
+   a) DEA má působnost v drogově trestné činnosti. Jedná se především o specifické trestné činy nedovolené výroby a držení omamných a psychotropních látek, jenich prodej.  
+   
+   b) prošetřuje trestnost držení drogy pro vlastní potřebu, trestnost šíření toxikomanie, trestnost zacházení s drogami.
+   
+   c) chrání bezpečnost osob a majetku.
+   
+   d) vede boj proti drogově trestné činnosti a organizovaném zločinu v drogově trestné činnosti.
+   
+   e) odhaluje trestné činy v oblasti drog, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti v oblasti drog. Koná vyšetřování o drogově trestných činech - v trestním řízení vystupuje jako DEA.
+   
+   f) kontroluje pravost a platnost dokladů.
+   
+   g) vede evidence a statistiky potřebné pro plnění svých úkolů.
+   
+   h) vyhlašuje celostátní pátrání.
+   
+   ch) zadržuje osoby vyhlášené v pátrání.
+   
+   i) vede boj proti organizovanému zločinu v drogové činnosti.
+   
+   j) Drug Enforcement Administration s působností na celém území San Andreas a přilehlých oblastech včetně ostrovů a území ostrova Cayo Perico. Jurisdikce je spojena s veškerou drogově trestní činností.
+   
+   k) DEA má pravomoc vznést žádost o převzetí případu na jednotku řešící případ spojený s drogově trestnou činností
+   
+   l) vedení DEA jmenuje a odvolává Department Of Justice.
 
-b) prošetřuje trestnost držení drogy pro vlastní potřebu, trestnost šíření toxikomanie, trestnost zacházení s drogami.
-
-c) chrání bezpečnost osob a majetku.
-
-d) vede boj proti drogově trestné činnosti a organizovaném zločinu v drogově trestné činnosti.
-
-e) odhaluje trestné činy v oblasti drog, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti v oblasti drog. Koná vyšetřování o drogově trestných činech - v trestním řízení vystupuje jako DEA.
-
-f) kontroluje pravost a platnost dokladů.
-
-g) vede evidence a statistiky potřebné pro plnění svých úkolů.
-
-h) vyhlašuje celostátní pátrání.
-
-ch) zadržuje osoby vyhlášené v pátrání.
-
-i) vede boj proti organizovanému zločinu v drogové činnosti.
-
-j) Drug Enforcement Administration s působností na celém území San Andreas a přilehlých oblastech včetně ostrovů a území ostrova Cayo Perico. Jurisdikce je spojena s veškerou drogově trestní činností.
-
-k) DEA má pravomoc vznést žádost o převzetí případu na jednotku řešící případ spojený s drogově trestnou činností
-
-l) vedení DEA jmenuje a odvolává Department Of Justice.
-
+**Vyšetřování státních ozbrojených složek**
 
 ### **§4 Suspendace vznesená ze strany Department Of Justice**
 1. Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
-
 2. V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
 
    a) Department Of Justice zašle suspendaci zaměstnance s platností ke dni a důvodem suspendace. Vedení státní složky, která tento příkaz obdrží, vydá suspendaci příslušnému zaměstnanci. 
@@ -1196,63 +1202,189 @@ l) vedení DEA jmenuje a odvolává Department Of Justice.
    c) pověřit vyšetřováním státní orgán LSPD/LSSD/DEA, který na základě pověření, započne úkon vyšetřování.
 
 
-
-### **§6 Neoprávněná prohlídka/vstup bez soudního povolení**
-- Prohlídka bez soudního příkazu k domovní prohlídce nebo bez souhlasu vlastníka je považována za protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek.
-Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pokutou ve výši 50,000$
-
-----------------------------------------------
-
+### **§6 porušení právních předpisů a zákona ze strany státní složky**
+1. Řešení přestupků spáchaných zaměstnanci státních složek je svěřeno do pravomoci vedení státní složky, pod kterou daný zaměstnanec spadá.
+2. Výjimku tvoří příslušníci EMS (Emergency Medical Services) a LSFD (Los Santos Fire Department), u nichž se přestupky řeší jako u běžné civilní osoby, přičemž je povinnost tyto záležitosti neprodleně předat vedení příslušného sboru. 
+3. Řešení trestných činů u zaměstnanců státních složek je v jurisdikci rozhodování ze strany Department Of Justice.
+4. V případě trestných činů spáchaných příslušníky státních složek je každý, kdo je svědkem takového jednání, povinen neprodleně zasáhnout, osobu podezřelou omezit na osobní svobodě a umístit ji do cely předběžného zadržení. O incidentu musí být bezodkladně informován Department of Justice (DOJ), vedení vlastního sboru a vedení sboru, pod který spadá osoba podezřelá z trestného činu.
 
 
-### § 16 porušení právních předpisů a zákona ze strany státní složky
-
-- Příslušníci všech státních složek jsou povinni se na místě prokázat platnými doklady s identifikací čísla odznaku. To platí i v případě, že osoba je v momentální chvíli šetření protiprávního jednání mimo službu. Řešení přestupků u zaměstnanců státních složek je vedeno ze strany vlastního vedení státní složky pod kterou osoba spadá.
-
-Jedná-li se o přestupek:
-
-- Při spáchání přestupku ze strany zaměstnanců státních složek, nemají členové jiné státní ozbrojené složky po identifikaci osoby pravomoc přestupek řešit na místě. Státní složka, která osobu jiné státní složky na místě přestupku vyšetřuje, má pravomoc identifikovat osobu a sepsat s ní záznam o přestupku, které poté doloží na Vedení státní složky pod kterou osoba dopouštějící se přestupku spadá. Po předání záznamu se Vedení touto osobou zabývá.
-
-- Výjimku tvoří EMS a LSFD, které ozbrojené státní složky mají ve své kompetenci a mohou ji řešit.
-
-- Řešení trestných činů u zaměstnanců státních složek je v jurisdikci rozhodování ze strany Department Of Justice.
-
-Jedná-li se o trestný čin:
-
-Trestní stíhání u zaměstnanců státních složek:
-
-- Při spáchání trestného činu ze strany zaměstnanců státních složek, mají všechny ozbrojené státní složky pravomoc omezit osobu na osobní svobodě, provádět vyšetřování a vznést obvinění. Ozbrojená státní složka, která osobu zajistí je povinna informovat Department Of Justice prostřednictvím soudního spisu na aplikaci soudu. Na základě spisu se Department Of Justice touto osobou zabývá. 
-
-- Výjimku tvoří EMS a LSFD, které ozbrojené státní složky mají ve své kompetenci a mohou ji řešit.
-
-- Při spáchání trestného činu ze strany zaměstnanců EMS a LSFD, mají všechny ozbrojené složky pravomoc omezit osobu na osobní svobodě, provádět vyšetřování a vznést obvinění.
-Státní složka, která osobu spadající pod EMS, nebo LSFD zajistí je povinna informovat Department Of Justice prostřednictvím soudního spisu na aplikaci soudu. Na základě spisu se Department Of Justice touto osobou zabývá.
-
-### § 17 Pořádková pokuta pro státní složky
-
-1. Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu zaměstnanci státní složky až do výše 1 500 000 USD pokud v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání k Department Of Justice, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
-
-2. Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
-
-3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle § 20. Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 500 000 USD.
-
-### § 18 Předvolání k podání vysvětlení zaměstnance státní složky
-
-1. K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 22).
-
-2. Každý zaměstnanec státní složky je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 21) až do výše 1 500 000 USD.
-
-3. O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
-
-4. Záznam o podání vysvětlení lze použít jako důkazní prostředek.
-
-## Advokátní komora
-
-### Veřejný seznam advokátních a právnických licencí
-Vydané advokátní licence:
+### **§7 Předvolání k podání vysvětlení zaměstnance státní složky**
+1. Department of Justice (DOJ) si může vyžádat vysvětlení k prověření oznámení, podnětů nebo vlastních zjištění. Tato vysvětlení slouží k objasnění situace nebo přípravě rozhodnutí.
+2. Zaměstnanci státní složky jsou povinni vysvětlení poskytnout. Pokud někdo bez důvodu odmítne, může dostat pokutu až 1 500 000 USD.
+3. O vysvětlení se pořizuje záznam, který obsahuje údaje o osobě, podané informace, datum a podpis.
+4. Tento záznam lze použít jako důkaz.
 
 
-### **§5 Odebrání zbrojního průkazu**
-- Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní.
+**Povinnosti státních ozbrojených složek**
 
 
+### **§8 Přiměřenost postupu**
+- Státní ozbrojené složky jsou při výkonu svých pravomocí povinny postupovat přiměřeně, tak aby zásah do práv a svobod osob byl omezen pouze na nezbytnou míru potřebnou k dosažení účelu zákroku.
+
+
+### **§9 Povinnost identifikace**
+1. Příslušníci státních složek jsou povinni se při výkonu služby na požádání identifikovat služebním číslem.
+2. Tato povinnost se nevztahuje na případy, kdy by identifikace mohla ohrozit probíhající operaci, bezpečnost příslušníka, nebo jinou oprávněnou osobu.
+3. Služební číslo musí být poskytnuto jasně a srozumitelně způsobem, který umožňuje jeho jednoznačnou identifikaci.
+4. Porušení této povinnosti může být považováno za kázeňský přestupek, pokud není odůvodněno zvláštními okolnostmi výkonu služby.
+
+
+### **§10 Poučení o právech (Miranda práva)**
+1. Příslušník státní ozbrojené složky je povinen zadrženou osobu poučit o jejích právech následujícím způsobem:
+
+    a) Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
+
+2. Příslušních státní ozbrojené složky je povinnen dvakrát se zeptat zadržené osoby, zda svým právům porozuměla. Pokud zadržená osoba nerozumí svým právům a zároveň to nevyjádří, státní ozbrojená složka není povinna práva opakovat znovu. V takovém případě se má za to, že se osoba vzdala svých práv.
+
+
+**Pravomoce státních ozbrojených složek**
+
+
+### **§6 Omezení na osobní svobodě**
+1. Zaměstnanec státní ozbrojené složky má pravomoc omezit osobní svobodu osoby v následujících situacích:
+
+   a) Osoba klade fyzický odpor.
+   
+   b) Osoba ohrožuje život svůj nebo jiných osob.
+   
+   c) Osoba poškozuje osobní, cizí nebo veřejný majetek.
+   
+   d) Osoba se pokouší o útěk.
+   
+   e) Osoba odmítá nebo nemůže prokázat svou totožnost.
+   
+   f) Osoba neuposlechne výzvu státní ozbrojené složky.
+   
+   K omezení osobní svobody lze použít pouze služební pouta.
+
+
+### **§7 Cely státních ozbrojených složek**
+
+1. Příslušník státní ozbrojené složky může do cely umístit pouze osobu, která byla zadržena nebo zatčena.
+2. Před umístěním osoby do cely je zaměstnanec povinen se ujistit, že osoba nenese žádný předmět, který by mohl ohrozit život, poškodit majetek nebo narušit výkon práva a spravedlnosti.
+3. Osoby umisťované do cel státních ozbrojených složek jsou odděleny podle pohlaví, zda jsou zadrženy nebo zatčeny, a podle předpokládaného agresivního chování, nebo zda jsou pod vlivem drog či alkoholu.
+
+
+### **§8 Zajištění věcí**
+1. Příslušník státní ozbrojené složky má pravomoc zajistit věc, pokud je důležitá pro řešení přestupku nebo trestného činu, nebo pokud se cítí ohrožen při řešení přestupku nebo trestného činu.
+2. Zajištěná věc musí být občanovi neprodleně vrácena po vyřešení přestupku nebo trestného činu, pokud nebyla získána z trestné činnosti nebo použita k jejímu páchání.
+3. Věc zajištěná v souvislosti s trestnou činností automaticky propadá státu, pokud není znám její původní vlastník.
+
+
+### **§9 Odebrání zbraně**
+1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
+   
+   a) Pokud zbraň není registrována.
+   
+   b) Pokud majitel zbraně nevlastní platný zbrojní průkaz.
+   
+   c) Pokud se jedná o nelegálně vlastněnou zbraň.
+   
+   d) Pokud majitel porušil předpisy nebo zákony stanovené "Zákonem o zbraních a střelivu".
+   
+   e) Pokud byl soudem vydán rozkaz na odebrání zbraně.
+
+
+### **§9 Vstup do obydlí nebo na pozemek**
+1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí nebo na pozemek v následujících situacích:
+   
+   a) Pokud má důvodné podezření o trestné činnosti v obydlí nebo na pozemku.
+   
+   b) Pokud se v obydlí nebo na pozemku nachází hledaná osoba.
+   
+   c) Pokud probíhá pronásledování osoby přes obydlí nebo pozemek.
+   
+   d) Pokud má důvodné podezření o výskytu zraněné osoby vyžadující ošetření v obydlí nebo na pozemku.
+
+   e) Pokud bylo vydáno soudní povolení k prohlídce obydlí nebo pozemku, které oprávňuje zaměstnancem státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa
+
+2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí nebo na pozemek v uvedených situacích.
+
+
+### **§14 Zastavení vozidla**
+1. Zaměstnanec státní ozbrojené složky má pravomoc zastavit vozidlo a uskutečnit jeho prohlídku v následujících situacích:
+   
+   a) Pokud pronásleduje pachatele trestného činu.
+   
+   b) Pokud pátrá po pachateli trestného činu ve spolupráci se státní ozbrojenou složkou.
+
+
+### **§15 Prohledání vozidla**
+1. Zaměstnanec státní ozbrojené složky má právo prohledat vozidlo v následujících situacích:
+
+   a) Pokud pátrá po ilegálních zbraních a střelivu.
+   
+   b) Pokud pátrá po věcech pocházejících z trestné činnosti.
+   
+   c) Pokud pátrá po hledaných osobách.
+   
+   d) Pokud má důvodné podezření na přítomnost nelegálních předmětů ve vozidle.
+
+2. Zaměstnanec státní ozbrojené složky má povinnost zajistit, aby následkem prohledání vozidla nedošlo k újmě na zdraví nezúčastněných osob.
+
+
+### **§16 Prohledání osoby**
+1. Zaměstnanec státní ozbrojené složky má pravomoc prohledat osobu v následujících situacích:
+
+   a) Pokud má důvodné podezření, že by u sebe osoba mohla mít nelegální předměty nebo předměty spojené s trestnou činností.
+   
+   b) Pokud je osoba omezena na osobní svobodě, a to za účelem zajištění bezpečnosti a předcházení riziku ohrožení zdraví, života nebo majetku.
+
+2. Při prohledávání osoby musí být vždy zajištěno, že postup bude probíhat v souladu s právními předpisy a s respektem k lidské důstojnosti.
+
+
+### **§17 Vykázání**
+1. Zaměstnanec státní ozbrojené složky má pravomoc vykázat z místa osobu, která svým jednáním ohrožuje provedení práce zaměstnanců státních ozbrojených složek nebo narušuje veřejný pořádek.
+2. Zaměstnanec státní ozbrojené složky oznámí vykázání ústně, přičemž je povinen osobu informovat o důvodech vykázání a o následcích neuposlechnutí této výzvy.
+
+
+### **§18 Světelné a zvukové zařízení**
+1. Zaměstnanec státní ozbrojené složky má pravomoc použít světelné a zvukové zařízení v rámci své služby, pokud k tomu má dostatečný důvod, zejména za účelem zajištění bezpečnosti, veřejného pořádku nebo v souvislosti s plněním služebních povinností.
+2. Zaměstnanec státní ozbrojené složky nesmí zneužít světelného a zvukového zařízení k dosažení osobního prospěchu nebo zvýhodnění ve vztahu k ostatním účastníkům provozu bez dostatečného a oprávněného důvodu.
+3. Zaměstnanec státní ozbrojené složky je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem, a to bezodkladně nadřízeným.
+
+
+### **§19 Donucovací prostředky**
+1. Donucovacími prostředky se rozumí následující prostředky, které mohou zaměstnanci státních ozbrojených složek použít v souladu s právními předpisy a za účelem zajištění výkonu jejich služebních povinností:
+
+   a) hmaty, chvaty, údery a kopy;
+   
+   b) slzotvorné prostředky;
+   
+   c) obušek;
+   
+   d) pouta;
+   
+   e) služební pes;
+   
+   f) zastavovací pás a jiné prostředky k násilnému zastavení vozidla;
+   
+   g) vodní stříkač;
+   
+   h) zásahová výbuška;
+   
+   i) úder střelnou zbraní;
+   
+   j) hrozba střelnou zbraní;
+   
+   k) varovný výstřel.
+
+2. Donucovací prostředky je příslušník státní ozbrojené složky oprávněn použít v zájmu ochrany bezpečnosti osob, své vlastní a majetku a ochrany veřejného pořádku, proti osobě, která je ohrožuje.
+3. Před použitím donucovacích prostředků je policista povinen vyzvat osobu, proti které zakročuje, aby upustila od protiprávního jednání s výstrahou, že bude použito donucovacích prostředků. Od výzvy s výstrahou může upustit jen v případě, že je ohrožen jeho život nebo zdraví anebo život nebo zdraví jiné osoby a služební zákrok nesnese odkladu.
+4. O tom, který z donucovacích prostředků použije, rozhoduje příslušník státní ozbrojené složky podle konkrétní situace tak, aby dosáhl účelu sledovaného služebním zákrokem; přitom použije takového donucovacího prostředku, který je nezbytně nutný k překonání odporu osoby, která se dopouští protiprávního jednání.
+5. Příslušník státní ozbrojené složky je povinen dbát, aby použitím donucovacího prostředku nezpůsobil osobě újmu zřejmě nepřiměřenou povaze a nebezpečnosti jejího protiprávního jednání.
+
+
+### **§19 Použití zbraně**
+1. Zaměstnanec státní ozbrojené složky má oprávnění použít střelnou zbraň v následujících situacích:
+
+   a) Pokud je přímo ohrožen na životě on nebo jiná osoba.
+   
+   b) Pokud pachatel nereaguje na jeho výzvy k opuštění úkrytu.
+   
+   c) Pokud pachatel je ozbrojený a nereaguje na výzvu k zahození zbraně.
+   
+   d) Pokud vozidlo nelze zastavit jiným způsobem.
+
+2.  Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob, a musí činit všechna možná opatření, aby minimalizoval riziko pro okolí.
