@@ -972,7 +972,7 @@ Zajišťuje rozhodování v:
 - Soudní líčení je založeno na ústním projednávání, při kterém se vyslýchají svědci, znalci a obviněný. Veškeré výpovědi a další důkazy musí být zaznamenány ve spise.
 
 
-###** §12 Zásada bezprostřednosti**
+### **§12 Zásada bezprostřednosti**
 - Při rozhodování v hlavním líčení smí Department Of Justice přihlédnout jen k těm důkazům, které byly při tomto jednání provedeny. Rozhoduje se tedy na základě provedených důkazů, které by měly splňovat podmínku co největší blízkosti zjišťované skutečnosti.
 
 
