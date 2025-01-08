@@ -753,7 +753,7 @@ Department of Justice vykonává tyto funkce:
 - Nedovolený převoz psychotropních a omamných látek na palubě stroje je trestný čin který se trestá odnětím svobody v délce tři až osm roky, pokutou odebráním licence i stroje
 
 
-### **§6Místa určená pro přistávání**
+### **§6 Místa určená pro přistávání**
 1. Helikoptéry mohou přistávat pouze na oficiálních heliportech.
 2. Soukromé heliporty musí splňovat bezpečnostní standardy a být schváleny FAA. Pokud heliport není schválen, nelze jej využít.
    
@@ -764,10 +764,10 @@ Department of Justice vykonává tyto funkce:
 5. Přistání mimo určená místa je trestné a trestá se odnětím svobody na jeden až tři roky, odebráním licence i stroje a pokutou $60.000.
 
 
-### **§6 Užívání prostor letišť a heliportů**
+### **§7 Užívání prostor letišť a heliportů**
 1. Všechny letiště a heliporty jsou pod správou FAA. Vstup je povolen pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje) nebo s platným povolením od FAA. V těchto prostorách je nutné dodržovat pokyny zaměstnanců letiště a FAA.
-2.Narušení prostor letišť a heliportů ve správě FAA je přestupek, který se trestá pokutou $20.000.
-3.Pořádání akce nebo výcviku bez povolení FAA je přestupek, který se trestá pokutou $45.000.
+2. Narušení prostor letišť a heliportů ve správě FAA je přestupek, který se trestá pokutou $20.000.
+3. Pořádání akce nebo výcviku bez povolení FAA je přestupek, který se trestá pokutou $45.000.
    
 
 ---  
