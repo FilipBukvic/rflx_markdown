@@ -263,9 +263,15 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 4 Nedovolené ozbrojování**
-1. Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává střelnou zbraň nebo její části nebo díly nebo ve větším množství střelivo, bude potrestán odnětím svobody až na dvě léta, zákazem činnosti nebo propadnutím věci.
-2. Kdo neoprávněně přidává, upravuje nebo jinak nakládá s přídavnými zařízeními na zbraň, která nejsou zapsána v kategorii GUR, bude potrestán odnětím svobody na dobu jednoho roku a pokutou do výše 1.500$.
+1. Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává či užívá střelnou zbraň nebo její části.
 
+   a) Zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
+      
+   b) Zbraně nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
+      
+   c) Zbraně typu GUR neregistrované nebo bez licence - je přestupek čin, trestaný pokutou do výše 3.000$.
+   
+   d) Střelivo nespadající pod GUR - je přestupek čin, trestaný pokutou do výše 1.500$.
 
 ### **§ 5 Únos**
 1. Kdo si přivlastní osobu, vezme ji proti její vůli nebo jí jiným způsobem omezuje osobní svobodu, bude potrestán odnětím svobody:
@@ -527,20 +533,6 @@ Department of Justice vykonává tyto funkce:
   
 ### **§47 Znásilnění**
 - Pohlavní styk nebo jiná obdobná sexuální aktivita bez souhlasu je trestný čin, trestaný odnětím svobody od pěti do deseti let a pokutou do 10.000$.
-
-
-### **§49 Neposkytnutí první pomoci**
-- Neposkytnutí první pomoci nebo ujetí od místa nehody je trestný čin, trestaný odnětím svobody od jednoho u do pěti let a pokutou do 6.000$.
-
-
-### **§50 Nedovolené ozbrojování**
-1. Vlastnictví, a užívání jakékoli střelné zbraně, bez platného osvědčení.
-
-   a) Držení zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
-   
-   b) Zbraně tohoto typu nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
-   
-   c) Zbraně typu GUR (neregistrované/bez licence) - je přestupek čin, trestaný pokutou do výše 3.000$.
 
 
 ---  
