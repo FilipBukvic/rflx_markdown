@@ -30,10 +30,10 @@
 
 
 ## Dashboard
-- Hlavní stránka po otevření MDT.
   
 ![Mdt_dashboard](https://cdn.tror.eu/file/i/tror_web_images/h6Cs.webp)
 
+- Hlavní stránka po otevření MDT.
 ### Pravá strana MDT obsahuje:
 - Seznam aktivních hlídek.
 - Zobrazuje jednotlivé osoby ve službě ("duty"), u kterých jsou uvedeny následující informace:
@@ -50,10 +50,10 @@
 
 ---
 ## Osoby
-- Slouží k vyhledávání osob v systému.
   
 ![Mdt_user_search](https://cdn.tror.eu/file/i/tror_web_images/4jpz.webp)
 
+- Slouží k vyhledávání osob v systému.
 - Možnosti vyhledávání:
 
   - Jméno
@@ -71,10 +71,10 @@
 
 ---
 ### Profil osoby
-- Na profilu osoby najdete 9 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 6 tlačítek pro různé akce.
   
 ![Mdt_user_profile](https://cdn.tror.eu/file/i/tror_web_images/WT3l.webp) 
 
+- Na profilu osoby najdete 9 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 6 tlačítek pro různé akce.
 #### **Popis karet**
 
 #### 1. Informace o osobě
@@ -148,10 +148,10 @@
 
 ---
 ## Zbraně
-- Slouží k vyhledávání zbraní v systému.
   
 ![Mdt_weapon_search](https://cdn.tror.eu/file/i/tror_web_images/U9YK.webp)
 
+- Slouží k vyhledávání zbraní v systému.
 - Možnosti vyhledávání:
 
   - Sériové číslo
@@ -167,10 +167,10 @@
 
 ---
 ### Profil Zbraně 
-- Na profilu zbraně najdete 3 karty, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 4 tlačítka pro různé akce.
   
 ![Mdt_weapon_profile](https://cdn.tror.eu/file/i/tror_web_images/44LN.webp)
 
+- Na profilu zbraně najdete 3 karty, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 4 tlačítka pro různé akce.
 #### **Popis karet**
 
 #### 1. Informace o zbrani
@@ -203,10 +203,10 @@
 
 ---
 ## Vozidla
-- Slouží k vyhledávání vozidel v systému.
   
 ![Mdt_vehicle_search](https://cdn.tror.eu/file/i/tror_web_images/30Rv.webp)
 
+- Slouží k vyhledávání vozidel v systému.
 - Možnosti vyhledávání:
 
   - RZ
@@ -221,10 +221,10 @@
 
 ---
 ### Profil Vozidla
-- Na profilu vozidla najdete 6 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 2 tlačítka pro různé akce.
   
 ![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/js4k.webp) 
 
+- Na profilu vozidla najdete 6 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 2 tlačítka pro různé akce.
 #### **Popis karet**
 
 #### 1. Informace o vozidle
