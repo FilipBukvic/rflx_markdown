@@ -41,7 +41,7 @@ Stát San Andreas disponuje těmito orgány a správami:
 - Řídí výběrová řízení do vládních pozic.
 - Může měnit strukturu vládních úřadů v případě potřeby.
 
-#### **§3 *Department of Commerce & Department of Labor (DoC & DoL)**
+#### **§3 Department of Commerce & Department of Labor (DoC & DoL)**
 - Zabavuje majetek zapojený do trestného činu nebo prokazující neaktivitu.
 - Zajišťuje aukce státně zabaveného majetku.
 - Zastupuje stát v trestněprávních řízeních.
@@ -229,7 +229,7 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 1 Ublížení na zdraví**
-1. Ublížením na zdraví se rozumí porušení normálních tělesných nebo duševních funkcí za pomocí zbraně, nikoli jen po krátkou dobu. 
+1. Ublížením na zdraví se rozumí porušení normálních tělesných nebo duševních funkcí za pomocí zbraně.
    
    a) Za neúmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 1 roku do 2 let.
    
