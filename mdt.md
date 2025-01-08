@@ -45,8 +45,8 @@
 
 
 ---
-![Mdt_user_search](https://cdn.tror.eu/file/i/tror_web_images/4jpz.webp)
 ## Osoby
+![Mdt_user_search](https://cdn.tror.eu/file/i/tror_web_images/4jpz.webp)
 - Slouží k vyhledávání osob v systému.
 - Možnosti vyhledávání:
 
@@ -64,8 +64,8 @@
 
 
 ---
-![Mdt_user_profile](https://cdn.tror.eu/file/i/tror_web_images/WT3l.webp)
-### Profil osoby  
+### Profil osoby
+![Mdt_user_profile](https://cdn.tror.eu/file/i/tror_web_images/WT3l.webp) 
 - Na profilu osoby najdete 9 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 6 tlačítek pro různé akce.
 
 #### **Popis karet**
@@ -140,8 +140,8 @@
 
 
 ---
-![Mdt_weapon_search](https://cdn.tror.eu/file/i/tror_web_images/U9YK.webp)
 ## Zbraně
+![Mdt_weapon_search](https://cdn.tror.eu/file/i/tror_web_images/U9YK.webp)
 - Slouží k vyhledávání zbraní v systému.
 - Možnosti vyhledávání:
 
@@ -157,8 +157,8 @@
 
 
 ---
+### Profil Zbraně 
 ![Mdt_weapon_profile](https://cdn.tror.eu/file/i/tror_web_images/44LN.webp)
-### Profil Zbraně  
 - Na profilu zbraně najdete 3 karty, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 4 tlačítka pro různé akce.
 
 #### **Popis karet**
@@ -192,8 +192,8 @@
 
 
 ---
-![Mdt_vehicle_search](https://cdn.tror.eu/file/i/tror_web_images/30Rv.webp)
 ## Vozidla
+![Mdt_vehicle_search](https://cdn.tror.eu/file/i/tror_web_images/30Rv.webp)
 - Slouží k vyhledávání vozidel v systému.
 - Možnosti vyhledávání:
 
@@ -208,8 +208,8 @@
  
 
 ---
-![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/js4k.webp)
-### Profil Vozidla  
+### Profil Vozidla
+![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/js4k.webp) 
 - Na profilu vozidla najdete 6 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 2 tlačítka pro různé akce.
 
 #### **Popis karet**
