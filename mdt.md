@@ -244,8 +244,8 @@
 - Detaily o zabavení vozidla, včetně důvodu a data zabavení.
   
 #### 5. Úpravy vozidla
-- Místo pro zápis úprav na vozidle, jako jsou změny v designu, technické úpravy nebo jiné modifikace.#### 3. Poznámky
-
+- Místo pro zápis úprav na vozidle, jako jsou změny v designu, technické úpravy nebo jiné modifikace.
+  
 #### 6. Poznámky
 - Poznámky týkající se vozidla, které lze přidávat nebo upravovat.
 
