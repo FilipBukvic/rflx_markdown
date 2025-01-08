@@ -377,7 +377,7 @@ Department of Justice vykonává tyto funkce:
 ### **§ 22 Korupce**
 1. Každá osoba, která dává nebo nabízí úplatek jakémukoli soudnímu úředníkovi nebo porotci s úmyslem ovlivnit jeho rozhodnutí o jakékoli věci, je trestný čin, který se trestá odnětím svobody od 1 roku do 2 let a pokutou do výše 2.500$.
 2. Osoba, která nabízí nebo poskytuje úplatek příslušníkovi bezpečnostního sboru nebo jinému státnímu úředníkovi s úmyslem ovlivnit jeho rozhodnutí, se dopouští trestného činu, který se trestá odnětím svobody od 1 roku do 10 let a pokutou do výše 50.000$.
-3. Příslušník bezpečnostního sboru nebo jiný státní úředník, který přijme úplatek s úmyslem ovlivnit své rozhodnutí nebo výkon své pravomoci, se dopouští trestného činu, který se trestá odnětím svobody až na doživotí a pokuta do výše 10 000,000$
+3. Příslušník bezpečnostního sboru nebo jiný státní úředník, který přijme úplatek s úmyslem ovlivnit své rozhodnutí nebo výkon své pravomoci, se dopouští trestného činu, který se trestá odnětím svobody až na doživotí a pokuta do výše 100.000$
 
 
 ### **§ 23 Zneužití tísňové linky**
