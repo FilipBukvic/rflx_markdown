@@ -578,7 +578,7 @@ Department of Justice vykonává tyto funkce:
    
    b) Zatmavení čelního a předních bočních skel tak, že do vozidla není vidět za běžných okolností
    
-   c) Zabarvení předních světlometů jiným než povolenými barvami
+   c) Změna barvy předních světlometů na jinou barvu než bílou či xenon
 
 
 ### **§7 Technický stav vozidla**
