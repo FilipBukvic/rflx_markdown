@@ -11,7 +11,9 @@
 
 
 ## Menu
+
 ![Mdt_main](https://cdn.tror.eu/file/i/tror_web_images/hY2Y.webp)
+
 ### Levá strana MDT obsahuje následující sekce:
 - **Osoby:** Lustrace osob.
 - **Zbraně:** Lustrace zbraní.
@@ -28,9 +30,10 @@
 
 
 ## Dashboard
-- Hlavní stránka po otevření MDT:
+- Hlavní stránka po otevření MDT.
   
 ![Mdt_dashboard](https://cdn.tror.eu/file/i/tror_web_images/h6Cs.webp)
+
 ### Pravá strana MDT obsahuje:
 - Seznam aktivních hlídek.
 - Zobrazuje jednotlivé osoby ve službě ("duty"), u kterých jsou uvedeny následující informace:
@@ -48,7 +51,9 @@
 ---
 ## Osoby
 - Slouží k vyhledávání osob v systému.
+  
 ![Mdt_user_search](https://cdn.tror.eu/file/i/tror_web_images/4jpz.webp)
+
 - Možnosti vyhledávání:
 
   - Jméno
@@ -67,6 +72,7 @@
 ---
 ### Profil osoby
 - Na profilu osoby najdete 9 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 6 tlačítek pro různé akce.
+  
 ![Mdt_user_profile](https://cdn.tror.eu/file/i/tror_web_images/WT3l.webp) 
 
 #### **Popis karet**
@@ -143,7 +149,9 @@
 ---
 ## Zbraně
 - Slouží k vyhledávání zbraní v systému.
+  
 ![Mdt_weapon_search](https://cdn.tror.eu/file/i/tror_web_images/U9YK.webp)
+
 - Možnosti vyhledávání:
 
   - Sériové číslo
@@ -160,6 +168,7 @@
 ---
 ### Profil Zbraně 
 - Na profilu zbraně najdete 3 karty, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 4 tlačítka pro různé akce.
+  
 ![Mdt_weapon_profile](https://cdn.tror.eu/file/i/tror_web_images/44LN.webp)
 
 #### **Popis karet**
@@ -195,6 +204,7 @@
 ---
 ## Vozidla
 - Slouží k vyhledávání vozidel v systému.
+  
 ![Mdt_vehicle_search](https://cdn.tror.eu/file/i/tror_web_images/30Rv.webp)
 
 - Možnosti vyhledávání:
@@ -212,6 +222,7 @@
 ---
 ### Profil Vozidla
 - Na profilu vozidla najdete 6 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 2 tlačítka pro různé akce.
+  
 ![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/js4k.webp) 
 
 #### **Popis karet**
