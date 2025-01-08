@@ -235,7 +235,7 @@
   - Majitel  
 
 #### 2. Spisy
-- Seznam spisů vázaných na zbraň.  
+- Seznam spisů vázaných na vozidlo.  
 
 #### 3. Historie majitelů vozidla 
 - Seznam majitelů vozidla, který zobrazuje všechny osoby, které byly v minulosti vlastníky daného vozidla.
