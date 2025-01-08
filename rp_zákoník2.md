@@ -446,7 +446,7 @@ Department of Justice vykonává tyto funkce:
 - Kdo se úmyslně vyhýbá výkonu trestu nebo se skrývá před spravedlností, dopouští se trestného činu, který se trestá odnětím svobody na jeden až čtyři roky a pokutou do výše 3.000$.
 
 
-### **§ 35 Vyhýbání se spravedlnosti**
+### **§ 35 Sexuální nátlak**
 - Kdo úmyslně nutí jinou osobu k obnažování, sexu nebo jinému srovnatelnému chování, dopouští se trestného činu, který se trestá odnětím svobody na jeden až tři roky a pokutou do výše 4.000$.
 
 
