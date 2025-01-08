@@ -29,6 +29,7 @@
 
 ## Dashboard
 - Hlavní stránka po otevření MDT:
+  
 ![Mdt_dashboard](https://cdn.tror.eu/file/i/tror_web_images/h6Cs.webp)
 ### Pravá strana MDT obsahuje:
 - Seznam aktivních hlídek.
