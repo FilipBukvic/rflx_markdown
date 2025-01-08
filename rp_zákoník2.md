@@ -356,7 +356,7 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 17 Zahalování**
-- Částečné nebo úplné zahalování obličeje za účelem skrytí identity na veřejných shromážděních a v prostorách státních institucí představuje přestupek, který se trestá pokutou až do výše 1.500$.
+- Částečné nebo úplné zahalování obličeje za účelem skrytí identity na veřejném prostranství a v prostorách státních institucí představuje přestupek, který se trestá pokutou až do výše 1.500$.
 
 
 ### **§ 18 Křivá přísaha**
