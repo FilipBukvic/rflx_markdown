@@ -714,7 +714,7 @@ Department of Justice vykonává tyto funkce:
 *Zákon o leteckém provozu*
 
 ### **§1 Bezletová zóna**
-1. Civilní letadla musí dodržovat předepsanou letovou výšku. Be městě a v okolí strategických budov, jako jsou EMS, LSPD, LSSD, LSFD, FIB, Maze Bank, Budova soudu, Věznice a Nádrže s pitnou vodou, je letová výška stanovena na 100 metrů nad nejvyšší budovou. Jakákoliv nižší letová hladina se považuje za bezletovou zónu.
+1. Civilní letadla a helikoptéry musí dodržovat předepsanou letovou výšku. Ve městě a v okolí strategických budov, jako jsou EMS, LSPD, LSSD, LSFD, FIB, Maze Bank, Budova soudu, Věznice a Nádrže s pitnou vodou, je letová výška stanovena na 100 metrů nad nejvyšší budovou. Jakákoliv nižší letová hladina se považuje za bezletovou zónu.
 
    a) Narušením bezletové zóny v případě, že nevzniklo ohrožení letového provozu a osob, se jedná o přestupek, který se trestá pokutou ve výši $20.000.
    
