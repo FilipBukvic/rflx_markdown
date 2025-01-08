@@ -346,8 +346,9 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 15 Open Carry**
-1. Zakazuje se otevřená přeprava střelných zbraní na veřejném prostranství, včetně nošení viditelně odhalené a nabité zbraně. Toto jednání se klasifikuje jako přestupek, který se trestá pokutou až do výše 3.500$
-2. Toto ustanovení se nevztahuje na státní ozbrojené složky při výkonu jejich povinností.
+1. Zakazuje se otevřená přeprava střelných zbraní na veřejném prostranství, včetně nošení viditelně odhalené a nabité zbraně. Toto jednání se klasifikuje jako přestupek, který se trestá pokutou až do výše 3.500$ a odebráním zbraně.
+2. Zakazuje se otevřená přeprava bodných a sečných zbraní na veřejném prostranství. Toto jednání se klasifikuje jako přestupek, který se trestá pokutou až do výše 1.500$ a odebráním zbraně.
+3. Toto ustanovení se nevztahuje na státní ozbrojené složky při výkonu jejich povinností.
 
 
 ### **§ 16 Spolupachatelství**
