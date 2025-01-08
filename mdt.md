@@ -11,7 +11,7 @@
 
 
 ## Menu
-![Mdt](https://cdn.tror.eu/file/i/tror_web_images/hY2Y.webp)
+![Mdt_main](https://cdn.tror.eu/file/i/tror_web_images/hY2Y.webp)
 ### Levá strana MDT obsahuje následující sekce:
 - **Osoby:** Lustrace osob.
 - **Zbraně:** Lustrace zbraní.
@@ -28,6 +28,7 @@
 
 
 ## Dashboard
+![Mdt_dashboard](https://cdn.tror.eu/file/i/tror_web_images/h6Cs.webp)
 - Hlavní stránka po otevření MDT:
 ### Pravá strana MDT obsahuje:
 - Seznam aktivních hlídek.
@@ -42,9 +43,9 @@
       - Frekvenci, na které se nachází.
       - Tlačítko označit na mapě: Umožňuje lokalizovat danou hlídku.
 
-     
----
 
+---
+![Mdt_user_search](https://cdn.tror.eu/file/i/tror_web_images/4jpz.webp)
 ## Osoby
 - Slouží k vyhledávání osob v systému.
 - Možnosti vyhledávání:
@@ -63,7 +64,7 @@
 
 
 ---
-
+![Mdt_user_profile](https://cdn.tror.eu/file/i/tror_web_images/WT3l.webp)
 ### Profil osoby  
 - Na profilu osoby najdete 9 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 6 tlačítek pro různé akce.
 
@@ -139,7 +140,7 @@
 
 
 ---
-
+![Mdt_weapon_search](https://cdn.tror.eu/file/i/tror_web_images/U9YK.webp)
 ## Zbraně
 - Slouží k vyhledávání zbraní v systému.
 - Možnosti vyhledávání:
@@ -153,10 +154,10 @@
     - Fotografie zbraně
     - Základní údaje o zbrani
   - Kliknutím na záznam otevřete hlavní profil zbraně s podrobnějšími informacemi.
-    
+
+
 ---
-
-
+![Mdt_weapon_profile](https://cdn.tror.eu/file/i/tror_web_images/44LN.webp)
 ### Profil Zbraně  
 - Na profilu zbraně najdete 3 karty, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 4 tlačítka pro různé akce.
 
@@ -191,7 +192,7 @@
 
 
 ---
-
+![Mdt_vehicle_search](https://cdn.tror.eu/file/i/tror_web_images/30Rv.webp)
 ## Vozidla
 - Slouží k vyhledávání vozidel v systému.
 - Možnosti vyhledávání:
@@ -207,8 +208,7 @@
  
 
 ---
-
-
+![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/js4k.webp)
 ### Profil Vozidla  
 - Na profilu vozidla najdete 6 karet, které poskytují detailní informace a možnosti interakce. Dále se zde nachází 2 tlačítka pro různé akce.
 
