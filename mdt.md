@@ -11,7 +11,7 @@
 
 
 ## Menu
-
+![Mdt]([https://cdn.tror.eu/proxy/https://cdn.discordapp.com/attachments/944279104956559420/944279396318076928/letec.webp](https://cdn.tror.eu/file/i/tror_web_images/hY2Y.webp))
 ### Levá strana MDT obsahuje následující sekce:
 - **Osoby:** Lustrace osob.
 - **Zbraně:** Lustrace zbraní.
