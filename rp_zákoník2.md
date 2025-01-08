@@ -782,7 +782,7 @@ A) LEG = Law Enforcement Guns (Legální zbraně pro státní složky)
 B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 
-### **§2 Legální zbraně a doplňky**
+### **§2 Zbraně**
 1. GUR - Zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
    
    a) Beretta M9
@@ -797,7 +797,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    f) Lupara
    
-3. LEG - Zbraně určené výhradně pro použití státními složkami, podléhající speciálním předpisům a evidenci.
+2. LEG - Zbraně určené výhradně pro použití státními složkami, podléhající speciálním předpisům a evidenci.
 
    a) Glock 19  
    
@@ -811,7 +811,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    f) BSM 123  
    
-   g) MP5  
+   g) H&K MP5  
    
    h) H&K MP7  
    
@@ -823,7 +823,39 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    l) H&K G36C
 
-4. Doplňky určené výhradně pro použití státními složkami, podléhající evidenci a regulaci.
+3.  Zbraně určené výhradně pro použití San Andreas Naval Defense, podléhající speciálním předpisům a evidenci.
+   
+      a) Glock-17
+      
+      b) WM 29
+      
+      c) Glock 17
+      
+      d) Colt 1911
+      
+      e) H&K MP5
+      
+      f) Remington 87
+      
+      g) Beanbag
+      
+      h) Franchi SPAS-12
+      
+      i) M4
+      
+      j) M4A1
+      
+      k) Service Carbine
+      
+      l) Military rifle
+
+
+### **§3 Doplňky na zbraně**     
+1. GUR - Doplňky na zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
+
+   a) baterka
+
+2. LEG - Doplňky na zbraně určené výhradně pro použití státními složkami, podléhající evidenci a regulaci.
    
       a) Baterka  
       
@@ -859,36 +891,25 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
       
       q) Zafixovaný zaměřovač  
       
-      r) Zaměřovač  
+      r) Zaměřovač
 
-5.  Zbraně určené výhradně pro použití San Andreas Naval Defense, podléhající speciálním předpisům a evidenci.
    
-      a) Glock-17
-      
-      b) WM 29
-      
-      c) Glock 17
-      
-      d) Colt 1911
-      
-      e) MP5
-      
-      f) Remington 87
-      
-      g) Beanbag
-      
-      h) Franchi SPAS-12
-      
-      i) M4
-      
-      j) M4A1
-      
-      k) Service Carbine
-      
-      l) Military rifle
-      
+### **§4 Střelivo**  
 
-### **§3 Podmínky na vydání zbrojního průkazu**
+1. GUR - Střelivo pro zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
+
+   a) střelivo ráže 9x19 mm
+
+2. LEG - Střelivo pro zbraně určené výhradně pro použití státními složkami, podléhající evidenci a regulaci.
+
+   a) střelivo ráže 9x19 mm
+
+   a) střelivo ráže 5,6x45 mm
+
+   a) střelivo ráže 4,6x30 mm
+
+
+### **§5 Podmínky na vydání zbrojního průkazu**
 1. Zbrojní průkaz může být vydán pouze osobě, která
 
    a) je občanem státu San Andreas.
@@ -898,11 +919,11 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    c) dovršila nebo je starší 21 let věku.
 
 
-### **§4 Oprávnění držitele zbrojního průkazu**
+### **§6 Oprávnění držitele zbrojního průkazu**
 - Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
 
-### **§5 Odebrání zbrojního průkazu**
+### **§7 Odebrání zbrojního průkazu**
 - Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní
 
 
