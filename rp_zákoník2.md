@@ -882,8 +882,6 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
       
       l) Taktická úsťová brzda  
       
-      m) Tlumič  
-      
       n) Těžká úsťová brzda  
       
       o) Těžký barel  
