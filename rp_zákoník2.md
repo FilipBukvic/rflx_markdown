@@ -1574,8 +1574,10 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2.  Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob, a musí činit všechna možná opatření, aby minimalizoval riziko pro okolí.
 
 ### **§27 Zatčení**
-Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
+- Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
 
+### **§28 Zadržení osob**
+- Policista, který provádí zadržení osoby, je povinen okamžitě sdělit důvod zadržení při jeho provedení, ledaže by takové sdělení bezprostředně ohrozilo bezpečnost policisty nebo jiných osob.
 
 ---  
 
