@@ -291,17 +291,17 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 
 
 ### **§ 7 Neoprávněný vstup**
-1. Neoprávněným vstupem se rozumí vniknutí do uzavřeného prostoru, na pozemek či do nemovitosti bez povolení, pokud je prostor ohraničen plotem nebo je opatřen viditelným označením typu "Zákaz vstupu".
+- Neoprávněným vstupem se rozumí vniknutí do uzavřeného prostoru, na pozemek či do nemovitosti bez povolení, pokud je prostor ohraničen plotem nebo je opatřen viditelným označením typu "Zákaz vstupu".
    
-   a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
+a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
    
-   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
+b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
    
-   c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
+c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
 
 
 ### **§ 8 Krádež**
-Přisvojení si cizí věci za účelem osobního obohacení:
+- Přisvojení si cizí věci za účelem osobního obohacení:
 
 a) Pokud hodnota věci nepřesahuje 20 000 USD, jedná se o přestupek, za který lze uložit pokutu až do výše 3 000 USD.
 
@@ -313,7 +313,7 @@ c) Pokud hodnota věci přesahuje 200 000 USD, jedná se o trestný čin, za kte
 odnětí svobody na dobu 1 až 5 let.
 
 ### **§ 9 Loupež**  
-1. Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
+- Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
 
 a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500 USD.
 
@@ -546,10 +546,10 @@ d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 
 ### **§48 Zabití**
 
-Neúmyslné usmrcení osoby v důsledku silného rozrušení, strachu, úleku, zmatku, nebo v důsledku předchozího zavrženíhodného jednání poškozeného je trestný čin, který se trestá odnětím svobody na dobu 1 až 8 let.
+- Neúmyslné usmrcení osoby v důsledku silného rozrušení, strachu, úleku, zmatku, nebo v důsledku předchozího zavrženíhodného jednání poškozeného je trestný čin, který se trestá odnětím svobody na dobu 1 až 8 let.
 
 ### **§49 Vyhrožování**
-Vyhrožování usmrcením, těžkou újmou na zdraví či majetku, které může vzbudit důvodnou obavu druhé osoby, je:
+- Vyhrožování usmrcením, těžkou újmou na zdraví či majetku, které může vzbudit důvodnou obavu druhé osoby, je:
 
 a) Přestupek, který se trestá pokutou až 5 000 USD.
 
