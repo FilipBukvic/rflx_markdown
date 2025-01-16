@@ -76,6 +76,9 @@ Department of Justice vykonává tyto funkce:
 ### **Šestý dodatek:**
 - Chrání právo na rychlý a veřejný proces, právo na obhájce a konfrontaci svědků.
 
+### **Sedmý dodatek:**
+Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje používání krutých a neobvyklých trestů.
+
 
 ---
 
@@ -298,23 +301,29 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 8 Krádež**
-1. Krádeží se rozumí neoprávněné přivlastnění si cizího majetku, nebo poškození majetku určeného k uchovávání finančních prostředků či cenností.  
-   
-   a) **Přestupek:** Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí, bez dalšího závažného jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.500$.
-   
-   b) **Opakované jednání:** Pokud se čin opakuje v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.  
+Přisvojení si cizí věci za účelem osobního obohacení:
 
-5. Při rozhodování o výši trestu se přihlíží k míře způsobené škody, opakovanosti jednání a úmyslu pachatele.
+a) Pokud hodnota věci nepřesahuje 20 000 USD, jedná se o přestupek, za který lze uložit pokutu až do výše 3 000 USD.
 
+b) Pokud hodnota věci činí 20 001 až 200 000 USD, jedná se o trestný čin, za který hrozí:
+odnětí svobody na 1 až 3 roky, nebo
+peněžitý trest ve výši 2 000 až 5 000 USD.
+
+c) Pokud hodnota věci přesahuje 200 000 USD, jedná se o trestný čin, za který hrozí:
+odnětí svobody na dobu 1 až 5 let.
 
 ### **§ 9 Loupež**  
 1. Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
 
-   a) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
-   
-   b) Trestný čin: Pokud jsou poškozeny trezory, sejfy nebo jiná zabezpečovací zařízení v bankách nebo klenotnictvích, čin je trestán odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 7.000$.  
+a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500 USD.
 
-   c) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
+a1) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí odnětí svobody na 1 až 2 roky a pokuta až 3 000 USD.  
+
+b) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
+   
+c) Trestný čin: Pokud jsou poškozeny trezory, sejfy nebo jiná zabezpečovací zařízení v bankách nebo klenotnictvích, čin je trestán odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 7.000$.  
+
+d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
 
 
 ### **§ 10 Neuposlechnutí výzvy úřední osoby**
@@ -325,8 +334,8 @@ Department of Justice vykonává tyto funkce:
 - Každá osoba, která vědomě poskytne nepravdivé informace nebo podá falešnou výpověď úřadům, včetně policejním složkám nebo státním zástupcům, o spáchání trestného činu nebo přestupku, se dopouští přestupku za který lze uložit pokutu do výše 4.000$
     
 
-### **§ 12 Krádež vozidla**
-1. Vloupání do vozidla nebo neoprávněné zmocnění se vozidla, bez ohledu na jeho hodnotu.
+### **§ 12 Krádež dopravního prostředku**
+1. Vloupání do dopravního prostředku nebo neoprávněné zmocnění se dopravního prostředku, bez ohledu na jeho hodnotu.
    
    a) Je přestupek, který se trestá pokutou do výše 2.500$.
    
@@ -535,6 +544,16 @@ Department of Justice vykonává tyto funkce:
 ### **§47 Znásilnění**
 - Pohlavní styk nebo jiná obdobná sexuální aktivita bez souhlasu je trestný čin, trestaný odnětím svobody od pěti do deseti let a pokutou do 10.000$.
 
+### **§48 Zabití**
+
+Neúmyslné usmrcení osoby v důsledku silného rozrušení, strachu, úleku, zmatku, nebo v důsledku předchozího zavrženíhodného jednání poškozeného je trestný čin, který se trestá odnětím svobody na dobu 1 až 8 let.
+
+### **§49 Vyhrožování**
+Vyhrožování usmrcením, těžkou újmou na zdraví či majetku, které může vzbudit důvodnou obavu druhé osoby, je:
+
+a) Přestupek, který se trestá pokutou až 5 000 USD.
+
+b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který se trestá odnětím svobody na dobu 1 až 5 let.
 
 ---  
 
@@ -596,7 +615,42 @@ Department of Justice vykonává tyto funkce:
 ### **§10 Řízení motocyklu bez ochranné přilby**
 - Při řízení motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
 
+### **§11 Zákaz zastavení:**
+Řidič nesmí zastavit ani stát na místech, kde by tím ohrozil bezpečnost nebo plynulost provozu, například:
 
+Na křižovatkách a v jejich těsné blízkosti (méně než 5 metrů).
+a) Na přechodech pro chodce a 5 metrů před nimi.
+b) V nepřehledných zatáčkách nebo vrcholech stoupání.
+c) Na železničních přejezdech nebo v jejich blízkosti.
+d) Na místech označených dopravní značkou "Zákaz zastavení."
+
+Je přestupek, který se trestá pokutou do výše 500$.
+
+### **§12 Zákaz stání (parkování):**
+Řidič nesmí stát:
+
+a) Tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže.
+b) Na místech vyhrazených pro osoby se zdravotním postižením.
+c) Na tramvajových zastávkách, autobusových zastávkách a vyhrazených pruzích.
+d) Na místech označených dopravní značkou "Zákaz stání."
+
+Je přestupek, který se trestá pokutou do výše 500$.
+
+
+### **§13 Zavinění dopravní nehody**
+
+a)Způsobení dopravní nehody bez zranění je přestupkem a trestá se pokutou do výše 2000$
+
+b)Způsobení dopravní nehody se zraněním jiné osoby je přestupkem a trestá se pokutou do výše 4000$
+
+c)Způsobení dopravní nehody s těžkou újmou na zdraví jiné osoby je trestným činem a trestá se:
+- odnětím svobody na dobu 1 až 5 let,
+- odebráním všech řidičských oprávnění.
+
+d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových látek je trestným činem a trestá se:
+- odnětím svobody na dobu 1 až 3 let,
+- pokutou ve výši až 10 000 USD,
+- odebráním řidičského oprávnění.
 
 ---  
 
@@ -895,7 +949,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
 ### **§4 Střelivo**  
 
-1. GUR - Střelivo pro zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
+1. GUR - Střelivo pro zbraně dostupné osobám s platným zbrojním průkazem.
 
    a) střelivo ráže 9x19 mm
 
@@ -1518,6 +1572,9 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    d) Pokud vozidlo nelze zastavit jiným způsobem.
 
 2.  Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob, a musí činit všechna možná opatření, aby minimalizoval riziko pro okolí.
+
+### **§27 Zatčení**
+Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
 
 
 ---  
