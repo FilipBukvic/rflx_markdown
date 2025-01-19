@@ -412,7 +412,7 @@ e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 - Kdo jinou osobu násilím, hrozbou násilí nebo hrozbou jiné těžké újmy nutí, aby něco učinila, opominula nebo strpěla, se dopouští trestného činu vydírání. Za tento čin lze uložit odnětí svobody od jednoho roku do pěti let a pokutu do výše 5.000 $.
 
 
-### **§ 27 Zneužití pravomoci úření osoby**
+### **§ 27 Zneužití pravomoci úřední osoby**
 - Úřední osoba, která v rámci svého postavení nebo funkce vůči státu poskytne výhodu či ústupek, překročí své pravomoci, nevykoná zákonnou povinnost, napomáhá protiprávní činnosti nebo vyvíjí nátlak na jinou osobu, se dopouští trestného činu, který se trestá odnětím svobody na dobu od dvou do šesti let a pokutou do výše 15.000 $.
 
 
@@ -423,7 +423,7 @@ e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 
    b) Pokud hodnota činí od 20 000$ do 200 000$. Jedná se o trestný čin, který se trestá odnětím svobody na jeden až pět let a pokutou až do výše 6.500$.
 
-   c) Pokud hodnota činí více než 200 000 $. Jedná se o trestný čin, který se trestá odnětím svobody na jeden až deset let a pokutou až do výše
+   c) Pokud hodnota činí více než 200 000 $. Jedná se o trestný čin, který se trestá odnětím svobody na jeden až deset let a pokutou až do výše 10.000$
 
 
 ### **§ 29 Falešná identita**
