@@ -26,7 +26,7 @@ Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo Department of Justi
 ### Zákon č. 01/2022
 *O organizaci státní správy*
 
-#### **§1 Státní orgány San Andreas**
+#### **§ 1 Státní orgány San Andreas**
 Stát San Andreas disponuje těmito orgány a správami:
 - **Government of State of San Andreas (GSoSA)**
 - **Department of Commerce**
@@ -34,25 +34,25 @@ Stát San Andreas disponuje těmito orgány a správami:
 - **Department of Justice**
 - **Department of Finance**
 
-#### **§2 Pravomoci vlády San Andreas (GSoSA)**
+#### **§ 2 Pravomoci vlády San Andreas (GSoSA)**
 - Zastupuje a reprezentuje stát San Andreas.
 - Jmenuje a odvolává soudce.
 - Má pravomoc udělit milost, schválit zákony a udělovat vyznamenání.
 - Řídí výběrová řízení do vládních pozic.
 - Může měnit strukturu vládních úřadů v případě potřeby.
 
-#### **§3 Department of Commerce & Department of Labor (DoC & DoL)**
+#### **§ 3 Department of Commerce & Department of Labor (DoC & DoL)**
 - Zabavuje majetek zapojený do trestného činu nebo prokazující neaktivitu.
 - Zajišťuje aukce státně zabaveného majetku.
 - Zastupuje stát v trestněprávních řízeních.
 
-#### **§4 Department of Justice**
+#### **§ 4 Department of Justice**
 Department of Justice vykonává tyto funkce:
 - Organizuje správní řízení a trestní stíhání.
 - Zajišťuje činnost soudů, státních zástupců a krizového řízení.
 - Dozoruje bezpečnostní složky a plánuje civilní ochranu.
 
-#### **§5 Department of Finance**
+#### **§ 5 Department of Finance**
 - Připravuje návrhy zákonů o měně a financích.
 - Organizuje prodej státního majetku ve spolupráci s DoC a DoL.
 - Vede účetní záznamy státu.
@@ -87,7 +87,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 *Zákon o ustanovení státních složek*
 
 
-### **§1 Law Enforcement Agencies**
+### **§ 1 Law Enforcement Agencies**
 - Stát San Andreas disponuje těmito státními složkami:
 1. Los Santos Police Department (LSPD)
 2. Los Santos Sheriff Department (LSSD)
@@ -96,7 +96,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 5. Federal Aviation Administration
 
 
-### **§2 Los Santos Police Department**
+### **§ 2 Los Santos Police Department**
 1. Los Santos Police Department je jednotná státní ozbrojená složka.
 2. Los Santos Police Department s působností na celém území San Andreas, mimo ostrov Cayo Perico
 3. Los Santos Police Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
@@ -105,7 +105,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 6. Vedení LSPD jmenuje a odvolává vždy jen GSoSA a DoJ.
 
 
-### **§3 Los Santos Sheriff Department**
+### **§ 3 Los Santos Sheriff Department**
 1. Los Santos Sheriff Department je jednotná státní ozbrojená složka.
 2. Los Santos Sheriff Department působí na celém území San Andreas, mimo ostrov Cayo Perico
 3. Los Santos Sheriff Department slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů.
@@ -114,7 +114,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 6. Vedení LSSD jmenuje a odvolává vždy jen GSoSA a DoJ.
 
 
-### **§4 Federal Aviation Administration**
+### **§ 4 Federal Aviation Administration**
 1. Federal Aviation Administration je jednotná státní složka.
 2. Federal Aviation Administration působí na celém území státu San Andreas a Spojených Států Amerických.
 3. Federal Aviation Administration slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů, bezpečnost letového provozu.
@@ -123,7 +123,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 6. Vedení USMS jmenuje a odvolává vždy jen GSoSA a DoJ . 
 
 
-### **§5 San Andreas Naval Defense**
+### **§ 5 San Andreas Naval Defense**
 1. San Andreas Naval Defense je jednotná ozbrojená síla.
 2. San Andreas Naval Defense působí na přilehlých ostrovech, vodních plochách státu San Andreas a ostrově Cayo Perico.
 3. San Andreas Naval Defense slouží veřejnosti, jejím úkolem je zajistit ochranu majetku a zdraví občanů. Úkoly San Andreas Naval Defense vykonávají soldiers.
@@ -131,7 +131,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 5. Vedení San Andreas Naval Defense jmenuje a odvolává vždy jen GSoSA a DoD.
 
 
-### **§6 Emergency Medical Services / Los Santos Fire Department**
+### **§ 6 Emergency Medical Services / Los Santos Fire Department**
 1. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) je jednotná státní složka.
 2. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) působí na celém území San Andreas, mimo ostrov Cayo Perico
 3. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD) slouží veřejnosti, jejímž úkolem je zajistit ochranu majetku a zdraví občanů.
@@ -217,11 +217,11 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
  Trestní odpovědnost se vztahuje na každou osobu starší 21 let
 
 
-### **§2 Sčítání záznamů z vězení v trestním rejstříku**
+### **§ 2 Sčítání záznamů z vězení v trestním rejstříku**
 - Osoba, která je pravomocně odsouzena za trestné činy, jejichž záznamy jsou vedeny v trestním rejstříku, a po překročení hranice 90 let strávených ve vězení, bude považována za osobu s nenapravitelnou recidivou. Taková osoba bude následně podléhat trestu odnětí svobody na doživotí, pokud její chování a záznamy v trestním rejstříku potvrzují pokračující a neovlivnitelné páchání trestných činů, čímž se prokáže její nenapravitelnost.
 
 
-### **§3 Dohoda o vině a trestu**
+### **§ 3 Dohoda o vině a trestu**
 - Dohoda o vině a trestu je právní institut, kdy osoba, která je obviněna z trestného činu, souhlasí s trestem, který určí Los Santos Police Department (LSPD) nebo Los Santos Sheriff Department (LSSD) v souladu se zákoníkem. Tato dohoda je možná, pokud délka trestu nepřesahuje 10 let. Pokud obě strany, tedy obviněná osoba a příslušné orgány, s navrženým trestem souhlasí, není nutné uskutečnit soudní líčení, a tímto se celý proces urychlí.
 
 ---  
@@ -475,7 +475,7 @@ d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
    b) Přechovávání a prodej žraloků nebo žraločího masa je trestný čin, který se trestá odnětím svobody od tří do pěti let a pokutou do výše 5.000$.
 
 
-### **§39 Nelegální lov**
+### **§ 39 Nelegální lov**
 1. Lov mimo vyhrazené lovecké oblasti je přestupek, který se trestá pokutou do výše 4.500$. Při opakovaném porušení odebráním lovecké licence.
 2. Lov bez licence a bez registrace zbraně určené k lovu - Lupara. Je trestný čin, který se trestá odnětím svobody od jednoho do tří let.
    
@@ -484,13 +484,13 @@ d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 4. Lov zvěře se zbraní, která není určena k lovu je přestupek, který se trestá pokutou do výše 4.500$.
 
 
-### **§40 Nelegální lov ryb**
+### **§ 40 Nelegální lov ryb**
 1. Lov ryb bez licence je trestný čin, který se trestá odnětím svobody od jednoho do dvou let, pokutou do výše 3.000$, zákazem lovu na určitou dobu.
    
    a) V případě opakovaného porušení zákona je sazba od dvou do tří let a pokutou do výše 5.000$.
 
 
-### **§41 Nedovolený pohlavní styk**
+### **§ 41 Nedovolený pohlavní styk**
 1. Poskytování nebo sjednání sexuálních služeb bez platné licence nebo mimo zaměstnanecký vztah držitele licence je přestupek, který se trestá pokutou do 25.000$.
 2. Incest, sexuální vztah mezi příbuznými v přímé linii, je trestný čin s trestem odnětí svobody na jeden až pět let a pokutou do 10.000$.
 3. Zoofilie, sexuální interakce se zvířaty, je trestný čin s trestem odnětí svobody na čtyři až osm let a pokutou do 15.000$.
@@ -498,7 +498,7 @@ d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 5. Pedofilní jednání, tedy sexuální interakce s dětmi a mladistvými do 14 let, je trestný čin s trestem odnětí svobody na pět až deset let a pokutou do 15.000$.
 
 
-### **§42 Neplacení pohledávek a pokut**
+### **§ 42 Neplacení pohledávek a pokut**
 1. Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 14 dnů od rozhodnutí představuje porušení.
 
    a) Nezaplacení pokuty do 19 999 $ je přestupek, který se trestá pokutou do výše 2 000 $.
@@ -520,12 +520,12 @@ d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 3. Při zadržení dlužníka lze na místě splatit celkovou částku dluhu a vyhnout se trestu. Pohledávky musí být spláceny ihned, nelze splatit pouze část.
 
 
-### **§43 Nelegální rozebírání vozidla**
+### **§ 43 Nelegální rozebírání vozidla**
 1. Kdo bez příslušného povolení provede nelegální rozebrání vozidla, dopouští se přestupku. Za tento přestupek hrozí pokuta do výše 2.000$.
 2. Pokud dojde k opakovanému nelegálnímu rozebírání vozidla v krátkém časovém období (do 3 dnů), jedná se o trestný čin. Trest za tento trestný čin zahrnuje odnětí svobody v délce jeden až dva roky a pokutu do výše 3.000$.
 
    
-### **§44 Obecné ohrožení**
+### **§ 44 Obecné ohrožení**
 1. Ohrožení života nebo zdraví pěti a více osob, které je spojeno s rizikem smrti či těžké újmy na zdraví.
 
    a) Ohrožení způsobené během řízení vozidla je přestupek, za který může být uložena pokuta do výše 3.000$.
@@ -533,22 +533,22 @@ d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
    b) Ohrožení způsobené zbraní je trestný čin, za který hrozí trest odnětí svobody na jeden až tři roky a pokuta do výše 3.500$.
    
 
-### **§45 Hanobení ostatků**
+### **§ 45 Hanobení ostatků**
 - Otevření hrobu, hrobky nebo urny s lidskými ostatky bez oprávnění je přestupek, který se trestá pokutou do výše 2.500$.
 
 
-### **§46 Neoprávněná manipulace**
+### **§ 46 Neoprávněná manipulace**
 - Manipulace s dopravním značením nebo světelným zařízením je přestupek, trestaný pokutou do 3.000$.
 
   
-### **§47 Znásilnění**
+### **§ 47 Znásilnění**
 - Pohlavní styk nebo jiná obdobná sexuální aktivita bez souhlasu je trestný čin, trestaný odnětím svobody od pěti do deseti let a pokutou do 10.000$.
 
-### **§48 Zabití**
+### **§ 48 Zabití**
 
 - Neúmyslné usmrcení osoby v důsledku silného rozrušení, strachu, úleku, zmatku, nebo v důsledku předchozího zavrženíhodného jednání poškozeného je trestný čin, který se trestá odnětím svobody na dobu 1 až 8 let.
 
-### **§49 Vyhrožování**
+### **§ 49 Vyhrožování**
 - Vyhrožování usmrcením, těžkou újmou na zdraví či majetku, které může vzbudit důvodnou obavu druhé osoby, je:
 
 a) Přestupek, který se trestá pokutou až 5 000 USD.
@@ -561,7 +561,7 @@ b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který 
 *Zákon o silničním provozu*
 
 
-### **§1 Rychlost jízdy**
+### **§ 1 Rychlost jízdy**
 1. Řidič smí jet maximální rychlostí, kterou povoluje zákon: 50 mph ve městě, 80 mph mimo město a 80 mph na dálnici.
 
    a) Překročení rychlosti o 1-20 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 700$.
@@ -571,7 +571,7 @@ b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který 
    c) Překročení rychlosti nad 35 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 1500$ a odebráním řidičského oprávnění na jeden den.
 
 
-### **§2 Řízení vozidla bez řp**
+### **§ 2 Řízení vozidla bez řp**
 1. Řízení vozidla bez příslušného oprávnění
 
    a) Je klasifikováno jako přestupek, který se trestá pokutou do výše 2.000$.
@@ -579,19 +579,19 @@ b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který 
    b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$.
 
 
-### **§3 Označení vozidla**
+### **§ 3 Označení vozidla**
 - Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
 
 
-### **§4 Jízda pod vlivem**
+### **§ 4 Jízda pod vlivem**
 - Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky je přestupek, který se trestá pokutou do výše 2.500$ a odebráním řidičského oprávnění po dobu dvou dnů.
 
 
-### **§5 Nerespektování dopravního značení**
+### **§ 5 Nerespektování dopravního značení**
 - Řidič je povinen řídit se vodícími značkami a světelnými signály na pozemních komunikacích, porušení je klasifikováno jako přestupek, je trestáno pokutou do výše 750$.
 
 
-### **§6 Nelegální úprava vozidla**
+### **§ 6 Nelegální úprava vozidla**
 - Nelegální úprava vozidla zahrnuje změny, které ohrožují bezpečnost provozu nebo jsou v rozporu s platnými právními předpisy. Nelegální úprava vozidla je přestupek, který se trestá pokutou až 1.000$. Nelegálními úpravami jsou:
 
    a) Červené a modré podsvícení vozidla
@@ -601,21 +601,21 @@ b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který 
    c) Změna barvy předních světlometů na jinou barvu než bílou či xenon
 
 
-### **§7 Technický stav vozidla**
+### **§ 7 Technický stav vozidla**
 - Provoz vozidla v nebezpečném stavu nebo bez odpovídajícího vybavení je zakázán. Řízení takového vozidla je trestáno pokutou až 1.500$ a odtažením vozidla.
 
 
-### **§8 Jízda v protisměru**
+### **§ 8 Jízda v protisměru**
 - Jízda v protisměru je přestupek, který se trestá pokutou do výše 500$.
 
 
-### **§9 Přejíždění přes plnou čáru**
+### **§ 9 Přejíždění přes plnou čáru**
 - Přejíždění přes plnou čáru je přestupek, který se trestá pokutou až 500$.
 
-### **§10 Řízení motocyklu bez ochranné přilby**
+### **§ 10 Řízení motocyklu bez ochranné přilby**
 - Při řízení motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
 
-### **§11 Zákaz zastavení:**
+### **§ 11 Zákaz zastavení:**
 Řidič nesmí zastavit ani stát na místech, kde by tím ohrozil bezpečnost nebo plynulost provozu, například:
 
 Na křižovatkách a v jejich těsné blízkosti (méně než 5 metrů).
@@ -626,7 +626,7 @@ d) Na místech označených dopravní značkou "Zákaz zastavení."
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
-### **§12 Zákaz stání (parkování):**
+### **§ 12 Zákaz stání (parkování):**
 Řidič nesmí stát:
 
 a) Tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže.
@@ -637,7 +637,7 @@ d) Na místech označených dopravní značkou "Zákaz stání."
 Je přestupek, který se trestá pokutou do výše 500$.
 
 
-### **§13 Zavinění dopravní nehody**
+### **§ 13 Zavinění dopravní nehody**
 
 a)Způsobení dopravní nehody bez zranění je přestupkem a trestá se pokutou do výše 2000$
 
@@ -659,7 +659,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 
 **Marihuana**
 
-### **§1 Pěstování marihuany**
+### **§ 1 Pěstování marihuany**
 1. Pěstování marihuany je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
    
    a) Pěstování marihuany v množství do 10 rostlin je trestným činem, který se trestá odnětím svobody na dobu od jednoho do čtyř let a pokutou do výše 12.000 $.
@@ -669,7 +669,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
    c) Pěstování marihuany v množství nad 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 40.000 $.
 
    
-### **§2 Držení marihuany**
+### **§ 2 Držení marihuany**
 1. Držení marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
    a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou do výše 2.000$.
@@ -681,7 +681,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
    d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let pokutou do výše 50.000$.
 
 
-### **§3 Prodej marihuany**
+### **§ 3 Prodej marihuany**
 1. Prodej marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
    a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do čtyř let a pokutou do výše 7.500$.
@@ -695,7 +695,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 
 **Kokain & Heroin**
 
-### **§4 Výroba kokainu nebo heroinu**
+### **§ 4 Výroba kokainu nebo heroinu**
 1. Výroba kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
    a) Výroba kokainu nebo heroinu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do pěti let a pokutou do výše 15.000$.
@@ -705,7 +705,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
    c) Výroba kokainu nebo heroinu v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti let po doživotí a pokutou do výše 150.000$.
 
 
-### **§5 Prodej kokainu nebo heroinu**
+### **§ 5 Prodej kokainu nebo heroinu**
 1. Prodej kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
    a) Prodej kokainu nebo heroinu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od dvou do pěti let a pokutou do výše 25.000$.
@@ -717,7 +717,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
    d) Prodej kokainu nebo heroinu v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti do dvacetipěti let a pokutou do výše 150.000$.
 
 
-### **§6 Držení kokainu nebo heroinu**
+### **§ 6 Držení kokainu nebo heroinu**
 1. Držení kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
    
    a) Držení kokainu nebo heroinu v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do čtyř let a pokutou do výše 10.000$.
@@ -735,7 +735,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 *Zákon o správě a ochraně ostrova Cayo Perico*
 
 
-### **§1 Civilní sektor**
+### **§ 1 Civilní sektor**
 1. Každý, kdo vstoupí na ostrov Cayo Perico, je povinen dodržovat pravidla platná pro tuto nebezpečnou zónu.
 2. Vstup do nebezpečné zóny je na vlastní nebezpečí.
    
@@ -744,7 +744,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 4. Osoba, která se na ostrově Cayo Perico dopustí protiprávního jednání, bude trestána podle zákonů státu San Andreas.
 
 
-### **§2 Správa a kontrola ostrova**
+### **§ 2 Správa a kontrola ostrova**
 1. Celé území ostrova Cayo Perico, včetně přilehlých vodních ploch, spadá pod správu San Andreas Naval Defense.
 2. Vojenské prostory na ostrově jsou vyhrazeny výhradně pro účely San Andreas Naval Defense.
 3. Na celém území ostrova Cayo Perico platí zákony Los Santos.
@@ -756,7 +756,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 ## Zákon č. 5/2024
 *Zákon o Katastrálním úřadu a evidenci nemovitostí*
 
-### **§1 Definice pojmů**
+### **§ 1 Definice pojmů**
 1. Nemovitost – zahrnuje pozemek nebo stavbu spojenou se zemí pevným základem. Součástí nemovitosti může být také podzemní stavba.
 2. Osobní nemovitost – slouží výhradně k osobním účelům.
 3. Výdělečná nemovitost – slouží pro výdělečnou činnost nebo činnosti související s podnikáním.
@@ -768,7 +768,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 ## Zákon č. 6/2024
 *Zákon o leteckém provozu*
 
-### **§1 Bezletová zóna**
+### **§ 1 Bezletová zóna**
 1. Civilní letadla a helikoptéry musí dodržovat předepsanou letovou výšku. Ve městě a v okolí strategických budov, jako jsou EMS, LSPD, LSSD, LSFD, FIB, Maze Bank, Budova soudu, Věznice a Nádrže s pitnou vodou, je letová výška stanovena na 100 metrů nad nejvyšší budovou. Jakákoliv nižší letová hladina se považuje za bezletovou zónu.
 
    a) Narušením bezletové zóny v případě, že nevzniklo ohrožení letového provozu a osob, se jedná o přestupek, který se trestá pokutou ve výši $20.000.
@@ -778,7 +778,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
    c) Narušením bezletové zóny v případě, kdy dojde k narušení vzdušného prostoru armády nebo letectva spojených států amerických, se pilot automaticky dopustil federálního zločinu se jedná o trestný čin, který se trestá pokutou $200.000 až $500.000, odnětím svobody v délce pět až patnáct let a odebráním pilotního oprávnění i stroje.
 
 
-### **§2 Komunikace s rádiovou věží**
+### **§ 2 Komunikace s rádiovou věží**
 1. Každý provozovatel letadla, helikoptéry nebo jiného civilního létajícího zařízení musí používat přidělenou letadlovou adresu. Nezanesení informací o letu do spisu pilota je trestný čin který se trestá odnětím svobody v délce jeden až tři roky a odebráním licence a pokutou. 
 2. Pilot je povinen neprodleně ohlásit vzlet nebo přistání na frekvenci číslo 25 a zůstat na ní po celou dobu letu, až do deaktivace stroje.
 
@@ -789,7 +789,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 3. Každý let musí být zaznamenán v pilotním spisu podle pravidel FAA. Není-li let zaznamenán, jedná se o trestný čin, který se trestá odnětím svobody na jeden až tři roky, odebráním licence a pokutou.
 
 
-### **§3 Pilotovaní bez oprávnění**
+### **§ 3 Pilotovaní bez oprávnění**
 1. Pilotování stroje bez příslušných oprávnění je trestný čin, který se trestá odnětím svobody v délce jeden až tři roky a pokutou ve výši $2.000,-.
 2. Příslušnými oprávněními se rozumí:
 
@@ -800,15 +800,15 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
    c) Doklad o zdravotní způsobilosti
 
 
-### **§4 Pilotovaní pod vlivem**
+### **§ 4 Pilotovaní pod vlivem**
 - Pilotování pod vlivem alkoholu, omamné nebo psychotropní látky je trestný čin který se trestá odnětím svobody v délce jeden až tři roky a pokutou odebráním licence i stoje
 
 
-### **§5 Nedovolený převoz**
+### **§ 5 Nedovolený převoz**
 - Nedovolený převoz psychotropních a omamných látek na palubě stroje je trestný čin který se trestá odnětím svobody v délce tři až osm roky, pokutou odebráním licence i stroje
 
 
-### **§6 Místa určená pro přistávání**
+### **§ 6 Místa určená pro přistávání**
 1. Helikoptéry mohou přistávat pouze na oficiálních heliportech.
 2. Soukromé heliporty musí splňovat bezpečnostní standardy a být schváleny FAA. Pokud heliport není schválen, nelze jej využít.
    
@@ -819,7 +819,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 5. Přistání mimo určená místa je trestné a trestá se odnětím svobody na jeden až tři roky, odebráním licence i stroje a pokutou $60.000.
 
 
-### **§7 Užívání prostor letišť a heliportů**
+### **§ 7 Užívání prostor letišť a heliportů**
 1. Všechny letiště a heliporty jsou pod správou FAA. Vstup je povolen pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje) nebo s platným povolením od FAA. V těchto prostorách je nutné dodržovat pokyny zaměstnanců letiště a FAA.
 2. Narušení prostor letišť a heliportů ve správě FAA je přestupek, který se trestá pokutou $20.000.
 3. Pořádání akce nebo výcviku bez povolení FAA je přestupek, který se trestá pokutou $45.000.
@@ -831,13 +831,13 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 *Zákon o zbraních a střelivu*
 
 
-### **§1 Pojmy**
+### **§ 1 Pojmy**
 A) LEG = Law Enforcement Guns (Legální zbraně pro státní složky)
 
 B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 
-### **§2 Zbraně**
+### **§ 2 Zbraně**
 1. GUR - Zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
    
    a) Beretta M9
@@ -905,7 +905,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
       l) Military rifle
 
 
-### **§3 Doplňky na zbraně**     
+### **§ 3 Doplňky na zbraně**     
 1. GUR - Doplňky na zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
 
    a) baterka
@@ -947,7 +947,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
       r) Zaměřovač
 
    
-### **§4 Střelivo**  
+### **§ 4 Střelivo**  
 
 1. GUR - Střelivo pro zbraně dostupné osobám s platným zbrojním průkazem.
 
@@ -962,7 +962,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    a) střelivo ráže 4,6x30 mm
 
 
-### **§5 Podmínky na vydání zbrojního průkazu**
+### **§ 5 Podmínky na vydání zbrojního průkazu**
 1. Zbrojní průkaz může být vydán pouze osobě, která
 
    a) je občanem státu San Andreas.
@@ -972,11 +972,11 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    c) dovršila nebo je starší 21 let věku.
 
 
-### **§6 Oprávnění držitele zbrojního průkazu**
+### **§ 6 Oprávnění držitele zbrojního průkazu**
 - Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
 
-### **§7 Odebrání zbrojního průkazu**
+### **§ 7 Odebrání zbrojního průkazu**
 - Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní
 
 
@@ -986,7 +986,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 *Zákon o soudnictví a státní správě.*
 
 
-### **§1 Zásady činnosti Department Of Justice**
+### **§ 1 Zásady činnosti Department Of Justice**
 Zajišťuje rozhodování v:
 
    a) mimořádných opravných prostředcích dle zákonů o řízení před soudy
@@ -1022,18 +1022,18 @@ Zajišťuje rozhodování v:
    j) soudních řízeních právnických osob
 
 
-### **§2 Platnost advokátní licence**
+### **§ 2 Platnost advokátní licence**
 1. Advokátní činnost v San Andreas může vykonávat pouze osoba s platnou licencí vydanou Department of Justice, jejíž platnost začíná od 1. ledna 2025.
 
 
-### **§3 Zrušení advokátní licence**
+### **§ 3 Zrušení advokátní licence**
 
    a) podání vyhlášky ke změně zákona o platnosti udělené licence (obnovována 1x ročně).
    
    b) byl prokázán jeden z bodů §4 Nezpůsobilost právníka/advokáta k výkonu funkce
 
 
-### **§4 Nezpůsobilost advokáta k výkonu funkce**
+### **§ 4 Nezpůsobilost advokáta k výkonu funkce**
 
 1. Právník/advokát je nezpůsobilý vykonávat svou funkci, jestliže:
 
@@ -1043,7 +1043,7 @@ Zajišťuje rozhodování v:
    
    c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
 
-### **§5 žádost o advokátní licence**
+### **§ 5 žádost o advokátní licence**
 1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 30 000 USD.
 
 2. Koncipientní / advokátní licence se skládá z:
@@ -1059,7 +1059,7 @@ Zajišťuje rozhodování v:
 3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 5 000 USD. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 30 000 USD.
 
 
-### **§6 Jurisdikce - advokát**
+### **§ 6 Jurisdikce - advokát**
 1. Advokát je právník, který:
 
    a) složil advokátní zkoušku a je zapsán u advokátní komory
@@ -1075,7 +1075,7 @@ Zajišťuje rozhodování v:
 2. Počet advokátů není nijak omezen. Seznam advokátů je veřejný.
 
 
-### **§7 Trestněprávní imunita**
+### **§ 7 Trestněprávní imunita**
 1. Osoby s trestně právní imunitou jsou povinné se na místě prokázat platnými doklady o trestněprávní imunitě. Pod trestněprávní imunitu spadají:
 
    a) zastupitelé Government State of San Andreas
@@ -1093,7 +1093,7 @@ Zajišťuje rozhodování v:
 2. Při přestupku osob s trestněprávní imunitou mají členové LSSD, LSPD a DEA pravomoc pouze identifikovat osobu a sepsat záznam o přestupku, který předají Department of Justice k posouzení.
 
 
-### **§8 Trestní stíhání osob s trestněprávní imunitou**
+### **§ 8 Trestní stíhání osob s trestněprávní imunitou**
 1. Při spáchání trestného činu ze strany osob s trestněprávní imunitou mají členové státních složek LSSD,LSPD,DEA, po identifikaci osoby pravomoc přestupek řešit. Musí však osobu zajistit:
 
    a) při trestném činu
@@ -1106,30 +1106,30 @@ Zajišťuje rozhodování v:
 **Postup soudního líčení**
 
 
-### **§9 Zásada řádného zákonného procesu**
+### **§ 9 Zásada řádného zákonného procesu**
 - Každý má právo na to, aby nebyl svévolně stíhán. Stíhání musí být prováděno v souladu se zásadami spravedlivého procesu, jak je stanoveno zákonem.
 
 
-### **§10 Zásada obžalovací**
+### **§ 10 Zásada obžalovací**
 - K zahájení trestního řízení před soudem Department of Justice je nezbytné podání obžaloby. Soud je vázán obsahem obžaloby a může projednávat pouze skutky, které jsou v ní specifikovány. Veřejnou žalobu v řízení před soudem zastupuje státní zástupce - zvolená osoba orgánu státní správy.
 
 
-### **§11 Zásada ústnosti**
+### **§ 11 Zásada ústnosti**
 - Soudní líčení je založeno na ústním projednávání, při kterém se vyslýchají svědci, znalci a obviněný. Veškeré výpovědi a další důkazy musí být zaznamenány ve spise.
 
 
-### **§12 Zásada bezprostřednosti**
+### **§ 12 Zásada bezprostřednosti**
 - Při rozhodování v hlavním líčení smí Department Of Justice přihlédnout jen k těm důkazům, které byly při tomto jednání provedeny. Rozhoduje se tedy na základě provedených důkazů, které by měly splňovat podmínku co největší blízkosti zjišťované skutečnosti.
 
 
-### **§13 Zásada presumpce neviny**
+### **§ 13 Zásada presumpce neviny**
 - Dokud pravomocným odsuzujícím rozsudkem od Department Of Justice není vina vyslovena, nelze na toho, proti němuž se vede trestní řízení, hledět, jako by byl vinen. Existuje zde povinnost orgánů činných v řízení prokázat vinu.
 
 
 **Postup obhajoby při zadržení osoby**
 
 
-### **§14 Obhájce**
+### **§ 14 Obhájce**
 1. obhájce, tedy koncipient nebo advokát, zastupuje obžalovaného v trestním řízení; obhajobu může vykonávat pouze koncipient nebo advokát zapsaný v advokátní komoře Los Santos, na základě plné moci nebo ustanovení soudem (ex offo) v případech nutné obhajoby
 2. obviněný má právo zvolit si advokáta přiděleného ex offo nebo soukromého koncipienta/advokáta
 3. koncipient/advokát pomáhá ve všech fázích trestního řízení, od podání vysvětlení na policii po soudní líčení, a dohlíží na dodržování práv obviněného
@@ -1142,7 +1142,7 @@ Zajišťuje rozhodování v:
 **Pohrdání a znevažování pravomocného rozhodnutí Department Of Justice**
 
 
-### **§15 Pohrdání a znevažování**
+### **§ 15 Pohrdání a znevažování**
 1. Znevažováním pravomocného rozhodnutí Department of Justice se civilní nebo úřední osoba dopouští:
 
    a) závažným způsobem ruší jednání/vyšetřování vedeném ze strany Department Of Justice
@@ -1185,23 +1185,23 @@ Zajišťuje rozhodování v:
 3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle (§ 17). Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 000 000 USD.
 
 
-### **§17 Předvolání k podání vysvětlení**
+### **§ 17 Předvolání k podání vysvětlení**
 1. K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 17) a předvedení (§ 18). O odepření vysvětlení obdobně platí to, co pro odepření součinnosti při dokazování a zákaz výslechu.
 2. Každý je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 17) až do výše 1 000 000 USD.
 3. O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
 4. Záznam o podání vysvětlení lze použít jako důkazní prostředek.
 
 
-### **§18 Předvedení**
+### **§ 18 Předvedení**
 1. Jestliže se účastník nebo svědek bez náležité omluvy nebo bez dostatečných důvodů na předvolání nedostaví, může Department Of Justice vydat usnesení, na jehož základě bude účastník nebo svědek předveden. Písemné vyhotovení usnesení se doručuje pověřeným orgánům elektronicky pomocí datové schránky. Státní složky LSPD, LSSD, DEA mají pravomoc předvedení provést.
 2. Předvedení na požádání Department Of Justice zajišťuje LSPD, LSSD, DEA.
 
 
-### **§19 Pořádková pokuta uložená soudem Los Santos**
+### **§ 19 Pořádková pokuta uložená soudem Los Santos**
 - Každá osoba přítomna na soudním jednání, líčení je povinná dodržovat řád soudní budovy. Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, může být usnesením soudu uložena jako pořádkové opatření pořádková pokuta do maximální výše 150 000 USD. Pořádková pokuta může být uložena opakovaně. O prominutí části nebo celé pokuty lze požádat do doby, než nabyde právní moci konečné rozhodnutí ve věci.
 
 
-### **§20 Placení nákladů soudního řízení**
+### **§ 20 Placení nákladů soudního řízení**
 - Každý z účastníků a osob zúčastněných na řízení platí náklady, které vzniknou jemu nebo jeho zástupci.
 Stát platí náklady vynaložené na svědečné, znalečné, tlumočné a jiné náklady spojené s dokazováním.
 Deparment of Justice však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl a to až do výše 250 000 USD 
@@ -1214,7 +1214,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Jurisdikce ozbrojených složek**
 
-### **§1 Jurisdikce ozbrojených složek Los Santos Police Department**
+### **§ 1 Jurisdikce ozbrojených složek Los Santos Police Department**
 1. LSPD má ve své jurisdikci tyto body:
 
    a) chrání bezpečnost osob a majetku.
@@ -1254,7 +1254,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    r) vedení LSPD jmenuje a odvolává Department Of Justice.
 
 
-### **§2 Jurisdikce ozbrojených složek Los Santos Sheriff Department**
+### **§ 2 Jurisdikce ozbrojených složek Los Santos Sheriff Department**
 1. LSSD má ve své jurisdikci tyto body:
 
    a) chrání bezpečnost osob a majetku.
@@ -1293,7 +1293,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    
    r) vedení LSSD jmenuje a odvolává Department Of Justice.
 
-### **§3 Jurisdikce ozbrojených složek Drug Enforcement Administration**
+### **§ 3 Jurisdikce ozbrojených složek Drug Enforcement Administration**
 1. DEA má ve své jurisdikci tyto body:
 
    a) DEA má působnost v drogově trestné činnosti. Jedná se především o specifické trestné činy nedovolené výroby a držení omamných a psychotropních látek, jenich prodej.  
@@ -1324,7 +1324,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Vyšetřování státních ozbrojených složek**
 
-### **§4 Suspendace vznesená ze strany Department Of Justice**
+### **§ 4 Suspendace vznesená ze strany Department Of Justice**
 1. Department Of Justice je jediný státní orgán, který může suspendovat všechny zaměstnance, včetně vedení v pozicích státních správy a státních složek.
 2. V případě suspendace vznesené ze strany Department Of Justice vzniká tento postup.
 
@@ -1336,7 +1336,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    c) Department Of Justice po prošetření případu vynese konečné rozhodnutí v rámci vyšetřování dle stanovených porušení zákonů.
 
 
-### **§5 Vyšetřování a kontroly státních organizací a státních složek**
+### **§ 5 Vyšetřování a kontroly státních organizací a státních složek**
 1. Department Of Justice je státní orgán s výlučnou pravomocí, který může prošetřovat pochybení zaměstnanců státních organizací a státních složek, včetně vedoucích zaměstnanců v pozicích státních organizací a státních složek.
 2. V případě vznesené žádosti k vyšetřování ze strany civilní či fyzické osoby, s doložením důkazních materiálu k předmětu šetření, započne strana Department Of Justice úkon šetření.
 3. Department Of Justice má pravomoc
@@ -1348,14 +1348,14 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    c) pověřit vyšetřováním státní orgán LSPD/LSSD/DEA, který na základě pověření, započne úkon vyšetřování.
 
 
-### **§6 porušení právních předpisů a zákona ze strany státní složky**
+### **§ 6 porušení právních předpisů a zákona ze strany státní složky**
 1. Řešení přestupků spáchaných zaměstnanci státních složek je svěřeno do pravomoci vedení státní složky, pod kterou daný zaměstnanec spadá.
 2. Výjimku tvoří příslušníci EMS (Emergency Medical Services) a LSFD (Los Santos Fire Department), u nichž se přestupky řeší jako u běžné civilní osoby, přičemž je povinnost tyto záležitosti neprodleně předat vedení příslušného sboru. 
 3. Řešení trestných činů u zaměstnanců státních složek je v jurisdikci rozhodování ze strany Department Of Justice.
 4. V případě trestných činů spáchaných příslušníky státních složek je každý, kdo je svědkem takového jednání, povinen neprodleně zasáhnout, osobu podezřelou omezit na osobní svobodě a umístit ji do cely předběžného zadržení. O incidentu musí být bezodkladně informován Department of Justice (DOJ), vedení vlastního sboru a vedení sboru, pod který spadá osoba podezřelá z trestného činu.
 
 
-### **§7 Předvolání k podání vysvětlení zaměstnance státní složky**
+### **§ 7 Předvolání k podání vysvětlení zaměstnance státní složky**
 1. Department of Justice (DOJ) si může vyžádat vysvětlení k prověření oznámení, podnětů nebo vlastních zjištění. Tato vysvětlení slouží k objasnění situace nebo přípravě rozhodnutí.
 2. Zaměstnanci státní složky jsou povinni vysvětlení poskytnout. Pokud někdo bez důvodu odmítne, může dostat pokutu až 1 500 000 USD.
 3. O vysvětlení se pořizuje záznam, který obsahuje údaje o osobě, podané informace, datum a podpis.
@@ -1364,26 +1364,26 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Povinnosti státních ozbrojených složek**
 
-### **§8 Zdvořilost**
+### **§ 8 Zdvořilost**
 -  Příslušníci státních složek jsou povinni při plnění úkolů dodržovat pravidla zdvořilosti a dbát cti, vážnosti a důstojnosti osob i své vlastní.
 
-### **§9 Přiměřenost postupu**
+### **§ 9 Přiměřenost postupu**
 - Státní ozbrojené složky jsou při výkonu svých pravomocí povinny postupovat přiměřeně, tak aby zásah do práv a svobod osob byl omezen pouze na nezbytnou míru potřebnou k dosažení účelu zákroku.
 
-### **§10 Prokazování příslušnosti**
+### **§ 10 Prokazování příslušnosti**
 - Příslušníci státních složek jsou povinni při plnění úkolů povinni se prokázat
   a) služebním stejnokrojem
   b) služebním odznakem
   c) ústním zvoláním názvu státní složky
 
-### **§11 Povinnost identifikace**
+### **§ 11 Povinnost identifikace**
 1. Příslušníci státních složek jsou povinni se při výkonu služby na požádání identifikovat služebním číslem.
 2. Tato povinnost se nevztahuje na případy, kdy by identifikace mohla ohrozit probíhající operaci, bezpečnost příslušníka, nebo jinou oprávněnou osobu.
 3. Služební číslo musí být poskytnuto jasně a srozumitelně způsobem, který umožňuje jeho jednoznačnou identifikaci.
 4. Porušení této povinnosti může být považováno za kázeňský přestupek, pokud není odůvodněno zvláštními okolnostmi výkonu služby.
 
 
-### **§12 Poučení o právech (Miranda práva)**
+### **§ 12 Poučení o právech (Miranda práva)**
 1. Příslušník státní ozbrojené složky je povinen zadrženou osobu poučit o jejích právech následujícím způsobem:
 
     a) Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
@@ -1393,7 +1393,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Pravomoce státních ozbrojených složek**
 
-### **§13 Prokázání totožnosti**
+### **§ 13 Prokázání totožnosti**
 1. Prokázání totožnosti znamená prokázání jména a příjmení, data narození, případně SSN a pobytu osoby.
 2. Zaměstnanec státní ozbrojené složky je oprávněn vyzvat osobu,
 
@@ -1409,7 +1409,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    
 4. Každá osoba je povinna svou totožnost prokázat
 
-### **§14 Omezení na osobní svobodě**
+### **§ 14 Omezení na osobní svobodě**
 1. Zaměstnanec státní ozbrojené složky má pravomoc omezit osobní svobodu osoby v následujících situacích:
 
    a) Osoba klade fyzický odpor.
@@ -1427,20 +1427,20 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    K omezení osobní svobody lze použít pouze služební pouta.
 
 
-### **§15 Cely státních ozbrojených složek**
+### **§ 15 Cely státních ozbrojených složek**
 
 1. Příslušník státní ozbrojené složky může do cely umístit pouze osobu, která byla zadržena nebo zatčena.
 2. Před umístěním osoby do cely je zaměstnanec povinen se ujistit, že osoba nenese žádný předmět, který by mohl ohrozit život, poškodit majetek nebo narušit výkon práva a spravedlnosti.
 3. Osoby umisťované do cel státních ozbrojených složek jsou odděleny podle pohlaví, zda jsou zadrženy nebo zatčeny, a podle předpokládaného agresivního chování, nebo zda jsou pod vlivem drog či alkoholu.
 
 
-### **§16 Zajištění věcí**
+### **§ 16 Zajištění věcí**
 1. Příslušník státní ozbrojené složky má pravomoc zajistit věc, pokud je důležitá pro řešení přestupku nebo trestného činu, nebo pokud se cítí ohrožen při řešení přestupku nebo trestného činu.
 2. Zajištěná věc musí být občanovi neprodleně vrácena po vyřešení přestupku nebo trestného činu, pokud nebyla získána z trestné činnosti nebo použita k jejímu páchání.
 3. Věc zajištěná v souvislosti s trestnou činností automaticky propadá státu, pokud není znám její původní vlastník.
 
 
-### **§17 Odebrání zbraně**
+### **§ 17 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
    
    a) Pokud zbraň není registrována.
@@ -1454,7 +1454,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    e) Pokud byl soudem vydán rozkaz na odebrání zbraně.
 
 
-### **§18 Vstup do obydlí nebo na pozemek**
+### **§ 18 Vstup do obydlí nebo na pozemek**
 1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí nebo na pozemek v následujících situacích:
    
    a) Pokud má důvodné podezření o trestné činnosti v obydlí nebo na pozemku.
@@ -1470,7 +1470,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí nebo na pozemek v uvedených situacích.
 
 
-### **§19 Zastavení vozidla**
+### **§ 19 Zastavení vozidla**
 1. Zaměstnanec státní ozbrojené složky má pravomoc zastavit vozidlo a uskutečnit jeho prohlídku v následujících situacích:
    
    a) Pokud pronásleduje pachatele trestného činu.
@@ -1478,7 +1478,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    b) Pokud pátrá po pachateli trestného činu ve spolupráci se státní ozbrojenou složkou.
 
 
-### **§20 Prohledání vozidla**
+### **§ 20 Prohledání vozidla**
 1. Zaměstnanec státní ozbrojené složky má právo prohledat vozidlo v následujících situacích:
 
    a) Pokud pátrá po ilegálních zbraních a střelivu.
@@ -1492,7 +1492,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Zaměstnanec státní ozbrojené složky má povinnost zajistit, aby následkem prohledání vozidla nedošlo k újmě na zdraví nezúčastněných osob.
 
 
-### **§21 Zadržení osoby**
+### **§ 21 Zadržení osoby**
 1. Zaměstnanec státní ozbrojené složky má pravomoc zadržet osobu, která
 
    a) svým jednáním bezprostředně ohrožuje svůj život, život nebo zdraví jiných osob, anebo majetek.
@@ -1508,7 +1508,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Zadržení osoby může trvat nejdéle 24 hodin od okamžiku omezení osobní svobody. Pokud je doba zajištění delší než 24 hodin, musí být osoba buď propuštěna, nebo musí být sepsána žádost na soudu o prodloužení doby omezení.
 
    
-### **§22 Prohledání osoby**
+### **§ 22 Prohledání osoby**
 1. Zaměstnanec státní ozbrojené složky má pravomoc prohledat osobu v následujících situacích:
 
    a) Pokud má důvodné podezření, že by u sebe osoba mohla mít nelegální předměty nebo předměty spojené s trestnou činností.
@@ -1518,18 +1518,18 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2. Při prohledávání osoby musí být vždy zajištěno, že postup bude probíhat v souladu s právními předpisy a s respektem k lidské důstojnosti.
 
 
-### **§23 Vykázání**
+### **§ 23 Vykázání**
 1. Zaměstnanec státní ozbrojené složky má pravomoc vykázat z místa osobu, která svým jednáním ohrožuje provedení práce zaměstnanců státních ozbrojených složek nebo narušuje veřejný pořádek.
 2. Zaměstnanec státní ozbrojené složky oznámí vykázání ústně, přičemž je povinen osobu informovat o důvodech vykázání a o následcích neuposlechnutí této výzvy.
 
 
-### **§24 Světelné a zvukové zařízení**
+### **§ 24 Světelné a zvukové zařízení**
 1. Zaměstnanec státní ozbrojené složky má pravomoc použít světelné a zvukové zařízení v rámci své služby, pokud k tomu má dostatečný důvod, zejména za účelem zajištění bezpečnosti, veřejného pořádku nebo v souvislosti s plněním služebních povinností.
 2. Zaměstnanec státní ozbrojené složky nesmí zneužít světelného a zvukového zařízení k dosažení osobního prospěchu nebo zvýhodnění ve vztahu k ostatním účastníkům provozu bez dostatečného a oprávněného důvodu.
 3. Zaměstnanec státní ozbrojené složky je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem, a to bezodkladně nadřízeným.
 
 
-### **§25 Donucovací prostředky**
+### **§ 25 Donucovací prostředky**
 1. Donucovacími prostředky se rozumí následující prostředky, které mohou zaměstnanci státních ozbrojených složek použít v souladu s právními předpisy a za účelem zajištění výkonu jejich služebních povinností:
 
    a) hmaty, chvaty, údery a kopy;
@@ -1560,7 +1560,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 5. Příslušník státní ozbrojené složky je povinen dbát, aby použitím donucovacího prostředku nezpůsobil osobě újmu zřejmě nepřiměřenou povaze a nebezpečnosti jejího protiprávního jednání.
 
 
-### **§26 Použití zbraně**
+### **§ 26 Použití zbraně**
 1. Zaměstnanec státní ozbrojené složky má oprávnění použít střelnou zbraň v následujících situacích:
 
    a) Pokud je přímo ohrožen na životě on nebo jiná osoba.
@@ -1584,7 +1584,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 ## Zákon č. 10/2024
 *Zákon o trestech ozbrojených složkách*
 
-### **§1 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
+### **§ 1 Nepřiměřený zákrok ozbrojených státních složek při zásahu**
 1. Nepřiměřený zákrok ozbrojených státních složek při zásahu je takový postup, kdy člen nebo členové státních složek nebo jiných ozbrojených složek překročí rámec stanovených právních předpisů a zásah vede k neadekvátní, nepřiměřené nebo neoprávněné aplikaci síly, která může ohrozit bezpečnost nebo práva dotčených osob.
 2. Nepřiměřený zákrok ozbrojených státních složek se rozděluje do dvou stupňů:
 
@@ -1601,11 +1601,11 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    c) U prvního a druhého stupně se ukládá pokuta ve výši 5 000$ až 20 000$ a povinnost odškodnit oběť částkou 50 000$ až 250 000$. 
 
 
-### **§2 Manipulace s důkazy**
+### **§ 2 Manipulace s důkazy**
 - Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, se dopouští trestného činu, za který hrozí trest odnětí svobody na 10 let až doživotí a pokuta ve výši 500 000 USD až 1 000 000 USD.
 
 
-### **§3 Neoprávněná prohlídka/vstup bez soudního povolení**
+### **§ 3 Neoprávněná prohlídka/vstup bez soudního povolení**
 - Prohlídka bez soudního příkazu k domovní prohlídce nebo bez souhlasu vlastníka je považována za protiprávní vniknutí do uzavřeného prostoru, budovy, nemovitosti, komplexu či na pozemek.
 Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pokutou ve výši 50,000$
 
@@ -1616,7 +1616,7 @@ Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pok
 *Zákon o požární ochraně*
 
 
-### **§1 Los Santos Fire Department**
+### **§ 1 Los Santos Fire Department**
 1. Los Santos Fire Department (LSFD) je státní institucí, která provádí záchranné práce při mimořádných událostech a vykonává státní požární dozor (SPD).
 
    b) Mimořádná událost je situace ohrožující život, zdraví osob nebo majetek.
@@ -1635,7 +1635,7 @@ Jedná se o trestný čin, který se trestá odnětím svobody na dva roky a pok
 Povinnosti fyzických a právnických osob k prevenci požárů
 
 
-### **§2 Povinnosti osob a firem k prevenci požárů**
+### **§ 2 Povinnosti osob a firem k prevenci požárů**
 
    a) Musí zajistit pravidelné provádění preventivních protipožárních prohlídek v objektech a prostorách.
    
@@ -1662,7 +1662,7 @@ Povinnosti fyzických a právnických osob k prevenci požárů
    l) Jsou povinny vytvářet podmínky pro hašení požárů a provádění záchranných prací, včetně udržování přístupových cest pro požární techniku a únikových cest.
 
 
-### **§3 Požární kontrola**
+### **§ 3 Požární kontrola**
 1. Všechny budovy a prostory spojené s výdělečnou činností, větším počtem osob nebo speciální funkcí musí projít požární kontrolou prováděnou SPD a musí mít protokol o požární kontrole vystavený pracovníkem LSFD.
 2. Vlastníci nebo pronajímatelé těchto budov mají povinnost kontaktovat LSFD pro provedení požární kontroly.
 3. Při rekonstrukci, změně majitele nebo změně provozního charakteru prostor spojených s výdělečnou činností je nutné neprodleně ohlásit tuto skutečnost LSFD a požádat o nový protokol o požární kontrole. Předchozí protokol ztrácí platnost.
@@ -1670,7 +1670,7 @@ Povinnosti fyzických a právnických osob k prevenci požárů
 5. Požární kontrolu provádí pověřený zaměstnanec LSFD, který provede prozkoumání objektu a vyhotoví protokol o požární ochraně.
 
 
-### **§4 Inspekce objektu**
+### **§ 4 Inspekce objektu**
 1. Inspekce objektu je prováděna pověřenou osobou LSFD za účelem zjištění nedostatků v oblasti požární ochrany budov spojených s výdělečnou činností.
 2. Inspekce může být ohlášená nebo neohlášená.
 3. Pokud jsou zjištěny vážné nedostatky v oblasti požární ochrany, má vedení LSFD pravomoc uzavřít objekt do doby odstranění nedostatků a obnovení protokolu o požární kontrole.
