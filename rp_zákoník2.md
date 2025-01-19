@@ -262,7 +262,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
    
    b) opětovně,
    
-   4. Příprava je trestná.
+4. Příprava je trestná.
 
 
 ### **§ 4 Nedovolené ozbrojování**
@@ -315,15 +315,15 @@ odnětí svobody na dobu 1 až 5 let.
 ### **§ 9 Loupež**  
 - Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
 
-a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500 USD.
+a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500$.
 
-a1) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí odnětí svobody na 1 až 2 roky a pokuta až 3 000 USD.  
+b) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí odnětí svobody na jeden až dva roky a pokuta až 3 000$.  
 
-b) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
+c) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
    
-c) Trestný čin: Pokud jsou poškozeny trezory, sejfy nebo jiná zabezpečovací zařízení v bankách nebo klenotnictvích, čin je trestán odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 7.000$.  
+d) Trestný čin: Pokud jsou poškozeny trezory, sejfy nebo jiná zabezpečovací zařízení v bankách nebo klenotnictvích, čin je trestán odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 7.000$.  
 
-d) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
+e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
 
 
 ### **§ 10 Neuposlechnutí výzvy úřední osoby**
