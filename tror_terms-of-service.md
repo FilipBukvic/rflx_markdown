@@ -137,7 +137,7 @@ Tyto podmínky představují úplnou dohodu mezi uživatelem a portálem TROR.EU
 ## **18. Kontaktní údaje**  
 
 📧 **E-mail:** [info@tror.eu](mailto:info@tror.eu)  
-🎮 **Support ticket:** [TROR.EU Discord](https://discord.gg/tror)  
+💬 **Support Ticket:** [TROR.EU Discord](https://discord.gg/tror)
 
 Filip Bukvic  
 IČ: 17508592  
