@@ -72,13 +72,13 @@ Uživatel souhlasí, že mu TROR.EU může zasílat e-mailová oznámení týkaj
 
 ---
 
-### **9. Omezené poskytování služeb**  
+## **9. Omezené poskytování služeb**  
 
 Ačkoliv jsou stránky TROR.EU přístupné celosvětově, některé produkty a služby nemusí být dostupné ve všech zemích nebo pro všechny uživatele. TROR.EU si vyhrazuje právo kdykoliv a dle vlastního uvážení omezit poskytování konkrétního produktu nebo služby jednotlivcům či geografickým oblastem, pokud to vyžadují provozní, právní nebo jiné důvody. Jakákoliv nabídka produktů nebo služeb na stránkách TROR.EU může být zrušena, pokud by její poskytování bylo v rozporu s platnými právními předpisy.  
 
 ---
 
-### **10. Nákupy**  
+## **10. Nákupy**  
 
 Všechny zakoupené položky na TROR.EU jsou doručovány v digitální podobě. Uživatel výslovně souhlasí s okamžitým plněním zakoupených služeb nebo digitálního obsahu ihned po provedení platby, čímž se vzdává práva na odstoupení od kupní smlouvy. V některých případech může být vyžadováno ověření identity plátce, pokud je to nezbytné pro autorizaci transakce.  
 
@@ -86,7 +86,7 @@ TROR.EU si vyhrazuje právo zrušit jakýkoliv nákup nebo zakoupenou položku, 
 
 ---
 
-### **11. Vracení peněz**  
+## **11. Vracení peněz**  
 
 Veškeré nákupy na TROR.EU jsou konečné a nevratné. Uživatel bere na vědomí, že zakoupené služby nelze směnit za finanční náhradu ani požadovat jejich navrácení. Je zakázáno služby TROR.EU prodávat, pronajímat nebo převádět na jiné uživatele.  
 
@@ -94,13 +94,13 @@ TROR.EU nenese odpovědnost za ztrátu přístupu ke službám v důsledku poru�
 
 ---
 
-### **12. Soutěže**  
+## **12. Soutěže**  
 
 Hraním na herních serverech TROR.EU mají uživatelé možnost účasnit se v soutěžích o různé výhry. Některé výhry mohou být omezeny pouze na vybrané uživatele na základě jejich umístění. Výhry budou doručeny do 60 dnů od ukončení soutěže. Účast v soutěžích může být podmíněna nákupem některých služeb či produktů.  
 
 ---
 
-### **13. Licence pro TROR.EU**  
+## **13. Licence pro TROR.EU**  
 
 Vložením jakéhokoliv obsahu na TROR.EU (zpráv, komentářů, souborů nebo jiných dat) poskytuje uživatel TROR.EU nevýhradní, trvalou, celosvětově platnou licenci k jeho používání, kopírování, úpravám, přenosu, veřejnému zveřejnění a případnému sublicencování třetím stranám.  
 
@@ -108,7 +108,7 @@ Tato licence zahrnuje práva k využití autorských práv, ochranných známek,
 
 ---
 
-### **14. Využití informací**  
+## **14. Využití informací**  
 
 TROR.EU shromažďuje informace od uživatelů za účelem zlepšení poskytovaných služeb, včetně personalizace obsahu a optimalizace budoucích funkcí. Tyto údaje nejsou sdíleny s třetími stranami, jako jsou inzerenti nebo obchodní partneři.  
 
