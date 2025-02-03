@@ -3,8 +3,8 @@
 ## Podpora a řešení platebních problémů
 Pokud narazíte na potíže při provádění transakce prostřednictvím platební brány, obraťte se na nás prostřednictvím některého z následujících kontaktů:
 
-- **E-mail:** info@tror.eu  
-- **Support ticket:** [TROR.EU Discord](https://discord.gg/tror)  
+📧 **E-mail:** [info@tror.eu](mailto:info@tror.eu)  
+💬 **Support Ticket:** [TROR.EU Discord](https://discord.gg/tror)
 
 Naše podpora se bude vaší záležitostí zabývat v co nejkratším možném termínu.
 
