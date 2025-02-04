@@ -96,7 +96,7 @@ TROR.EU nenese odpovědnost za ztrátu přístupu ke službám v důsledku poru�
 
 ## **12. Soutěže**  
 
-Hraním na herních serverech TROR.EU mají uživatelé možnost účasnit se v soutěžích o různé výhry. Některé výhry mohou být omezeny pouze na vybrané uživatele na základě jejich umístění. Výhry budou doručeny do 60 dnů od ukončení soutěže. Účast v soutěžích může být podmíněna nákupem některých služeb či produktů.  
+Hraním na herních serverech TROR.EU mají uživatelé možnost účastnit se v soutěžích o různé výhry. Některé výhry mohou být omezeny pouze na vybrané uživatele na základě jejich umístění. Výhry budou doručeny do 90 dnů od ukončení soutěže. Účast v soutěžích může být podmíněna nákupem některých služeb či produktů.  
 
 ---
 
