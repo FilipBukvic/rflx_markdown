@@ -75,9 +75,7 @@ Přístup k osobním údajům mají pouze pověřené osoby, kteří je potřebu
 ---
 
 ## 9. Odstranění dat
-**TROR.EU** zpracovává nezbytné údaje na základě **oprávněného zájmu** za účelem:
-- prevence podvodů
-- zabezpečení sítě a informací
+**TROR.EU** zpracovává nezbytné údaje na základě **oprávněného zájmu** za účelem **prevence podvodů**, **zabezpečení sítě** a **informací**.
 
 Na základě **Článku 6 Obecného nařízení o ochraně osobních údajů (GDPR)** není portál **TROR.EU** povinný vyhovět žádostem o odstranění těchto dat.
 
