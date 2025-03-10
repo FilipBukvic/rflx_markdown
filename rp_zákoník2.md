@@ -1681,3 +1681,131 @@ Povinnosti fyzických a právnických osob k prevenci požárů
 8. Při stanovení výše pokuty se zohledňuje závažnost, délka trvání protiprávního jednání a rozsah potenciální škody.
 9. Udělení pokuty nezbavuje osobu povinnosti odstranit nedostatky v stanovené lhůtě.
 
+
+---  
+
+## Zákon č. 1/2025
+*Zákon o licencích*
+
+## § 1 Základní pojmy a druhy licencí
+- Licence je oficiální oprávnění k vykonávání určité činnosti v souladu s právními předpisy.
+
+a) Žadatel je fyzická osoba, která byla oprávněná jednat jménem výdělečné činnosti
+
+b) Držitel je fyzická nebo právnická osoba oprávněná vykonávat výdělečnou činnost na základě licence
+
+c) Formy podnikání:
+
+- Samostatná výdělečná činnost (SVČ): Osoba podnikající na vlastní odpovědnost ručí za závazky osobně, a to i svým majetkem
+
+1. Podnikatelská (L-1) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas.
+
+- Částka pro vydání L-1 je stanovena na:
+
+a) 3500$ pro samostatná výdělečná činnost (SVČ)
+
+2. Alcohol (L-2) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas prodávat a distributovat alkoholické výrobky.
+
+- Částka pro vydání L-2 je stanovena na:
+
+a) 2500$ pro samostatná výdělečná činnost (SVČ)
+
+Rozšíření licence na alkohol (L-2/1) je oprávnění, které umožňuje občanovi nebo společnosti ve státě San Andreas výrobu lihovin na základě platné L-2 licence
+
+-  Částka pro rozšíření licence L-2/1 je stanovena na:
+
+a) 2500$ pro Samostatná výdělečná činnost (SVČ)
+
+3. Tobacco (L-3) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas prodávat a distributovat tabákové výrobky.
+
+- Částka pro vydání L-3 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+4. Restaurant (L-4) je licence umožňující občanovi nebo společnosti ve státě San Andreas poskytovat stravovací služby.
+
+- Částka pro vydání L-4 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+5. Mediální produkce (L-5) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provozovat produkci médií.
+
+- Částka pro vydání L-5 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+6. Oprava vozidel (L-6) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provádět opravy, údržbu a modifikace vozidel
+
+- Částka pro vydání L-6 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+7. Prodej vozidel (L-7) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provádět prodej a aukce vozidel.
+
+- Částka pro vydání L-7 je stanovena na:
+
+a) 2500$ pro Samostatná výdělečná činnost (SVČ)
+
+8. Noční klub / strip club (L-8) je licence, která umožňuje občanovi nebo společnosti ve státě San Andreas provozovat noční kluby a strip kluby.
+
+- Částka pro vydání L-8 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+9. Restaurace / Hospoda (L-9) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provozovat restaurace nebo hospody.
+
+- Částka pro vydání L-9 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+10. Zemědělská a chovatelská (L-10) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provoz farmy a chov hospodářských zvířat za účelem zemědělské činnosti.
+
+- Částka pro vydání L-10 je stanovena na:
+
+a) 2000$ pro Samostatná výdělečná činnost (SVČ)
+
+*Department of Justice si vyhrazuje právo upravit cenu licence bez předchozího oznámení*
+
+## § 2 Žádost o licenční oprávnění a povinnosti při podání
+
+- Žádat o licenční oprávnění si může každá výdělečná osoba nebo činnost státu San Andreas, přičemž žádost o jeho vydání bude vyhodnocena a následně rozhodnuto o vydání nebo nevydání licenčního oprávnění příslušným orgánem DOJ v souladu s americkým zákoníkem.
+
+a) Žadatel má povinnost uvést pravdivé informace o sobě nebo společnosti
+
+b) Držitel licenčního oprávnění je povinen si obnovit licenci k danému termínu splatnosti, pokud tak neučiní do data vypršení licence, ztrácí oprávnění k vykonávání činností, na něž se licence vztahuje.
+
+c) DOJ je povinen poskytnout dokument o získání nebo obnově licence elektronickou formou přímo majiteli podniku nebo osobě, kterou majitel na základě plné moci pověřil
+
+d) DOJ je povinno vyhodnotit žádost do maximálně 5 dnů od jejího podání
+
+## § 3 Platnost licenčního oprávnění
+
+1. Platnost všech licenčních oprávnění je 30 dnů od založení licence
+
+2. Po uplynutí platnosti licenčního oprávnění je držitel povinen požádat o jeho obnovení nejpozději do dne splatnosti
+
+3. Pokud držitel licenčního oprávnění nepožádá o jeho obnovení do dne splatnosti, bude licence zrušena a bude nucen žádat o licenční oprávnění znovu
+
+4. Obnovení platnosti licenčního oprávnění nastane po podání žádosti o obnovení u DOJ maximálně do 2 dnů
+
+5. Poplatek za obnovení licence je ve výši stejné jako při jejím založení
+
+## § 4 Zrušení licenčního oprávnění
+
+1. Licenční oprávnění může zrušit pouze DOJ v následujících případech:
+
+a) Porušení podmínek licenční smlouvy
+
+b) Zjištění podvodného jednání při získání licence
+
+c) Zánik společnosti nebo úmrtí držitele licence
+
+d) Nepoužívání licence v souladu s účelem nebo zneužívání licenčních práv
+
+e) Držitel licence spáchá závažný trestný čin
+
+- DOJ je povinno držiteli licence písemně oznámit zrušení licence a v případě, že to okolnosti umožňují, poskytnout lhůtu pro nápravu
+
+- Držitel licence má právo podat odvolání proti rozhodnutí DOJ o zrušení licence
+
+- Po zrušení licence je držitel povinen okamžitě ukončit všechny činnosti související s l
