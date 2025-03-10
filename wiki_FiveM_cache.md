@@ -6,7 +6,7 @@ Do mezipaměti FiveM se **ukládají dočasné informace**, které pomáhají **
 
 Tato uložená data se však **mohou poškodit nebo zastarat**, což **způsobuje chyby, pády** nebo **velkou velikost souboru**.
 
-Důležité\! Než budete pokračovat, **ujistěte se, že je program FiveM zcela uzavřen**. Zavřete hru jako obvykle a poté se podívejte u hodin na hlavním panelu, zda není stále spuštěna.
+Důležité\! Než budete pokračovat, **ujistěte se, že je program FiveM zcela uzavřen**. 
 
 ---
 
