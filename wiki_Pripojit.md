@@ -54,7 +54,7 @@ Pro přístup na server je nutné absolvovat whitelist pohovor.
 
 Příkaz, který zadáte po stisknutí klávesy F8 v aplikaci FiveM
 
-* connect main.tror.eu
+     connect main.tror.eu
 
 ---
 
