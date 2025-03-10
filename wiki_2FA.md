@@ -1,15 +1,16 @@
+
 ---
 
 # **Jak zapnout 2FA ověření na Discordu?**
 
-1. **Otevřete a přihlaste se ke svému Discord účtu.**  
-2. Klikněte na **Uživatelská nastavení** (ikona ozubeného kola v levém dolním rohu).  
-3. V sekci **Můj účet** sjeďte dolů a najděte **Ověřovací aplikace**.  
+1. **Otevřete a přihlaste se ke svému Discord účtu.**    
+2. Klikněte na **Uživatelská nastavení** (ikona ozubeného kola v levém dolním rohu).    
+3. V sekci **Můj účet** sjeďte dolů a najděte **Ověřovací aplikace**.
 4. Klikněte na tlačítko **Povolit ověřovací aplikaci**.  
-5. Zadejte své heslo k účtu.  
-6. Vyberte ověřovací aplikaci podle vašeho zařízení:  
-   * **iOS:** Použijte nativní aplikaci **Hesla**.  
-   * **Android:** Stáhněte a použijte aplikaci **Google Authenticator**.
+5. Zadejte své heslo k účtu. 
+6. Vyberte ověřovací aplikaci podle vašeho zařízení:
+    * **iOS:** Použijte nativní aplikaci **Hesla**.  
+    * **Android:** Stáhněte a použijte aplikaci **Google Authenticator**.
 
 ---
 
