@@ -1,3 +1,4 @@
+
 ---
 
 # **Jak projít whitelist pohovorem na TRoR?**
