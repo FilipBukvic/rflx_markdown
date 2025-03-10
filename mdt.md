@@ -257,3 +257,98 @@
 
 #### 2. Vyhlásit pátrání
 - Označí vozidlo jako v pátrání.
+ 
+
+---
+### Spisy
+  
+![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/ycqy.webp)
+
+#### **Popis karet**
+
+#### 1. Informace o spisu  
+   - **Číslo spisu**: Zobrazí se automaticky při vytvoření nového spisu.
+   - **Název spisu**: Zadejte název spisu, který popisuje konkrétní případ nebo situaci.
+   - **Datum a čas založení spisu**: Automaticky se vyplní při založení spisu.
+
+#### 2. Osoby  
+   - Pro přidání osoby klikněte na tlačítko **+** v pravém horním rohu v kartě **Osoby**.
+   - Vyberte osobu, kterou chcete přidat, a následně určete její roli v tomto spisu.
+   - Po výběru osoby ji přidáte do spisu.
+
+#### 3. Vozidla  
+   - Pro přidání vozidla klikněte na tlačítko **+** v pravém horním rohu v kartě **Vozidla**.
+   - Vyhledejte konkrétní vozidlo, které chcete přidat do spisu.
+   - Vybrané vozidlo přidejte do spisu.
+
+#### 4. Zbraně 
+   - Klikněte na tlačítko **+** v pravém horním rohu v kartě **Zbraně**.
+   - Vyhledejte zbraň, kterou chcete přidat, a přidejte ji do spisu.
+
+#### 5. Departement 
+   - Pomocí tlačítka **+** v pravém horním rohu v kartě **Departement** přidáte jednotky zapojené do spisu.
+   - Vyberte příslušné jednotky a přidejte je.
+
+#### 6. Přidělený departement 
+   - Klikněte na tlačítko **+** v pravém horním rohu v kartě **Přidělený departement**.
+   - Přidejte příslušníky, kteří budou mít přístup do spisu.
+   - Pokud přidáte alespoň jednu osobu, spis bude uzamčen a přístup do něj budou mít pouze přidělené osoby a majitel spisu.
+
+#### 7. Popis 
+   - V poli **Popis** zadejte podrobný popis spisu, který obsahuje všechny relevantní informace o případu.
+
+#### 8. Paragrafy 
+   - Klikněte na tlačítko **+** v pravém horním rohu v kartě **Paragrafy**.
+   - Vyberte přestupek/trestný čin, kterého se osoba dopustila.
+   - Zadejte částku v rozmezí, která se vztahuje k přestupku nebo trestnému činu.
+   - Vyberte osobu, které se tento paragraf týká, a přidejte ho do spisu.
+   - Pokud chcete osobě poslat fakturu, zaškrtněte políčko pro odeslání faktury a následně založte/uložte report.
+
+#### 9. Galerie 
+   - Přidejte fotografie do spisu kliknutím na tlačítko **+** v pravém horním rohu v kartě **Galerie**.
+   - Vyberte soubory fotografií, které chcete přidat, a nahrajte je do spisu.
+ 
+
+---
+### Cely
+![Mdt_vehicle_profile](https://cdn.tror.eu/file/i/tror_web_images/ika9.webp)
+
+
+#### **Cely**
+- **Systém policejních cel** je automatizován pomocí NPC (Non-Player Characters) na stanici.  
+- **Přidání osoby do cely**: Klikněte na NPC u cel. Osoba bude následně umístěna do vybrané cely.
+- Po přidání osoby do cely se automaticky založí **spis do cel**, kde se zobrazují veškeré akce a události týkající se této osoby.
+
+#### Přehled
+V přehledu najdete **seznam osob**, které byly nebo jsou v cele. Seznam zahrnuje následující informace:
+- **Číslo jednací**: Jedinečné číslo spisu osoby v cele.
+- **Jméno a příjmení osoby**: Jméno a příjmení osoby, která je v cele.
+- **Datum narození**: Datum narození osoby.
+- **Sbor, který osobu umístil do cely**: Identifikace sboru, který osobu do cely umístil.
+- **Lokace cely (stanice)**: Stanice, kde se cela nachází.
+- **Označení cely**: Většinou číslo cely, ve které je osoba umístěná.
+- **Datum a čas umístění do cely**: Časový záznam, kdy byla osoba umístěna do cely.
+- **Stav osoby v cele**: Zobrazuje stav osoby – umístěná, propuštěná, v cele.
+- **Doba umístění v cele**: Čas, po který je osoba umístěna v cele.
+- **Status osoby**: 
+  - **Online (zelená)**: Osoba je online.
+  - **Offline (červená)**: Osoba není online.
+  - **Propuštěná (černá)**: Osoba byla propuštěna.
+- **Poznámka**: Pokud existuje nějaká poznámka, zobrazí se **žlutá ikona** u spisu.
+
+#### Při rozkliknutí jednotlivého spisu u cel se zobrazí:
+#### 1. Informace
+   - **Číslo jednací**: Jedinečné číslo spisu.
+   - **Jméno osoby**: Jméno osoby, která je umístěna v cele.
+   - **Datum narození**: Datum narození osoby.
+
+#### 2. Akce s osobou
+   - Zde se zobrazují všechny akce, které příslušník vykonal s osobou.
+   - U každé akce je možné přidat **poznámku**.
+
+#### 3. Důvod zadržení
+   - Příslušník zde musí napsat důvod zadržení osoby a její umístění do cely.
+   - **Nutné** vyplnit pokaždé při umístění osoby do cely.
+
+#### 4. Poznámky
+   - Místo pro **volitelné poznámky** týkající se osoby nebo jejího pobytu v cele.
