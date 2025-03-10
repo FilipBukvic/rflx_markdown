@@ -28,5 +28,5 @@
     * **2\. Dvoufázové ověření (2FA)**: Aktivujte si dvoufázové ověření pro zvýšení bezpečnosti na vašem Discord účtu, více informací ZDE.
 
     * **3\. Ověřené telefonní číslo**: Ověřte své telefonní číslo, více informací ZDE.
-    * 
+      
 ---
