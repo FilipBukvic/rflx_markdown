@@ -1,4 +1,4 @@
-# MDT TURORIAL
+# MDT TUTORIAL
 *Pro TROR MDT 2.0*
 
 ## Otevření MDT
