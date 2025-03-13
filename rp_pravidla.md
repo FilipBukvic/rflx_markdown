@@ -113,7 +113,7 @@
 ## CombatLog
 
 - Odpojení z probíhající RP akce bez udání důvodu za účelem obcházení trestu nebo vyhýbání se následkům.
-- Hráči se nesmí odpojovat mimo nemovitost vlastněnou prostřednictvím inkasa (pronájmu). Toto pravidlo se nevztahuje na situace, kdy dochází k restartu serveru.
+-  Hráči se nesmí odpojovat během probíhajícího RP nebo v přítomnosti jiných hráčů, aby nenarušovali hru a její plynulost.
   
 ## Combat comeback
 
@@ -196,6 +196,11 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - Deadscreen - Hráč nesmí pasivně erpit místní EMS, dokud nemá povolený příkaz /respawn - jiný hráč z okolí může zraněnému hráči místní EMS zaerpit.
 - Korupce - Pro možnost hraní korupční postavy je třeba mít schválený ticket a-týmem.
 - Na serveru je zakázáno používání programů třetích stran a herních modifikací sloužících ke zvýhodnění se nad ostatními hráči (NoProp, NoBush, Cheaty apod.).
+- Není dovoleno vytvářet nesmyslné nebo nereálné situace, například unášet osoby bez důvodu či bez promyšleného plánu, jednat nelogicky během policejních zásahů, nebo ignorovat následky svých činů.
+
+## Teleporty do interiérů
+- Hráči nesmí trávit čas u portů s úmyslem čekat na jiné hráče, aby je přepadli nebo zabili, například v situacích jako je vykrádání domů.
+
 ### Bindy a automatizace v RP
 - Je zakázáno používat bindy (předem nastavené klávesové zkratky) pro účely RP, jako například předem připravené texty či akce. Veškeré RP situace musí být odehrány manuálně, aby byla zajištěna autenticita a plynulost herního zážitku.
 - Toto pravidlo se nevztahuje na bindy, které se nacházejí přímo v nastavení GTA, jako jsou například bindy pro ovládání vozidel nebo standardní herní funkce. Porušení tohoto pravidla může vést k postihu.
@@ -358,6 +363,10 @@ Pravidla vztahující se výhradně na skupinky lidí i jednotlivce, kteří jso
 - Boss může kdykoliv a kdekoliv udělit CK členům své skupiny.
 - Vstupem do nelegální skupiny si automaticky schvalujete i CK na svou postavu.
 
+## Nelegální lokace
+- Nelegální lokace mohou hráči navštěvovat pouze za účelem provedení aktivity, která je pro dané místo určena v rámci RP.
+- Není povoleno se na těchto místech zdržovat a čekat na ostatní hráče nebo provádět nelegální činnosti, jako je okrádání, únosy atp.
+  
 # FAQ a návody
 
 ## Jakým způsobem využít Passive?
