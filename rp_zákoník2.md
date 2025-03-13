@@ -1676,7 +1676,7 @@ Povinnosti fyzických a právnických osob k prevenci požárů
 3. Pokud jsou zjištěny vážné nedostatky v oblasti požární ochrany, má vedení LSFD pravomoc uzavřít objekt do doby odstranění nedostatků a obnovení protokolu o požární kontrole.
 4. V případě hrozícího poškození majetku nebo ohrožení zdraví kvůli nedostatečné požární ochraně může pověřená osoba LSFD vstoupit do objektu za použití vhodného stupně donucení.
 5. Vlastník, nájemce nebo správce budovy je povinen na žádost pověřené osoby LSFD odstranit zjištěné nedostatky.
-6. Pověřená osoba LSFD může na místě udělit pokutu mezi 250.000 $ - 500.000 $ za zjištěné nedostatky v oblasti požární ochrany.
+6. Pověřená osoba LSFD může na místě udělit pokutu mezi 25.000 $ - 50.000 $ za zjištěné nedostatky v oblasti požární ochrany.
 7. Pokud majitel objektu opakovaně nesplní povinnost odstranit nedostatky, může být udělena další pokuta až do dvojnásobku předchozí pokuty.
 8. Při stanovení výše pokuty se zohledňuje závažnost, délka trvání protiprávního jednání a rozsah potenciální škody.
 9. Udělení pokuty nezbavuje osobu povinnosti odstranit nedostatky v stanovené lhůtě.
