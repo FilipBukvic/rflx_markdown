@@ -365,7 +365,7 @@ Pravidla vztahující se výhradně na skupinky lidí i jednotlivce, kteří jso
 
 ## Nelegální lokace
 - Nelegální lokace mohou hráči navštěvovat pouze za účelem provedení aktivity, která je pro dané místo určena v rámci RP.
-- Není povoleno se na těchto místech zdržovat a čekat na ostatní hráče nebo provádět nelegální činnosti, jako je okrádání, únosy atp.
+- Není povoleno se na těchto místech zdržovat a čekat na ostatní hráče za činnosti, jako je okrádání, únosy atp.
   
 # FAQ a návody
 
