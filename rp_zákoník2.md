@@ -1580,53 +1580,53 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 **Postupy státních ozbrojených složek**
 
-### **§ 28 Postup policejních složek při zásahu v případech s rukojmími**
+### **§ 29 Postup policejních složek při zásahu v případech s rukojmími**
 
 - Tento zákon upravuje postup policejních složek státu San Andreas (LSPD, LSSD) během zásahů v situacích zahrnujících rukojmí.
 
 1. Postup při existenci důkazu o rukojmích
 
-a) Pokud mají policejní složky přímý důkaz o přítomnosti rukojmích (např. vizuální potvrzení, audio/video záznam, svědecká výpověď důvěryhodné osoby), jsou povinny přijmout kroky k jejich záchraně.
+   a) Pokud mají policejní složky přímý důkaz o přítomnosti rukojmích (např. vizuální potvrzení, audio/video záznam, svědecká výpověď důvěryhodné osoby), jsou povinny přijmout kroky k jejich záchraně.
 
-b) Prioritou zásahu je minimalizace rizika pro rukojmí a jejich bezpečné vysvobození.
+   b) Prioritou zásahu je minimalizace rizika pro rukojmí a jejich bezpečné vysvobození.
 
 2. Postup při neexistenci důkazu o rukojmích
 
-a) Pokud neexistuje přímý důkaz o přítomnosti rukojmích, policejní složky nejsou povinny brát tuto možnost v potaz při plánování zásahu.
+   a) Pokud neexistuje přímý důkaz o přítomnosti rukojmích, policejní složky nejsou povinny brát tuto možnost v potaz při plánování zásahu.
 
 - V případě důvodného podezření na porušení tohoto zákona může být člen LSPD nebo LSSD podroben vyšetřování DOJ.
 
-### **§ 29 Průběh a povinnosti během výslechu**
+### **§ 30 Průběh a povinnosti během výslechu**
 
 - Tento zákon upravuje povinnosti příslušníků Los Santos Police Department (dále jen „LSPD“) a Los Santos Sheriff's Department (dále jen „LSSD“) při výslechu osob. Výslechem se rozumí jakákoli forma dotazování osoby podezřelé ze spáchání trestného činu, pokud se tato osoba nachází ve vazbě nebo je jinak omezená na osobní svobodě.
 
 1. Povinnosti při zahájení výslechu:
 
-a) LSPD nebo LSSD je povinno před zahájením výslechu poučit vyslýchanou osobu o jejích právech dle §12 Poučení o právech.
+   a) LSPD nebo LSSD je povinno před zahájením výslechu poučit vyslýchanou osobu o jejích právech dle §12 Poučení o právech.
 
-b) Výslech musí být zaznamenán audiovizuálně. Před jeho zahájením je LSPD či LSSD povinno informovat vyslýchanou osobu, že záznam bude pořízen.
+   b) Výslech musí být zaznamenán audiovizuálně. Před jeho zahájením je LSPD či LSSD povinno informovat vyslýchanou osobu, že záznam bude pořízen.
 
-c) Pokud je výslech sledován jinou osobou, jako je státní zástupce, nadřízený nebo jiný člen LSPD nebo LSSD, musí být vyslýchaná osoba o této skutečnosti informována.
+   c) Pokud je výslech sledován jinou osobou, jako je státní zástupce, nadřízený nebo jiný člen LSPD nebo LSSD, musí být vyslýchaná osoba o této skutečnosti informována.
 
-d) Pokud je přítomen chráněný svědek nebo informátor, není nutné o této skutečnosti vyslýchanou osobu informovat.
+   d) Pokud je přítomen chráněný svědek nebo informátor, není nutné o této skutečnosti vyslýchanou osobu informovat.
 
 2. Průběh výslechu
 
-a) Výslech musí být veden zákonným a profesionálním způsobem, bez použití fyzického nebo psychického nátlaku, vyhrožování či jakéhokoliv jiného neetického postupu.
+   a) Výslech musí být veden zákonným a profesionálním způsobem, bez použití fyzického nebo psychického nátlaku, vyhrožování či jakéhokoliv jiného neetického postupu.
 
-b) Vyslýchaná osoba má právo kdykoli ukončit výslech a požadovat přítomnost právního zástupce.
+   b) Vyslýchaná osoba má právo kdykoli ukončit výslech a požadovat přítomnost právního zástupce.
 
-c) Pokud je výslech sledován jinou osobou (např. státním zástupcem, nadřízeným či dalším vyšetřovatelem), musí být o této skutečnosti vyslýchaná osoba informována.
+   c) Pokud je výslech sledován jinou osobou (např. státním zástupcem, nadřízeným či dalším vyšetřovatelem), musí být o této skutečnosti vyslýchaná osoba informována.
 
-d) Během výslechu musí být osobě poskytnuto jídlo, voda a přiměřený čas na odpočinek.
+   d) Během výslechu musí být osobě poskytnuto jídlo, voda a přiměřený čas na odpočinek.
 
 3. Ukončení výslechu a další opatření
 
-a) Pokud vyslýchaná osoba využije svého práva nevypovídat nebo požádá o přítomnost právního zástupce, výslech musí být ihned ukončen.
+   a) Pokud vyslýchaná osoba využije svého práva nevypovídat nebo požádá o přítomnost právního zástupce, výslech musí být ihned ukončen.
 
-b) Výslech lze obnovit pouze tehdy, pokud se vyslýchaná osoba sama rozhodne pokračovat a je přítomen její právní zástupce.
+   b) Výslech lze obnovit pouze tehdy, pokud se vyslýchaná osoba sama rozhodne pokračovat a je přítomen její právní zástupce.
 
-c) Jakékoli přiznání nebo důkaz získaný v rozporu s tímto zákonem je neplatný a nemůže být použit v soudním řízení.
+   c) Jakékoli přiznání nebo důkaz získaný v rozporu s tímto zákonem je neplatný a nemůže být použit v soudním řízení.
 
 - V případě důvodného podezření na porušení tohoto zákona může být člen LSPD nebo LSSD podroben vyšetřování DOJ.
 
