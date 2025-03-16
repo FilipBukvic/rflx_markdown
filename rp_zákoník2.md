@@ -15,8 +15,8 @@ Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo Department of Justi
 ### **Struktura Department of Justice:**
 
 1. **Generální prokurátor (Attorney General):** Leon Baxter, J.D., Ph.D.
-2. **Zástupce generálního prokurátora (Deputy Attorney General):** Philip Nixon, J.D.
-3. **Předseda Soudu Los Santos:** Liam O’Reilly, J.D.
+2. **Zástupce generálního prokurátora (Deputy Attorney General):** Philip Nixon, J.D., Spencer Hayes J.D., Thomas Langston J.D.
+3. **Předseda Soudu Los Santos:** dle jmenování.
 4. **Pracovníci justiční komory a další právníci:** dle jmenování.
 
 ---
@@ -433,7 +433,7 @@ e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 ### **§ 30 Útěk**
 1. Kdo unikne před úřední osobou po výzvě k zastavení, včetně pokusu o útěk, dopouští se přestupku, který se trestá pokutou do výše 2.500$.
 
-   a) Při opakovaném jednání v krátkém časovém období (méně než 3 dny), včetně pokusu o útěk, se jedná o trestný čin, za který hrozí trest odnětí svobody na jeden až dva roky a pokuta ve výši 3.500$.
+   a) Při opakovaném jednání v krátkém časovém období (méně než 3 dny), včetně pokusu o útěk, se jedná o trestný čin, za který hrozí trest odnětí svobody na jeden až dva roky a pokuta do výše 3.500$.
 
 
 ### **§ 31 Mučení**
@@ -1752,7 +1752,7 @@ a) 2500$ pro Samostatná výdělečná činnost (SVČ)
 
 a) 2000$ pro Samostatná výdělečná činnost (SVČ)
 
-9. Restaurace / Hospoda (L-9) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provozovat restaurace nebo hospody.
+9. Bar / Hospoda (L-9) je licence, která umožňuje výdělečnou činnost občanovi nebo společnosti ve státu San Andreas provozovat restaurace nebo hospody.
 
 - Částka pro vydání L-9 je stanovena na:
 
