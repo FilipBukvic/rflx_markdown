@@ -1572,10 +1572,10 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 2.  Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob, a musí činit všechna možná opatření, aby minimalizoval riziko pro okolí.
 
-### **§27 Zatčení**
+### **§ 27 Zatčení**
 - Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
 
-### **§28 Zadržení osob**
+### **§ 28 Zadržení osob**
 - Policista, který provádí zadržení osoby, je povinen okamžitě sdělit důvod zadržení při jeho provedení, ledaže by takové sdělení bezprostředně ohrozilo bezpečnost policisty nebo jiných osob.
 
 **Postupy státních ozbrojených složek**
@@ -1584,13 +1584,13 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 - Tento zákon upravuje postup policejních složek státu San Andreas (LSPD, LSSD) během zásahů v situacích zahrnujících rukojmí.
 
-1. Postup při existenci důkazu o rukojmích
+1. Postup při existenci důkazu o rukojmích:
 
    a) Pokud mají policejní složky přímý důkaz o přítomnosti rukojmích (např. vizuální potvrzení, audio/video záznam, svědecká výpověď důvěryhodné osoby), jsou povinny přijmout kroky k jejich záchraně.
 
    b) Prioritou zásahu je minimalizace rizika pro rukojmí a jejich bezpečné vysvobození.
 
-2. Postup při neexistenci důkazu o rukojmích
+2. Postup při neexistenci důkazu o rukojmích:
 
    a) Pokud neexistuje přímý důkaz o přítomnosti rukojmích, policejní složky nejsou povinny brát tuto možnost v potaz při plánování zásahu.
 
@@ -1610,7 +1610,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
    d) Pokud je přítomen chráněný svědek nebo informátor, není nutné o této skutečnosti vyslýchanou osobu informovat.
 
-2. Průběh výslechu
+2. Průběh výslechu:
 
    a) Výslech musí být veden zákonným a profesionálním způsobem, bez použití fyzického nebo psychického nátlaku, vyhrožování či jakéhokoliv jiného neetického postupu.
 
@@ -1620,7 +1620,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
    d) Během výslechu musí být osobě poskytnuto jídlo, voda a přiměřený čas na odpočinek.
 
-3. Ukončení výslechu a další opatření
+3. Ukončení výslechu a další opatření:
 
    a) Pokud vyslýchaná osoba využije svého práva nevypovídat nebo požádá o přítomnost právního zástupce, výslech musí být ihned ukončen.
 
