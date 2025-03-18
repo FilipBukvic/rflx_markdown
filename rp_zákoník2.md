@@ -1845,15 +1845,15 @@ d) DOJ je povinno vyhodnotit žádost do maximálně 5 dnů od jejího podání
 
 1. Licenční oprávnění může zrušit pouze DOJ v následujících případech:
 
-a) Porušení podmínek licenční smlouvy
+   a) Porušení podmínek licenční smlouvy
 
-b) Zjištění podvodného jednání při získání licence
+   b) Zjištění podvodného jednání při získání licence
 
-c) Zánik společnosti nebo úmrtí držitele licence
+   c) Zánik společnosti nebo úmrtí držitele licence
 
-d) Nepoužívání licence v souladu s účelem nebo zneužívání licenčních práv
+   d) Nepoužívání licence v souladu s účelem nebo zneužívání licenčních práv
 
-e) Držitel licence spáchá závažný trestný čin
+   e) Držitel licence spáchá závažný trestný čin
 
 - DOJ je povinno držiteli licence písemně oznámit zrušení licence a v případě, že to okolnosti umožňují, poskytnout lhůtu pro nápravu
 
