@@ -1738,7 +1738,7 @@ Povinnosti fyzických a právnických osob k prevenci požárů
 ## Zákon č. 1/2025
 *Zákon o licencích*
 
-## § 1 Základní pojmy a druhy licencí
+### § 1 Základní pojmy a druhy licencí
 - Licence je oficiální oprávnění k vykonávání určité činnosti v souladu s právními předpisy.
 
 a) Žadatel je fyzická osoba, která byla oprávněná jednat jménem výdělečné činnosti
@@ -1817,7 +1817,7 @@ a) 2000$ pro Samostatná výdělečná činnost (SVČ)
 
 *Department of Justice si vyhrazuje právo upravit cenu licence bez předchozího oznámení*
 
-## § 2 Žádost o licenční oprávnění a povinnosti při podání
+### § 2 Žádost o licenční oprávnění a povinnosti při podání
 
 - Žádat o licenční oprávnění si může každá výdělečná osoba nebo činnost státu San Andreas, přičemž žádost o jeho vydání bude vyhodnocena a následně rozhodnuto o vydání nebo nevydání licenčního oprávnění příslušným orgánem DOJ v souladu s americkým zákoníkem.
 
@@ -1829,7 +1829,7 @@ c) DOJ je povinen poskytnout dokument o získání nebo obnově licence elektron
 
 d) DOJ je povinno vyhodnotit žádost do maximálně 5 dnů od jejího podání
 
-## § 3 Platnost licenčního oprávnění
+### § 3 Platnost licenčního oprávnění
 
 1. Platnost všech licenčních oprávnění je 30 dnů od založení licence
 
@@ -1841,7 +1841,7 @@ d) DOJ je povinno vyhodnotit žádost do maximálně 5 dnů od jejího podání
 
 5. Poplatek za obnovení licence je ve výši stejné jako při jejím založení
 
-## § 4 Zrušení licenčního oprávnění
+### § 4 Zrušení licenčního oprávnění
 
 1. Licenční oprávnění může zrušit pouze DOJ v následujících případech:
 
@@ -1860,3 +1860,17 @@ e) Držitel licence spáchá závažný trestný čin
 - Držitel licence má právo podat odvolání proti rozhodnutí DOJ o zrušení licence
 
 - Po zrušení licence je držitel povinen okamžitě ukončit všechny činnosti související s licencí a přestat je vykonávat
+
+### **§ 5 Neoprávněné podnikání**
+
+- Fyzická nebo právnická osoba, která vykonává výdělečnou činnost vyžadující licenci bez jejího držení, se dopouští neoprávněného podnikání.
+
+1. Neoprávněné podnikání je postihováno:
+
+    a) Pokutou až do výše 8.000$ v závislosti na výši způsobené škody. 
+
+    b) Zabavením zisku plynoucího z neoprávněné činnosti.
+
+    c) Uložením zákazu podání žádosti o licenci na dobu až 30 dní.
+
+2. V případě opakovaného porušení podnikání bez licence může být uložen trest odnětí svobody až na 2 roky.
