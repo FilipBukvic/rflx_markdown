@@ -640,8 +640,6 @@ Department of Justice vykonává tyto funkce:
 ### **§ 11 Zákaz zastavení:**
 1. Řidič nesmí zastavit ani stát na místech, kde by tím ohrozil bezpečnost nebo plynulost provozu, například:
 
-Na křižovatkách a v jejich těsné blízkosti (méně než 5 metrů).
-
    a) Na přechodech pro chodce a 5 metrů před nimi.
 
    b) V nepřehledných zatáčkách nebo vrcholech stoupání.
@@ -653,7 +651,8 @@ Na křižovatkách a v jejich těsné blízkosti (méně než 5 metrů).
 Je přestupek, který se trestá pokutou do výše 500$.
 
 ### **§ 12 Zákaz stání (parkování):**
-Řidič nesmí stát:
+
+1. Řidič nesmí stát:
 
    a) Tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže.
 
