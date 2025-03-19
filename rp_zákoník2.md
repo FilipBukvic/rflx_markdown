@@ -214,7 +214,7 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 1 Trestní odpovědnost**
- - Trestní odpovědnost se vztahuje na každou osobu starší 21 let
+- Trestně odpovědná je každá osoba starší 21 let, která se pohybuje na území San Andreas, je v době spáchání trestného činu příčetná a nejedná v krajní nouzi či nutné obraně. Příčetností se rozumí schopnost rozpoznat protiprávnost spáchaného činu v době spáchání. O příčetnosti vždy rozhoduje soudem stanovená osoba.
 
 
 ### **§ 2 Sčítání záznamů z vězení v trestním rejstříku**
@@ -293,37 +293,36 @@ Department of Justice vykonává tyto funkce:
 ### **§ 4 Nedovolené ozbrojování**
 1. Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává či užívá střelnou zbraň nebo její části.
 
-   a) Zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
+   a) Zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
       
-   b) Zbraně nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$.
+   b) Zbraně nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
       
-   c) Zbraně typu GUR neregistrované nebo bez licence - je přestupek čin, trestaný pokutou do výše 3.000$.
+   c) Zbraně typu GUR neregistrované nebo bez licence - je přestupek, trestaný pokutou do výše 3.000$
    
-   d) Střelivo nespadající pod GUR - je přestupek čin, trestaný pokutou do výše 1.500$.
+   d) Střelivo nespadající pod GUR - je přestupek čin, trestaný pokutou do výše 1.500$
+
+   e) Tlumič je ve státě San Andreas považován za nelegální a jeho držení je trestný čin s odnětím svobody na dobu až 3 let a pokutou do výše 2.500$
 
 ### **§ 5 Únos**
 1. Kdo si přivlastní osobu, vezme ji proti její vůli nebo jí jiným způsobem omezuje osobní svobodu, bude potrestán odnětím svobody:
 
-   a) na jeden až tři roky a pokutou do výše 5.000$, pokud nebyl čin spáchán za účelem transportu osoby,  
+   a) na jeden až tři roky a pokutou do výše 5.000$, pokud nebyl čin spáchán za účelem transportu osoby 
    
-   b) na jeden až šest let a pokutou do výše 7.000$, pokud čin zahrnuje transport osoby,  
+   b) na jeden až šest let a pokutou do výše 7.000$, pokud čin zahrnuje transport osoby
    
-   c) na pět až patnáct let a pokutou do výše 10.000$, pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání.
-
+   c) na pět až patnáct let a pokutou do výše 10.000$, pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání
 
 ### **§ 6 Poškození cizí věci**
 - Kdo zničí, poškodí nebo učiní nepoužitelnou cizí věc, a způsobí tak na cizím majetku škodu, bude potrestán pokutou do výše 2.000$
-
 
 ### **§ 7 Neoprávněný vstup**
 - Neoprávněným vstupem se rozumí vniknutí do uzavřeného prostoru, na pozemek či do nemovitosti bez povolení, pokud je prostor ohraničen plotem nebo je opatřen viditelným označením typu "Zákaz vstupu".
    
    a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
    
-   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
+   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (během 72 hodin), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
    
    c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
-
 
 ### **§ 8 Krádež**
 - Přisvojení si cizí věci za účelem osobního obohacení:
@@ -339,7 +338,7 @@ Department of Justice vykonává tyto funkce:
 
    a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500$.
 
-   b) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí odnětí svobody na jeden až dva roky a pokuta až 3 000$.  
+   b) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (během 72 hodin), jedná se o trestný čin, za který hrozí odnětí svobody na jeden až dva roky a pokuta až 3 000$.  
 
    c) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
    
@@ -349,7 +348,7 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 10 Neuposlechnutí výzvy úřední osoby**
-- Neuposlechnutí výzvy se rozumí úmyslné nebo vědomé ignorování zákonné výzvy, pokynu nebo nařízení úřední osoby nebo státní instituce, které bylo vydáno v souladu s právními předpisy. Toto jednání je klasifikováno jako přestupek, za který lze uložit pokutu do výše 3.000$.
+- Neuposlechnutí výzvy se rozumí úmyslné nebo vědomé ignorování zákonné výzvy, pokynu nebo nařízení úřední osoby nebo státní instituce, které bylo vydáno v souladu s právními předpisy. Toto jednání je klasifikováno jako přestupek, za který lze uložit pokutu do výše 3.000$
 
    
 ### **§ 11 Křivá výpověď**
@@ -359,14 +358,14 @@ Department of Justice vykonává tyto funkce:
 ### **§ 12 Krádež dopravního prostředku**
 1. Vloupání do dopravního prostředku nebo neoprávněné zmocnění se dopravního prostředku, bez ohledu na jeho hodnotu.
    
-   a) Je přestupek, který se trestá pokutou do výše 2.500$.
+   a) Je přestupek, který se trestá pokutou do výše 2.500$
    
-   b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody na jeden rok až pět let a pokutou do výše 6.000$.
+   b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody na jeden rok až pět let a pokutou do výše 6.000$
 
 
 ### **§ 13 Nelicencovaný prodej zbraní**
 - Prodej, pronájem nebo převod střelných zbraní, munice či doplňků na střelné zbraně bez platné licence nebo povolení je trestný čin, za který hrozí trest odnětí svobody na jeden až tři roky a pokutou do výše 4.000$
-   
+
 
 ### **§ 14 Pronásledování**
 1. Kdo jiného dlouhodobě pronásleduje tím, že vyhledává jeho osobní blízkost nebo jej sleduje.
@@ -583,7 +582,7 @@ Department of Justice vykonává tyto funkce:
 *Zákon o silničním provozu*
 
 
-### **§ 1 Rychlost jízdy**
+### **§ 1 Překročení rychlosti**
 1. Řidič smí jet maximální rychlostí, kterou povoluje zákon: 50 mph ve městě, 80 mph mimo město a 80 mph na dálnici.
 
    a) Překročení rychlosti o 1-20 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 700$.
@@ -601,7 +600,7 @@ Department of Justice vykonává tyto funkce:
    b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$.
 
 
-### **§ 3 Označení vozidla**
+### **§ 3 Řízení vozidla bez poznávacích značek**
 - Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
 
 
@@ -650,7 +649,7 @@ Department of Justice vykonává tyto funkce:
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
-### **§ 12 Zákaz stání (parkování):**
+### **§ 12 Zákaz stání (parkování)**
 
 1. Řidič nesmí stát:
 
@@ -933,7 +932,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
       l) Military rifle
 
 
-### **§ 3 Doplňky na zbraně**     
+### **§ 3 Doplňky na zbraně**
 1. GUR - Doplňky na zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
 
    a) baterka
@@ -974,10 +973,9 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
       
       r) Zaměřovač
 
-   
 ### **§ 4 Střelivo**  
 
-1. GUR - Střelivo pro zbraně, dostupné osobám s platným zbrojním průkazem.
+1. GUR - Střelivo pro zbraně, dostupné pouze osobám s platným zbrojním průkazem.
 
    a) střelivo ráže 9x19 mm
 
@@ -999,14 +997,11 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    c) dovršila nebo je starší 21 let věku.
 
-
 ### **§ 6 Oprávnění držitele zbrojního průkazu**
 - Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
-
 ### **§ 7 Odebrání zbrojního průkazu**
 - Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní
-
 
 ---  
 
@@ -1073,7 +1068,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
 
 ### **§ 5 žádost o advokátní licence**
-1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 30 000 USD.
+1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 10 000 USD.
 
 2. Koncipientní / advokátní licence se skládá z:
 
@@ -1085,7 +1080,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
    d) doložení o splnění podmínky získání vysokoškolského vzdělání v oboru právo
 
-3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 5 000 USD. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 30 000 USD.
+3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 1 000 USD. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 10 000 USD.
 
 
 ### **§ 6 Jurisdikce - advokát**
@@ -1896,10 +1891,10 @@ d) DOJ je povinno vyhodnotit žádost do maximálně 5 dnů od jejího podání
 
 1. Neoprávněné podnikání je postihováno:
 
-    a) Pokutou až do výše 8.000$ v závislosti na výši způsobené škody. 
+    a) Pokutou až do výše 8.000$ v závislosti na výši způsobené škody
 
-    b) Zabavením zisku plynoucího z neoprávněné činnosti.
+    b) Zabavením zisku plynoucího z neoprávněné činnosti
 
-    c) Uložením zákazu podání žádosti o licenci na dobu až 30 dní.
+    c) Uložením zákazu podání žádosti o licenci na dobu až 30 dní
 
 2. V případě opakovaného porušení podnikání bez licence může být uložen trest odnětí svobody až na 2 roky.
