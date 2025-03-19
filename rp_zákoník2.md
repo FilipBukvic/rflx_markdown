@@ -77,7 +77,7 @@ Department of Justice vykonává tyto funkce:
 - Chrání právo na rychlý a veřejný proces, právo na obhájce a konfrontaci svědků.
 
 ### **Sedmý dodatek:**
-Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje používání krutých a neobvyklých trestů.
+- Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje používání krutých a neobvyklých trestů.
 
 
 ---
@@ -214,7 +214,7 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 
 
 ### **§ 1 Trestní odpovědnost**
- Trestní odpovědnost se vztahuje na každou osobu starší 21 let
+ - Trestní odpovědnost se vztahuje na každou osobu starší 21 let
 
 
 ### **§ 2 Sčítání záznamů z vězení v trestním rejstříku**
@@ -224,8 +224,33 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 ### **§ 3 Dohoda o vině a trestu**
 - Dohoda o vině a trestu je právní institut, kdy osoba, která je obviněna z trestného činu, souhlasí s trestem, který určí Los Santos Police Department (LSPD) nebo Los Santos Sheriff Department (LSSD) v souladu se zákoníkem. Tato dohoda je možná, pokud délka trestu nepřesahuje 10 let. Pokud obě strany, tedy obviněná osoba a příslušné orgány, s navrženým trestem souhlasí, není nutné uskutečnit soudní líčení, a tímto se celý proces urychlí.
 
----  
+### **§ 4 Podmíněné odsouzení a jeho podmínky**
 
+- Tento zákon stanovuje podmínky, za kterých může být uložena podmínka namísto trestu nebo odnětí svobody. Podmínku lze uložit pouze při splnění podmínek stanovených tímto zákonem.
+ 
+1. Podmínky pro udělení podmíněného trestu
+
+- LSPD nebo LSSD může rozhodnout o udělené podmínce, pokud:
+
+    a) Pachatel spáchal přestupek nebo trestný čin s maximální sazbou do 2 let odnětí svobody.
+
+    b) Pachatel nebyl v minulosti odsouzen za žádný trestný čin.
+
+2. Doba podmínky a její podmínky
+
+- Podmíněný trest se stanovuje na dobu určenou LSPD nebo LSSD avšak maximální délka je 5 dní.
+
+3. Během udělené podmínky je pachatel povinen:
+
+    a) Nedopustit se žádného dalšího trestného činu ani přestupku.
+
+4. Následky porušení podmínky
+
+- Pokud pachatel během uložené podmínky spáchá přestupek nebo trestný čin:
+
+    a) LSPD nebo LSSD jsou oprávněny uplatnit přísnější trestní sazby.
+
+---  
 
 ## Zákon č. 1/2024
 *Zákon o trestných činech a přestupcích*
@@ -293,37 +318,34 @@ Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje použí
 ### **§ 7 Neoprávněný vstup**
 - Neoprávněným vstupem se rozumí vniknutí do uzavřeného prostoru, na pozemek či do nemovitosti bez povolení, pokud je prostor ohraničen plotem nebo je opatřen viditelným označením typu "Zákaz vstupu".
    
-a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
+   a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
    
-b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
+   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (do tří dnů), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
    
-c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
+   c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
 
 
 ### **§ 8 Krádež**
 - Přisvojení si cizí věci za účelem osobního obohacení:
 
-a) Pokud hodnota věci nepřesahuje 20 000 USD, jedná se o přestupek, za který lze uložit pokutu až do výše 3 000 USD.
+   a) Pokud hodnota věci nepřesahuje 20 000 USD, jedná se o přestupek, za který lze uložit pokutu až do výše 3 000 USD.
 
-b) Pokud hodnota věci činí 20 001 až 200 000 USD, jedná se o trestný čin, za který hrozí:
-odnětí svobody na 1 až 3 roky, nebo
-peněžitý trest ve výši 2 000 až 5 000 USD.
+   b) Pokud hodnota věci činí 20 001 až 200 000 USD, jedná se o trestný čin, za který hrozí odnětí svobody na 1 až 3 roky, nebo peněžitý trest ve výši 2 000 až 5 000 USD.
 
-c) Pokud hodnota věci přesahuje 200 000 USD, jedná se o trestný čin, za který hrozí:
-odnětí svobody na dobu 1 až 5 let.
+   c) Pokud hodnota věci přesahuje 200 000 USD, jedná se o trestný čin, za který hrozí odnětí svobody na dobu 1 až 5 let.
 
 ### **§ 9 Loupež**  
 - Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
 
-a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500$.
+   a) Přestupek: Pokud dojde k poškození bankomatů, pokladen nebo obdobných zařízení, nebo ke krádeži věcí bez dalšího závažného jednání, jedná se o přestupek, za který lze uložit pokutu až 2 500$.
 
-b) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí odnětí svobody na jeden až dva roky a pokuta až 3 000$.  
+   b) Opakované jednání: Pokud dojde k opakování činu v krátkém časovém období (do tří dnů), jedná se o trestný čin, za který hrozí odnětí svobody na jeden až dva roky a pokuta až 3 000$.  
 
-c) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
+   c) Trestný čin: Pokud jsou poškozeny trezory v obchodech, čin je trestán odnětím svobody na dobu od jednoho roku do tří let a pokutou do výše 5.000$.
    
-d) Trestný čin: Pokud jsou poškozeny trezory, sejfy nebo jiná zabezpečovací zařízení v bankách nebo klenotnictvích, čin je trestán odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 7.000$.  
+   d) Trestný čin: Pokud jsou poškozeny trezory, sejfy nebo jiná zabezpečovací zařízení v bankách nebo klenotnictvích, čin je trestán odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 7.000$.  
 
-e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
+   e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
 
 
 ### **§ 10 Neuposlechnutí výzvy úřední osoby**
@@ -551,9 +573,9 @@ e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán o
 ### **§ 49 Vyhrožování**
 - Vyhrožování usmrcením, těžkou újmou na zdraví či majetku, které může vzbudit důvodnou obavu druhé osoby, je:
 
-a) Přestupek, který se trestá pokutou až 5 000 USD.
+   a) Přestupek, který se trestá pokutou až 5 000 USD.
 
-b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který se trestá odnětím svobody na dobu 1 až 5 let.
+   b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který se trestá odnětím svobody na dobu 1 až 5 let.
 
 ---  
 
@@ -616,34 +638,41 @@ b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který 
 - Při řízení motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
 
 ### **§ 11 Zákaz zastavení:**
-Řidič nesmí zastavit ani stát na místech, kde by tím ohrozil bezpečnost nebo plynulost provozu, například:
+1. Řidič nesmí zastavit ani stát na místech, kde by tím ohrozil bezpečnost nebo plynulost provozu, například:
 
 Na křižovatkách a v jejich těsné blízkosti (méně než 5 metrů).
-a) Na přechodech pro chodce a 5 metrů před nimi.
-b) V nepřehledných zatáčkách nebo vrcholech stoupání.
-c) Na železničních přejezdech nebo v jejich blízkosti.
-d) Na místech označených dopravní značkou "Zákaz zastavení."
+
+   a) Na přechodech pro chodce a 5 metrů před nimi.
+
+   b) V nepřehledných zatáčkách nebo vrcholech stoupání.
+
+   c) Na železničních přejezdech nebo v jejich blízkosti.
+
+   d) Na místech označených dopravní značkou "Zákaz zastavení."
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
 ### **§ 12 Zákaz stání (parkování):**
 Řidič nesmí stát:
 
-a) Tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže.
-b) Na místech vyhrazených pro osoby se zdravotním postižením.
-c) Na tramvajových zastávkách, autobusových zastávkách a vyhrazených pruzích.
-d) Na místech označených dopravní značkou "Zákaz stání."
+   a) Tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže.
+
+   b) Na místech vyhrazených pro osoby se zdravotním postižením.
+
+   c) Na tramvajových zastávkách, autobusových zastávkách a vyhrazených pruzích.
+
+   d) Na místech označených dopravní značkou "Zákaz stání."
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
 
 ### **§ 13 Zavinění dopravní nehody**
 
-a)Způsobení dopravní nehody bez zranění je přestupkem a trestá se pokutou do výše 2000$
+   a) Způsobení dopravní nehody bez zranění je přestupkem a trestá se pokutou do výše 2000$
 
-b)Způsobení dopravní nehody se zraněním jiné osoby je přestupkem a trestá se pokutou do výše 4000$
+   b) Způsobení dopravní nehody se zraněním jiné osoby je přestupkem a trestá se pokutou do výše 4000$
 
-c)Způsobení dopravní nehody s těžkou újmou na zdraví jiné osoby je trestným činem a trestá se:
+   c) Způsobení dopravní nehody s těžkou újmou na zdraví jiné osoby je trestným činem a trestá se:
 - odnětím svobody na dobu 1 až 5 let,
 - odebráním všech řidičských oprávnění.
 
@@ -949,7 +978,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
 ### **§ 4 Střelivo**  
 
-1. GUR - Střelivo pro zbraně dostupné osobám s platným zbrojním průkazem.
+1. GUR - Střelivo pro zbraně, dostupné osobám s platným zbrojním průkazem.
 
    a) střelivo ráže 9x19 mm
 
@@ -987,7 +1016,8 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 
 ### **§ 1 Zásady činnosti Department Of Justice**
-Zajišťuje rozhodování v:
+
+   1. Zajišťuje rozhodování v:
 
    a) mimořádných opravných prostředcích dle zákonů o řízení před soudy
    
