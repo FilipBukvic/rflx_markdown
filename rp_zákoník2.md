@@ -1019,37 +1019,37 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
    1. Zajišťuje rozhodování v:
 
-   a) mimořádných opravných prostředcích dle zákonů o řízení před soudy
+      a) mimořádných opravných prostředcích dle zákonů o řízení před soudy
    
-   b) jiných případech podle zvláštních právních předpisů
+      b) jiných případech podle zvláštních právních předpisů
    
-   c) soudních a právních sporech podle zákonů USA
+      c) soudních a právních sporech podle zákonů USA
    
-   d) trestních věcech dle zákonů o trestním řízení
+      d) trestních věcech dle zákonů o trestním řízení
    
-   e) případech pochybení zaměstnanců státní správy
+      e) případech pochybení zaměstnanců státní správy
    
    2. Department Of Justice dále rozhoduje o:
    
-   a) organizaci a řízení činnosti státních složek
+      a) organizaci a řízení činnosti státních složek
    
-   b) degradaci, odvolání či rozvázání pracovního poměru členů státních složek
+      b) degradaci, odvolání či rozvázání pracovního poměru členů státních složek
    
-   c) úpravě zákonů a vyhlášek
+      c) úpravě zákonů a vyhlášek
    
-   d) nouzovém stavu
+      d) nouzovém stavu
    
-   e) notářských úkonech
+      e) notářských úkonech
    
-   f) žalobách občanů USA a zahraničních činitelů
+      f) žalobách občanů USA a zahraničních činitelů
    
-   g) zrušení zákonů a aktů státní moci
+      g) zrušení zákonů a aktů státní moci
    
-   h) věcech soudních a advokátních komor
+      h) věcech soudních a advokátních komor
    
-   i) kontrole a vyšetřování dodržování předpisů ve státní a federální sféře
+      i) kontrole a vyšetřování dodržování předpisů ve státní a federální sféře
    
-   j) soudních řízeních právnických osob
+      j) soudních řízeních právnických osob
 
 
 ### **§ 2 Platnost advokátní licence**
