@@ -1067,7 +1067,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
 
-### **§ 5 žádost o advokátní licence**
+### **§ 5 Žádost o advokátní licence**
 1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 10 000 USD.
 
 2. Koncipientní / advokátní licence se skládá z:
@@ -1082,8 +1082,16 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 1 000 USD. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 10 000 USD.
 
+### **§ 6 Advokátní praxe bez licence**
 
-### **§ 6 Jurisdikce - advokát**
+1. Je zakázáno vykonávat právní činnost ve státě San Andreas osobou, která není aktivním držitelem advokátní licence udělené advokátní komorou.  
+
+   a) Výkon právní činnosti bez advokátní licence je trestný čin, který se trestá odnětím svobody na čtyři až osm let a pokutou až do výše 15.000$
+   
+   b) V případě porušení může soud uložit také zákaz činnosti na dobu neurčitou
+ 
+
+### **§ 7 Jurisdikce - advokát**
 1. Advokát je právník, který:
 
    a) složil advokátní zkoušku a je zapsán u advokátní komory
@@ -1099,7 +1107,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 2. Počet advokátů není nijak omezen. Seznam advokátů je veřejný.
 
 
-### **§ 7 Trestněprávní imunita**
+### **§ 8 Trestněprávní imunita**
 1. Osoby s trestně právní imunitou jsou povinné se na místě prokázat platnými doklady o trestněprávní imunitě. Pod trestněprávní imunitu spadají:
 
    a) zastupitelé Government State of San Andreas
@@ -1117,7 +1125,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 2. Při přestupku osob s trestněprávní imunitou mají členové LSSD, LSPD a DEA pravomoc pouze identifikovat osobu a sepsat záznam o přestupku, který předají Department of Justice k posouzení.
 
 
-### **§ 8 Trestní stíhání osob s trestněprávní imunitou**
+### **§ 9 Trestní stíhání osob s trestněprávní imunitou**
 1. Při spáchání trestného činu ze strany osob s trestněprávní imunitou mají členové státních složek LSSD,LSPD,DEA, po identifikaci osoby pravomoc přestupek řešit. Musí však osobu zajistit:
 
    a) při trestném činu
@@ -1130,30 +1138,30 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 **Postup soudního líčení**
 
 
-### **§ 9 Zásada řádného zákonného procesu**
+### **§ 10 Zásada řádného zákonného procesu**
 - Každý má právo na to, aby nebyl svévolně stíhán. Stíhání musí být prováděno v souladu se zásadami spravedlivého procesu, jak je stanoveno zákonem.
 
 
-### **§ 10 Zásada obžalovací**
+### **§ 11 Zásada obžalovací**
 - K zahájení trestního řízení před soudem Department of Justice je nezbytné podání obžaloby. Soud je vázán obsahem obžaloby a může projednávat pouze skutky, které jsou v ní specifikovány. Veřejnou žalobu v řízení před soudem zastupuje státní zástupce - zvolená osoba orgánu státní správy.
 
 
-### **§ 11 Zásada ústnosti**
+### **§ 12 Zásada ústnosti**
 - Soudní líčení je založeno na ústním projednávání, při kterém se vyslýchají svědci, znalci a obviněný. Veškeré výpovědi a další důkazy musí být zaznamenány ve spise.
 
 
-### **§ 12 Zásada bezprostřednosti**
+### **§ 13 Zásada bezprostřednosti**
 - Při rozhodování v hlavním líčení smí Department Of Justice přihlédnout jen k těm důkazům, které byly při tomto jednání provedeny. Rozhoduje se tedy na základě provedených důkazů, které by měly splňovat podmínku co největší blízkosti zjišťované skutečnosti.
 
 
-### **§ 13 Zásada presumpce neviny**
+### **§ 14 Zásada presumpce neviny**
 - Dokud pravomocným odsuzujícím rozsudkem od Department Of Justice není vina vyslovena, nelze na toho, proti němuž se vede trestní řízení, hledět, jako by byl vinen. Existuje zde povinnost orgánů činných v řízení prokázat vinu.
 
 
 **Postup obhajoby při zadržení osoby**
 
 
-### **§ 14 Obhájce**
+### **§ 15 Obhájce**
 1. obhájce, tedy koncipient nebo advokát, zastupuje obžalovaného v trestním řízení; obhajobu může vykonávat pouze koncipient nebo advokát zapsaný v advokátní komoře Los Santos, na základě plné moci nebo ustanovení soudem (ex offo) v případech nutné obhajoby
 2. obviněný má právo zvolit si advokáta přiděleného ex offo nebo soukromého koncipienta/advokáta
 3. koncipient/advokát pomáhá ve všech fázích trestního řízení, od podání vysvětlení na policii po soudní líčení, a dohlíží na dodržování práv obviněného
@@ -1166,7 +1174,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 **Pohrdání a znevažování pravomocného rozhodnutí Department Of Justice**
 
 
-### **§ 15 Pohrdání a znevažování**
+### **§ 16 Pohrdání a znevažování**
 1. Znevažováním pravomocného rozhodnutí Department of Justice se civilní nebo úřední osoba dopouští:
 
    a) závažným způsobem ruší jednání/vyšetřování vedeném ze strany Department Of Justice
@@ -1203,29 +1211,29 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 **Státní správa, státní složka, federální složka**
 
 
-### **§ 16 Pořádková pokuta ve správním řízení**
+### **§ 17 Pořádková pokuta ve správním řízení**
 1. Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu až do výše 1 000 000 USD především tomu, kdo v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání ke správnímu orgánu, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
 2. Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
 3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle (§ 17). Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 000 000 USD.
 
 
-### **§ 17 Předvolání k podání vysvětlení**
+### **§ 18 Předvolání k podání vysvětlení**
 1. K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 17) a předvedení (§ 18). O odepření vysvětlení obdobně platí to, co pro odepření součinnosti při dokazování a zákaz výslechu.
 2. Každý je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 17) až do výše 1 000 000 USD.
 3. O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
 4. Záznam o podání vysvětlení lze použít jako důkazní prostředek.
 
 
-### **§ 18 Předvedení**
+### **§ 19 Předvedení**
 1. Jestliže se účastník nebo svědek bez náležité omluvy nebo bez dostatečných důvodů na předvolání nedostaví, může Department Of Justice vydat usnesení, na jehož základě bude účastník nebo svědek předveden. Písemné vyhotovení usnesení se doručuje pověřeným orgánům elektronicky pomocí datové schránky. Státní složky LSPD, LSSD, DEA mají pravomoc předvedení provést.
 2. Předvedení na požádání Department Of Justice zajišťuje LSPD, LSSD, DEA.
 
 
-### **§ 19 Pořádková pokuta uložená soudem Los Santos**
+### **§ 20 Pořádková pokuta uložená soudem Los Santos**
 - Každá osoba přítomna na soudním jednání, líčení je povinná dodržovat řád soudní budovy. Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, může být usnesením soudu uložena jako pořádkové opatření pořádková pokuta do maximální výše 150 000 USD. Pořádková pokuta může být uložena opakovaně. O prominutí části nebo celé pokuty lze požádat do doby, než nabyde právní moci konečné rozhodnutí ve věci.
 
 
-### **§ 20 Placení nákladů soudního řízení**
+### **§ 21 Placení nákladů soudního řízení**
 - Každý z účastníků a osob zúčastněných na řízení platí náklady, které vzniknou jemu nebo jeho zástupci.
 Stát platí náklady vynaložené na svědečné, znalečné, tlumočné a jiné náklady spojené s dokazováním.
 Deparment of Justice však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl a to až do výše 250 000 USD 
