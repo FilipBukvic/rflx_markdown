@@ -256,16 +256,17 @@ Department of Justice vykonává tyto funkce:
 *Zákon o trestných činech a přestupcích*
 
 
-### **§ 1 Ublížení na zdraví**
-1. Ublížením na zdraví se rozumí porušení normálních tělesných nebo duševních funkcí za pomocí zbraně.
-   
-   a) Za neúmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 1 roku do 2 let.
-   
-   b) Za úmyslné ublížení na zdraví s použitím zbraně se trestá odnětím svobody od 2 let do 5 let a pokutou do výše 3.000$.
-   
-   c) Za úmyslné ublížení na zdraví s použitím střelné zbraně se trestá odnětím svobody od 5 let do 10 let a pokutou do výše 5.000$.
-   
-   d) Za úmyslné ublížení na zdraví proti úřední osobě nebo členům záchranných složek se trestá odnětím svobody od 5 let do 15 let a pokutou do výše 7.000$.
+### **§ 1 Ublížení na zdraví**  
+
+1. Ublížením na zdraví se rozumí neoprávněný a úmyslný fyzický kontakt s jinou osobou, který způsobí zranění nebo bolest.
+
+    a) Lehké ublížení na zdraví - způsobení zranění, které si vyžádá lékařské ošetření, ale neomezuje oběť na běžných životních funkcích se trestá odnětím svobody na 1 až 2 roky 
+
+    b) Těžké ublížení na zdraví - způsobení vážného zranění, které vede k hospitalizaci delší než 7 dní nebo k trvalým následkům (např. ztráta zraku, sluchu, končetiny) se trestá odnětím svobody na dobu 2 až 5 let a pokutou do výše 3.000$
+
+    c) Ublížení na zdraví se zbraní - pokud je čin spáchán střelnou, sečnou nebo jinou smrtící zbraní se trestá odnětím svobody na 5 až 10 let a pokutou do výše 5.000$
+
+    d) Ublížení na zdraví proti úřední osobě se rozumí útok veden proti policistovi, zdravotníkovi nebo jinému státnímu zaměstnanci se trestá odnětím svobody od 5 let do 15 let a pokutou do výše 7.000$
 
 
 ### **§ 2 Napadení**
@@ -277,18 +278,19 @@ Department of Justice vykonává tyto funkce:
    
    c) Čin, který způsobí vážnou újmu na zdraví, je považován za trestný čin, za který hrozí trest odnětí svobody na 1 až 5 let a pokutou do výše 6.000$.
 
-
 ### **§ 3 Vražda**
-1. Kdo jiného úmyslně usmrtí, bude potrestán odnětím svobody na dvacetpět let až doživotí.
-2. Kdo jiného úmyslně usmrtí s rozmyslem nebo po předchozím uvážení, bude potrestán odnětím svobody na doživotí.
-3. Odnětím svobody na doživotí bude pachatel potrestán, spáchá-li čin uvedený v odstavci 1 nebo 2
 
-   a) na dvou nebo více osobách,
-   
-   b) opětovně,
-   
-4. Příprava je trestná.
+1. Neúmyslné zabití neboli usmrcení jiného člověka bez úmyslu, například při obraně, v afektu nebo v důsledku nešťastné nehody se trestá odnětím svobody na dobu 5 až 10 let.
 
+2. Úmyslná vražda neboli zabití osoby s vědomým úmyslem se trestá odnětím svobody na dobu 15 až 25 let.
+
+3. Vražda s rozmyslem neboli vražda, která byla plánována předem (např. nájemná vražda) se trestá odnětím svobody na dobu 25 let až doživotí.
+
+4. Odnětím svobody na doživotí bude pachatel potrestán, spáchá-li čin uvedený v odstavci 2 nebo 3.
+
+    a) opětovně
+    
+5. Příprava vraždy je trestná a trestá se odnětím svobody na dobu 10 až 20 let.
 
 ### **§ 4 Nedovolené ozbrojování**
 1. Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává či užívá střelnou zbraň nebo její části.
@@ -346,26 +348,24 @@ Department of Justice vykonává tyto funkce:
 
    e) Trestný čin: Pokud je poškozena hlavní státní banka, čin je trestán odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 12.000$.
 
-
 ### **§ 10 Neuposlechnutí výzvy úřední osoby**
 - Neuposlechnutí výzvy se rozumí úmyslné nebo vědomé ignorování zákonné výzvy, pokynu nebo nařízení úřední osoby nebo státní instituce, které bylo vydáno v souladu s právními předpisy. Toto jednání je klasifikováno jako přestupek, za který lze uložit pokutu do výše 3.000$
-
    
 ### **§ 11 Křivá výpověď**
 - Každá osoba, která vědomě poskytne nepravdivé informace nebo podá falešnou výpověď úřadům, včetně policejním složkám nebo státním zástupcům, o spáchání trestného činu nebo přestupku, se dopouští přestupku za který lze uložit pokutu do výše 4.000$
     
+### **§ 12 Krádež dopravního prostředku** 
 
-### **§ 12 Krádež dopravního prostředku**
-1. Vloupání do dopravního prostředku nebo neoprávněné zmocnění se dopravního prostředku, bez ohledu na jeho hodnotu.
-   
-   a) Je přestupek, který se trestá pokutou do výše 2.500$
-   
-   b) Je trestný čin, pokud jde o vozidla typu LAW, který se trestá odnětím svobody na jeden rok až pět let a pokutou do výše 6.000$
+1. Úmyslné neoprávněné přivlastnění nebo užívání dopravního prostředku bez souhlasu majitele.
 
+   a) Neoprávněné užívání cizího dopravního prostředku bez úmyslu jeho trvalého odcizení – pokud pachatel použije dopravní prostředek bez souhlasu majitele a nehodlá si jej přisvojit, hrozí mu trest odnětí svobody na 1 až 2 roky a pokutou do výše 2.500 $
+
+   b) Odcizení dopravního prostředku – pokud si pachatel vozidlo přivlastní s úmyslem ho užívat dlouhodobě nebo jej prodat se trestá odnětím svobody na 3 až 5 let a pokutou do výše 5 000$
+
+   c) Odcizení vozidla typu LAW – pokud je ukradeno vozidlo policie, hasičů nebo zdravotní služby se trestá odnětím svobody na 4 až  let a pokuta do výše 8.000$
 
 ### **§ 13 Nelicencovaný prodej zbraní**
 - Prodej, pronájem nebo převod střelných zbraní, munice či doplňků na střelné zbraně bez platné licence nebo povolení je trestný čin, za který hrozí trest odnětí svobody na jeden až tři roky a pokutou do výše 4.000$
-
 
 ### **§ 14 Pronásledování**
 1. Kdo jiného dlouhodobě pronásleduje tím, že vyhledává jeho osobní blízkost nebo jej sleduje.
@@ -373,7 +373,6 @@ Department of Justice vykonává tyto funkce:
    a) Dlouhodobé pronásledování, sledování a obtěžování jiné osoby je přestupek, za který lze uložit pokutu do výše 4.000$.
 
    b) V případě, kdy toto jednání způsobí důvodnou obavu o život nebo zdraví osoby nebo jejích blízkých, jedná se o trestný čin, který se trestá odnětím svobody na jedno až pět let a pokutou do výše 7.000$.
-
 
 ### **§ 15 Open Carry**
 1. Zakazuje se otevřená přeprava střelných zbraní na veřejném prostranství, včetně nošení viditelně odhalené a nabité zbraně. Toto jednání se klasifikuje jako přestupek, který se trestá pokutou až do výše 3.500$ a odebráním zbraně.
@@ -1408,13 +1407,17 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 
 ### **§ 12 Poučení o právech (Miranda práva)**
-1. Příslušník státní ozbrojené složky je povinen zadrženou osobu poučit o jejích právech následujícím způsobem:
 
-    a) Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat.
+1. Každá osoba, která je zatčena nebo vyslýchána v souvislosti s trestným činem, musí být poučena o svých právech následující formulací: „Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat. Rozumíte svým právům?“
 
-2. Příslušních státní ozbrojené složky je povinnen dvakrát se zeptat zadržené osoby, zda svým právům porozuměla. Pokud zadržená osoba nerozumí svým právům a zároveň to nevyjádří, státní ozbrojená složka není povinna práva opakovat znovu. V takovém případě se má za to, že se osoba vzdala svých práv.
+    a) Pokud obviněný na první přečtení neodpoví nebo tvrdí, že se na něj právo nevztahuje, policista musí zopakovat celé poučení podruhé. Pokud znovu oznámí že prává nezrozuměl není již povinnen právo miranda znovu opakovat
 
+2. Důsledky neprovedení Miranda poučení
 
+    a) Pokud policista nepřečte Miranda práva, jakákoliv výpověď obviněného nemůže být použita jako důkaz u soudu
+
+    b) Výjimkou je situace, kdy výpověď byla dobrovolná a nevyžádala si ji policie
+   
 **Pravomoce státních ozbrojených složek**
 
 ### **§ 13 Prokázání totožnosti**
