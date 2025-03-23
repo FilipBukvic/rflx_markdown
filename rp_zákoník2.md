@@ -591,13 +591,14 @@ Department of Justice vykonává tyto funkce:
    c) Překročení rychlosti nad 35 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 1500$ a odebráním řidičského oprávnění na jeden den.
 
 
-### **§ 2 Řízení vozidla bez řp**
+### **§ 2 Řízení vozidla bez ŘP**
 1. Řízení vozidla bez příslušného oprávnění
 
-   a) Je klasifikováno jako přestupek, který se trestá pokutou do výše 2.000$.
+   a) Je klasifikováno jako přestupek, který se trestá pokutou do výše 2.000$
    
-   b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$.
+   b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$
 
+2. Řízení vozidla bez platného řidičského oprávnění u sebe, je přestupek a může být potrestáno pokutou dle § 2 Řízení vozidla bez ŘP, písm. a).
 
 ### **§ 3 Řízení vozidla bez poznávacích značek**
 - Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
