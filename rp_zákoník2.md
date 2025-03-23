@@ -1483,19 +1483,19 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 
 ### **§ 18 Vstup do obydlí nebo na pozemek**
-1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí nebo na pozemek v následujících situacích:
+1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí, na pozemek nebo do skladových prostor v následujících situacích:
    
-   a) Pokud má důvodné podezření o trestné činnosti v obydlí nebo na pozemku.
+   a) Pokud má důvodné podezření o trestné činnosti v obydlí, na pozemku nebo ve skladových prostorách
    
-   b) Pokud se v obydlí nebo na pozemku nachází hledaná osoba.
+   b) Pokud se v obydlí nebo na pozemku nachází hledaná osoba
    
-   c) Pokud probíhá pronásledování osoby přes obydlí nebo pozemek.
+   c) Pokud probíhá pronásledování osoby přes obydlí nebo pozemek
    
-   d) Pokud má důvodné podezření o výskytu zraněné osoby vyžadující ošetření v obydlí nebo na pozemku.
+   d) Pokud má důvodné podezření o výskytu zraněné osoby vyžadující ošetření v obydlí, na pozemku a skladových prostorách
 
-   e) Pokud bylo vydáno soudní povolení k prohlídce obydlí nebo pozemku, které oprávňuje zaměstnancem státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa
+   e) Pokud bylo vydáno soudní povolení k prohlídce obydlí, pozemku nebo skladu, které oprávňuje zaměstnancem státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa
 
-2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí nebo na pozemek v uvedených situacích.
+2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí, na pozemek a do skladových prostrů v uvedených situacích.
 
 
 ### **§ 19 Zastavení vozidla**
