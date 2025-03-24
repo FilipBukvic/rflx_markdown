@@ -141,7 +141,6 @@ Department of Justice vykonává tyto funkce:
 7. Chief of Los Santos Fire Department je na stejné úrovni jako Director of Emergency Medical Services a zbylé vedení EMS v případě, že sám je vedením EMS.
 8. Vedení EMS/LSFD jmenuje a odvolává vždy jen GSoSA a DoJ.
 
-   
 ---
 
 ## Zákon č. 10/2022  
@@ -232,23 +231,52 @@ Department of Justice vykonává tyto funkce:
 
 - LSPD nebo LSSD může rozhodnout o udělené podmínce, pokud:
 
-    a) Pachatel spáchal přestupek nebo trestný čin s maximální sazbou do 2 let odnětí svobody.
+    a) Pachatel spáchal přestupek nebo trestný čin s maximální sazbou do 2 let odnětí svobody
 
-    b) Pachatel nebyl v minulosti odsouzen za žádný trestný čin.
-
-2. Doba podmínky a její podmínky
+2. Maximální doba podmínky
 
 - Podmíněný trest se stanovuje na dobu určenou LSPD nebo LSSD avšak maximální délka je 5 dní.
 
 3. Během udělené podmínky je pachatel povinen:
 
-    a) Nedopustit se žádného dalšího trestného činu ani přestupku.
+    a) Nedopustit se takového činu za který mu byla podmínka stanovena
 
 4. Následky porušení podmínky
 
-- Pokud pachatel během uložené podmínky spáchá přestupek nebo trestný čin:
+- Pokud pachatel během uložené podmínky spáchá čin za který mu byla podmínka stanovena, bude trestán dle zákona, jehož ustanovení porušil
 
-    a) LSPD nebo LSSD jsou oprávněny uplatnit přísnější trestní sazby.
+### **§ 5 Terorismus**
+
+- Pojem terorismus zahrnuje soubor protilidských metod hrubého zastrašování, které se vyznačují hrozbou použití síly a různými formami násilí, směřujícími k dosažení politických, ideologických nebo jiných cílů.
+
+1. Úmyslné poškození ústavního zřízení nebo obranyschopnosti státu, narušení nebo zničení základní politické, hospodářské nebo společenské struktury státu nebo mezinárodní organizace, vážné zastrašení obyvatelstva, nebo donucení vlády státu, jiného orgánu veřejné moci nebo mezinárodní organizace k jednání, opomenutí nebo strpění něčeho
+
+    a) vyhrožování teroristickým útokem je trestný čin, který bude potrestán odnětím svobody na dobu dvou až deseti let a pokutou až do výše 10.000$
+
+    b) trestným činem terorismu je spáchání činu, který se trestá odnětím svobody na dobu sedm až dvacet let a pokutou do výše 7.000$ až 15.000$ v závislosti na závažnosti činu
+
+2. Úmyslné usmrcení jiné osoby s cílem poškodit ústavní zřízení Státu San Andreas nebo se o to pokusit
+
+    a) vyhrožování teroristickým útokem je trestný čin, který bude potrestán odnětím svobody na dobu dvou až deseti let a pokutou až do výše 10.000$
+
+    b) trestným činem terorismu je spáchání činu, který se trestá odnětím svobody na dobu sedm let až doživotí a pokutou do výše 10.000$ až 25.000$ v závislosti na závažnosti činu
+
+### **§ 6 Organizovaný zločin**
+
+- Organizovaná zločinecká skupina je společenstvím nejméně tří trestně odpovědných osob s vnitřní organizační strukturou, s rozdělením funkcí a dělbou činností, které je zaměřeno na soustavné páchání úmyslné trestné činnosti.
+
+1. Zločinecká skupina
+
+    a) spolupráce dvou a více osob bez pevné struktury, kteří se opakovaně dopouští trestné činnosti, se trestá pokutou do výše 500$
+    
+2. Organizovaná zločinecká skupina 
+
+    a) dlouhodobá a systematická činnost nejméně tři osob, kteří se opakovaně dopouští trestné činnosti, se trestá odnětím svobody do dvou let a pokutou do výše 1.000$
+
+3. Velká zločinecká organizace
+
+    a) dlouhodobá a systematická činnost nejméně deseti osob, kteří se opakovaně dopouští trestné činnosti, se trestá odnětím svobody do pěti let a pokutou do výše 2.000$
+
 
 ---  
 
@@ -295,15 +323,17 @@ Department of Justice vykonává tyto funkce:
 ### **§ 4 Nedovolené ozbrojování**
 1. Kdo bez povolení vyrobí, sobě nebo jinému opatří nebo přechovává či užívá střelnou zbraň nebo její části.
 
-   a) Zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
+   a) zbraně typu LEG, nespadající pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
       
-   b) Zbraně nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
+   b) zbraně nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
       
-   c) Zbraně typu GUR neregistrované nebo bez licence - je přestupek, trestaný pokutou do výše 3.000$
+   c) zbraně a střelivo typu GUR neregistrované nebo bez licence - je přestupek, trestaný pokutou do výše 3.000$
    
-   d) Střelivo nespadající pod GUR - je přestupek čin, trestaný pokutou do výše 1.500$
+   d) střelivo nespadající pod GUR - je přestupek, trestaný pokutou do výše 1.500$
 
-   e) Tlumič je ve státě San Andreas považován za nelegální a jeho držení je trestný čin s odnětím svobody na dobu až 3 let a pokutou do výše 2.500$
+   e) doplňky nespadající pod GUR jsou nelegální a jejich držení je přestupek pokutou do výše 1.000$
+
+   f) opakované jednání: v případě, že se přestupek uveden v písm. e) opakuje v krátkém časovém období (během 72 hodin), jedná se trestný čin s odnětím svobody na jeden rok a pokutou do výše 2.500$
 
 ### **§ 5 Únos**
 1. Kdo si přivlastní osobu, vezme ji proti její vůli nebo jí jiným způsobem omezuje osobní svobodu, bude potrestán odnětím svobody:
@@ -600,7 +630,7 @@ Department of Justice vykonává tyto funkce:
    
    b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$
 
-2. Řízení vozidla bez platného řidičského oprávnění u sebe, se trestá pokutou do výše 400$.
+2. Řízení vozidla bez platného řidičského oprávnění u sebe, se trestá pokutou do výše 200$.
 
 ### **§ 3 Řízení vozidla bez poznávacích značek**
 - Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
@@ -655,7 +685,8 @@ Je přestupek, který se trestá pokutou do výše 500$.
 Je přestupek, který se trestá pokutou do výše 500$.
 
 ### **§ 10 Řízení motocyklu bez ochranné přilby**
-- Při řízení motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
+
+- Při jízdě na motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
 
 ### **§ 11 Zákaz zastavení:**
 1. Řidič nesmí zastavit ani stát na místech, kde by tím ohrozil bezpečnost nebo plynulost provozu, například:
@@ -674,13 +705,13 @@ Je přestupek, který se trestá pokutou do výše 500$.
 
 1. Řidič nesmí stát:
 
-   a) Tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže.
+   a) tam, kde by omezil výjezd z nemovitosti nebo vjezd do garáže
 
-   b) Na místech vyhrazených pro osoby se zdravotním postižením.
+   b) na místech vyhrazených pro osoby se zdravotním postižením
 
-   c) Na tramvajových zastávkách, autobusových zastávkách a vyhrazených pruzích.
+   c) na tramvajových zastávkách, autobusových zastávkách a vyhrazených pruzích
 
-   d) Na místech označených dopravní značkou "Zákaz stání."
+   d) na místech označených dopravní značkou „Zákaz stání“ a na červenými čarami vymezených zónách
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
@@ -1380,7 +1411,6 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    
    c) Department Of Justice po prošetření případu vynese konečné rozhodnutí v rámci vyšetřování dle stanovených porušení zákonů.
 
-
 ### **§ 5 Vyšetřování a kontroly státních organizací a státních složek**
 1. Department Of Justice je státní orgán s výlučnou pravomocí, který může prošetřovat pochybení zaměstnanců státních organizací a státních složek, včetně vedoucích zaměstnanců v pozicích státních organizací a státních složek.
 2. V případě vznesené žádosti k vyšetřování ze strany civilní či fyzické osoby, s doložením důkazních materiálu k předmětu šetření, započne strana Department Of Justice úkon šetření.
@@ -1475,33 +1505,42 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    
    K omezení osobní svobody lze použít pouze služební pouta.
 
-
 ### **§ 15 Cely státních ozbrojených složek**
 
 1. Příslušník státní ozbrojené složky může do cely umístit pouze osobu, která byla zadržena nebo zatčena.
 2. Před umístěním osoby do cely je zaměstnanec povinen se ujistit, že osoba nenese žádný předmět, který by mohl ohrozit život, poškodit majetek nebo narušit výkon práva a spravedlnosti.
 3. Osoby umisťované do cel státních ozbrojených složek jsou odděleny podle pohlaví, zda jsou zadrženy nebo zatčeny, a podle předpokládaného agresivního chování, nebo zda jsou pod vlivem drog či alkoholu.
 
+### **§ 16 Zabavení věci**
 
-### **§ 16 Zajištění věcí**
-1. Příslušník státní ozbrojené složky má pravomoc zajistit věc, pokud je důležitá pro řešení přestupku nebo trestného činu, nebo pokud se cítí ohrožen při řešení přestupku nebo trestného činu.
-2. Zajištěná věc musí být občanovi neprodleně vrácena po vyřešení přestupku nebo trestného činu, pokud nebyla získána z trestné činnosti nebo použita k jejímu páchání.
-3. Věc zajištěná v souvislosti s trestnou činností automaticky propadá státu, pokud není znám její původní vlastník.
+1. Zaměstnanec státní ozbrojené složky má právo zabavit věci, které byly použity a nebo získany při trestné činnosti nebo slouží jako důkaz.
 
+    a) zabavení věci na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
+
+    b) věc, která byla získána trestnou činností, nebude navrácena
+ 
+    c) pokud byla věc nalezena u osoby při páchání trestné činnosti a tato osoba neprokáže její legální původ, věc nebude navrácena
+
+2. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
+
+    a) zabavení dopravního prostředku na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
+
+    b) opakování trestného činu - pokud někdo spáchá tři trestné činy se stejným dopravním prostředkem, bude trvale odebrán
 
 ### **§ 17 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
    
-   a) Pokud zbraň není registrována.
+   a) pokud zbraň není registrována
    
-   b) Pokud majitel zbraně nevlastní platný zbrojní průkaz.
+   b) pokud majitel zbraně nevlastní platný zbrojní průkaz
    
-   c) Pokud se jedná o nelegálně vlastněnou zbraň.
+   c) pokud se jedná o nelegálně vlastněnou zbraň
    
-   d) Pokud majitel porušil předpisy nebo zákony stanovené "Zákonem o zbraních a střelivu".
+   d) pokud majitel porušil předpisy nebo zákony stanovené "Zákonem o zbraních a střelivu"
    
-   e) Pokud byl soudem vydán rozkaz na odebrání zbraně.
+   e) pokud byl soudem vydán rozkaz na odebrání zbraně
 
+   f) pokud byla užita k trestně činnosti 
 
 ### **§ 18 Vstup do obydlí nebo na pozemek**
 1. Zaměstnanec státní ozbrojené složky má oprávnění vstoupit do obydlí, na pozemek nebo do skladových prostor v následujících situacích:
@@ -1556,7 +1595,18 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 2. Zadržení osoby může trvat nejdéle 24 hodin od okamžiku omezení osobní svobody. Pokud je doba zajištění delší než 24 hodin, musí být osoba buď propuštěna, nebo musí být sepsána žádost na soudu o prodloužení doby omezení.
 
-   
+3. Policista, který provádí zadržení osoby, je povinen okamžitě sdělit důvod zadržení při jeho provedení, ledaže by takové sdělení bezprostředně ohrozilo bezpečnost policisty nebo jiných osob.
+
+4. Povinosti zaměstnance státní ozbrojené složky při zadržení osoby:
+
+   a) zajistit její bezpečnost, zdraví a důstojné zacházení po celou dobu zadržení
+
+   b) nesmí osobu vystavit nebezpečí ohrožení života, zdraví nebo vážné újmy
+
+   c) v případě, že osoba vyžaduje lékařskou pomoc nebo je vystavena nepříznivým podmínkám, je zaměstnance státní ozbrojené složky povinen bez zbytečného odkladu zajistit odpovídající opatření k ochraně jejího zdraví a bezpečnosti
+
+   d) odpovídá za to, že zadržená osoba nebude vystavena nelidskému nebo ponižujícímu zacházení, fyzickému či psychickému tlaku nebo jiným formám nepřiměřeného donucení
+
 ### **§ 22 Prohledání osoby**
 1. Zaměstnanec státní ozbrojené složky má pravomoc prohledat osobu v následujících situacích:
 
@@ -1624,9 +1674,6 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 ### **§ 27 Zatčení**
 - Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
-
-### **§ 28 Zadržení osob**
-- Policista, který provádí zadržení osoby, je povinen okamžitě sdělit důvod zadržení při jeho provedení, ledaže by takové sdělení bezprostředně ohrozilo bezpečnost policisty nebo jiných osob.
 
 **Postupy státních ozbrojených složek**
 
