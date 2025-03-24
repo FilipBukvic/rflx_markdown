@@ -1907,8 +1907,6 @@ d) DOJ je povinno vyhodnotit žádost do maximálně 5 dnů od jejího podání
 
 - DOJ je povinno držiteli licence písemně oznámit zrušení licence a v případě, že to okolnosti umožňují, poskytnout lhůtu pro nápravu
 
-- Držitel licence má právo podat odvolání proti rozhodnutí DOJ o zrušení licence
-
 - Po zrušení licence je držitel povinen okamžitě ukončit všechny činnosti související s licencí a přestat je vykonávat
 
 ### **§ 5 Neoprávněné podnikání**
