@@ -260,7 +260,7 @@ Department of Justice vykonává tyto funkce:
 
 1. Ublížením na zdraví se rozumí neoprávněný a úmyslný fyzický kontakt s jinou osobou, který způsobí zranění nebo bolest.
 
-    a) Lehké ublížení na zdraví - způsobení zranění, které si vyžádá lékařské ošetření, ale neomezuje oběť na běžných životních funkcích se trestá odnětím svobody na 1 až 2 roky 
+    a) Lehké ublížení na zdraví - způsobení zranění, které si vyžádá lékařské ošetření, ale neomezuje oběť na běžných životních funkcích se trestá odnětím svobody na 1 rok 
 
     b) Těžké ublížení na zdraví - způsobení vážného zranění, které vede k hospitalizaci delší než 7 dní nebo k trvalým následkům (např. ztráta zraku, sluchu, končetiny) se trestá odnětím svobody na dobu 2 až 5 let a pokutou do výše 3.000$
 
@@ -314,6 +314,8 @@ Department of Justice vykonává tyto funkce:
    
    c) na pět až patnáct let a pokutou do výše 10.000$, pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání
 
+   d) na jeden až tři roky a pokutou do výše 2 500 $, pokud se jedná o pokus o únos a čin nebyl dokonán
+
 ### **§ 6 Poškození cizí věci**
 - Kdo zničí, poškodí nebo učiní nepoužitelnou cizí věc, a způsobí tak na cizím majetku škodu, bude potrestán pokutou do výše 2.000$
 
@@ -329,11 +331,11 @@ Department of Justice vykonává tyto funkce:
 ### **§ 8 Krádež**
 - Přisvojení si cizí věci za účelem osobního obohacení:
 
-   a) Pokud hodnota věci nepřesahuje 20 000 USD, jedná se o přestupek, za který lze uložit pokutu až do výše 3 000 USD.
+   a) Pokud hodnota věci nepřesahuje 20 000$, jedná se o přestupek, za který lze uložit pokutu až do výše 3 000$.
 
-   b) Pokud hodnota věci činí 20 001 až 200 000 USD, jedná se o trestný čin, za který hrozí odnětí svobody na 1 až 3 roky, nebo peněžitý trest ve výši 2 000 až 5 000 USD.
+   b) Pokud hodnota věci činí 20 001 až 200 000$, jedná se o trestný čin, za který hrozí odnětí svobody na 1 až 3 roky, nebo peněžitý trest ve výši 2 000 až 5 000$.
 
-   c) Pokud hodnota věci přesahuje 200 000 USD, jedná se o trestný čin, za který hrozí odnětí svobody na dobu 1 až 5 let.
+   c) Pokud hodnota věci přesahuje 200 000$, jedná se o trestný čin, za který hrozí odnětí svobody na dobu 1 až 5 let.
 
 ### **§ 9 Loupež**  
 - Loupeží se rozumí úmyslné odcizení majetku nebo finančních prostředků za použití násilí, hrozby násilím nebo násilného vniknutí do objektu, včetně poškození majetku za účelem získání hodnotných předmětů.  
@@ -358,7 +360,7 @@ Department of Justice vykonává tyto funkce:
 
 1. Úmyslné neoprávněné přivlastnění nebo užívání dopravního prostředku bez souhlasu majitele.
 
-   a) Neoprávněné užívání cizího dopravního prostředku bez úmyslu jeho trvalého odcizení – pokud pachatel použije dopravní prostředek bez souhlasu majitele a nehodlá si jej přisvojit, hrozí mu trest odnětí svobody na 1 až 2 roky a pokutou do výše 2.500 $
+   a) Neoprávněné užívání cizího dopravního prostředku bez úmyslu jeho trvalého odcizení – pokud pachatel použije dopravní prostředek bez souhlasu majitele a nehodlá si jej přisvojit, hrozí mu pokuta do výše 2.500 $
 
    b) Odcizení dopravního prostředku – pokud si pachatel vozidlo přivlastní s úmyslem ho užívat dlouhodobě nebo jej prodat se trestá odnětím svobody na 3 až 5 let a pokutou do výše 5 000$
 
@@ -571,7 +573,7 @@ Department of Justice vykonává tyto funkce:
 ### **§ 49 Vyhrožování**
 - Vyhrožování usmrcením, těžkou újmou na zdraví či majetku, které může vzbudit důvodnou obavu druhé osoby, je:
 
-   a) Přestupek, který se trestá pokutou až 5 000 USD.
+   a) Přestupek, který se trestá pokutou až 5 000$.
 
    b) Vyhrožování s cílem působit na úřední osobu je trestný čin, který se trestá odnětím svobody na dobu 1 až 5 let.
 
@@ -598,7 +600,7 @@ Department of Justice vykonává tyto funkce:
    
    b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$
 
-2. Řízení vozidla bez platného řidičského oprávnění u sebe, je přestupek a může být potrestáno pokutou dle § 2 Řízení vozidla bez ŘP, písm. a).
+2. Řízení vozidla bez platného řidičského oprávnění u sebe, se trestá pokutou do výše 400$.
 
 ### **§ 3 Řízení vozidla bez poznávacích značek**
 - Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
@@ -626,12 +628,31 @@ Department of Justice vykonává tyto funkce:
 - Provoz vozidla v nebezpečném stavu nebo bez odpovídajícího vybavení je zakázán. Řízení takového vozidla je trestáno pokutou až 1.500$ a odtažením vozidla.
 
 
-### **§ 8 Jízda v protisměru**
-- Jízda v protisměru je přestupek, který se trestá pokutou do výše 500$.
+### **§ 8 Nebezpečné předjíždění** 
 
+1. Nebezpečné předjíždění zahrnuje například:
 
-### **§ 9 Přejíždění přes plnou čáru**
-- Přejíždění přes plnou čáru je přestupek, který se trestá pokutou až 500$.
+    a) Předjíždění v nepřehledných úsecích, např. v zatáčkách nebo na horizontu
+    
+    b) Předjíždění na křižovatkách, železničních přejezdech a přechodech pro chodce
+    
+    c) Předjíždění přes dvojitou plnou čáru bez oprávněného důvodu 
+    
+    d) Ohrožení ostatních účastníků silničního provozu při předjíždění
+
+Je přestupek, který se trestá pokutou do výše 500$.
+
+### **§ 9 Bezohledná jízda**  
+ 
+1. Bezohledná jízda zahrnuje úmyslné nebo nezodpovědné řízení, které ohrožuje ostatní osoby nebo majetek, například: 
+
+    a) Agresivní kličkování mezi vozidly 
+    
+    b) Nadměrná rychlost v obydlených oblastech
+    
+    c) Ignorování bezpečnostních pravidel a ohrožování ostatních řidičů  
+
+Je přestupek, který se trestá pokutou do výše 500$.
 
 ### **§ 10 Řízení motocyklu bez ochranné přilby**
 - Při řízení motocyklu je povinné mít ochrannou přilbu, jinak se jedná o přestupek, který se trestá pokutou do výše 500$.
@@ -676,8 +697,20 @@ Je přestupek, který se trestá pokutou do výše 500$.
 
 d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových látek je trestným činem a trestá se:
 - odnětím svobody na dobu 1 až 3 let,
-- pokutou ve výši až 10 000 USD,
+- pokutou ve výši až 7 000$,
 - odebráním řidičského oprávnění.
+
+### **§ 14 Jízda na červenou**  
+
+1. Projíždění na červenou znamená: 
+
+    a) Plné ignorování červeného signálu na semaforu
+    
+    b) Nepovolený odbočovací manévr na červenou, pokud to není výslovně dovoleno značkou
+    
+    c) Pokračování v jízdě, i když už řidič měl dostatek času zastavit
+
+Je přestupek, který se trestá pokutou do výše 500$.
 
 ---  
 
@@ -850,34 +883,31 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 1. Všechny letiště a heliporty jsou pod správou FAA. Vstup je povolen pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje) nebo s platným povolením od FAA. V těchto prostorách je nutné dodržovat pokyny zaměstnanců letiště a FAA.
 2. Narušení prostor letišť a heliportů ve správě FAA je přestupek, který se trestá pokutou $20.000.
 3. Pořádání akce nebo výcviku bez povolení FAA je přestupek, který se trestá pokutou $45.000.
-   
 
 ---  
 
 ## Zákon č. 7/2024
 *Zákon o zbraních a střelivu*
 
-
 ### **§ 1 Pojmy**
+
 A) LEG = Law Enforcement Guns (Legální zbraně pro státní složky)
 
 B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
-
 ### **§ 2 Zbraně**
+
 1. GUR - Zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
    
-   a) Beretta M9
+   a) H&K P7
    
-   b) H&K P7
+   b) Beretta M9
    
    c) H&K P2000
    
    d) Desert Eagle .50
    
-   e) FN 1910
-   
-   f) Lupara
+   e) Glock 19
    
 2. LEG - Zbraně určené výhradně pro použití státními složkami, podléhající speciálním předpisům a evidenci.
 
@@ -887,50 +917,41 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    c) Colt 1911  
    
-   d) Remington 870  
+   d) MP5
    
-   e) Beanbag  
+   e) H&K MP7 
    
-   f) BSM 123  
+   f) M4  
    
-   g) H&K MP5  
+   g) M4A1  
    
-   h) H&K MP7  
+   h) Service Carbine  
    
-   i) M4  
+   i) H&K G36C  
    
-   j) M4A1  
-   
-   k) Service Carbine  
-   
-   l) H&K G36C
+   j) Beanbag
 
 3.  Zbraně určené výhradně pro použití San Andreas Naval Defense, podléhající speciálním předpisům a evidenci.
    
-      a) Glock-17
-      
-      b) WM 29
-      
-      c) Glock 17
-      
-      d) Colt 1911
-      
-      e) H&K MP5
-      
-      f) Remington 87
-      
-      g) Beanbag
-      
-      h) Franchi SPAS-12
-      
-      i) M4
-      
-      j) M4A1
-      
-      k) Service Carbine
-      
-      l) Military rifle
-
+   a) Glock 19  
+   
+   b) H&K P2000  
+   
+   c) Colt 1911  
+   
+   d) MP5
+   
+   e) H&K MP7 
+   
+   f) M4  
+   
+   g) M4A1  
+   
+   h) Service Carbine  
+   
+   i) H&K G36C  
+   
+   j) Beanbag
 
 ### **§ 3 Doplňky na zbraně**
 1. GUR - Doplňky na zbraně dostupné osobám s platným zbrojním průkazem, podléhající povinné registraci a dodržování zákonných předpisů.
@@ -939,39 +960,39 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 2. LEG - Doplňky na zbraně určené výhradně pro použití státními složkami, podléhající evidenci a regulaci.
    
-      a) Baterka  
+   a) Baterka  
       
-      b) Bubnový zásobník  
+   b) Bubnový zásobník  
       
-      c) Grip  
+   c) Grip  
       
-      d) Kompenzátor  
+   d) Kompenzátor  
       
-      e) Macro zaměřovač  
+   e) Macro zaměřovač  
       
-      f) Malý zaměřovač  
+   f) Malý zaměřovač  
       
-      g) Pokročilý zaměřovač  
+   g) Pokročilý zaměřovač  
       
-      h) Precizní úsťová brzda  
+   h) Precizní úsťová brzda  
       
-      i) Plochá úsťová brzda  
+   i) Plochá úsťová brzda  
       
-      j) Přibližovací zaměřovač  
+   j) Přibližovací zaměřovač  
       
-      k) Rozšířený zásobník  
+   k) Rozšířený zásobník  
       
-      l) Taktická úsťová brzda  
+   l) Taktická úsťová brzda  
       
-      n) Těžká úsťová brzda  
+   n) Těžká úsťová brzda  
       
-      o) Těžký barel  
+   o) Těžký barel  
       
-      p) Základní barel  
+   p) Základní barel  
       
-      q) Zafixovaný zaměřovač  
+   q) Zafixovaný zaměřovač  
       
-      r) Zaměřovač
+   r) Zaměřovač
 
 ### **§ 4 Střelivo**  
 
@@ -998,7 +1019,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    c) dovršila nebo je starší 21 let věku.
 
 ### **§ 6 Oprávnění držitele zbrojního průkazu**
-- Držitel zbrojního průkazu je oprávněn nosit skrytě zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
+- Držitel zbrojního průkazu je oprávněn nosit zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
 
 ### **§ 7 Odebrání zbrojního průkazu**
 - Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní
@@ -1068,7 +1089,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
 
 ### **§ 5 Žádost o advokátní licence**
-1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 10 000 USD.
+1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 10 000$.
 
 2. Koncipientní / advokátní licence se skládá z:
 
@@ -1080,7 +1101,7 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
    d) doložení o splnění podmínky získání vysokoškolského vzdělání v oboru právo
 
-3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 1 000 USD. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 10 000 USD.
+3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 1 000$. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 10 000$.
 
 ### **§ 6 Jurisdikce - advokát**
 1. Advokát je právník, který:
@@ -1196,18 +1217,18 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    d) Odvoláním z funkce státní správy, odvolání z funkce státních i federálních složek .
    
-   e) Finanční pokuta v hodnotě až 6 000 000 USD.
+   e) Finanční pokuta v hodnotě až 6 000 000$.
 
 **Státní správa, státní složka, federální složka**
 
 ### **§ 16 Pořádková pokuta ve správním řízení**
-1. Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu až do výše 1 000 000 USD především tomu, kdo v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání ke správnímu orgánu, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
+1. Department Of Justice může rozhodnutím, nikoliv usnesením, uložit pořádkovou pokutu až do výše 1 000 000$ především tomu, kdo v řízení závažně ztěžuje jeho postup tím, že se buď bez omluvy nedostaví na předvolání ke správnímu orgánu, nebo navzdory předchozímu napomenutí ruší pořádek, a nebo neuposlechne pokynu úřední osoby.
 2. Zmíněnou pořádkovou pokutu lze rovněž uložit i tomu, kdo učiní hrubě (nikoliv bagatelně) urážlivé podání. Gramatickým výkladem urážlivého podání není nutné, na rozdíl od výše citovaných skutků, aby jím byl závažně ztížen postup Department Of Justice. Podání obsahující hrubou urážku může být směřováno jak vůči jednotlivé úřední osobě, tak vůči nespecifikované okruhu osob, přičemž obě tyto varianty jsou protiprávní a tedy postižitelné správně-právní sankcí pořádkové pokuty.
-3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle (§ 17). Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 000 000 USD.
+3. Pro informační komplexnost dodejme, že každý je povinen podat Department Of Justice vysvětlení podle (§ 17). Tomu, kdo bezdůvodně odepře podat vysvětlení, může Department Of Justice uložit pořádkovou pokutu až do výše 1 000 000$.
 
 ### **§ 17 Předvolání k podání vysvětlení**
 1. K prověření oznámení, ostatních podnětů a vlastních zjištění, která by mohla být důvodem k zahájení řízení z moci úřední, opatřuje Department Of Justice nezbytná vysvětlení. Department Of Justice dále opatřuje vysvětlení potřebná k určení předpokládaného rozsahu podkladů pro rozhodnutí. Vysvětlení může požadovat pro rozhodné skutečnosti k prošetření případu, nebo objasnění situace. Při opatřování vysvětlení se užijí ustanovení o předvolání (§ 17) a předvedení (§ 18). O odepření vysvětlení obdobně platí to, co pro odepření součinnosti při dokazování a zákaz výslechu.
-2. Každý je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 17) až do výše 1 000 000 USD.
+2. Každý je povinen podat Department Of Justice vysvětlení podle odstavce 1. Tomu, kdo bezdůvodně odepře podat vysvětlení, může správní orgán uložit pořádkovou pokutu (§ 17) až do výše 1 000 000$.
 3. O podání vysvětlení se pořizuje záznam, který obsahuje údaje umožňující identifikaci osoby, která skutečnost sděluje, uvedené osoba podá vylíčení předmětných skutečností, datum, jméno, příjmení, funkci nebo služební číslo, podpis osoby a vysvětlení
 4. Záznam o podání vysvětlení lze použít jako důkazní prostředek.
 
@@ -1216,12 +1237,12 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 2. Předvedení na požádání Department Of Justice zajišťuje LSPD, LSSD, DEA.
 
 ### **§ 19 Pořádková pokuta uložená soudem Los Santos**
-- Každá osoba přítomna na soudním jednání, líčení je povinná dodržovat řád soudní budovy. Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, může být usnesením soudu uložena jako pořádkové opatření pořádková pokuta do maximální výše 150 000 USD. Pořádková pokuta může být uložena opakovaně. O prominutí části nebo celé pokuty lze požádat do doby, než nabyde právní moci konečné rozhodnutí ve věci.
+- Každá osoba přítomna na soudním jednání, líčení je povinná dodržovat řád soudní budovy. Tomu, kdo neuposlechne výzvy soudu nebo učiní urážlivé podání či přednes, může být usnesením soudu uložena jako pořádkové opatření pořádková pokuta do maximální výše 150 000$. Pořádková pokuta může být uložena opakovaně. O prominutí části nebo celé pokuty lze požádat do doby, než nabyde právní moci konečné rozhodnutí ve věci.
 
 ### **§ 20 Placení nákladů soudního řízení**
 - Každý z účastníků a osob zúčastněných na řízení platí náklady, které vzniknou jemu nebo jeho zástupci.
 Stát platí náklady vynaložené na svědečné, znalečné, tlumočné a jiné náklady spojené s dokazováním.
-Deparment of Justice však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl a to až do výše 250 000 USD 
+Deparment of Justice však může účastníkovi, který nebyl osvobozen od soudních poplatků, usnesením uložit, aby složil zálohu na náklady provedení důkazu, který navrhl a to až do výše 250 000$ 
 
 ### **§ 21 Advokátní praxe bez licence**
 
@@ -1381,7 +1402,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 ### **§ 7 Předvolání k podání vysvětlení zaměstnance státní složky**
 1. Department of Justice (DOJ) si může vyžádat vysvětlení k prověření oznámení, podnětů nebo vlastních zjištění. Tato vysvětlení slouží k objasnění situace nebo přípravě rozhodnutí.
-2. Zaměstnanci státní složky jsou povinni vysvětlení poskytnout. Pokud někdo bez důvodu odmítne, může dostat pokutu až 1 500 000 USD.
+2. Zaměstnanci státní složky jsou povinni vysvětlení poskytnout. Pokud někdo bez důvodu odmítne, může dostat pokutu až 1 500 000$.
 3. O vysvětlení se pořizuje záznam, který obsahuje údaje o osobě, podané informace, datum a podpis.
 4. Tento záznam lze použít jako důkaz.
 
@@ -1682,7 +1703,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 
 ### **§ 2 Manipulace s důkazy**
-- Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, se dopouští trestného činu, za který hrozí trest odnětí svobody na 10 let až doživotí a pokuta ve výši 500 000 USD až 1 000 000 USD.
+- Každá osoba zaměstnaná u státních a federálních složek, která odcizí nebo přechovává důkazní materiály, se dopouští trestného činu, za který hrozí trest odnětí svobody na 10 let až doživotí a pokuta ve výši 500 000$ až 1 000 000$.
 
 
 ### **§ 3 Neoprávněná prohlídka/vstup bez soudního povolení**
