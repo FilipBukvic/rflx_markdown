@@ -1,16 +1,20 @@
 [
 
 {
-  "slug": "reklamace",
-  "link": "tror_claims"
+  "slug": "tvorba-uctu-tror",
+  "link": "wiki_Overit"
 },
 {
-  "slug": "ochrana-osobnich-udaju",
-  "link": "tror_privacy-policy"
+  "slug": "jak-se-pripojit",
+  "link": "wiki_Pripojit"
 },
 {
-  "slug": "podminky-pouzivani",
-  "link": "tror_terms-of-service"
+  "slug": "jak-projit-pohovorem",
+  "link": "wiki_Whitelist"
+},
+{
+  "slug": "pripojeni-steam-uctu",
+  "link": "wiki_Steam"
 },
 {
   "slug": "dvoufazove-overeni-uctu",
@@ -21,10 +25,6 @@
   "link": "wiki_Cislo"
 },
 {
-  "slug": "jak-promazat-cache",
-  "link": "wiki_FiveM_cache"
-},
-{
   "slug": "jak-nainstalovat-hru",
   "link": "wiki_FiveM_install"
 },
@@ -33,20 +33,20 @@
   "link": "wiki_Integrita"
 },
 {
-  "slug": "tvorba-uctu-tror",
-  "link": "wiki_Overit"
+  "slug": "jak-promazat-cache",
+  "link": "wiki_FiveM_cache"
 },
 {
-  "slug": "jak-se-pripojit",
-  "link": "wiki_Pripojit"
+  "slug": "reklamace",
+  "link": "tror_claims"
 },
 {
-  "slug": "pripojeni-steam-uctu",
-  "link": "wiki_Steam"
+  "slug": "ochrana-osobnich-udaju",
+  "link": "tror_privacy-policy"
 },
 {
-  "slug": "jak-projit-pohovorem",
-  "link": "wiki_Whitelist"
+  "slug": "podminky-pouzivani",
+  "link": "tror_terms-of-service"
 }
   
 ]
