@@ -14,7 +14,7 @@ Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo Department of Justi
 
 ### **Struktura Department of Justice:**
 
-1. **Generální prokurátor (Attorney General):** Leon Baxter, J.D., Ph.D.
+1. **Generální prokurátor (Attorney General):** dle jmenování.
 2. **Zástupce generálního prokurátora (Deputy Attorney General):** Philip Nixon, J.D., Spencer Hayes J.D., Thomas Langston J.D.
 3. **Předseda Soudu Los Santos:** dle jmenování.
 4. **Pracovníci justiční komory a další právníci:** dle jmenování.
