@@ -1,0 +1,52 @@
+[
+
+{
+  "slug": "reklamace"
+  "link": "tror_claims",
+},
+{
+  "slug": "ochrana-osobnich-udaju"
+  "link": "tror_privacy-policy",
+},
+{
+  "slug": "podminky-pouzivani"
+  "link": "tror_terms-of-service",
+},
+{
+  "slug": "dvoufazove-overeni-uctu"
+  "link": "wiki_2FA",
+},
+{
+  "slug": "overeni-telefonniho-cisla"
+  "link": "wiki_Cislo",
+},
+{
+  "slug": "jak-promazat-cache"
+  "link": "wiki_FiveM_cache",
+},
+{
+  "slug": "jak-nainstalovat-hru"
+  "link": "wiki_FiveM_install",
+},
+{
+  "slug": "overeni-souboru-hry"
+  "link": "wiki_Integrita",
+},
+{
+  "slug": "tvorba-uctu-tror"
+  "link": "wiki_Overit",
+},
+{
+  "slug": "jak-se-pripojit"
+  "link": "wiki_Pripojit",
+},
+{
+  "slug": "pripojeni-steam-uctu"
+  "link": "wiki_Steam",
+},
+{
+  "slug": "jak-projit-pohovorem"
+  "link": "wiki_Whitelist",
+}
+  
+]
