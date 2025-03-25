@@ -4,7 +4,7 @@
 
 1. **Předpoklady:**  
    * Musíte mít zakoupenou a nainstalovanou oficiální kopii **GTA V**.  
-   * Ujistěte se, že máte na disku dostatek volného místa (alespoň 2 GB).
+   * Ujistěte se, že máte na disku dostatek volného místa (alespoň 10 GB).
 
 2. **Stažení instalačního souboru:**  
    * Otevřete webový prohlížeč a přejděte na [oficiální stránky FiveM](https://fivem.net/).  
