@@ -13,8 +13,6 @@ Hra **GTA V** musí být zakoupena a nainstalována prostřednictvím jedné z n
 * **Epic Games**  
 * **Rockstar Launcher**
 
-🎮 **Tip**: Nejlevnější nabídku můžete najít [ZDE](https://www.g2a.com/grand-theft-auto-v-rockstar-key-global-i10000000788017).
-
 ---
 
 ### **2\. Stáhnout modifikaci FiveM**
@@ -30,7 +28,7 @@ FiveM je bezplatná modifikace hry, která umožňuje připojení na komunitní 
 
 Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho Discord serveru.
 
-* Připojte se kliknutím [SEM](https://discord.gg/tror).
+* Připojte se kliknutím [ZDE](https://discord.gg/tror).
 
 ---
 
