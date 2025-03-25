@@ -1,11 +1,11 @@
 
 ---
 
-# **Jak projít whitelist pohovorem na TRoR?**
+# **Jak projít whitelist pohovorem na TROR?**
 
 ## **Co je whitelist?**
 
-TRoR provozuje tzv. **whitelist server**, což znamená, že přístup mají pouze hráči, kteří projdou schvalovacím procesem.
+TROR.EU provozuje tzv. **whitelist server**, což znamená, že přístup mají pouze hráči, kteří projdou schvalovacím procesem.
 
 Chcete-li získat přístup, postupujte podle následujících kroků:
 
