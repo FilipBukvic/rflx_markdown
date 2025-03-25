@@ -243,7 +243,7 @@ Department of Justice vykonává tyto funkce:
 
 4. Následky porušení podmínky
 
-- Pokud pachatel během uložené podmínky spáchá čin za který mu byla podmínka stanovena, bude trestán dle zákona, jehož ustanovení porušil
+- Pokud pachatel během uložené podmínky spáchá čin, za který mu byla podmínka stanovena, bude trestán jak za tento nový čin dle příslušného zákona, tak i za původní čin, za který mu byla podmínka uložena.
 
 ### **§ 5 Terorismus**
 
