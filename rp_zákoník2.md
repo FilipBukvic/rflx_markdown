@@ -1553,7 +1553,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    
    d) pokud má důvodné podezření o výskytu zraněné osoby vyžadující ošetření v obydlí, na pozemku a skladových prostorách
 
-   e) pokud bylo vydáno soudní povolení k prohlídce obydlí, pozemku nebo skladu, které oprávňuje zaměstnancem státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa
+   e) pokud bylo vydáno soudní povolení k prohlídce obydlí, pozemku nebo skladu, které oprávňuje zaměstnance státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa, mohou prohledávat věci uvnitř pouze na základě tohoto povolení.
 
 2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí, na pozemek a do skladových prostrů v uvedených situacích.
 
