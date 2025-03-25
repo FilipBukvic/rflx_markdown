@@ -1,7 +1,7 @@
 
 ---
 
-# **Jak zapnout 2FA ověření na Discordu?**
+# **Jak zapnout dvoufázové ověření na Discordu?**
 
 1. **Otevřete a přihlaste se ke svému Discord účtu.**    
 2. Klikněte na **Uživatelská nastavení** (ikona ozubeného kola v levém dolním rohu).    
