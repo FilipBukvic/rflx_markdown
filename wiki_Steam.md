@@ -21,9 +21,10 @@
    * Pokud účet Steam ještě nemáte, klikněte na možnost vytvořit nový účet a postupujte podle pokynů.
 
 6. **Zkontrolujte propojení**  
-   * Po úspěšném propojení se vraťte na TROR.EU.  
-   * Klikněte na svou profilovou fotku a vyberte své uživatelské jméno.  
+   * Po úspěšném propojení se vraťte na TROR.EU.
+   * Klikněte na svou profilovou fotku a vyberte své uživatelské jméno.
    * Ujistěte se, že je váš Steam účet správně propojen – Měli byste vidět Váš propojený steam účet.
+   * K profilu můžete připojit libovolný počet Steam účtů.
 
 ---
 
