@@ -1,7 +1,7 @@
 
 ---
 
-# **Jak se připojit na TRoR?**
+# **Jak se připojit na TROR.EU?**
 
 Náš herní portál využívá modifikaci **FiveM** pro hru **Grand Theft Auto V**. Pro připojení k našemu serveru je potřeba splnit několik kroků:
 
@@ -56,7 +56,7 @@ Příkaz, který zadáte po stisknutí klávesy F8 v aplikaci FiveM
 
 ---
 
-Pokud máte jakékoliv dotazy, neváhejte se obrátit na náš tým na Discordu. Těšíme se na vás na TRoRu\!
+Pokud máte jakékoliv dotazy, neváhejte se obrátit na náš tým na Discordu. Těšíme se na vás na TRORu\!
 
 ---
 
