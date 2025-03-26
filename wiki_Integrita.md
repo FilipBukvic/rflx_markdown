@@ -29,7 +29,7 @@ Ověření integrity herních souborů zkontroluje soubory v počítači, zda ne
 
 ## **Rockstar Games Launcher**
 
-1. **Přihlaste se** ke Rockstar Games  
+1. **Přihlaste se** k Rockstar Games  
 2. Přejděte do **Nastavení**  
 3. **Vyberte hru**, kterou chcete ověřit, ze seznamu v části **Moje nainstalované hry vlevo**.  
 4. V možnostech vpravo vyberte možnost **Verify Integrity** (Ověřit integritu) v části Verify game file integrity (Ověřit integritu herních souborů).  
