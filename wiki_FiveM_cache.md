@@ -27,7 +27,7 @@ Důležité\! Než budete pokračovat, **ujistěte se, že je program FiveM zcel
 4. **Kontrola integrity herních souborů** *(volitelné)*  
    * Pokud **problémy přetrvávají i po vymazání mezipaměti**, doporučujeme **ověřit integritu herních souborů**.   
    * Tento proces lze obvykle provést prostřednictvím **herní platformy** (např. Steam nebo Rockstar Games Launcher) a může pomoci vyřešit případné **zbytkové problémy**.  
-   * Podrobný návod na kontrolu integrity herních souborů naleznete [ZDE](http://tror.eu).
+   * Podrobný návod na kontrolu integrity herních souborů naleznete [ZDE](https://tror.eu/articles/article/overeni-souboru-hry).
 
 5. **Restartujte klienta FiveM \- a vymazání mezipaměti FiveM je hotovo.**  
    * Po vymazání mezipaměti a ověření herních souborů **restartujte FiveM**.   
