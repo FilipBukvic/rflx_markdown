@@ -1,19 +1,19 @@
 # Herní výhody
-Herní výhody jsou benefity, které zlepšují zážitek hráčů na serveru. Tyto výhody mohou zahrnovat personalizace, zrychlený přístup na server nebo exkluzivní obsah.
+Herní výhody jsou benefity, které zlepšují zážitek hráčů portálu TROR.EU. Tyto výhody mohou zahrnovat personalizace, zrychlený přístup na server nebo exkluzivní obsah.
 
 ---
 
 ## Reflex Coiny
 
 **Co jsou Reflex Coiny?**  
- Reflex Coiny jsou virtuální měnou na serveru, která umožňuje hráčům zakoupit různé výhody a personalizace.
+ Reflex Coiny jsou virtuální měnou portálu TROR.EU, která umožňuje hráčům zakoupit různé výhody a personalizace.
 
 **K čemu lze Reflex Coiny využít?**
 * Zakoupení vlastního telefonního čísla (custom).  
 * Zakoupení vlastní SPZ na vozidle.  
 * Reflex+ předplatné (připravujeme).
-* Queue pointy (připravujeme).  
-  
+* Queue pointy (připravujeme).
+
    Všechny možnosti využití jsou dostupné přímo ve hře v menu **F3 → Premium**.  
    Do budoucna plánujeme nabídku dále rozšířit.
 
@@ -40,7 +40,7 @@ Herní výhody jsou benefity, které zlepšují zážitek hráčů na serveru. T
 ## Reflex+
 
 **Co je Reflex+?**  
-Reflex+ je prémiové předplatné, které hráčům přináší VIP výhody a současně podporuje chod serveru.
+Reflex+ je prémiové předplatné TROR.EU, které hráčům přináší VIP výhody a současně podporuje chod serveru.
 
 **Jak získat Reflex+?**  
  * Zakoupením na [tror.eu/shop](https://tror.eu/shop).
