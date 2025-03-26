@@ -20,7 +20,7 @@ Hra **GTA V** musí být zakoupena a nainstalována prostřednictvím jedné z n
 FiveM je bezplatná modifikace hry, která umožňuje připojení na komunitní servery.
 
 * Stáhnout ji můžete z oficiálních stránek [ZDE](https://fivem.net).  
-* Podrobný návod na stáhnutí aplikace naleznete [ZDE](http://tror.eu). 
+* Podrobný návod na stáhnutí aplikace naleznete [ZDE](https://tror.eu/articles/article/jak-nainstalovat-hru). 
 
 ---
 
@@ -36,7 +36,7 @@ Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho D
 
 Účet na platformě **TROR.EU** je povinný pro správu postav a interakce na serveru.
 
-* Podrobný návod na založení a ověření účtu najdete [ZDE](https://tror.eu).
+* Podrobný návod na založení a ověření účtu najdete [ZDE](https://tror.eu/articles/article/tvorba-uctu-tror).
 
 ---
 
@@ -44,7 +44,7 @@ Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho D
 
 Pro přístup na server je nutné absolvovat whitelist pohovor.
 
-* Další informace o pohovorech najdete [ZDE](https://tror.eu).
+* Další informace o pohovorech najdete [ZDE](https://tror.eu/articles/article/jak-projit-pohovorem).
 
 ---
 
