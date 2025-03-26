@@ -11,7 +11,7 @@
 7. Na stránkách TROR.EU zadejte tento **ověřovací kód** do příslušného pole.  
 8. Klikněte na tlačítko **Odeslat**.
 
-### **Ověření úspěšnosti**
+## **Ověření úspěšnosti**
 
 1. Klikněte znovu na **profilovou fotku** v pravém horním rohu a vyberte **vaše uživatelské jméno**.  
 2. Zkontrolujte, zda je u vašeho profilu uvedeno: **Ověřené telefonní číslo: ANO**
