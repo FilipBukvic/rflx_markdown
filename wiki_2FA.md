@@ -14,7 +14,7 @@
 
 ---
 
-### **Návod pro iOS**
+## **Návod pro iOS**
 
 1. Otevřete aplikaci **Hesla** ([stáhnout zde](https://apps.apple.com/us/app/passwords/id6473799789)).  
 2. Vyberte sekci **Kódy**.  
@@ -25,7 +25,7 @@
 
 ---
 
-### **Návod pro Android**
+## **Návod pro Android**
 
 1. Stáhněte a otevřete aplikaci **Google Authenticator** ([stáhnout zde](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&pcampaignid=web_share)).  
 2. Klikněte na tlačítko **\+** v pravém dolním rohu.  
@@ -34,7 +34,7 @@
 
 ---
 
-### **Po přidání ověřovací aplikace**
+## **Po přidání ověřovací aplikace**
 
 1. Přejděte na web [**TROR.EU**](https://tror.eu/).  
 2. Klikněte na svou **profilovou fotku** v pravém horním rohu a odhlaste se.  
