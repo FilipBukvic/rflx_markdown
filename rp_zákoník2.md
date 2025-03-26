@@ -1101,7 +1101,6 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 ### **§ 2 Platnost advokátní licence**
 1. Advokátní činnost v San Andreas může vykonávat pouze osoba s platnou licencí vydanou Department of Justice, jejíž platnost začíná od 1. ledna 2025.
 
-
 ### **§ 3 Zrušení advokátní licence**
 
    a) podání vyhlášky ke změně zákona o platnosti udělené licence (obnovována 1x ročně).
@@ -1118,6 +1117,8 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    b) byl pravomocně odsouzen za trestný čin
    
    c) byl nejméně třikrát pravomocně uznán vinným kárným proviněním
+
+2. Advokátní licenci odebírá pouze DoJ z výše uvedených důvodů.
 
 ### **§ 5 Žádost o advokátní licence**
 1. Při žádosti o koncipientní nebo advokátní licenci je uchazeč o tuto licenci povinen uhradit poplatek za konání odborné justiční zkoušky, přičemž advokátní licence stojí 10 000$.
