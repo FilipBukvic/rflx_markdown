@@ -10,7 +10,7 @@ Důležité\! Než budete pokračovat, **ujistěte se, že je program FiveM zcel
 
 ---
 
-# **Jak vyčistit mezipaměť hry FiveM**
+## **Jak vyčistit mezipaměť hry FiveM**
 
 1. **Vyhledání adresáře FiveM Cache**  
    * Stisknutím kláves **Win \+ R** otevřete dialogové okno **Spustit**.  
@@ -35,7 +35,7 @@ Důležité\! Než budete pokračovat, **ujistěte se, že je program FiveM zcel
 
 ---
 
-### **Tipy:**
+## **Tipy:**
 
 * Pokud máte stále problémy, zkuste před dalším čištěním mezipaměti restartovat počítač.  
 * Ujistěte se, že vaše hra a grafické ovladače jsou aktuální.
