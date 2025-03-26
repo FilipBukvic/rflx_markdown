@@ -1,0 +1,49 @@
+### **Herní výhody**
+
+#### **Reflex Coiny**
+
+**Co jsou Reflex Coiny?**  
+ Reflex Coiny jsou virtuální měnou na serveru, která umožňuje hráčům zakoupit různé výhody a personalizace.
+
+**K čemu lze Reflex Coiny využít?**
+
+* Zakoupení vlastního telefonního čísla (custom).  
+  Zakoupení vlastní SPZ na vozidle.  
+* Reflex+ předplatné (připravujeme).  
+* Queue pointy (připravujeme).  
+   Všechny možnosti jsou dostupné přímo ve hře v menu **F3 → Premium**.  
+   Do budoucna plánujeme nabídku dále rozšířit.
+
+**Jak získat Reflex Coiny?**
+
+* Zakoupením na [tror.eu/shop](https://tror.eu/shop).  
+* Aktivním hraním na serveru.  
+* Účastí v soutěžích (například fotosoutěž).
+
+  ---
+
+#### **Queue Pointy**
+
+**Co jsou Queue Pointy?**  
+ Queue Pointy určují pořadí hráčů ve frontě na připojení k serveru. Čím více bodů máte, tím výše se ve frontě nacházíte.
+
+**Jak získat Queue Pointy?**
+
+* Za každou minutu čekání ve frontě získáte **1 Queue Point**. Tyto body jsou platné pouze pro aktuální relaci (po odpojení se ztrácejí).  
+* Zakoupením Queue Pointů nebo Reflex+ na [tror.eu/shop](https://tror.eu/shop).  
+  Automaticky při reconnectu nebo v případě zhroucení hry.  
+  ---
+
+  #### **Reflex+**
+
+**Co je Reflex+?**  
+ Reflex+ je prémiové předplatné, které hráčům přináší výhody VIP kategorie a současně podporuje chod serveru.
+
+**Jak získat Reflex+?**  
+ Zakoupením na [tror.eu/shop](https://tror.eu/shop).
+
+**Další informace o Reflex+ naleznete zde:**  
+ [tror.eu/shop/reflexplus](https://tror.eu/shop/reflexplus)
+
+---
+
