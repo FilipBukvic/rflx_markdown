@@ -10,10 +10,11 @@ Herní výhody jsou benefity, které zlepšují zážitek hráčů na serveru. T
 
 **K čemu lze Reflex Coiny využít?**
 * Zakoupení vlastního telefonního čísla (custom).  
-  Zakoupení vlastní SPZ na vozidle.  
-* Reflex+ předplatné (připravujeme).  
+* Zakoupení vlastní SPZ na vozidle.  
+* Reflex+ předplatné (připravujeme).
 * Queue pointy (připravujeme).  
-   Všechny možnosti jsou dostupné přímo ve hře v menu **F3 → Premium**.  
+  
+   Všechny možnosti využití jsou dostupné přímo ve hře v menu **F3 → Premium**.  
    Do budoucna plánujeme nabídku dále rozšířit.
 
 **Jak získat Reflex Coiny?**
