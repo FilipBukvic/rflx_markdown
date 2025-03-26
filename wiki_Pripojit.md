@@ -5,7 +5,7 @@
 
 Náš herní portál využívá modifikaci **FiveM** pro hru **Grand Theft Auto V**. Pro připojení k našemu serveru je potřeba splnit několik kroků:
 
-### **1\. Mít originální verzi GTA V**
+## **1\. Mít originální verzi GTA V**
 
 Hra **GTA V** musí být zakoupena a nainstalována prostřednictvím jedné z následujících platforem:
 
@@ -15,7 +15,7 @@ Hra **GTA V** musí být zakoupena a nainstalována prostřednictvím jedné z n
 
 ---
 
-### **2\. Stáhnout modifikaci FiveM**
+## **2\. Stáhnout modifikaci FiveM**
 
 FiveM je bezplatná modifikace hry, která umožňuje připojení na komunitní servery.
 
@@ -24,7 +24,7 @@ FiveM je bezplatná modifikace hry, která umožňuje připojení na komunitní 
 
 ---
 
-### **3\. Připojit se na náš Discord**
+## **3\. Připojit se na náš Discord**
 
 Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho Discord serveru.
 
@@ -32,7 +32,7 @@ Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho D
 
 ---
 
-### **4\. Založit a ověřit účet na TROR.EU**
+## **4\. Založit a ověřit účet na TROR.EU**
 
 Účet na platformě **TROR.EU** je povinný pro správu postav a interakce na serveru.
 
@@ -40,7 +40,7 @@ Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho D
 
 ---
 
-### **5\. Projít whitelist pohovorem**
+## **5\. Projít whitelist pohovorem**
 
 Pro přístup na server je nutné absolvovat whitelist pohovor.
 
@@ -48,7 +48,7 @@ Pro přístup na server je nutné absolvovat whitelist pohovor.
 
 ---
 
-### **6\. Napojení na Herní server**
+## **6\. Napojení na Herní server**
 
 Příkaz, který zadáte po stisknutí klávesy F8 v aplikaci FiveM
 
