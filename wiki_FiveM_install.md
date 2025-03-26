@@ -27,7 +27,7 @@
 
 ---
 
-### **Tipy:**
+## **Tipy:**
 
 * **Firewall a antivirus:** Pokud máte problémy se spuštěním, ujistěte se, že váš firewall nebo antivirus neblokuje FiveM.  
 * **Aktualizace:** FiveM se automaticky aktualizuje, takže při každém spuštění aplikace zkontroluje nové verze.  
