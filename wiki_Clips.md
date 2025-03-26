@@ -1,13 +1,14 @@
----
 
-## **Jak nastavit nahrávání klipů pomocí NVIDIA GeForce**
+# Jak nahrávat klipy ve hrách
 
-### **Požadavky:**
+## Jak nastavit nahrávání klipů pomocí NVIDIA GeForce
+
+### Požadavky:
 
 * Grafická karta NVIDIA (minimálně GeForce GTX 750 nebo vyšší, včetně GTX850M, 860M, 950M, 960M a dalších řad).  
 * Nainstalovaná aplikace **GeForce Experience**.
 
-### **Postup nastavení:**
+### Postup nastavení:
 
 1. **Stažení GeForce Experience:**  
    * Pokud aplikaci nemáte, stáhněte ji z oficiálního webu NVIDIA [ZDE](https://www.nvidia.com/cs-cz/geforce/geforce-experience/).
@@ -30,9 +31,7 @@
    * Během hry stiskněte **Alt \+ F10** pro záznam a uložení klipu.  
    * Klip najdete v sekci **Galerie** aplikace GeForce Experience.
 
----
-
-### **Co dělat, když nahrávání nefunguje:**
+### Co dělat, když nahrávání nefunguje:
 
 1. **Upravení FiveM:**  
    * Stiskněte **Win \+ R** a do dialogového okna napište **%localappdata%**, poté stiskněte Enter.  
@@ -49,14 +48,14 @@
 
 ---
 
-### **Jak nastavit nahrávání klipů pomocí AMD Radeon**
+## **Jak nastavit nahrávání klipů pomocí AMD Radeon**
 
-#### **Požadavky:**
+### **Požadavky:**
 
 * Grafická karta AMD Radeon (podporující funkci AMD Relive).  
 * Software **AMD Radeon Software** (máte-li starší ovladače, aktualizujte je).
 
-#### **Postup nastavení:**
+### **Postup nastavení:**
 
 1. **Stažení Radeon Software:**  
    * Stáhněte nejnovější verzi z [oficiálních stránek AMD](https://www.amd.com/cs/support).
@@ -77,9 +76,9 @@
 
 ---
 
-### **Jak nastavit nahrávání klipů pomocí Medal.tv**
+## **Jak nastavit nahrávání klipů pomocí Medal.tv**
 
-#### **Postup nastavení:**
+### **Postup nastavení:**
 
 1. **Stažení Medal.tv:**  
    * Stáhněte a nainstalujte aplikaci z [oficiálních stránek Medal.tv](https://medal.tv/).
@@ -97,9 +96,9 @@
 
 ---
 
-### **Jak nastavit nahrávání klipů pomocí SteelSeries Moments**
+## **Jak nastavit nahrávání klipů pomocí SteelSeries Moments**
 
-#### **Postup nastavení:**
+### **Postup nastavení:**
 
 1. **Stažení SteelSeries GG:**  
    * Stáhněte aplikaci z [oficiálních stránek SteelSeries](https://steelseries.com/gg).
@@ -119,4 +118,3 @@
    * Stiskněte klávesovou zkratku (např. Alt \+ S), klip se uloží do Galerie Moments.
 
 ---
-
