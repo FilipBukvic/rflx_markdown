@@ -350,13 +350,13 @@ Department of Justice vykonává tyto funkce:
 - Kdo zničí, poškodí nebo učiní nepoužitelnou cizí věc, a způsobí tak na cizím majetku škodu, bude potrestán pokutou do výše 2.000$
 
 ### **§ 7 Neoprávněný vstup**
-- Neoprávněným vstupem se rozumí vniknutí do uzavřeného prostoru, na pozemek či do nemovitosti bez povolení, pokud je prostor ohraničen plotem nebo je opatřen viditelným označením typu "Zákaz vstupu".
+- Neoprávněným vstupem se rozumí vniknutí nebo pohyb osoby v uzavřeném prostoru, skladu, na pozemku či v nemovitosti bez souhlasu oprávněné osoby, pokud je daný prostor ohraničen plotem, opatřen viditelným označením typu „Zákaz vstupu“ nebo jiným podobným upozorněním, nebo jinak zjevně určen jako neveřejný.
+  
+   a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$
    
-   a) Přestupek: Pokud nedošlo k závažnějšímu jednání, čin je klasifikován jako přestupek, za který lze uložit pokutu do výše 2.000$.
+   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (během 72 hodin), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$
    
-   b) Opakované jednání: V případě, že se čin opakuje v krátkém časovém období (během 72 hodin), jde o trestný čin, za který hrozí trest odnětí svobody na dobu jeden až dva roky a pokutu do výše 3.000$.
-   
-   c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$.
+   c) Státní instituce: Pokud je čin spáchán vůči objektu státní instituce, jedná se o závažný trestný čin, za který lze uložit trest odnětí svobody na dobu dva až šest let a pokutu do výše 6.000$
 
 ### **§ 8 Krádež**
 - Přisvojení si cizí věci za účelem osobního obohacení:
@@ -394,7 +394,7 @@ Department of Justice vykonává tyto funkce:
 
    b) Odcizení dopravního prostředku – pokud si pachatel vozidlo přivlastní s úmyslem ho užívat dlouhodobě nebo jej prodat se trestá odnětím svobody na 3 až 5 let a pokutou do výše 5 000$
 
-   c) Odcizení vozidla typu LAW – pokud je ukradeno vozidlo policie, hasičů nebo zdravotní služby se trestá odnětím svobody na 4 až  let a pokuta do výše 8.000$
+   c) Odcizení vozidla typu LAW – pokud je ukradeno vozidlo policie, hasičů nebo zdravotní služby se trestá odnětím svobody na 4 až 6 let a pokuta do výše 8.000$
 
 ### **§ 13 Nelicencovaný prodej zbraní**
 - Prodej, pronájem nebo převod střelných zbraní, munice či doplňků na střelné zbraně bez platné licence nebo povolení je trestný čin, za který hrozí trest odnětí svobody na jeden až tři roky a pokutou do výše 4.000$
@@ -1126,11 +1126,11 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
    a) z písemné a ústní části
    
-   b) z psychologického vyšetření.
+   b) z psychologického vyšetření (není zpoplatněno)
    
-   c) z trestní bezúhonnosti
+   c) z trestní bezúhonnosti (není zpoplatněno)
 
-   d) doložení o splnění podmínky získání vysokoškolského vzdělání v oboru právo
+   d) doložení o splnění podmínky získání vysokoškolského vzdělání v oboru právo (není zpoplatněno)
 
 3. Splnění všech podmínek je nezbytné pro získání licence. V případě nesplnění některé z podmínek se poplatek nevrací. Poplatek za každou zkoušku je 1 000$. Uchazeč má tři pokusy, jinak ztrácí možnost stát se koncipientem nebo advokátem. K tomu se připojuje poplatek za advokátní licenci ve výši 10 000$.
 
@@ -1515,13 +1515,15 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 1. Zaměstnanec státní ozbrojené složky má právo zabavit věci, které byly použity a nebo získany při trestné činnosti nebo slouží jako důkaz.
 
-    a) zabavení věci na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
+   a) zabavení věci na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
 
-    b) věc, která byla získána trestnou činností, nebude navrácena
+   b) věc, která byla získána trestnou činností, nebude navrácena
  
-    c) pokud byla věc nalezena u osoby při páchání trestné činnosti a tato osoba neprokáže její legální původ, věc nebude navrácena
+   c) pokud byla věc nalezena u osoby při páchání trestné činnosti a tato osoba neprokáže její legální původ, věc nebude navrácena
 
-2. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
+   d) zaměstnanec státní ozbrojené složky je povinen kontaktovat majitele zabavených věcí a informovat ho o možnosti předání, pokud však osoba nereaguje do 7 dnů od zabavení, věci propadají státu
+
+3. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
 
     a) zabavení dopravního prostředku na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
 
@@ -1553,7 +1555,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    
    d) pokud má důvodné podezření o výskytu zraněné osoby vyžadující ošetření v obydlí, na pozemku a skladových prostorách
 
-   e) pokud bylo vydáno soudní povolení k prohlídce obydlí, pozemku nebo skladu, které oprávňuje zaměstnance státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa, mohou prohledávat věci uvnitř pouze na základě tohoto povolení.
+   e) pokud bylo vydáno soudní povolení k prohlídce obydlí, pozemku nebo skladu, které oprávňuje zaměstnance státní ozbrojené složky provést vstup na základě důvodného podezření nebo potřeby prozkoumání místa, mohou prohledávat věci uvnitř pouze na základě tohoto povolení
 
 2. Nikdo nesmí zamezit vstupu zaměstnanců státních ozbrojených složek do obydlí, na pozemek a do skladových prostrů v uvedených situacích.
 
