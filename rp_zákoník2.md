@@ -1450,9 +1450,12 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 ### **§ 10 Prokazování příslušnosti**
 - Příslušníci státních složek jsou povinni při plnění úkolů povinni se prokázat
-  a) služebním stejnokrojem
-  b) služebním odznakem
-  c) ústním zvoláním názvu státní složky
+
+   a) služebním stejnokrojem
+
+   b) služebním odznakem
+
+   c) ústním zvoláním názvu státní složky
 
 ### **§ 11 Povinnost identifikace**
 1. Příslušníci státních složek jsou povinni se při výkonu služby na požádání identifikovat služebním číslem.
