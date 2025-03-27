@@ -1529,7 +1529,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
    d) zaměstnanec státní ozbrojené složky je povinen kontaktovat majitele zabavených věcí a informovat ho o možnosti předání, pokud však osoba nereaguje do 7 dnů od zabavení, věci propadají státu
 
-   e) v případě potřeby aměstnanec státní ozbrojené složky požádá DoJ o prodloužení dony zabavení věcí na dobu nezbytně nutnou k prošetření
+   e) v případě potřeby zaměstnance státní ozbrojené složky požádá DoJ o prodloužení dony zabavení věcí na dobu nezbytně nutnou k prošetření
 
 2. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
 
