@@ -1146,7 +1146,11 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    e) vykonává svobodné povolání a stanovuje si vlastní ceník
 
+   f) jedná jménem zastupované osoby pouze na základě písemné plné moci
+
 2. Počet advokátů není nijak omezen. Seznam advokátů je veřejný.
+
+3. Advokát je oprávněn jednat za zastupovanou osobu pouze na základě písemné plné moci udělené touto osobou.
 
 
 ### **§ 7 Trestněprávní imunita**
