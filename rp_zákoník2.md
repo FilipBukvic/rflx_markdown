@@ -8,7 +8,7 @@
 
 **Department of Justice** je federální výkonný útvar vlády Spojených států pověřený prosazováním federálního práva a výkonem spravedlnosti. V rámci státu San Andreas je nejvyšším orgánem soudní moci a koordinuje činnost soudů a dalších justičních složek.
 
-**Generální prokurátor (Attorney General)** je nejvyšším představitelem Department of Justice. Současným generálním prokurátorem je **Leon Baxter, J.D., Ph.D.**, který složil přísahu dne 27. 6. 2023. 
+**Generální prokurátor (Attorney General)** je nejvyšším představitelem Department of Justice.
 
 Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo Department of Justiceo veškerou soudní moc na území Los Santos. Nyní zde působí **Soud Los Santos**, který je zastoupen předsedou a místopředsedou.
 
@@ -79,9 +79,7 @@ Department of Justice vykonává tyto funkce:
 ### **Sedmý dodatek:**
 - Zakazuje udělování nadměrných pokut a nadměrných kauce a zakazuje používání krutých a neobvyklých trestů.
 
-
 ---
-
 
 ### Zákon č. 02/2022
 *Zákon o ustanovení státních složek*
