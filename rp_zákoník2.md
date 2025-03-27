@@ -1524,11 +1524,11 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
    e) v případě potřeby aměstnanec státní ozbrojené složky požádá DoJ o prodloužení dony zabavení věcí na dobu nezbytně nutnou k prošetření
 
-3. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
+2. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
 
     a) zabavení dopravního prostředku na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
 
-    b) opakování trestného činu - pokud někdo spáchá tři trestné činy se stejným dopravním prostředkem, bude trvale odebrán
+    b) pokud osoba třikrát poruší §1 Ublížení na zdraví písm. c), d) z téhož dopravního prostředku, ať už na zaměstnance státní ozbrojené složky nebo jiné osoby, bude jí tento dopravní prostředek trvale odebrán
 
 ### **§ 17 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
