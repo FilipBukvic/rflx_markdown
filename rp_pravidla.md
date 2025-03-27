@@ -47,6 +47,7 @@
 - Zneužití informací, které získáme mimo herní svět (OOC), přičemž tyto informace následně využijeme za postavu v herním světě (IC).
 - Je zakázáno využívat informace, které vaše postava neví a nemá se k nim jak dostat (např. využití informací po CK).
 - Je zakázáno přenášet informace mezi postavami (v rámci multicharu), jedná se o porušení pravidel, které je trestáno banem - metagaming!
+- Je zakázáno využívat Discord PM jako formu IC komunikace, je nutné použít systém e-mailů ve hře. 
 
 
 ## Mixing
