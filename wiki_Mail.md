@@ -1,10 +1,10 @@
-## **Herní E-Mail systém**
+# **Herní E-Mail systém**
 
 Tento systém slouží jako **jediný možný způsob posílání IC e-mailů** (in-character komunikace). **Discord PM** nelze používat pro IC komunikaci.
 
 ---
 
-### **Jak systém používat?**
+## **Jak systém používat?**
 
 1. **Otevření e-mailu ve hře:**  
     Použij příkaz **/email** k otevření své e-mailové schránky, kde můžeš:  
