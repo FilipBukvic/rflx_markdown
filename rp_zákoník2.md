@@ -1285,7 +1285,15 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    a) Výkon právní činnosti bez advokátní licence je trestný čin, který se trestá odnětím svobody na čtyři až osm let a pokutou až do výše 15.000$
    
    b) V případě porušení může soud uložit také zákaz činnosti na dobu neurčitou
-   
+
+### **§ 22 Profesní chování**
+
+- Člen advokátní komory, advokát nebo prokurátor je povinen dodržovat etický kodex a řídit se jeho ustanoveními při výkonu své profese.
+
+a) méně závažná porušení mohou vést k formálnímu napomenutí nebo varování
+
+b) advokátovi může být dočasně pozastavena advokátní licence na určitou dobu
+
 ---  
 
 ## Zákon č. 9/2024
@@ -1449,20 +1457,15 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 - Státní ozbrojené složky jsou při výkonu svých pravomocí povinny postupovat přiměřeně, tak aby zásah do práv a svobod osob byl omezen pouze na nezbytnou míru potřebnou k dosažení účelu zákroku.
 
 ### **§ 10 Prokazování příslušnosti**
-- Příslušníci státních složek jsou povinni při plnění úkolů povinni se prokázat
+1. Při provádění úkonu je příslušník státní ozbrojené složky povinen prokázat svou příslušnost k státní ozbrojené složce služebním stejnokrojem, služebním odznakem, na kterých musí být zřetelně viditelné číslo odznaku. 
 
-   a) služebním stejnokrojem
+2. Pokud povaha nebo okolnosti úkonu neumožňují prokázat příslušnost způsobem podle odstavce 1, prokáže příslušník státní ozbrojené složky svou příslušnost k státní ozbrojené složce ústním prohlášením „LSPD“ nebo „LSSD“; to neplatí, brání-li povaha nebo okolnosti úkonu také ústnímu prohlášení. Způsobem podle odstavce 1 se příslušník státní ozbrojené složky prokáže ihned, jakmile to okolnosti úkonu dovolí.
 
-   b) služebním odznakem
+3. Povinnost prokázat příslušnost k státní ozbrojené složce nemá příslušník státní ozbrojené složky, který tuto příslušnost oprávněně zastírá.
 
-   c) ústním zvoláním názvu státní složky
+4. Příslušníci státních složek nejsou povinni sdělovat číslo odznaku příslušníka státní ozbrojené složky, který není přítomen.
 
-### **§ 11 Povinnost identifikace**
-1. Příslušníci státních složek jsou povinni se při výkonu služby na požádání identifikovat služebním číslem.
-2. Tato povinnost se nevztahuje na případy, kdy by identifikace mohla ohrozit probíhající operaci, bezpečnost příslušníka, nebo jinou oprávněnou osobu.
-3. Služební číslo musí být poskytnuto jasně a srozumitelně způsobem, který umožňuje jeho jednoznačnou identifikaci.
-4. Porušení této povinnosti může být považováno za kázeňský přestupek, pokud není odůvodněno zvláštními okolnostmi výkonu služby.
-
+5. Porušení této povinnosti může být považováno za kázeňský přestupek, pokud není odůvodněno zvláštními okolnostmi výkonu služby.
 
 ### **§ 12 Poučení o právech (Miranda práva)**
 
@@ -1632,9 +1635,9 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 
 ### **§ 24 Světelné a zvukové zařízení**
-1. Zaměstnanec státní ozbrojené složky má pravomoc použít světelné a zvukové zařízení v rámci své služby, pokud k tomu má dostatečný důvod, zejména za účelem zajištění bezpečnosti, veřejného pořádku nebo v souvislosti s plněním služebních povinností.
-2. Zaměstnanec státní ozbrojené složky nesmí zneužít světelného a zvukového zařízení k dosažení osobního prospěchu nebo zvýhodnění ve vztahu k ostatním účastníkům provozu bez dostatečného a oprávněného důvodu.
-3. Zaměstnanec státní ozbrojené složky je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem, a to bezodkladně nadřízeným.
+1. Zaměstnanec státní ozbrojené složky, stejně jako zaměstnanec EMS a LSFD, má pravomoc použít světelné a zvukové zařízení v rámci své služby, pokud k tomu má dostatečný důvod, zejména za účelem zajištění bezpečnosti, veřejného pořádku nebo v souvislosti s plněním služebních povinností.
+2. Zaměstnanec státní ozbrojené složky, stejně jako zaměstnanec EMS a LSFD, nesmí zneužít světelného a zvukového zařízení k dosažení osobního prospěchu nebo zvýhodnění ve vztahu k ostatním účastníkům provozu bez dostatečného a oprávněného důvodu.
+3. Zaměstnanec státní ozbrojené složky, stejně jako zaměstnanec EMS a LSFD, je povinen nahlásit jakékoli zneužití světelného a zvukového zařízení, jehož je svědkem, a to bezodkladně nadřízeným.
 
 
 ### **§ 25 Donucovací prostředky**
