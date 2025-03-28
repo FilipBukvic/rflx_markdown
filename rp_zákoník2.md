@@ -1535,7 +1535,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
     a) zabavení dopravního prostředku na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
 
-    b) pokud osoba třikrát poruší §1 Ublížení na zdraví písm. c), d) z téhož dopravního prostředku, ať už na zaměstnance státní ozbrojené složky nebo jiné osoby, bude jí tento dopravní prostředek trvale odebrán
+    b) pokud osoba třikrát poruší §1 Ublížení na zdraví písm. c), d) z téhož dopravního prostředku, ať už na zaměstnance státní ozbrojené složky nebo jiné osoby, může na základě žádosti u DoJ být vozidlo trvale zabaveno
 
 ### **§ 17 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
