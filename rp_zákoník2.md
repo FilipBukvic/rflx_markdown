@@ -15,7 +15,7 @@ Po reformě soudnictví v Los Santos (1. 11. 2022) převzalo Department of Justi
 ### **Struktura Department of Justice:**
 
 1. **Generální prokurátor (Attorney General):** dle jmenování.
-2. **Zástupce generálního prokurátora (Deputy Attorney General):** Philip Nixon, J.D., Spencer Hayes J.D., Thomas Langston J.D.
+2. **Zástupce generálního prokurátora (Deputy Attorney General):**Spencer Hayes J.D., Thomas Langston J.D.
 3. **Předseda Soudu Los Santos:** dle jmenování.
 4. **Pracovníci justiční komory a další právníci:** dle jmenování.
 
@@ -1304,81 +1304,81 @@ b) advokátovi může být dočasně pozastavena advokátní licence na určitou
 ### **§ 1 Jurisdikce ozbrojených složek Los Santos Police Department**
 1. LSPD má ve své jurisdikci tyto body:
 
-   a) chrání bezpečnost osob a majetku.
+   a) chrání bezpečnost osob a majetku
    
-   b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+   b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení
    
-   c) vede boj proti terorismu.
+   c) vede boj proti terorismu
    
-   d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+   d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán
    
-   e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+   e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení
    
-   f) kontroluje pravost a platnost dokladů.
+   f) kontroluje pravost a platnost dokladů
    
-   h) vede evidence a statistiky potřebné pro plnění svých úkolů.
+   h) vede evidence a statistiky potřebné pro plnění svých úkolů
    
-   ch) vyhlašuje celostátní pátrání.
+   ch) vyhlašuje celostátní pátrání
    
-   i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+   i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody
    
-   j) zadržuje osoby vyhlášené v pátrání.
+   j) zadržuje osoby vyhlášené v pátrání
    
-   k) zajištění veřejného pořádku.
+   k) zajištění veřejného pořádku
    
-   l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+   l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov
    
-   m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+   m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou
    
-   n) vede boj proti organizovanému zločinu.
+   n) vede boj proti organizovanému zločinu
    
-   o) Los Santos Police Department působí na celém území San Andreas.
+   o) Los Santos Police Department působí na celém území San Andreas
    
-   p) role Los Santos Police Department provádějí police officers.
+   p) role Los Santos Police Department provádějí police officers
    
-   q) za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department.
+   q) za Los Santos Police Department nese odpovědnost Chief of Los Santos Police Department
    
-   r) vedení LSPD jmenuje a odvolává Department Of Justice.
+   r) vedení LSPD jmenuje a odvolává Department Of Justice
 
 
 ### **§ 2 Jurisdikce ozbrojených složek Los Santos Sheriff Department**
 1. LSSD má ve své jurisdikci tyto body:
 
-   a) chrání bezpečnost osob a majetku.
+   a) chrání bezpečnost osob a majetku
    
-   b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení.
+   b) spolupůsobí při zajišťování veřejného pořádku, a byl-li porušen, činí opatření k jeho obnovení
    
-   c) vede boj proti terorismu.
+   c) vede boj proti terorismu
    
-   d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán.
+   d) odhaluje trestné činy, zjišťuje jejich pachatele a realizuje opatření při předcházení trestné činnosti, koná vyšetřování o trestných činech - v trestním řízení vystupuje jako policejní orgán
    
-   e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení.
+   e) dohlíží na bezpečnost a plynulost silničního provozu a spolupůsobí při jeho řízení
    
-   f) kontroluje pravost a platnost dokladů.
+   f) kontroluje pravost a platnost dokladů
    
-   h) vede evidence a statistiky potřebné pro plnění svých úkolů.
+   h) vede evidence a statistiky potřebné pro plnění svých úkolů
    
-   ch) vyhlašuje celostátní pátrání.
+   ch) vyhlašuje celostátní pátrání
    
-   i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody.
+   i) na základě vyrozumění orgánu Vězeňské služby Los Santos, provádí úkony související s bezprostředním pronásledováním osob, které uprchly z výkonu vazby nebo z výkonu trestu odnětí svobody
    
-   j) zadržuje osoby vyhlášené v pátrání.
+   j) zadržuje osoby vyhlášené v pátrání
    
-   k) zajištění veřejného pořádku.
+   k) zajištění veřejného pořádku
    
-   l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov.
+   l) plní úkoly státní složky - může být povolána k ochraně a zajištění vládních budov
    
-   m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou.
+   m) plní úkoly státní složky - může být povolána k ochraně ústavních činitelů, a lidí s trestněprávní imunitou
    
-   n) vede boj proti organizovanému zločinu.
+   n) vede boj proti organizovanému zločinu
    
-   o) Los Santos Sheriff Department s působností na celém území San Andreas.
+   o) Los Santos Sheriff Department s působností na celém území San Andreas
    
-   p) úkoly Los Santos Sheriff Department vykonávají sheriff deputy.
+   p) úkoly Los Santos Sheriff Department vykonávají sheriff deputy
    
    q) za Los Santos Sheriff Department nese odpovědnost Sheriff of Los Santos Sheriff Department
    
-   r) vedení LSSD jmenuje a odvolává Department Of Justice.
+   r) vedení LSSD jmenuje a odvolává Department Of Justice
 
 ### **§ 3 Jurisdikce ozbrojených složek Drug Enforcement Administration**
 1. DEA má ve své jurisdikci tyto body:
@@ -1500,19 +1500,19 @@ b) advokátovi může být dočasně pozastavena advokátní licence na určitou
 ### **§ 14 Omezení na osobní svobodě**
 1. Zaměstnanec státní ozbrojené složky má pravomoc omezit osobní svobodu osoby v následujících situacích:
 
-   a) Osoba klade fyzický odpor.
+   a) osoba klade fyzický odpor
    
-   b) Osoba ohrožuje život svůj nebo jiných osob.
+   b) osoba ohrožuje život svůj nebo jiných osob
    
-   c) Osoba poškozuje osobní, cizí nebo veřejný majetek.
+   c) osoba poškozuje osobní, cizí nebo veřejný majetek
    
-   d) Osoba se pokouší o útěk.
+   d) osoba se pokouší o útěk
    
-   e) Osoba odmítá nebo nemůže prokázat svou totožnost.
+   e) osoba odmítá nebo nemůže prokázat svou totožnost
    
-   f) Osoba neuposlechne výzvu státní ozbrojené složky.
+   f) osoba neuposlechne výzvu státní ozbrojené složky
    
-   K omezení osobní svobody lze použít pouze služební pouta.
+   K omezení osobní svobody lze použít pouze služební pouta
 
 ### **§ 15 Cely státních ozbrojených složek**
 
