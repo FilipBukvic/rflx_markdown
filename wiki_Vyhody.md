@@ -9,8 +9,8 @@ Herní výhody jsou benefity, které zlepšují zážitek hráčů portálu TROR
  Reflex Coiny jsou virtuální měnou portálu TROR.EU, která umožňuje hráčům zakoupit různé výhody a personalizace.
 
 **K čemu lze Reflex Coiny využít?**
-* Zakoupení vlastního telefonního čísla.  
-* Zakoupení vlastní SPZ na vozidle.  
+* Zakoupení vlastní SPZ na vozidle.
+* Zakoupení vlastního telefonního čísla (připravujeme).  
 * Reflex+ předplatné (připravujeme).
 * Queue pointy (připravujeme).
 
