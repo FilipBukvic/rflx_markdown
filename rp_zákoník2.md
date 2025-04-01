@@ -241,7 +241,7 @@ Department of Justice vykonává tyto funkce:
 
 4. Následky porušení podmínky
 
-- Pokud pachatel během uložené podmínky spáchá čin, za který mu byla podmínka stanovena, bude trestán jak za tento nový čin dle příslušného zákona, tak i za původní čin, za který mu byla podmínka uložena.
+- Pokud pachatel během uložené podmínky spáchá jakýkoliv trestný čin, bude trestán jak za tento nový čin dle příslušného zákona, tak i za původní čin, za který mu byla podmínka uložena.
 
 ### **§ 5 Terorismus**
 
@@ -290,9 +290,17 @@ Department of Justice vykonává tyto funkce:
 
     b) Těžké ublížení na zdraví - způsobení vážného zranění, které vede k hospitalizaci delší než 7 dní nebo k trvalým následkům (např. ztráta zraku, sluchu, končetiny) se trestá odnětím svobody na dobu 2 až 5 let a pokutou do výše 3.000$
 
-    c) Ublížení na zdraví se zbraní - pokud je čin spáchán střelnou, sečnou nebo jinou smrtící zbraní se trestá odnětím svobody na 5 až 10 let a pokutou do výše 5.000$
+   c) Osoba která se dopustí útoku smrtící zbraní která není střelná se trestá odnětím svobody od 1 let do 3 let a pokutou do výše 2.000$
 
-    d) Ublížení na zdraví proti úřední osobě se rozumí útok veden proti policistovi, zdravotníkovi nebo jinému státnímu zaměstnanci se trestá odnětím svobody od 5 let do 15 let a pokutou do výše 7.000$
+   c/1) Osoba která se dopustí útoku poloautomatickou střelnou zbraní se trestá odnětím svobody od 3 let do 5 let a pokutou do výše 3.500$
+
+   c/2) Osoba která se dopustí útoku automatickou střelnou zbraní se trestá odnětím svobody od 5 let do 7 let a pokutou do výše 5.000$
+
+   d) Osoba která se dopustí útoku smrtící zbraní která není střelná proti úřední osobě se rozumí útok proti policistovi,zdravotníkovi nebo jinému státnímu zaměstnanci se trestá odnětím svobody od 3 let do 5 let a pokutou do výše 3.000$ 
+
+   d/1) Osoba která se dopustí útoku poloautomatickou střelnou zbraní proti úřední osobě se rozumí útok proti policistovi,zdravotníkovi nebo jinému státnímu zaměstnanci se trestá odnětím svobody od 5 let do 7 let a pokutou do výše 4.000$
+
+   d/2) Osoba která se dopustí útoku automatickou střelnou zbraní proti úřední osobě se rozumí útok proti policistovi,zdravotníkovi nebo jinému státnímu zaměstnanci se trestá odnětím svobody od 7 let do 15 let a pokutou do výše 7.000$
 
 
 ### **§ 2 Napadení**
@@ -483,7 +491,7 @@ Department of Justice vykonává tyto funkce:
 ### **§ 30 Útěk**
 1. Kdo unikne před úřední osobou po výzvě k zastavení, včetně pokusu o útěk, dopouští se přestupku, který se trestá pokutou do výše 2.500$.
 
-   a) Při opakovaném jednání v krátkém časovém období (méně než 3 dny), včetně pokusu o útěk, se jedná o trestný čin, za který hrozí trest odnětí svobody na jeden až dva roky a pokuta do výše 3.500$.
+   a) Při opakovaném jednání v krátkém časovém období (během 72 hodin), včetně pokusu o útěk, se jedná o trestný čin, za který hrozí trest odnětí svobody na jeden až dva roky a pokuta do výše 3.500$.
 
 
 ### **§ 31 Mučení**
@@ -572,7 +580,7 @@ Department of Justice vykonává tyto funkce:
 
 ### **§ 43 Nelegální rozebírání vozidla**
 1. Kdo bez příslušného povolení provede nelegální rozebrání vozidla, dopouští se přestupku. Za tento přestupek hrozí pokuta do výše 2.000$.
-2. Pokud dojde k opakovanému nelegálnímu rozebírání vozidla v krátkém časovém období (do 3 dnů), jedná se o trestný čin. Trest za tento trestný čin zahrnuje odnětí svobody v délce jeden až dva roky a pokutu do výše 3.000$.
+2. Pokud dojde k opakovanému nelegálnímu rozebírání vozidla v krátkém časovém období (během 72 hodin), jedná se o trestný čin. Trest za tento trestný čin zahrnuje odnětí svobody v délce jeden až dva roky a pokutu do výše 3.000$.
 
    
 ### **§ 44 Obecné ohrožení**
@@ -628,10 +636,10 @@ Department of Justice vykonává tyto funkce:
    
    b) Pokud je toto jednání opakované a dochází k němu v krátkém časovém období (3 dnů), jedná se o trestný čin, za který hrozí trest odnětí svobody od jednoho roku do dvou let a pokutou do výše 3.000$
 
-2. Řízení vozidla bez platného řidičského oprávnění u sebe, se trestá pokutou do výše 200$.
+2. Řízení vozidla bez platného řidičského oprávnění u sebe, se trestá pokutou do výše 200$ a odtažením vozidla.
 
 ### **§ 3 Řízení vozidla bez poznávacích značek**
-- Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta až do výše 1.500$.
+- Vozidlo provozované na pozemní komunikaci musí být opatřeno platnou SPZ, a za její nepřítomnost hrozí pokuta do výše 1.500$ a odtažení vozidla
 
 
 ### **§ 4 Jízda pod vlivem**
@@ -894,7 +902,7 @@ Je přestupek, který se trestá pokutou do výše 500$.
 
 
 ### **§ 5 Nedovolený převoz**
-- Nedovolený převoz psychotropních a omamných látek na palubě stroje je trestný čin který se trestá odnětím svobody v délce tři až osm roky, pokutou odebráním licence i stroje
+- Nedovolený převoz psychotropních a omamných látek na palubě stroje je trestný čin který se trestá odnětím svobody v délce tři až osm let a odebráním licence i stroje
 
 
 ### **§ 6 Místa určená pro přistávání**
@@ -1041,11 +1049,13 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 ### **§ 5 Podmínky na vydání zbrojního průkazu**
 1. Zbrojní průkaz může být vydán pouze osobě, která
 
-   a) je občanem státu San Andreas.
+   a) je občanem státu San Andreas
    
-   b) je způsobilá k právním úkonům.
+   b) je způsobilá k právním úkonům
    
-   c) dovršila nebo je starší 21 let věku.
+   c) dovršila nebo je starší 21 let věku
+
+   d) nebyla pravomocně odsouzena za násilný trestný čin
 
 ### **§ 6 Oprávnění držitele zbrojního průkazu**
 - Držitel zbrojního průkazu je oprávněn nosit zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
@@ -1208,13 +1218,13 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 
 
 ### **§ 14 Obhájce**
-1. obhájce, tedy koncipient nebo advokát, zastupuje obžalovaného v trestním řízení; obhajobu může vykonávat pouze koncipient nebo advokát zapsaný v advokátní komoře Los Santos, na základě plné moci nebo ustanovení soudem (ex offo) v případech nutné obhajoby
-2. obviněný má právo zvolit si advokáta přiděleného ex offo nebo soukromého koncipienta/advokáta
-3. koncipient/advokát pomáhá ve všech fázích trestního řízení, od podání vysvětlení na policii po soudní líčení, a dohlíží na dodržování práv obviněného
-4. koncipient/advokát se může účastnit výslechů, klást otázky svědkům, předkládat důkazy a zdůrazňovat skutečnosti ve prospěch obviněného
-5. koncipient/advokát komunikuje s orgány činnými v trestním řízení, podává písemná podání a navrhuje odklony v trestním řízení
-6. koncipient/advokát může navrhnout alternativní trest, pokud s tím souhlasí strana vyšetřovatele (žaloby)
-7. v případě nezákonného trestního stíhání může koncipient/advokát požadovat a uplatňovat náhradu škody
+1. Obhájce, tedy koncipient nebo advokát, zastupuje obžalovaného v trestním řízení; obhajobu může vykonávat pouze koncipient nebo advokát zapsaný v advokátní komoře Los Santos, na základě plné moci nebo ustanovení soudem (ex offo) v případech nutné obhajoby
+2. Obviněný má právo zvolit si advokáta přiděleného ex offo nebo soukromého koncipienta/advokáta
+3. Koncipient/advokát pomáhá ve všech fázích trestního řízení, od podání vysvětlení na policii po soudní líčení, a dohlíží na dodržování práv obviněného
+4. Koncipient/advokát se může účastnit výslechů, klást otázky svědkům, předkládat důkazy a zdůrazňovat skutečnosti ve prospěch obviněného
+5. Koncipient/advokát komunikuje s orgány činnými v trestním řízení, podává písemná podání a navrhuje odklony v trestním řízení
+6. Koncipient/advokát může navrhnout alternativní trest, pokud s tím souhlasí strana vyšetřovatele (žaloby)
+7. V případě nezákonného trestního stíhání může koncipient/advokát požadovat a uplatňovat náhradu škody
 
 
 **Pohrdání a znevažování pravomocného rozhodnutí Department Of Justice**
@@ -1290,9 +1300,9 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 - Člen advokátní komory, advokát nebo prokurátor je povinen dodržovat etický kodex a řídit se jeho ustanoveními při výkonu své profese.
 
-a) méně závažná porušení mohou vést k formálnímu napomenutí nebo varování
+   a) méně závažná porušení mohou vést k formálnímu napomenutí nebo varování
 
-b) advokátovi může být dočasně pozastavena advokátní licence na určitou dobu
+   b) advokátovi může být dočasně pozastavena advokátní licence na určitou dobu
 
 ---  
 
