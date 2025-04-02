@@ -749,6 +749,18 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
+### **§ 15 Jízda pod vlivem alkoholu/omamných látek**
+
+1. Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky
+
+a) je přestupek, který se trestá pokutou do výše 2.000$ a odebrání řidičského oprávnění po dobu 2 dnů
+
+2. Maximální přípustná hladina alkoholu v krvi činí méně než 0,25 promile.
+
+### **§ 16 Poplatek za odbavení vozidla**
+
+- Poplatek za odbavení vozidla činí 1.000$. Po uplynutí doby zabavení a uhrazení poplatku je vozidlo následně odbaveno.
+
 ---  
 
 ## Zákon č. 3/2024
