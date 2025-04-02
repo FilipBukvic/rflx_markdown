@@ -337,7 +337,7 @@ Department of Justice vykonává tyto funkce:
    
    d) střelivo nespadající pod GUR - je přestupek, trestaný pokutou do výše 1.500$
 
-   e) doplňky nespadající pod GUR jsou nelegální a jejich držení je přestupek pokutou do výše 1.000$
+   e) doplňky nespadající pod GUR jsou nelegální a jejich držení je přestupek trestaný pokutou do výše 1.000$
 
    f) opakované jednání: v případě, že se přestupek uveden v písm. e) opakuje v krátkém časovém období (během 72 hodin), jedná se trestný čin s odnětím svobody na jeden rok a pokutou do výše 2.500$
 
@@ -1701,7 +1701,8 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 2.  Zaměstnanec státní ozbrojené složky má povinnost při používání zbraně zajistit, aby následkem použití zbraně nedošlo k újmě na zdraví nezúčastněných osob, a musí činit všechna možná opatření, aby minimalizoval riziko pro okolí.
 
 ### **§ 27 Zatčení**
-- Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
+1. Pokud se osoba nedostaví k hlavnímu líčení bez řádné omluvy a vážného důvodu, může na ni soudce vydat zatykač. Zatčením osoby se rozumí dočasné omezení její osobní svobody vedoucí k postavení osoby před soud.
+2. V případě že se osoba dopustí trestného činu a podaří se jí uniknout státním ozbrojeným složkám, může LSPD nebo LSSD příslušník požádat na základě přímích důkazů DOJ o příkaz k zatčení osoby.
 
 **Postupy státních ozbrojených složek**
 
