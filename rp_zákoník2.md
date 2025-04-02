@@ -643,8 +643,10 @@ Department of Justice vykonává tyto funkce:
 
 
 ### **§ 4 Jízda pod vlivem**
-- Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky je přestupek, který se trestá pokutou do výše 2.500$ a odebráním řidičského oprávnění po dobu dvou dnů.
 
+1. Maximální přípustná hladina alkoholu v krvi činí méně než 0,25 promile.
+
+- Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky je přestupek, který se trestá pokutou do výše 2.500$ a odebráním řidičského oprávnění po dobu dvou dnů.
 
 ### **§ 5 Nerespektování dopravního značení**
 - Řidič je povinen řídit se vodícími značkami a světelnými signály na pozemních komunikacích, porušení je klasifikováno jako přestupek, je trestáno pokutou do výše 750$.
@@ -749,15 +751,7 @@ d) Způsobení dopravní nehody pod vlivem alkoholu nebo jiných návykových l�
 
 Je přestupek, který se trestá pokutou do výše 500$.
 
-### **§ 15 Jízda pod vlivem alkoholu/omamných látek**
-
-1. Řízení vozidla pod vlivem alkoholu, omamné nebo psychotropní látky
-
-a) je přestupek, který se trestá pokutou do výše 2.000$ a odebrání řidičského oprávnění po dobu 2 dnů
-
-2. Maximální přípustná hladina alkoholu v krvi činí méně než 0,25 promile.
-
-### **§ 16 Poplatek za odbavení vozidla**
+### **§ 15 Poplatek za odbavení vozidla**
 
 - Poplatek za odbavení vozidla činí 1.000$. Po uplynutí doby zabavení a uhrazení poplatku je vozidlo následně odbaveno.
 
