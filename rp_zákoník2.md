@@ -1061,7 +1061,9 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
    
    c) dovršila nebo je starší 21 let věku
 
-   d) nebyla pravomocně odsouzena za násilný trestný čin
+   d) je držitelem platných psychotestú - zbrojní průkaz
+
+   e) nebyla pravomocně odsouzena za násilný trestný čin
 
 ### **§ 6 Oprávnění držitele zbrojního průkazu**
 - Držitel zbrojního průkazu je oprávněn nosit zbraň kategorie "GUR", přičemž musí nosit zbraň skrytě.
