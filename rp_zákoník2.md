@@ -765,73 +765,74 @@ Je přestupek, který se trestá pokutou do výše 500$.
 ### **§ 1 Pěstování marihuany**
 1. Pěstování marihuany je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
    
-   a) Pěstování marihuany v množství do 10 rostlin je trestným činem, který se trestá odnětím svobody na dobu od jednoho do čtyř let a pokutou do výše 12.000 $.
+   a) Pěstování marihuany v množství do 10 rostlin je trestným činem, který se trestá odnětím svobody na dobu od jednoho do čtyř let a pokutou do výše 12.000 $
 
-   b) Pěstování marihuany v množství od 11 do 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od tří do šesti let a pokutou do výše 20.000 $.
+   b) Pěstování marihuany v množství od 11 do 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od tří do šesti let a pokutou do výše 20.000 $
 
-   c) Pěstování marihuany v množství nad 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 40.000 $.
+   c) Pěstování marihuany v množství nad 50 rostlin je trestným činem, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 40.000 $
 
    
 ### **§ 2 Držení marihuany**
 1. Držení marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
-   a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou do výše 2.000$.
+   a) Držení marihuany v množství od 5 do 20 gramů je přestupek, který se trestá pokutou do výše 2.000$
 
-   b) Držení marihuany v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 6.000$.
+   b) Držení marihuany v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do pěti let a pokutou do výše 6.000$
 
-   c) Držení marihuany v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od čtyř do desti let pokutou do výše 15.000$.
+   c) Držení marihuany v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od čtyř do desti let pokutou do výše 15.000$
 
-   d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let pokutou do výše 50.000$.
+   d) Držení marihuany v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let pokutou do výše 50.000$
+
+2. Držení semínek marihuany v jakémkoliv počtu je přestupek, který se trestá pokutou do výše 1.000$.
 
 
 ### **§ 3 Prodej marihuany**
 1. Prodej marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
-   a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do čtyř let a pokutou do výše 7.500$.
+   a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do čtyř let a pokutou do výše 7.500$
    
-   b) Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti do osmi let a pokutou do výše 15.000$.
+   b) Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti do osmi let a pokutou do výše 15.000$
    
-   c) Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od osmi do dvanáci let a pokutou do výše 25.000$.
+   c) Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od osmi do dvanáci let a pokutou do výše 25.000$
    
-   d) Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 50.000$.
+   d) Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 50.000$
 
 
 **Kokain & Heroin**
 
-### **§ 4 Výroba kokainu nebo heroinu**
-1. Výroba kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+### **§ 4 Výroba kokainu, heroinu a metamfetaminu**
+1. Výroba kokainu, heroinu a metamfetaminu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
-   a) Výroba kokainu nebo heroinu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do pěti let a pokutou do výše 15.000$.
+   a) Výroba kokainu, heroinu a metamfetaminu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do pěti let a pokutou do výše 15.000$
    
-   b) Výroba kokainu nebo heroinu v množství od 51 gramů do 300 gramů je trestný čin, který se trestá odnětím svobody od čtyř do deseti let a pokutou do výše 45.000$.
+   b) Výroba kokainu, heroinu a metamfetaminu v množství od 51 gramů do 300 gramů je trestný čin, který se trestá odnětím svobody od čtyř do deseti let a pokutou do výše 45.000$
    
-   c) Výroba kokainu nebo heroinu v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti let po doživotí a pokutou do výše 150.000$.
-
-
-### **§ 5 Prodej kokainu nebo heroinu**
-1. Prodej kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
-
-   a) Prodej kokainu nebo heroinu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od dvou do pěti let a pokutou do výše 25.000$.
-   
-   b) Prodej kokainu nebo heroinu v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 45.000$.
-   
-   c) Prodej kokainu nebo heroinu v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 100.000$.
-   
-   d) Prodej kokainu nebo heroinu v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti do dvacetipěti let a pokutou do výše 150.000$.
+   c) Výroba kokainu, heroinu a metamfetaminu v množství nad 1.000 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti let po doživotí a pokutou do výše 150.000$
 
 
-### **§ 6 Držení kokainu nebo heroinu**
-1. Držení kokainu nebo heroinu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
-   
-   a) Držení kokainu nebo heroinu v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do čtyř let a pokutou do výše 10.000$.
-   
-   b) Držení kokainu nebo heroinu v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od dvou let do pěti let a pokutou do výše 25.000$.
-   
-   c) Držení kokainu nebo heroinu v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti let do patnácti let a pokutou do výše 60.000$.
-   
-   d) Držení kokainu nebo heroinu v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti let do dvaceti let a pokutou do výše 100.000$.
-   
+### **§ 5 Prodej kokainu, heroinu a metamfetaminu**
+1. Prodej kokainu, heroinu a metamfetaminu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
+   a) Prodej kokainu, heroinu a metamfetaminu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od dvou do pěti let a pokutou do výše 25.000$
+   
+   b) Prodej kokainu, heroinu a metamfetaminu v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 45.000$
+   
+   c) Prodej kokainu, heroinu a metamfetaminu v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 100.000$
+   
+   d) Prodej kokainu, heroinu a metamfetaminu v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti do dvacetipěti let a pokutou do výše 150.000$
+
+
+### **§ 6 Držení kokainu, heroinu a metamfetaminu**
+1. Držení kokainu, heroinu a metamfetaminu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
+   
+   a) Držení kokainu, heroinu a metamfetaminu v množství do 20 gramů je trestný čin, který se trestá odnětím svobody na dobu od jednoho roku do čtyř let a pokutou do výše 10.000$
+   
+   b) Držení kokainu, heroinu a metamfetaminu v množství od 21 do 100 gramů je trestný čin, který se trestá odnětím svobody na dobu od dvou let do pěti let a pokutou do výše 25.000$
+   
+   c) Držení kokainu, heroinu a metamfetaminu v množství od 101 do 300 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti let do patnácti let a pokutou do výše 60.000$
+   
+   d) Držení kokainu, heroinu a metamfetaminu v množství nad 301 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti let do dvaceti let a pokutou do výše 100.000$
+   
 ---  
 
 ## Zákon č. 4/2024
@@ -853,7 +854,6 @@ Je přestupek, který se trestá pokutou do výše 500$.
 3. Na celém území ostrova Cayo Perico platí zákony Los Santos.
 4. Pokud San Andreas Naval Defense zadrží osobu, je povinna okamžitě kontaktovat státní ozbrojené složky Los Santos. Zadržená osoba musí být neprodleně převezena na území Los Santos a předána k dalšímu vyšetřování.
    
-
 ---  
 
 ## Zákon č. 5/2024
