@@ -1071,6 +1071,22 @@ B) GUR = Guns Under Registration (Civilní zbraně - možnost registrace)
 ### **§ 7 Odebrání zbrojního průkazu**
 - Zbrojní průkaz může být odebrán členem státní složky během výkonu služby, pokud se jeho držitel dopustil trestného činu se střelnou zbraní
 
+### **§ 8 Povinnosti držitele zbrojního průkazu**
+
+1. Držitel zbrojního průkazu je povinen:
+
+    a) zajistit bezpečné uložení zbraně mimo dosah neoprávněných osob
+
+    b) nahlásit ztrátu nebo odcizení zbraně neprodleně po jejím zjištění
+
+    c) nenosit ani nepoužívat zbraň pod vlivem alkoholu nebo omamných látek
+
+2. Pokud držitel nenahlásí ztrátu zbraně a touto zbraní je následně spáchán trestný čin, může mu být:
+
+    a) odebrán zbrojní průkaz
+
+    b) uložen zákaz opětovného absolvování psychotestů až na dobu 7 dní
+
 ---  
 
 ## Zákon č. 8/2024
