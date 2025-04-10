@@ -139,6 +139,34 @@ Department of Justice vykonává tyto funkce:
 7. Chief of Los Santos Fire Department je na stejné úrovni jako Director of Emergency Medical Services a zbylé vedení EMS v případě, že sám je vedením EMS.
 8. Vedení EMS/LSFD jmenuje a odvolává vždy jen GSoSA a DoJ.
 
+### **§ 7 Commissoner Code LSPD a LSSD**
+
+*pravomoce commisssonera*
+1. Velení složkám LSPD
+- Je přímým nadřízeným Chiefa of Police a Sheriffa a dohlíží na jejich činnost.
+- Vydávání závazných rozkazů napříč celým LSPD nebo LSSD.  
+- Řízení taktických i běžných operací, včetně schvalování speciálních zásahů.
+
+2. Disciplinární pravomoc  
+- Má oprávnění suspendovat, degradovat nebo propustit člena LSPD nebo LSSD při porušení zákona, vnitřních předpisů nebo služební přísahy.  
+- Může kdykoliv zahájit interní vyšetřování (IA) a přezkoumat chování jakéhokoliv člena LSPD nebo LSSD.
+3. Interní předpisy a procesy  
+- Zodpovídá za vytváření, úpravu a schvalování všech interních předpisů LSPD nebo LSSD, včetně Standardních operačních postupů.
+- Má pravomoc měnit strukturu fungování oddělení, přizpůsobovat protokoly operativním potřebám a dbát na to, aby všechny směrnice byly v souladu se zákonem.
+
+*povinnosti commisssonera*
+1. Dodržování zákona  
+- Commissioner musí jednat v souladu s Ústavou USA, zákony státu San Andreas a předpisy města Los Santos.  
+- Nese osobní odpovědnost za zákonnost rozhodnutí celého oddělení.
+
+2. Transparentnost a dohled  
+- Má povinnost vést kompletní záznamy o zásazích, kázeňských řízeních a změnách předpisů.  
+- Odpovídá za vnitřní dohled nad činností oddělení a za kontrolu správnosti interních procesů.
+
+3. Etické a profesionální jednání  
+- Commissioner je povinen jednat nestranně, bez vlivu osobních zájmů, a ve veřejném zájmu.  
+- Je mu zakázáno zneužít své pravomoci nebo ohrozit důvěru veřejnosti v LSPD nebo LSSD.
+
 ---
 
 ## Zákon č. 10/2022  
@@ -1773,6 +1801,68 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    c) Jakékoli přiznání nebo důkaz získaný v rozporu s tímto zákonem je neplatný a nemůže být použit v soudním řízení.
 
 - V případě důvodného podezření na porušení tohoto zákona může být člen LSPD nebo LSSD podroben vyšetřování DOJ.
+
+### **§ 31 Důkazní materiály**
+
+1. Důkazní materiál je jakýkoli předmět, dokument nebo informace, které mohou být použity v soudním řízení nebo při dohodě o vině a trestu k prokázání nebo vyvrácení tvrzení. V trestním právu se důkazy používají k potvrzení viny nebo neviny obžalovaného.Důkazní materiál zahrnuje vše, co může pomoci prokázat nebo vyvrátit vinu obžalovaného.
+
+2. Hlavní kategorie důkazního materiálu
+
+ 2.1. Fyzické důkazy 
+- Hmotné předměty související s trestným činem.
+- Zbraně, střelivo, krevní stopy, drogy, vlasy, otisky prstů.
+- Poškozené oblečení, DNA vzorky, záznamy z bezpečnostních kamer.
+
+ 2.2. Dokumentární důkazy 
+- Dokumenty, smlouvy, záznamy nebo digitální data.
+- Bankovní výpisy, smlouvy, e-maily, chaty, lékařské zprávy.
+- Zvukové nahrávky, policejní zprávy, soudní protokoly.
+
+ 2.3. Svědecké výpovědi 
+- Výpověď osob, které mají přímé nebo nepřímé informace o případu.
+- Očití svědci, odborní znalci (např. forenzní experti).
+- Výpovědi policistů nebo lékařů.
+
+ 2.4. Digitální důkazy 
+- Důkazy uložené v elektronické podobě.
+- Záznamy z mobilních telefonů, e-maily, chaty, GPS data.
+- Videozáznamy, záznamy z bezpečnostních kamer.
+
+ 2.5. Přiznání a výpovědi obviněného
+- Obviněný může poskytnout důkazy sám svou výpovědí.
+- Pokud se přizná, je to silný důkaz proti němu.
+- Policie ale musí dodržet práva obviněného (Právo Miranda).
+
+
+3. Přístup k důkaznímu materiálu
+
+   3.1 Přístup k důkaznímu materiálu u soudního líčení.
+ 
+   3.1a) Obhajoba má právo na veškeré důkazy,které má k dispozici žaloba
+
+   3.2 Přístup k důkazům při dohodě o vině a trestu
+ 
+   3.2a) Pokud je klient zadržen nebo zatčen,obhájce má právo na soukromou konzultaci ve výslechové místnosti
+ 
+   3.2b) Pokud obhájce požádá o důkazní materiál může ale nemusí je policie zpřístupnit.
+ 
+   3.2c) Police nemusí mít všechny důkazy okamžitě k dispozici ale musí je dodat obhajobě před začátkem soudního líčení
+ 
+   3.2d) Pokud jsou důkazy neoprávněně zadržovány,obhájce může podat návrh na jejich zpřístupnění u soudu
+
+3.3 Výjimky kdy důkazy nemusí být odtajněni.
+ 
+   3.3a) Probíhající vyšetřování:Policie nemusí ihned předložit důkazy pokud jsou ještě analyzovány. 
+ 
+   3.3b) Utajené informace:Některé důkazy mohou být dočasně utajeny
+ 
+   3.3c) Bezpečnostní důvody: Pokud zveřejnění důkazů ohrožuje svědky, může soud rozhodnout o jejich dočasném zadržení
+
+   3.4 Co může obhájce dělat,pokud mu nejsou důkazy poskytnuty.
+ 
+   3.4a) Může podat návrh k soudu
+ 
+   3.4b) Může požadovat vyloučení důkazu ale to jen v případě pokud byly získány nezákoně
 
 ---  
 
