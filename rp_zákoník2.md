@@ -141,7 +141,7 @@ Department of Justice vykonává tyto funkce:
 
 ### **§ 7 Commissoner Code LSPD a LSSD**
 
-*pravomoce commisssonera*
+*pravomoce commissonera*
 1. Velení složkám LSPD
 - Je přímým nadřízeným Chiefa of Police a Sheriffa a dohlíží na jejich činnost.
 - Vydávání závazných rozkazů napříč celým LSPD nebo LSSD.  
@@ -154,7 +154,7 @@ Department of Justice vykonává tyto funkce:
 - Zodpovídá za vytváření, úpravu a schvalování všech interních předpisů LSPD nebo LSSD, včetně Standardních operačních postupů.
 - Má pravomoc měnit strukturu fungování oddělení, přizpůsobovat protokoly operativním potřebám a dbát na to, aby všechny směrnice byly v souladu se zákonem.
 
-*povinnosti commisssonera*
+*povinnosti commissonera*
 1. Dodržování zákona  
 - Commissioner musí jednat v souladu s Ústavou USA, zákony státu San Andreas a předpisy města Los Santos.  
 - Nese osobní odpovědnost za zákonnost rozhodnutí celého oddělení.
