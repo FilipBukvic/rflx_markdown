@@ -142,7 +142,7 @@ Department of Justice vykonává tyto funkce:
 ### **§ 7 Commissoner Code LSPD a LSSD**
 
 *pravomoce commissonera*
-1. Velení složkám LSPD
+1. Velení složkám LSPD a LSSD
 - Je přímým nadřízeným Chiefa of Police a Sheriffa a dohlíží na jejich činnost.
 - Vydávání závazných rozkazů napříč celým LSPD nebo LSSD.  
 - Řízení taktických i běžných operací, včetně schvalování speciálních zásahů.
