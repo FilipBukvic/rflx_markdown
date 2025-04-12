@@ -1529,9 +1529,11 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 1. Každá osoba, která je zatčena nebo vyslýchána v souvislosti s trestným činem, musí být poučena o svých právech následující formulací: „Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat. Rozumíte svým právům?“
 
-    a) Pokud obviněný na první přečtení neodpoví nebo tvrdí, že se na něj právo nevztahuje, policista musí zopakovat celé poučení podruhé. Pokud znovu oznámí že prává nezrozuměl není již povinnen právo miranda znovu opakovat
+   a) Práva Miranda musí být sdělena při zadržení, nejpozději však při umístění do CPZ
 
-2. Důsledky neprovedení Miranda poučení
+   b) Pokud obviněný na první přečtení neodpoví nebo tvrdí, že se na něj právo nevztahuje, policista musí zopakovat celé poučení podruhé. Pokud znovu oznámí že prává nezrozuměl není již povinnen právo miranda znovu opakovat
+
+3. Důsledky neprovedení Miranda poučení
 
     a) Pokud policista nepřečte Miranda práva, jakákoliv výpověď obviněného nemůže být použita jako důkaz u soudu
 
@@ -1594,9 +1596,9 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 2. Zaměstnanec státní ozbrojené složky má právo zabavit dopravní prostředek, pokud byl použit při spáchání trestného činu, pochází z trestné činnosti nebo slouží jako důkaz v trestním řízení.
 
-    a) zabavení dopravního prostředku na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
-
-    b) pokud osoba třikrát poruší §1 Ublížení na zdraví písm. c), d) z téhož dopravního prostředku, ať už na zaměstnance státní ozbrojené složky nebo jiné osoby, může na základě žádosti u DoJ být vozidlo trvale zabaveno
+   a) zabavení dopravního prostředku na dobu určitou může být uloženo, pokud je nezbytné zachovat věc pro účely vyšetřování nebo zajištění spravedlnosti, a to maximálně na dobu 2 dnů
+   
+   b) pokud osoba třikrát poruší §1 Ublížení na zdraví písm. c), d) z téhož dopravního prostředku, ať už na zaměstnance státní ozbrojené složky nebo jiné osoby, může na základě žádosti u DoJ být vozidlo trvale zabaveno
 
 ### **§ 17 Odebrání zbraně**
 1. Příslušník státní ozbrojené složky má oprávnění odebrat zbraň v následujících situacích:
