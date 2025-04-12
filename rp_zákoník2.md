@@ -144,26 +144,22 @@ Department of Justice vykonává tyto funkce:
 *pravomoce commissonera*
 1. Velení složkám LSPD a LSSD
 - Je přímým nadřízeným Chiefa of Police a Sheriffa a dohlíží na jejich činnost.
-- Vydávání závazných rozkazů napříč celým LSPD nebo LSSD.  
+- Vydávání závazných rozkazů napříč celým LSPD nebo LSSD.
 - Řízení taktických i běžných operací, včetně schvalování speciálních zásahů.
 
-2. Disciplinární pravomoc  
-- Má oprávnění suspendovat, degradovat nebo propustit člena LSPD nebo LSSD při porušení zákona, vnitřních předpisů nebo služební přísahy.  
-- Může kdykoliv zahájit interní vyšetřování (IA) a přezkoumat chování jakéhokoliv člena LSPD nebo LSSD.
-3. Interní předpisy a procesy  
-- Zodpovídá za vytváření, úpravu a schvalování všech interních předpisů LSPD nebo LSSD, včetně Standardních operačních postupů.
-- Má pravomoc měnit strukturu fungování oddělení, přizpůsobovat protokoly operativním potřebám a dbát na to, aby všechny směrnice byly v souladu se zákonem.
+2. Disciplinární pravomoc
+- Má oprávnění suspendovat nebo degradovat člena LSPD nebo LSSD při porušení zákona, vnitřních předpisů nebo služební přísahy. 
+- Může se připojit k internímu vyšetřování (IA) jakéhokoliv člena LSPD nebo LSSD.
+
+3. Interní předpisy a procesy
+- Zodpovídá za vytváření a schvalování všech interních předpisů LSPD nebo LSSD.
 
 *povinnosti commissonera*
-1. Dodržování zákona  
-- Commissioner musí jednat v souladu s Ústavou USA, zákony státu San Andreas a předpisy města Los Santos.  
+1. Dodržování zákona
+- Commissioner musí jednat v souladu s zákony státu San Andreas a předpisy města Los Santos.  
 - Nese osobní odpovědnost za zákonnost rozhodnutí celého oddělení.
 
-2. Transparentnost a dohled  
-- Má povinnost vést kompletní záznamy o zásazích, kázeňských řízeních a změnách předpisů.  
-- Odpovídá za vnitřní dohled nad činností oddělení a za kontrolu správnosti interních procesů.
-
-3. Etické a profesionální jednání  
+2. Etické a profesionální jednání  
 - Commissioner je povinen jednat nestranně, bez vlivu osobních zájmů, a ve veřejném zájmu.  
 - Je mu zakázáno zneužít své pravomoci nebo ohrozit důvěru veřejnosti v LSPD nebo LSSD.
 
