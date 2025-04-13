@@ -947,9 +947,10 @@ Je přestupek, který se trestá pokutou do výše 500$.
 
 
 ### **§ 7 Užívání prostor letišť a heliportů**
-1. Všechny letiště a heliporty jsou pod správou FAA. Vstup je povolen pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje) nebo s platným povolením od FAA. V těchto prostorách je nutné dodržovat pokyny zaměstnanců letiště a FAA.
+1. Všechny letiště a heliporty jsou pod správou FAA. Vstup je povolen pouze pověřeným pracovníkům FAA, státním složkám ve službě a osobám s platnou pilotní licencí (včetně posádky stroje) nebo s platným povolením od FAA. V těchto prostorách je nutné dodržovat pokyny zaměstnanců letiště a FAA. Fort Zancudo spadá pod správu DoJ
 2. Narušení prostor letišť a heliportů ve správě FAA je přestupek, který se trestá pokutou $20.000.
 3. Pořádání akce nebo výcviku bez povolení FAA je přestupek, který se trestá pokutou $45.000.
+
 
 ---  
 
