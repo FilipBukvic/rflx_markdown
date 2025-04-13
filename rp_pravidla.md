@@ -142,6 +142,8 @@
 - Máte však možnost toto pravidlo provést v rámci RP.
 	<div class="chat"><span>PŘÍKLAD</span><span>Člověk udeří někoho dalšího předmětem do hlavy, přičemž osoba v důsledku tohoto úderu upadne do bezvědomí a vznikne tak výpadek paměti</span></div>
 
+## Water Evading
+- Water Evading označuje úmyslné skákání do vody s cílem uniknout zatčení, střelbě nebo jiné RP situaci bez reálného důvodu, zejména pokud by to v reálném životě bylo krajně nebezpečné nebo nelogické.
 
 ## CK (character kill)
 
@@ -198,6 +200,7 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - Korupce - Pro možnost hraní korupční postavy je třeba mít schválený ticket a-týmem.
 - Na serveru je zakázáno používání programů třetích stran a herních modifikací sloužících ke zvýhodnění se nad ostatními hráči (NoProp, NoBush, Cheaty apod.).
 - Není dovoleno vytvářet nesmyslné nebo nereálné situace, například unášet osoby bez důvodu či bez promyšleného plánu, jednat nelogicky během policejních zásahů, nebo ignorovat následky svých činů.
+- Je zakázáno převážet hráče v dead screenu do nemocnice, pokud jsou na serveru EMS. ( Zjistit lze přes /emscount ) 
 
 ## Teleporty do interiérů
 - Hráči nesmí trávit čas u portů s úmyslem čekat na jiné hráče, aby je přepadli nebo zabili, například v situacích jako je vykrádání domů.
