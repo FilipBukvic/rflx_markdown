@@ -357,9 +357,9 @@ Department of Justice vykonává tyto funkce:
       
    b) zbraně nespadají ani pod LEG, ani pod GUR - je trestný čin, trestaný odnětím svobody od jednoho do pět let a pokuta do výše 5.000$
       
-   c) zbraně a střelivo typu GUR neregistrované nebo bez licence - je přestupek, trestaný pokutou do výše 3.000$
+   c) zbraně a střelivo typu GUR neregistrované nebo bez zrbojního průkazu - je přestupek, trestaný pokutou do výše 2.000$
    
-   d) střelivo nespadající pod GUR - je přestupek, trestaný pokutou do výše 1.500$
+   d) držení střeliva typu LEG - je přestupek, který se trestá pokutou do výše 3.000$
 
    e) doplňky nespadající pod GUR jsou nelegální a jejich držení je přestupek trestaný pokutou do výše 1.000$
 
@@ -368,13 +368,13 @@ Department of Justice vykonává tyto funkce:
 ### **§ 5 Únos**
 1. Kdo si přivlastní osobu, vezme ji proti její vůli nebo jí jiným způsobem omezuje osobní svobodu, bude potrestán odnětím svobody:
 
-   a) na jeden až tři roky a pokutou do výše 5.000$, pokud nebyl čin spáchán za účelem transportu osoby 
+   a) na 1 až 3 roky a pokutou do výše 5.000$, pokud nebyl čin spáchán za účelem transportu osoby 
    
-   b) na jeden až šest let a pokutou do výše 7.000$, pokud čin zahrnuje transport osoby
+   b) na 1 až 6 let a pokutou do výše 7.000$, pokud čin zahrnuje transport osoby
    
-   c) na pět až patnáct let a pokutou do výše 10.000$, pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání
+   c) na 5 až 15 let a pokutou do výše 10.000$, pokud je čin spáchán vůči zaměstnancům státních institucí v souvislosti s výkonem jejich povolání
 
-   d) na jeden až tři roky a pokutou do výše 2 500 $, pokud se jedná o pokus o únos a čin nebyl dokonán
+   d) na 1 až 3 roky a pokutou do výše 2 500 $, pokud se jedná o pokus o únos a čin nebyl dokonán
 
 ### **§ 6 Poškození cizí věci**
 - Kdo zničí, poškodí nebo učiní nepoužitelnou cizí věc, a způsobí tak na cizím majetku škodu, bude potrestán pokutou do výše 2.000$
@@ -599,8 +599,8 @@ Department of Justice vykonává tyto funkce:
    
    d) jiné majetkové hodnoty dle rozhodnutí příslušného orgánu.
 
-3. Při zadržení dlužníka lze na místě splatit celkovou částku dluhu a vyhnout se trestu. Pohledávky musí být spláceny ihned, nelze splatit pouze část.
-
+3. Při zadržení dlužníka lze na místě splatit celkovou částku dluhu a vyhnout se trestu. Pokuta musí být splácena ihned, nelze splatit pouze část.
+4. Na zaplacení pokuty udělené od LSPD nebo LSSD v souladu s bodem 1. má osoba 7 dní, pokud tak neučiní a bude znovu zadržena řleny LSPD nebo LSSD musí daný zaměstnanace státní ozrbojené složky kontaktovat DoJ, která následně bude postupovat v souladu s bodem 2.
 
 ### **§ 43 Nelegální rozebírání vozidla**
 1. Kdo bez příslušného povolení provede nelegální rozebrání vozidla, dopouští se přestupku. Za tento přestupek hrozí pokuta do výše 2.000$.
@@ -1530,9 +1530,9 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
 1. Každá osoba, která je zatčena nebo vyslýchána v souvislosti s trestným činem, musí být poučena o svých právech následující formulací: „Máte právo nevypovídat, cokoliv řeknete může a bude použito proti Vám. Máte právo na advokáta, pokud si jej nemůžete dovolit, bude vám přidělen "ex offo".Máte právo ho mít během výpovědi u sebe. Pokud se rozhodnete odpovědět na otázky bez přítomnosti advokáta, máte právo kdykoli přestat odpovídat. Rozumíte svým právům?“
 
-   a) Práva Miranda musí být sdělena při zadržení, nejpozději však při umístění do CPZ
+      a) Práva Miranda musí být sdělena při zadržení, nejpozději však při umístění do CPZ
 
-   b) Pokud obviněný na první přečtení neodpoví nebo tvrdí, že se na něj právo nevztahuje, policista musí zopakovat celé poučení podruhé. Pokud znovu oznámí že prává nezrozuměl není již povinnen právo miranda znovu opakovat
+      b) Pokud obviněný na první přečtení neodpoví nebo tvrdí, že se na něj právo nevztahuje, policista musí zopakovat celé poučení podruhé. Pokud znovu oznámí že prává nezrozuměl není již povinnen právo miranda znovu opakovat
 
 3. Důsledky neprovedení Miranda poučení
 
@@ -1830,8 +1830,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
  2.5. Přiznání a výpovědi obviněného
 - Obviněný může poskytnout důkazy sám svou výpovědí.
 - Pokud se přizná, je to silný důkaz proti němu.
-- Policie ale musí dodržet práva obviněného (Právo Miranda).
-
+- LSPD nebo LSSD ale musí dodržet práva obviněného (Právo Miranda).
 
 3. Přístup k důkaznímu materiálu
 
@@ -1843,25 +1842,56 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
  
    3.2a) Pokud je klient zadržen nebo zatčen,obhájce má právo na soukromou konzultaci ve výslechové místnosti
  
-   3.2b) Pokud obhájce požádá o důkazní materiál může ale nemusí je policie zpřístupnit.
+   3.2b) Pokud obhájce požádá o důkazní materiál může ale nemusí je LSPD nebo LSSD zpřístupnit.
  
-   3.2c) Police nemusí mít všechny důkazy okamžitě k dispozici ale musí je dodat obhajobě před začátkem soudního líčení
+   3.2c) LSPD nebo LSSD nemusí mít všechny důkazy okamžitě k dispozici ale musí je dodat obhajobě před začátkem soudního líčení
  
    3.2d) Pokud jsou důkazy neoprávněně zadržovány,obhájce může podat návrh na jejich zpřístupnění u soudu
 
-3.3 Výjimky kdy důkazy nemusí být odtajněni.
+4. Výjimky kdy důkazy nemusí být odtajněni.
  
-   3.3a) Probíhající vyšetřování:Policie nemusí ihned předložit důkazy pokud jsou ještě analyzovány. 
+   a) Probíhající vyšetřování: LSPD nebo LSSD nemusí ihned předložit důkazy pokud jsou ještě analyzovány
  
-   3.3b) Utajené informace:Některé důkazy mohou být dočasně utajeny
+   b) Utajené informace: Některé důkazy mohou být dočasně utajeny
  
-   3.3c) Bezpečnostní důvody: Pokud zveřejnění důkazů ohrožuje svědky, může soud rozhodnout o jejich dočasném zadržení
+   c) Bezpečnostní důvody: Pokud zveřejnění důkazů ohrožuje svědky, může soud rozhodnout o jejich dočasném zadržení
 
-   3.4 Co může obhájce dělat,pokud mu nejsou důkazy poskytnuty.
+5. Postup obhájce, pokud mu nejsou důkazy poskytnuty.
  
-   3.4a) Může podat návrh k soudu
+   a) Může podat návrh k soudu
  
-   3.4b) Může požadovat vyloučení důkazu ale to jen v případě pokud byly získány nezákoně
+   b) Může požadovat vyloučení důkazu ale to jen v případě pokud byly získány nezákoně
+
+### **§ 32 Uzavření oblasti**
+
+1. Uzavření oblasti označuje dočasné omezení vstupu, výstupu nebo pohybu v určité lokalitě z důvodu veřejné bezpečnosti, vyšetřování trestné činnosti nebo ochrany života a zdraví osob.
+
+2. Příslušníci LSPD nebo LSSD jsou oprávněni uzavřít oblast, pokud existuje důvodné podezření na:
+
+   a) probíhající trestnou činnost
+
+   b) ohrožení veřejného zdraví nebo bezpečnosti
+
+   c) potřebu ochrany místa činu
+
+   d) zajištění důkazního materiálu
+
+   e) krizovou situaci (např. výbuch, střelba, přírodní katastrofa).
+
+3. Uzavření musí být přiměřené, časově omezené a oznámené dostupným způsobem pro veřejnost.
+
+4. Každá osoba je povinna respektovat uzavřenou oblast a na pokyn statní ozbrojené složky oblast opustit nebo se jí vyhnout.
+
+- Porušení této povinnosti může vést k § 23 Vykázání nebo § 10 Neuposlechnutí výzvy úřední osoby.
+
+
+5. Výjimku z uzavření oblasti mohou udělit pouze nadřízení důstojníci nebo velící jednotka. Výjimka se může vztahovat na: 
+
+   a) záchranné složky (EMS, Fire Department)
+
+   b) novináře s platnou akreditací
+
+   c) další osoby, jejichž přítomnost je nutná a odůvodněná
 
 ---  
 
