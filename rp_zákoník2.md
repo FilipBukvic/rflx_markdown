@@ -646,7 +646,7 @@ Department of Justice vykonává tyto funkce:
 ### **§ 1 Překročení rychlosti**
 1. Řidič smí jet maximální rychlostí, kterou povoluje zákon: 50 mph ve městě, 80 mph mimo město a 80 mph na dálnici.
 
-   a) Překročení rychlosti o 1-20 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 700$.
+   a) Překročení rychlosti o 5-20 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 700$.
    
    b) Překročení rychlosti o 21-34 mph je klasifikováno jako přestupek, je trestáno pokutou do výše 1200$.
    
@@ -813,13 +813,13 @@ Je přestupek, který se trestá pokutou do výše 500$.
 ### **§ 3 Prodej marihuany**
 1. Prodej marihuany je protiprávní je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
-   a) Prodej marihuany v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do čtyř let a pokutou do výše 7.500$
+   a) Prodej marihuany v množství do 25 gramů je trestný čin, který se trestá odnětím svobody od jednoho roku do čtyř let a pokutou do výše 7.500$
    
-   b) Prodej marihuany v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti do osmi let a pokutou do výše 15.000$
+   b) Prodej marihuany v množství od 26 gramů do 60 gramů je trestný čin, který se trestá odnětím svobody na dobu od pěti do osmi let a pokutou do výše 15.000$
    
-   c) Prodej marihuany v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od osmi do dvanáci let a pokutou do výše 25.000$
+   c) Prodej marihuany v množství od 61 gramů do 140 gramů je trestný čin, který se trestá odnětím svobody na dobu od osmi do dvanáci let a pokutou do výše 25.000$
    
-   d) Prodej marihuany v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 50.000$
+   d) Prodej marihuany v množství nad 141 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 50.000$
 
 
 **Kokain & Heroin**
@@ -837,13 +837,13 @@ Je přestupek, který se trestá pokutou do výše 500$.
 ### **§ 5 Prodej kokainu, heroinu a metamfetaminu**
 1. Prodej kokainu, heroinu a metamfetaminu je nelegální činnost, která je v rozporu s právními normami a podléhá trestnímu postihu.
 
-   a) Prodej kokainu, heroinu a metamfetaminu v množství do 50 gramů je trestný čin, který se trestá odnětím svobody od dvou do pěti let a pokutou do výše 25.000$
+   a) Prodej kokainu, heroinu a metamfetaminu v množství do 20 gramů je trestný čin, který se trestá odnětím svobody od dvou do pěti let a pokutou do výše 25.000$
    
-   b) Prodej kokainu, heroinu a metamfetaminu v množství od 51 gramů do 150 gramů je trestný čin, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 45.000$
+   b) Prodej kokainu, heroinu a metamfetaminu v množství od 21 gramů do 60 gramů je trestný čin, který se trestá odnětím svobody na dobu od šesti do deseti let a pokutou do výše 45.000$
    
-   c) Prodej kokainu, heroinu a metamfetaminu v množství od 151 gramů do 400 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 100.000$
+   c) Prodej kokainu, heroinu a metamfetaminu v množství od 61 gramů do 140 gramů je trestný čin, který se trestá odnětím svobody na dobu od deseti do patnácti let a pokutou do výše 100.000$
    
-   d) Prodej kokainu, heroinu a metamfetaminu v množství nad 401 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti do dvacetipěti let a pokutou do výše 150.000$
+   d) Prodej kokainu, heroinu a metamfetaminu v množství nad 141 gramů je trestný čin, který se trestá odnětím svobody na dobu od patnácti do dvacetipěti let a pokutou do výše 150.000$
 
 
 ### **§ 6 Držení kokainu, heroinu a metamfetaminu**
