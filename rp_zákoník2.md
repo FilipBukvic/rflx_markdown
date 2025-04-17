@@ -1876,7 +1876,7 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
 
    d) zajištění důkazního materiálu
 
-   e) krizovou situaci (např. výbuch, střelba, přírodní katastrofa).
+   e) krizovou situaci (např. výbuch, střelba, přírodní katastrofa)
 
 3. Uzavření musí být přiměřené, časově omezené a oznámené dostupným způsobem pro veřejnost.
 
@@ -1892,6 +1892,46 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
    b) novináře s platnou akreditací
 
    c) další osoby, jejichž přítomnost je nutná a odůvodněná
+
+### **§ 33 Použití služební zbraně členem LSPD nebo LSSD**
+
+1. Oprávnění k nošení zbraně
+
+- Každý člen LSPD nebo LSSD je oprávněn nosit služební zbraň:
+
+    a) během výkonu služby
+
+    b) mimo výkon služby, pokud tím neporušuje interní předpisy svého zaměstnavatele
+
+2. Podmínky použití zbraně
+
+- Člen LSPD nebo LSSD je oprávněn použít služební zbraň pouze v případě, že:
+
+    a) je to nezbytné k ochraně života nebo zdraví jeho samotného nebo jiné osoby
+
+    b) je to nutné k zamezení spáchání závažného trestného činu
+
+    c) existuje bezprostřední ohrožení, které nelze odvrátit jiným, méně nebezpečným způsobem
+
+    d) použití zbraně je přiměřené povaze a nebezpečnosti hrozby
+
+3. Použití zbraně mimo službu
+
+- Člen LSPD nebo LSSD mimo výkon služby je oprávněn použít služební zbraň pouze tehdy, pokud:
+
+    a) jedná v nutné obraně nebo v krajní nouzi
+
+    b) jedná jako člen sboru LSPD nebo LSSD při zjištění trestného činu, kdy je okamžitý zásah nezbytný k ochraně osob nebo majetku
+
+4. Povinnost po použití zbraně
+
+- Po jakémkoli použití služební zbraně, ať už ve službě nebo mimo službu, je člen LSPD či LSSD povinen:
+
+    a) neprodleně přivolat posily a zdravotnickou pomoc
+
+    b) zajistit místo incidentu do příjezdu vyšetřovací jednotky
+
+    c) bez zbytečného odkladu nahlásit použití zbraně svému nadřízenému
 
 ---  
 
