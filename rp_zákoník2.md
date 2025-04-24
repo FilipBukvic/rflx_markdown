@@ -154,7 +154,7 @@ Department of Justice vykonává tyto funkce:
 3. Interní předpisy a procesy
 - Zodpovídá za vytváření a schvalování všech interních předpisů LSPD nebo LSSD.
 
-*povinnosti commissonera*
+* commissonera*
 1. Dodržování zákona
 - Commissioner musí jednat v souladu s zákony státu San Andreas a předpisy města Los Santos.  
 - Nese osobní odpovědnost za zákonnost rozhodnutí celého oddělení.
@@ -207,7 +207,7 @@ Department of Justice vykonává tyto funkce:
 
 ---  
 ## Zákon č. 11/2022
-*Povinnosti občana*
+* občana*
 
 **Základni povinnosti**
 
@@ -1930,8 +1930,6 @@ Deparment of Justice však může účastníkovi, který nebyl osvobozen od soud
     a) neprodleně přivolat posily a zdravotnickou pomoc
 
     b) zajistit místo incidentu do příjezdu vyšetřovací jednotky
-
-    c) bez zbytečného odkladu nahlásit použití zbraně svému nadřízenému
 
 ---  
 
