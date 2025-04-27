@@ -583,11 +583,11 @@ Department of Justice vykonává tyto funkce:
 ### **§ 42 Neplacení pohledávek a pokut**
 1. Nezaplacení pokuty nebo poplatku přiděleného státní institucí státu San Andreas do 14 dnů od rozhodnutí představuje porušení.
 
-   a) Nezaplacení pokuty do 19 999 $ je přestupek, který se trestá pokutou do výše 2 000 $.
+   a) Nezaplacení pokuty do 14 999 $ je přestupek, který se trestá pokutou do výše 2 000 $.
    
-   b) Nezaplacení pokuty od 20 000 $ do 199 999 $ se považuje za trestný čin, který se trestá odnětím svobody na jeden do tři roky.
+   b) Nezaplacení pokuty od 15 000 $ do 99 999 $ se považuje za trestný čin, který se trestá odnětím svobody na tři až šest let.
    
-   c) Nezaplacení pokuty nad 200 000 $ se považuje za trestný čin, který se trestá odnětím svobody na tři až šest let.
+   c) Nezaplacení pokuty nad 100 000 $ se považuje za trestný čin, který se trestá odnětím svobody na šest až deset let.
 
 2. V případě opakovaného neplacení pokut má stát San Andreas právo exekučně zabavit:
 
