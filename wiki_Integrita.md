@@ -2,7 +2,8 @@
 
 # **Kontrola integrity herních souborů**
 
-Ověření integrity herních souborů zkontroluje soubory v počítači, zda nejsou poškozené nebo poškozené. Pokud se některé soubory liší, budou změněny nebo opraveny. Vaše uložená data nebudou ovlivněna.  
+Ověření integrity herních souborů zkontroluje soubory v počítači, zda nejsou poškozené nebo poškozené. Pokud se některé soubory liší, budou změněny nebo opraveny. Vaše uložená data nebudou ovlivněna.
+
 ---
 
 ## **Steam**
