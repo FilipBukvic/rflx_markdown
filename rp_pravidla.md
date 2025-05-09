@@ -302,10 +302,7 @@ Názorný příklad toho, co nedělat:
 
 ## Frakce a skupiny
 **Počet členů**
-- Legální skupina/firma může mít maximálně 20 členů celkem.  
-- Nelegální skupina může mít maximálně 15 členů celkem.
-- Pro schválené nelegální skupiny je možnost zažádat o navýšení maximálního počtu členů. Žádost o navýšení je nutné podat prostřednictvím ticketu na nelegálním DC. O schválení či zamítnutí rozhoduje vedení serveru a nemusí být automaticky schváleno.  
-- Toto pravidlo se nevztahuje na státní složky.
+- V Legální ani Nelegální skupině/firmě není počet členů nijak omezen.
 
 **Obecné**
 
