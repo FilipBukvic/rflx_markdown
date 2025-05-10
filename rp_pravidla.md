@@ -193,7 +193,13 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - Je zakázáno streamovat rozhovor s administrátorem nebo ho jakýmkoliv způsobem zaznamenávat (natáčení, nahrávání audia)
 - Je zakázáno vydávat se jakýmkoliv způsobem za státní složku (platí také pro oblečení) - EMS/LSPD/LSSD/SAND.
 	<div class="chat"><span>PŘÍKLAD</span><span>Oblečení s viditelnou nášivkou státní složky</span></div>
-- Je zakázáno erpit potenciální GPS lokátory, výbuchy a střelbu, pokud ji fyzicky nevykonáte - herní mechanika vám to sice povoluje, ale může to být považováno za zneužívání.
+ 
+ - Zákaz fiktivních akcí bez odpovídající herní mechaniky
+ 
+	- Je zakázáno RPit umístění GPS lokátorů, pokud k tomu nedošlo fyzicky ve hře.
+	- Je zakázáno RPit výbuchy bez použití herní mechaniky nebo příslušných předmětů.
+	- Je zakázáno RPit střelbu, pokud nedošlo k reálnému výstřelu ve hře.
+
 - Pravidlo CPZ - je povoleno držet hráče v CPZ maximálně 24 hodin reálného času - po tuto dobu by mělo LSPD/LSSD dotyčného hráče vyřešit.
 - Vypálení podniků musí být schváleno skrze ticket, přičemž maximální doba omezení podniku je stanovena na 4 dny reálného času.
 - Deadscreen - Hráč nesmí pasivně erpit místní EMS, dokud nemá povolený příkaz /respawn - jiný hráč z okolí může zraněnému hráči místní EMS zaerpit.
