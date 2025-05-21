@@ -310,8 +310,8 @@ Názorný příklad toho, co nedělat:
 
 ## Frakce a skupiny
 **Počet členů**
-- Legální skupina/firma může mít maximálně 20 členů celkem.  
-- Nelegální skupina může mít maximálně 15 členů celkem.
+- Legální skupina/firma může mít maximálně 30 členů celkem.  
+- Nelegální skupina může mít maximálně 25 členů celkem.
 - Pro schválené nelegální skupiny je možnost zažádat o navýšení maximálního počtu členů. Žádost o navýšení je nutné podat prostřednictvím ticketu na nelegálním DC. O schválení či zamítnutí rozhoduje vedení serveru a nemusí být automaticky schváleno.  
 - Toto pravidlo se nevztahuje na státní složky.
 
@@ -359,7 +359,7 @@ Pravidla vztahující se výhradně na skupinky lidí i jednotlivce, kteří jso
 - Je zakázáno využívat NPC jako rukojmí.
   
 ## Snitching
-- Zákaz jakéhokoliv snitchování, především členům státních složek.
+- Zákaz jakéhokoliv snitchování členům státních složek.
 - Snitchování se vztahuje jak na vaši frakci, tak na jakoukoliv jinou nelegální skupinu nebo jednotlivce spojené s nelegálními činnostmi.
 
 ## Přestup do jiné nelegální frakce
