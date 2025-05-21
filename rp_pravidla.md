@@ -240,7 +240,9 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - K provedení CK (Character Kill) musí existovat pádný důvod a celé CK musí být odehráno v rámci řádného RP. CK nelze udělit například z důvodu, že má postava příliš mnoho pokut.  
 
 **Schvalování:**  
-- Většina CK, včetně Self CK, musí být schválena ticketem admin týmu (AT). Ticket musí obsahovat jasné důvody a důkazy, které usnadní rozhodování. Pokud hráč na místě nesouhlasí s CK, není možné v RP akci pokračovat a je nutné situaci řešit pomocí ticketu. Schválený ticket je platný až do provedení CK.  
+- Většina CK, včetně Self CK, musí být schválena ticketem admin týmu (AT). Ticket musí obsahovat jasné důvody a důkazy, které usnadní rozhodování.
+- Pokud hráč na místě nesouhlasí s CK a chce se proti CK odvolat, není možné v RP akci pokračovat a je nutné situaci řešit pomocí ticketu.
+- Schválený ticket je platný až do provedení CK.  
 
 **Frakční záznamy:**  
 - Veškeré informace o CK musí být zapsány na frakčním Discordu, který musí být řádně veden.
