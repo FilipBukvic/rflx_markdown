@@ -1,7 +1,7 @@
 
 ---
 
-# **Jak projít whitelist pohovorem na TROR?**
+# **Jak získat whitelist na TROR?**
 
 ## **Co je whitelist?**
 
