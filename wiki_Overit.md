@@ -26,7 +26,9 @@
     * **1\. Whitelist**: Pokud chybí, je nutnost projít whitelist formulářem, více informací [ZDE](https://tror.eu/articles/article/jak-projit-pohovorem).
 
     * **2\. Dvoufázové ověření (2FA)**: Aktivujte si dvoufázové ověření pro zvýšení bezpečnosti na vašem Discord účtu, více informací [ZDE](https://tror.eu/articles/article/dvoufazove-overeni-uctu).
+    
+    * **3\. Discord starší 90+ dní**: Pro hraní na serveru, požadujeme, aby Váš discord účet byl starší 3 mesíců. Pokud Váš účet byl ukraden kontaktujte Main Interviewery.  
 
-    * **3\. Ověřené telefonní číslo**: Ověřte své telefonní číslo, více informací [ZDE](https://tror.eu/articles/article/overeni-telefonniho-cisla).
+    * **4\. Ověřené telefonní číslo**: Ověřte své telefonní číslo, více informací [ZDE](https://tror.eu/articles/article/overeni-telefonniho-cisla).
       
 ---
