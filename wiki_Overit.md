@@ -23,7 +23,7 @@
 
     Na stránce nastavení profilu zjistěte, zda máte splněné všechny požadavky:
 
-    * **1\. Whitelist**: Pokud chybí, je nutnost projít whitelist pohovorem, více informací [ZDE](https://tror.eu/articles/article/jak-projit-pohovorem).
+    * **1\. Whitelist**: Pokud chybí, je nutnost projít whitelist formulářem, více informací [ZDE](https://tror.eu/articles/article/jak-projit-pohovorem).
 
     * **2\. Dvoufázové ověření (2FA)**: Aktivujte si dvoufázové ověření pro zvýšení bezpečnosti na vašem Discord účtu, více informací [ZDE](https://tror.eu/articles/article/dvoufazove-overeni-uctu).
 
