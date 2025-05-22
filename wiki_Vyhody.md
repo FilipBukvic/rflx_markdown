@@ -11,7 +11,7 @@ Herní výhody jsou benefity, které zlepšují zážitek hráčů portálu TROR
 **K čemu lze Reflex Coiny využít?**
 * Zakoupení vlastní SPZ na vozidle.
 * Zakoupení vlastního telefonního čísla (připravujeme).  
-* Reflex+ předplatné (připravujeme).
+* Reflex+ předplatné.
 * Queue pointy (připravujeme).
 
    Všechny možnosti využití jsou dostupné přímo ve hře v menu **F3 → Premium**.  
