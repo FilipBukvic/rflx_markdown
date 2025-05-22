@@ -40,7 +40,7 @@ Pro komunikaci a přístup k pravidlům serveru je nutné být členem našeho D
 
 ---
 
-## **5\. Projít whitelist pohovorem**
+## **5\. Získat roli whitelisted**
 
 Pro přístup na server je nutné absolvovat whitelist pohovor.
 
