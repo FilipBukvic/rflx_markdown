@@ -151,6 +151,7 @@
 - Hráč, který si udělil nebo mu bylo uděleno CK nemá nadále možnost využívat svoji postavu a je povinen ji odstranit - smazat.
 - Je zakázáno přenášet informace z původní postavy na novou - se smrtí postavy přicházíte také o veškerý majetek a nemovitosti, které jste na dané postavě vlastnili.
 - Jail CK může schválit a udělit výhradně soud.
+- CK provedete za pomoci commandu /selfck nebo tak, že postavu vymažete v samotném přehledu svých postav při napojení na server.
 - Více informací o CK naleznete v sekci **Obecná pravidla**
 
 # Komunitní Pravidla
@@ -240,7 +241,7 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 - K provedení CK (Character Kill) musí existovat pádný důvod a celé CK musí být odehráno v rámci řádného RP. CK nelze udělit například z důvodu, že má postava příliš mnoho pokut.  
 
 **Schvalování:**  
-- Většina CK, včetně Self CK, musí být schválena ticketem admin týmu (AT). Ticket musí obsahovat jasné důvody a důkazy, které usnadní rozhodování.
+- Většina CK musí být schválena ticketem admin týmu (AT). Ticket musí obsahovat jasné důvody a důkazy, které usnadní rozhodování.
 - Pokud hráč na místě nesouhlasí s CK a chce se proti CK odvolat, není možné v RP akci pokračovat a je nutné situaci řešit pomocí ticketu.
 - Schválený ticket je platný až do provedení CK.  
 
@@ -250,9 +251,10 @@ Tyto zásady musí dodržovat všichni členové komunity a hráči, kteří se 
 **Přepis majetku:**  
 - Před plánovaným CK je přísně zakázáno přepisovat nebo předávat jakýkoliv majetek.  
 
-**Self CK:**  
-- Pro Self CK platí stejná pravidla jako pro běžné CK – musí být pádný důvod, schválený ticket AT a zákaz přepisování majetku.
-
+**Self CK:**
+- K provedení musí být pádný důvod(y).
+- Schválení je na každém hráči.
+- Před plánovaným CK je zakázáno jakkoliv přepisovat / předávat majetek.
 
 ## Gross
 
