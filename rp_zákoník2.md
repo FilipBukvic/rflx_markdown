@@ -90,7 +90,7 @@ Department of Justice vykonává tyto funkce:
 1. Los Santos Police Department (LSPD)
 2. Los Santos Sheriff Department (LSSD)
 3. San Andreas Naval Defense (SAND)
-4. Emergency Medical Services / (EMS/LSFD)
+4. Emergency Medical Services / Los Santos Fire Department (EMS/LSFD
 5. Federal Aviation Administration
 
 
