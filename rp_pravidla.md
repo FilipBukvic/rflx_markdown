@@ -65,11 +65,6 @@
 	<div class="chat"><span>PŘÍKLAD</span><span>Ubodám nožem náhodného kolemjdoucího</span></div>
 
 
-## VDM (Vehicle Deathmatch)
-
-- Úmyslné narážení do okolních vozidel a objektů (hráčů)
-
-
 ## FailRP
 
 - Jakékoliv porušení stanovených pravidel a výrazné narušení RP akce.
@@ -311,11 +306,6 @@ Názorný příklad toho, co nedělat:
 	<div class="chat"><span>ME</span><span>Schovává zbraň pod sedačku</span></div>
 
 ## Frakce a skupiny
-**Počet členů**
-- Legální skupina/firma může mít maximálně 30 členů celkem.  
-- Nelegální skupina může mít maximálně 25 členů celkem.
-- Pro schválené nelegální skupiny je možnost zažádat o navýšení maximálního počtu členů. Žádost o navýšení je nutné podat prostřednictvím ticketu na nelegálním DC. O schválení či zamítnutí rozhoduje vedení serveru a nemusí být automaticky schváleno.  
-- Toto pravidlo se nevztahuje na státní složky.
 
 **Obecné**
 
